@@ -6067,1459 +6067,1459 @@
       </node>
     </nodes>
     <edges>
-      <edge id="0" source="00000966045491" target="00006787541449">
+      <edge id="0" source="00000966045491" target="00006787541449" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="29900.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="1" source="00002252417498" target="00002613503408">
+      <edge id="1" source="00002252417498" target="00002613503408" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="42600.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="2" source="00002252417498" target="00003430742498">
+      <edge id="2" source="00002252417498" target="00003430742498" weight="4.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="4"></attvalue>
           <attvalue for="vl_totalcontrato" value="40750.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="3" source="00002252417498" target="00020653310463">
+      <edge id="3" source="00002252417498" target="00020653310463" weight="22.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="22"></attvalue>
           <attvalue for="vl_totalcontrato" value="217700.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="4" source="00002613503408" target="00002580215433">
+      <edge id="4" source="00002613503408" target="00002580215433" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="35680.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="5" source="00002976259429" target="00016244710487">
+      <edge id="5" source="00002976259429" target="00016244710487" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="31800.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="6" source="00002976259429" target="00044444699353">
+      <edge id="6" source="00002976259429" target="00044444699353" weight="5.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="5"></attvalue>
           <attvalue for="vl_totalcontrato" value="156350.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="7" source="00003430742498" target="00002580215433">
+      <edge id="7" source="00003430742498" target="00002580215433" weight="3.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="3"></attvalue>
           <attvalue for="vl_totalcontrato" value="59680.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="8" source="00003430742498" target="00002613503408">
+      <edge id="8" source="00003430742498" target="00002613503408" weight="3.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="3"></attvalue>
           <attvalue for="vl_totalcontrato" value="65400.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="9" source="00003430742498" target="00020653310463">
+      <edge id="9" source="00003430742498" target="00020653310463" weight="24.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="24"></attvalue>
           <attvalue for="vl_totalcontrato" value="259680.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="10" source="00003461014419" target="03036199000104">
+      <edge id="10" source="00003461014419" target="03036199000104" weight="24.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="24"></attvalue>
           <attvalue for="vl_totalcontrato" value="462512.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="11" source="00004633261487" target="00007235534400">
+      <edge id="11" source="00004633261487" target="00007235534400" weight="3.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="3"></attvalue>
           <attvalue for="vl_totalcontrato" value="118450.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="12" source="00004852516472" target="00013213997404">
+      <edge id="12" source="00004852516472" target="00013213997404" weight="16.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="16"></attvalue>
           <attvalue for="vl_totalcontrato" value="397300.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="13" source="00005287467400" target="00002580215433">
+      <edge id="13" source="00005287467400" target="00002580215433" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="36000.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="14" source="00005287467400" target="00020653310463">
+      <edge id="14" source="00005287467400" target="00020653310463" weight="15.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="15"></attvalue>
           <attvalue for="vl_totalcontrato" value="143980.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="15" source="00005814570482" target="00003067059409">
+      <edge id="15" source="00005814570482" target="00003067059409" weight="9.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="9"></attvalue>
           <attvalue for="vl_totalcontrato" value="126860.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="16" source="00007177172408" target="00003430742498">
+      <edge id="16" source="00007177172408" target="00003430742498" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="20350.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="17" source="00007177172408" target="00020653310463">
+      <edge id="17" source="00007177172408" target="00020653310463" weight="8.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="8"></attvalue>
           <attvalue for="vl_totalcontrato" value="52400.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="18" source="00007235534400" target="00004633261487">
+      <edge id="18" source="00007235534400" target="00004633261487" weight="6.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="6"></attvalue>
           <attvalue for="vl_totalcontrato" value="148597.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="19" source="00007235534400" target="00007625340449">
+      <edge id="19" source="00007235534400" target="00007625340449" weight="3.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="3"></attvalue>
           <attvalue for="vl_totalcontrato" value="93050.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="20" source="00013122126400" target="00016244710487">
+      <edge id="20" source="00013122126400" target="00016244710487" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="30120.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="21" source="00013122126400" target="00044444699353">
+      <edge id="21" source="00013122126400" target="00044444699353" weight="10.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="10"></attvalue>
           <attvalue for="vl_totalcontrato" value="319485.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="22" source="00016244710487" target="00044444699353">
+      <edge id="22" source="00016244710487" target="00044444699353" weight="11.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="11"></attvalue>
           <attvalue for="vl_totalcontrato" value="281650.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="23" source="00026263564415" target="00016244710487">
+      <edge id="23" source="00026263564415" target="00016244710487" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="31800.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="24" source="00026263564415" target="00044444699353">
+      <edge id="24" source="00026263564415" target="00044444699353" weight="7.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="7"></attvalue>
           <attvalue for="vl_totalcontrato" value="239200.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="25" source="00031424546400" target="00009613285415">
+      <edge id="25" source="00031424546400" target="00009613285415" weight="7.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="7"></attvalue>
           <attvalue for="vl_totalcontrato" value="264854.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="26" source="00044444699353" target="00016244710487">
+      <edge id="26" source="00044444699353" target="00016244710487" weight="5.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="5"></attvalue>
           <attvalue for="vl_totalcontrato" value="72000.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="27" source="00078952182472" target="00005867359840">
+      <edge id="27" source="00078952182472" target="00005867359840" weight="13.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="13"></attvalue>
           <attvalue for="vl_totalcontrato" value="268320.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="28" source="00079250467168" target="00002733919415">
+      <edge id="28" source="00079250467168" target="00002733919415" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="55200.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="29" source="00079250467168" target="00079790704453">
+      <edge id="29" source="00079250467168" target="00079790704453" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="77792.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="30" source="00085459780497" target="00002280837455">
+      <edge id="30" source="00085459780497" target="00002280837455" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="49750.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="31" source="00085459780497" target="00003060095442">
+      <edge id="31" source="00085459780497" target="00003060095442" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="69840.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="32" source="00088564355434" target="00002079232487">
+      <edge id="32" source="00088564355434" target="00002079232487" weight="3.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="3"></attvalue>
           <attvalue for="vl_totalcontrato" value="88250.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="33" source="00088564355434" target="00004633261487">
+      <edge id="33" source="00088564355434" target="00004633261487" weight="4.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="4"></attvalue>
           <attvalue for="vl_totalcontrato" value="127497.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="34" source="00088564355434" target="00007235534400">
+      <edge id="34" source="00088564355434" target="00007235534400" weight="4.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="4"></attvalue>
           <attvalue for="vl_totalcontrato" value="135450.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="35" source="00088564355434" target="00007625340449">
+      <edge id="35" source="00088564355434" target="00007625340449" weight="3.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="3"></attvalue>
           <attvalue for="vl_totalcontrato" value="93050.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="36" source="00088564355434" target="00038022745472">
+      <edge id="36" source="00088564355434" target="00038022745472" weight="4.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="4"></attvalue>
           <attvalue for="vl_totalcontrato" value="151200.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="37" source="00091518377300" target="00036500453468">
+      <edge id="37" source="00091518377300" target="00036500453468" weight="10.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="10"></attvalue>
           <attvalue for="vl_totalcontrato" value="223200.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="38" source="00091518377300" target="10561754000174">
+      <edge id="38" source="00091518377300" target="10561754000174" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="37200.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="39" source="00669430000109" target="09164369000104">
+      <edge id="39" source="00669430000109" target="09164369000104" weight="12.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="12"></attvalue>
           <attvalue for="vl_totalcontrato" value="132360.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="40" source="00734576000182" target="01140694000125">
+      <edge id="40" source="00734576000182" target="01140694000125" weight="4.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="4"></attvalue>
           <attvalue for="vl_totalcontrato" value="143620.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="41" source="00734576000182" target="07193645000137">
+      <edge id="41" source="00734576000182" target="07193645000137" weight="4.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="4"></attvalue>
           <attvalue for="vl_totalcontrato" value="105040.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="42" source="00734576000182" target="37517158000143">
+      <edge id="42" source="00734576000182" target="37517158000143" weight="8.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="8"></attvalue>
           <attvalue for="vl_totalcontrato" value="1191820.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="43" source="00756280000162" target="01621660000152">
+      <edge id="43" source="00756280000162" target="01621660000152" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="38000.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="44" source="00756280000162" target="02352070000134">
+      <edge id="44" source="00756280000162" target="02352070000134" weight="4.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="4"></attvalue>
           <attvalue for="vl_totalcontrato" value="43610.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="45" source="00756280000162" target="02679189000116">
+      <edge id="45" source="00756280000162" target="02679189000116" weight="4.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="4"></attvalue>
           <attvalue for="vl_totalcontrato" value="70585.6"></attvalue>
         </attvalues>
       </edge>
-      <edge id="46" source="00756280000162" target="04558376000177">
+      <edge id="46" source="00756280000162" target="04558376000177" weight="13.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="13"></attvalue>
           <attvalue for="vl_totalcontrato" value="319115.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="47" source="00930087000104" target="01857253000149">
+      <edge id="47" source="00930087000104" target="01857253000149" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="154420.8"></attvalue>
         </attvalues>
       </edge>
-      <edge id="48" source="00930087000104" target="02891579000155">
+      <edge id="48" source="00930087000104" target="02891579000155" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="126361.15"></attvalue>
         </attvalues>
       </edge>
-      <edge id="49" source="00930087000104" target="06988643000171">
+      <edge id="49" source="00930087000104" target="06988643000171" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="211822.89"></attvalue>
         </attvalues>
       </edge>
-      <edge id="50" source="00930087000104" target="40968588000196">
+      <edge id="50" source="00930087000104" target="40968588000196" weight="22.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="22"></attvalue>
           <attvalue for="vl_totalcontrato" value="1294521.2"></attvalue>
         </attvalues>
       </edge>
-      <edge id="51" source="01140694000125" target="05791214000147">
+      <edge id="51" source="01140694000125" target="05791214000147" weight="7.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="7"></attvalue>
           <attvalue for="vl_totalcontrato" value="152010.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="52" source="01149598000148" target="08338196000130">
+      <edge id="52" source="01149598000148" target="08338196000130" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="186547.61"></attvalue>
         </attvalues>
       </edge>
-      <edge id="53" source="01238875000199" target="07924816000150">
+      <edge id="53" source="01238875000199" target="07924816000150" weight="8.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="8"></attvalue>
           <attvalue for="vl_totalcontrato" value="634077.5"></attvalue>
         </attvalues>
       </edge>
-      <edge id="54" source="01238875000199" target="08483162000130">
+      <edge id="54" source="01238875000199" target="08483162000130" weight="3.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="3"></attvalue>
           <attvalue for="vl_totalcontrato" value="387653.72"></attvalue>
         </attvalues>
       </edge>
-      <edge id="55" source="01238875000199" target="41122961000156">
+      <edge id="55" source="01238875000199" target="41122961000156" weight="15.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="15"></attvalue>
           <attvalue for="vl_totalcontrato" value="493876.12"></attvalue>
         </attvalues>
       </edge>
-      <edge id="56" source="01299328000113" target="08601445000139">
+      <edge id="56" source="01299328000113" target="08601445000139" weight="17.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="17"></attvalue>
           <attvalue for="vl_totalcontrato" value="685980.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="57" source="01344912000143" target="01621660000152">
+      <edge id="57" source="01344912000143" target="01621660000152" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="32866.4"></attvalue>
         </attvalues>
       </edge>
-      <edge id="58" source="01344912000143" target="60444098000106">
+      <edge id="58" source="01344912000143" target="60444098000106" weight="7.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="7"></attvalue>
           <attvalue for="vl_totalcontrato" value="206685.84"></attvalue>
         </attvalues>
       </edge>
-      <edge id="59" source="01438505000103" target="06340310000131">
+      <edge id="59" source="01438505000103" target="06340310000131" weight="3.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="3"></attvalue>
           <attvalue for="vl_totalcontrato" value="289670.72"></attvalue>
         </attvalues>
       </edge>
-      <edge id="60" source="01621660000152" target="02679189000116">
+      <edge id="60" source="01621660000152" target="02679189000116" weight="8.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="8"></attvalue>
           <attvalue for="vl_totalcontrato" value="167506.84"></attvalue>
         </attvalues>
       </edge>
-      <edge id="61" source="01621660000152" target="04558376000177">
+      <edge id="61" source="01621660000152" target="04558376000177" weight="6.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="6"></attvalue>
           <attvalue for="vl_totalcontrato" value="192074.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="62" source="01683239000176" target="03295618000114">
+      <edge id="62" source="01683239000176" target="03295618000114" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="109804.15"></attvalue>
         </attvalues>
       </edge>
-      <edge id="63" source="01770215000154" target="02214231000123">
+      <edge id="63" source="01770215000154" target="02214231000123" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="67742.8"></attvalue>
         </attvalues>
       </edge>
-      <edge id="64" source="01810179000105" target="06194031000107">
+      <edge id="64" source="01810179000105" target="06194031000107" weight="3.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="3"></attvalue>
           <attvalue for="vl_totalcontrato" value="109874.75"></attvalue>
         </attvalues>
       </edge>
-      <edge id="65" source="01810179000105" target="06194031000450">
+      <edge id="65" source="01810179000105" target="06194031000450" weight="6.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="6"></attvalue>
           <attvalue for="vl_totalcontrato" value="354096.88"></attvalue>
         </attvalues>
       </edge>
-      <edge id="66" source="01999808000197" target="01621660000152">
+      <edge id="66" source="01999808000197" target="01621660000152" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="36792.5"></attvalue>
         </attvalues>
       </edge>
-      <edge id="67" source="02083131000105" target="02099353000116">
+      <edge id="67" source="02083131000105" target="02099353000116" weight="7.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="7"></attvalue>
           <attvalue for="vl_totalcontrato" value="705862.7"></attvalue>
         </attvalues>
       </edge>
-      <edge id="68" source="02138273000122" target="08876033000101">
+      <edge id="68" source="02138273000122" target="08876033000101" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="50020.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="69" source="02160011000164" target="07163532000199">
+      <edge id="69" source="02160011000164" target="07163532000199" weight="19.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="19"></attvalue>
           <attvalue for="vl_totalcontrato" value="1042095.44"></attvalue>
         </attvalues>
       </edge>
-      <edge id="70" source="02160011000164" target="09275132000109">
+      <edge id="70" source="02160011000164" target="09275132000109" weight="10.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="10"></attvalue>
           <attvalue for="vl_totalcontrato" value="626352.6"></attvalue>
         </attvalues>
       </edge>
-      <edge id="71" source="02192932000109" target="01140694000125">
+      <edge id="71" source="02192932000109" target="01140694000125" weight="12.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="12"></attvalue>
           <attvalue for="vl_totalcontrato" value="346990.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="72" source="02192932000109" target="05791214000147">
+      <edge id="72" source="02192932000109" target="05791214000147" weight="9.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="9"></attvalue>
           <attvalue for="vl_totalcontrato" value="208590.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="73" source="02213325000188" target="09164369000104">
+      <edge id="73" source="02213325000188" target="09164369000104" weight="4.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="4"></attvalue>
           <attvalue for="vl_totalcontrato" value="53040.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="74" source="02214230000189" target="09275132000109">
+      <edge id="74" source="02214230000189" target="09275132000109" weight="5.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="5"></attvalue>
           <attvalue for="vl_totalcontrato" value="249797.6"></attvalue>
         </attvalues>
       </edge>
-      <edge id="75" source="02214231000123" target="01770215000154">
+      <edge id="75" source="02214231000123" target="01770215000154" weight="3.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="3"></attvalue>
           <attvalue for="vl_totalcontrato" value="114266.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="76" source="02308335000105" target="41541301000100">
+      <edge id="76" source="02308335000105" target="41541301000100" weight="6.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="6"></attvalue>
           <attvalue for="vl_totalcontrato" value="442160.06"></attvalue>
         </attvalues>
       </edge>
-      <edge id="77" source="02372375000108" target="12929519000138">
+      <edge id="77" source="02372375000108" target="12929519000138" weight="15.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="15"></attvalue>
           <attvalue for="vl_totalcontrato" value="459145.38"></attvalue>
         </attvalues>
       </edge>
-      <edge id="78" source="02450383000125" target="05658722000151">
+      <edge id="78" source="02450383000125" target="05658722000151" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="80342.15"></attvalue>
         </attvalues>
       </edge>
-      <edge id="79" source="02483786000170" target="03660345000160">
+      <edge id="79" source="02483786000170" target="03660345000160" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="110924.61"></attvalue>
         </attvalues>
       </edge>
-      <edge id="80" source="02663492000120" target="02261838000164">
+      <edge id="80" source="02663492000120" target="02261838000164" weight="5.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="5"></attvalue>
           <attvalue for="vl_totalcontrato" value="334446.66"></attvalue>
         </attvalues>
       </edge>
-      <edge id="81" source="02663492000120" target="06144176000101">
+      <edge id="81" source="02663492000120" target="06144176000101" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="153161.28"></attvalue>
         </attvalues>
       </edge>
-      <edge id="82" source="02677710000186" target="07163532000199">
+      <edge id="82" source="02677710000186" target="07163532000199" weight="15.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="15"></attvalue>
           <attvalue for="vl_totalcontrato" value="779145.6"></attvalue>
         </attvalues>
       </edge>
-      <edge id="83" source="02677710000186" target="09275132000109">
+      <edge id="83" source="02677710000186" target="09275132000109" weight="7.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="7"></attvalue>
           <attvalue for="vl_totalcontrato" value="366296.2"></attvalue>
         </attvalues>
       </edge>
-      <edge id="84" source="02679189000116" target="07068031000123">
+      <edge id="84" source="02679189000116" target="07068031000123" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="22705.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="85" source="02679189000116" target="07517546000163">
+      <edge id="85" source="02679189000116" target="07517546000163" weight="3.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="3"></attvalue>
           <attvalue for="vl_totalcontrato" value="71186.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="86" source="02704301000121" target="37517158000143">
+      <edge id="86" source="02704301000121" target="37517158000143" weight="24.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="24"></attvalue>
           <attvalue for="vl_totalcontrato" value="2292392.2"></attvalue>
         </attvalues>
       </edge>
-      <edge id="87" source="02730484000150" target="04067695000180">
+      <edge id="87" source="02730484000150" target="04067695000180" weight="5.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="5"></attvalue>
           <attvalue for="vl_totalcontrato" value="132400.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="88" source="02730484000150" target="09164369000104">
+      <edge id="88" source="02730484000150" target="09164369000104" weight="11.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="11"></attvalue>
           <attvalue for="vl_totalcontrato" value="295750.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="89" source="02841461000112" target="06194031000107">
+      <edge id="89" source="02841461000112" target="06194031000107" weight="3.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="3"></attvalue>
           <attvalue for="vl_totalcontrato" value="109874.75"></attvalue>
         </attvalues>
       </edge>
-      <edge id="90" source="02841461000112" target="06194031000450">
+      <edge id="90" source="02841461000112" target="06194031000450" weight="6.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="6"></attvalue>
           <attvalue for="vl_totalcontrato" value="354096.88"></attvalue>
         </attvalues>
       </edge>
-      <edge id="91" source="02891579000155" target="40968588000196">
+      <edge id="91" source="02891579000155" target="40968588000196" weight="4.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="4"></attvalue>
           <attvalue for="vl_totalcontrato" value="168209.45"></attvalue>
         </attvalues>
       </edge>
-      <edge id="92" source="02914690000110" target="08305627000162">
+      <edge id="92" source="02914690000110" target="08305627000162" weight="10.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="10"></attvalue>
           <attvalue for="vl_totalcontrato" value="642685.56"></attvalue>
         </attvalues>
       </edge>
-      <edge id="93" source="02956500000127" target="03391121000108">
+      <edge id="93" source="02956500000127" target="03391121000108" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="77200.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="94" source="02956500000127" target="04870274000192">
+      <edge id="94" source="02956500000127" target="04870274000192" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="110400.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="95" source="02958442000170" target="03705280000121">
+      <edge id="95" source="02958442000170" target="03705280000121" weight="4.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="4"></attvalue>
           <attvalue for="vl_totalcontrato" value="262164.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="96" source="02958442000170" target="07163532000199">
+      <edge id="96" source="02958442000170" target="07163532000199" weight="4.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="4"></attvalue>
           <attvalue for="vl_totalcontrato" value="262949.8"></attvalue>
         </attvalues>
       </edge>
-      <edge id="97" source="03015341000129" target="03625551000139">
+      <edge id="97" source="03015341000129" target="03625551000139" weight="14.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="14"></attvalue>
           <attvalue for="vl_totalcontrato" value="273921.9"></attvalue>
         </attvalues>
       </edge>
-      <edge id="98" source="03127225000100" target="02914690000110">
+      <edge id="98" source="03127225000100" target="02914690000110" weight="53.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="53"></attvalue>
           <attvalue for="vl_totalcontrato" value="940608.1"></attvalue>
         </attvalues>
       </edge>
-      <edge id="99" source="03127225000100" target="08305627000162">
+      <edge id="99" source="03127225000100" target="08305627000162" weight="8.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="8"></attvalue>
           <attvalue for="vl_totalcontrato" value="534580.56"></attvalue>
         </attvalues>
       </edge>
-      <edge id="100" source="03169543000125" target="08522948000119">
+      <edge id="100" source="03169543000125" target="08522948000119" weight="10.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="10"></attvalue>
           <attvalue for="vl_totalcontrato" value="882070.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="101" source="03554061000199" target="01621660000152">
+      <edge id="101" source="03554061000199" target="01621660000152" weight="3.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="3"></attvalue>
           <attvalue for="vl_totalcontrato" value="65900.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="102" source="03554061000199" target="02352070000134">
+      <edge id="102" source="03554061000199" target="02352070000134" weight="4.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="4"></attvalue>
           <attvalue for="vl_totalcontrato" value="43610.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="103" source="03554061000199" target="02679189000116">
+      <edge id="103" source="03554061000199" target="02679189000116" weight="6.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="6"></attvalue>
           <attvalue for="vl_totalcontrato" value="109250.6"></attvalue>
         </attvalues>
       </edge>
-      <edge id="104" source="03554061000199" target="04558376000177">
+      <edge id="104" source="03554061000199" target="04558376000177" weight="21.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="21"></attvalue>
           <attvalue for="vl_totalcontrato" value="525562.8"></attvalue>
         </attvalues>
       </edge>
-      <edge id="105" source="03577718000133" target="12616769000118">
+      <edge id="105" source="03577718000133" target="12616769000118" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="173100.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="106" source="03579119000159" target="05084873000143">
+      <edge id="106" source="03579119000159" target="05084873000143" weight="5.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="5"></attvalue>
           <attvalue for="vl_totalcontrato" value="365499.1"></attvalue>
         </attvalues>
       </edge>
-      <edge id="107" source="03579119000159" target="41127804000133">
+      <edge id="107" source="03579119000159" target="41127804000133" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="99855.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="108" source="03625551000139" target="03015341000129">
+      <edge id="108" source="03625551000139" target="03015341000129" weight="17.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="17"></attvalue>
           <attvalue for="vl_totalcontrato" value="181155.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="109" source="03705280000121" target="02958442000170">
+      <edge id="109" source="03705280000121" target="02958442000170" weight="14.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="14"></attvalue>
           <attvalue for="vl_totalcontrato" value="906391.2"></attvalue>
         </attvalues>
       </edge>
-      <edge id="110" source="03780670000166" target="08876033000101">
+      <edge id="110" source="03780670000166" target="08876033000101" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="50020.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="111" source="03780670000166" target="45951696000170">
+      <edge id="111" source="03780670000166" target="45951696000170" weight="4.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="4"></attvalue>
           <attvalue for="vl_totalcontrato" value="106115.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="112" source="03982836000127" target="04311199000120">
+      <edge id="112" source="03982836000127" target="04311199000120" weight="15.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="15"></attvalue>
           <attvalue for="vl_totalcontrato" value="953244.1"></attvalue>
         </attvalues>
       </edge>
-      <edge id="113" source="03982836000127" target="05193007000190">
+      <edge id="113" source="03982836000127" target="05193007000190" weight="7.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="7"></attvalue>
           <attvalue for="vl_totalcontrato" value="1114020.4"></attvalue>
         </attvalues>
       </edge>
-      <edge id="114" source="04067695000180" target="09164369000104">
+      <edge id="114" source="04067695000180" target="09164369000104" weight="33.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="33"></attvalue>
           <attvalue for="vl_totalcontrato" value="495880.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="115" source="04096321000192" target="02746125000190">
+      <edge id="115" source="04096321000192" target="02746125000190" weight="7.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="7"></attvalue>
           <attvalue for="vl_totalcontrato" value="168170.1"></attvalue>
         </attvalues>
       </edge>
-      <edge id="116" source="04096321000192" target="06229535000115">
+      <edge id="116" source="04096321000192" target="06229535000115" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="27095.6"></attvalue>
         </attvalues>
       </edge>
-      <edge id="117" source="04196262000124" target="07553129000176">
+      <edge id="117" source="04196262000124" target="07553129000176" weight="29.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="29"></attvalue>
           <attvalue for="vl_totalcontrato" value="711720.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="118" source="04311199000120" target="03982836000127">
+      <edge id="118" source="04311199000120" target="03982836000127" weight="4.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="4"></attvalue>
           <attvalue for="vl_totalcontrato" value="172108.67"></attvalue>
         </attvalues>
       </edge>
-      <edge id="119" source="04311199000120" target="05193007000190">
+      <edge id="119" source="04311199000120" target="05193007000190" weight="5.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="5"></attvalue>
           <attvalue for="vl_totalcontrato" value="275397.9"></attvalue>
         </attvalues>
       </edge>
-      <edge id="120" source="04419620000110" target="41198664000194">
+      <edge id="120" source="04419620000110" target="41198664000194" weight="3.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="3"></attvalue>
           <attvalue for="vl_totalcontrato" value="269343.2"></attvalue>
         </attvalues>
       </edge>
-      <edge id="121" source="04516162000138" target="04558376000177">
+      <edge id="121" source="04516162000138" target="04558376000177" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="21206.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="122" source="04516162000138" target="60444098000106">
+      <edge id="122" source="04516162000138" target="60444098000106" weight="6.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="6"></attvalue>
           <attvalue for="vl_totalcontrato" value="159600.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="123" source="04559808000164" target="02958442000170">
+      <edge id="123" source="04559808000164" target="02958442000170" weight="24.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="24"></attvalue>
           <attvalue for="vl_totalcontrato" value="1495941.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="124" source="04559808000164" target="03705280000121">
+      <edge id="124" source="04559808000164" target="03705280000121" weight="6.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="6"></attvalue>
           <attvalue for="vl_totalcontrato" value="413678.06"></attvalue>
         </attvalues>
       </edge>
-      <edge id="125" source="04940269000109" target="02914689000195">
+      <edge id="125" source="04940269000109" target="02914689000195" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="137187.84"></attvalue>
         </attvalues>
       </edge>
-      <edge id="126" source="04940269000109" target="35590652000108">
+      <edge id="126" source="04940269000109" target="35590652000108" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="244046.44"></attvalue>
         </attvalues>
       </edge>
-      <edge id="127" source="04991176000103" target="07512289000177">
+      <edge id="127" source="04991176000103" target="07512289000177" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="153935.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="128" source="05084873000143" target="41127804000133">
+      <edge id="128" source="05084873000143" target="41127804000133" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="99855.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="129" source="05160408000144" target="12531078000111">
+      <edge id="129" source="05160408000144" target="12531078000111" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="81248.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="130" source="05248843000125" target="02043993000104">
+      <edge id="130" source="05248843000125" target="02043993000104" weight="3.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="3"></attvalue>
           <attvalue for="vl_totalcontrato" value="183526.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="131" source="05248843000125" target="07552815000122">
+      <edge id="131" source="05248843000125" target="07552815000122" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="56015.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="132" source="05334638000182" target="00756280000162">
+      <edge id="132" source="05334638000182" target="00756280000162" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="32842.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="133" source="05334638000182" target="02679189000116">
+      <edge id="133" source="05334638000182" target="02679189000116" weight="9.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="9"></attvalue>
           <attvalue for="vl_totalcontrato" value="186323.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="134" source="05334638000182" target="07068031000123">
+      <edge id="134" source="05334638000182" target="07068031000123" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="81560.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="135" source="05334638000182" target="07517546000163">
+      <edge id="135" source="05334638000182" target="07517546000163" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="42950.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="136" source="05334638000182" target="60444098000106">
+      <edge id="136" source="05334638000182" target="60444098000106" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="35615.85"></attvalue>
         </attvalues>
       </edge>
-      <edge id="137" source="05373696000115" target="37517158000143">
+      <edge id="137" source="05373696000115" target="37517158000143" weight="11.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="11"></attvalue>
           <attvalue for="vl_totalcontrato" value="761252.3"></attvalue>
         </attvalues>
       </edge>
-      <edge id="138" source="05413899000198" target="06340310000131">
+      <edge id="138" source="05413899000198" target="06340310000131" weight="3.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="3"></attvalue>
           <attvalue for="vl_totalcontrato" value="427171.53"></attvalue>
         </attvalues>
       </edge>
-      <edge id="139" source="05413899000198" target="09445243000108">
+      <edge id="139" source="05413899000198" target="09445243000108" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="153624.08"></attvalue>
         </attvalues>
       </edge>
-      <edge id="140" source="05533330000166" target="07360997000130">
+      <edge id="140" source="05533330000166" target="07360997000130" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="146307.31"></attvalue>
         </attvalues>
       </edge>
-      <edge id="141" source="05567651000181" target="09499826000111">
+      <edge id="141" source="05567651000181" target="09499826000111" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="150329.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="142" source="05625320000150" target="09634217000128">
+      <edge id="142" source="05625320000150" target="09634217000128" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="99262.7"></attvalue>
         </attvalues>
       </edge>
-      <edge id="143" source="05641321000199" target="00756280000162">
+      <edge id="143" source="05641321000199" target="00756280000162" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="40302.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="144" source="05641321000199" target="03554061000199">
+      <edge id="144" source="05641321000199" target="03554061000199" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="28285.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="145" source="05641321000199" target="04558376000177">
+      <edge id="145" source="05641321000199" target="04558376000177" weight="12.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="12"></attvalue>
           <attvalue for="vl_totalcontrato" value="306061.8"></attvalue>
         </attvalues>
       </edge>
-      <edge id="146" source="05696170000176" target="01630115000122">
+      <edge id="146" source="05696170000176" target="01630115000122" weight="10.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="10"></attvalue>
           <attvalue for="vl_totalcontrato" value="501098.38"></attvalue>
         </attvalues>
       </edge>
-      <edge id="147" source="05696170000176" target="01630115000475">
+      <edge id="147" source="05696170000176" target="01630115000475" weight="3.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="3"></attvalue>
           <attvalue for="vl_totalcontrato" value="132570.25"></attvalue>
         </attvalues>
       </edge>
-      <edge id="148" source="05696170000176" target="07992687000138">
+      <edge id="148" source="05696170000176" target="07992687000138" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="130279.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="149" source="05791214000147" target="01140694000125">
+      <edge id="149" source="05791214000147" target="01140694000125" weight="4.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="4"></attvalue>
           <attvalue for="vl_totalcontrato" value="105040.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="150" source="05824231000133" target="01793110000110">
+      <edge id="150" source="05824231000133" target="01793110000110" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="91432.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="151" source="05922283000142" target="03015341000129">
+      <edge id="151" source="05922283000142" target="03015341000129" weight="30.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="30"></attvalue>
           <attvalue for="vl_totalcontrato" value="343945.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="152" source="05922283000142" target="03625551000139">
+      <edge id="152" source="05922283000142" target="03625551000139" weight="14.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="14"></attvalue>
           <attvalue for="vl_totalcontrato" value="273921.9"></attvalue>
         </attvalues>
       </edge>
-      <edge id="153" source="06045193000183" target="04870274000192">
+      <edge id="153" source="06045193000183" target="04870274000192" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="110400.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="154" source="06131215000128" target="07044584000146">
+      <edge id="154" source="06131215000128" target="07044584000146" weight="3.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="3"></attvalue>
           <attvalue for="vl_totalcontrato" value="211121.44"></attvalue>
         </attvalues>
       </edge>
-      <edge id="155" source="06131215000128" target="07724827000197">
+      <edge id="155" source="06131215000128" target="07724827000197" weight="15.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="15"></attvalue>
           <attvalue for="vl_totalcontrato" value="812234.7"></attvalue>
         </attvalues>
       </edge>
-      <edge id="156" source="06194031000107" target="02841461000112">
+      <edge id="156" source="06194031000107" target="02841461000112" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="112577.87"></attvalue>
         </attvalues>
       </edge>
-      <edge id="157" source="06229535000115" target="02746125000190">
+      <edge id="157" source="06229535000115" target="02746125000190" weight="7.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="7"></attvalue>
           <attvalue for="vl_totalcontrato" value="168170.1"></attvalue>
         </attvalues>
       </edge>
-      <edge id="158" source="06288587000162" target="05759249000107">
+      <edge id="158" source="06288587000162" target="05759249000107" weight="10.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="10"></attvalue>
           <attvalue for="vl_totalcontrato" value="163950.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="159" source="07068031000123" target="02679189000116">
+      <edge id="159" source="07068031000123" target="02679189000116" weight="15.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="15"></attvalue>
           <attvalue for="vl_totalcontrato" value="316480.66"></attvalue>
         </attvalues>
       </edge>
-      <edge id="160" source="07093036000106" target="04358005000141">
+      <edge id="160" source="07093036000106" target="04358005000141" weight="5.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="5"></attvalue>
           <attvalue for="vl_totalcontrato" value="266910.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="161" source="07093036000106" target="04870274000192">
+      <edge id="161" source="07093036000106" target="04870274000192" weight="3.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="3"></attvalue>
           <attvalue for="vl_totalcontrato" value="164970.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="162" source="07093036000106" target="05376807000147">
+      <edge id="162" source="07093036000106" target="05376807000147" weight="5.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="5"></attvalue>
           <attvalue for="vl_totalcontrato" value="183070.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="163" source="07093036000106" target="05759249000107">
+      <edge id="163" source="07093036000106" target="05759249000107" weight="5.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="5"></attvalue>
           <attvalue for="vl_totalcontrato" value="273580.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="164" source="07093036000106" target="09259930000139">
+      <edge id="164" source="07093036000106" target="09259930000139" weight="4.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="4"></attvalue>
           <attvalue for="vl_totalcontrato" value="224450.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="165" source="07093036000106" target="69938801000107">
+      <edge id="165" source="07093036000106" target="69938801000107" weight="3.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="3"></attvalue>
           <attvalue for="vl_totalcontrato" value="117000.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="166" source="07163532000199" target="07197138000171">
+      <edge id="166" source="07163532000199" target="07197138000171" weight="3.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="3"></attvalue>
           <attvalue for="vl_totalcontrato" value="164011.5"></attvalue>
         </attvalues>
       </edge>
-      <edge id="167" source="07163532000199" target="09275132000109">
+      <edge id="167" source="07163532000199" target="09275132000109" weight="10.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="10"></attvalue>
           <attvalue for="vl_totalcontrato" value="602653.8"></attvalue>
         </attvalues>
       </edge>
-      <edge id="168" source="07174787000157" target="07553129000176">
+      <edge id="168" source="07174787000157" target="07553129000176" weight="19.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="19"></attvalue>
           <attvalue for="vl_totalcontrato" value="593260.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="169" source="07174787000157" target="09164369000104">
+      <edge id="169" source="07174787000157" target="09164369000104" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="51500.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="170" source="07197138000171" target="09275132000109">
+      <edge id="170" source="07197138000171" target="09275132000109" weight="3.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="3"></attvalue>
           <attvalue for="vl_totalcontrato" value="162870.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="171" source="07199187000143" target="06228865000196">
+      <edge id="171" source="07199187000143" target="06228865000196" weight="3.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="3"></attvalue>
           <attvalue for="vl_totalcontrato" value="420325.62"></attvalue>
         </attvalues>
       </edge>
-      <edge id="172" source="07351899000136" target="00360045000177">
+      <edge id="172" source="07351899000136" target="00360045000177" weight="4.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="4"></attvalue>
           <attvalue for="vl_totalcontrato" value="160900.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="173" source="07360997000130" target="08879344000124">
+      <edge id="173" source="07360997000130" target="08879344000124" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="294653.44"></attvalue>
         </attvalues>
       </edge>
-      <edge id="174" source="07363798000185" target="02308335000105">
+      <edge id="174" source="07363798000185" target="02308335000105" weight="5.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="5"></attvalue>
           <attvalue for="vl_totalcontrato" value="225198.98"></attvalue>
         </attvalues>
       </edge>
-      <edge id="175" source="07363798000185" target="41541301000100">
+      <edge id="175" source="07363798000185" target="41541301000100" weight="5.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="5"></attvalue>
           <attvalue for="vl_totalcontrato" value="373101.38"></attvalue>
         </attvalues>
       </edge>
-      <edge id="176" source="07429241000108" target="07126333000100">
+      <edge id="176" source="07429241000108" target="07126333000100" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="70066.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="177" source="07429241000108" target="10736246000180">
+      <edge id="177" source="07429241000108" target="10736246000180" weight="5.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="5"></attvalue>
           <attvalue for="vl_totalcontrato" value="330549.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="178" source="07469269000160" target="07553129000176">
+      <edge id="178" source="07469269000160" target="07553129000176" weight="52.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="52"></attvalue>
           <attvalue for="vl_totalcontrato" value="1012690.06"></attvalue>
         </attvalues>
       </edge>
-      <edge id="179" source="07494790000158" target="07476459000105">
+      <edge id="179" source="07494790000158" target="07476459000105" weight="20.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="20"></attvalue>
           <attvalue for="vl_totalcontrato" value="796685.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="180" source="07552815000122" target="02043993000104">
+      <edge id="180" source="07552815000122" target="02043993000104" weight="3.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="3"></attvalue>
           <attvalue for="vl_totalcontrato" value="121882.3"></attvalue>
         </attvalues>
       </edge>
-      <edge id="181" source="07812260000100" target="01344912000143">
+      <edge id="181" source="07812260000100" target="01344912000143" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="114192.45"></attvalue>
         </attvalues>
       </edge>
-      <edge id="182" source="08311623000197" target="05132779000112">
+      <edge id="182" source="08311623000197" target="05132779000112" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="80055.9"></attvalue>
         </attvalues>
       </edge>
-      <edge id="183" source="08311623000197" target="12531078000111">
+      <edge id="183" source="08311623000197" target="12531078000111" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="81248.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="184" source="08388931000110" target="07553129000176">
+      <edge id="184" source="08388931000110" target="07553129000176" weight="71.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="71"></attvalue>
           <attvalue for="vl_totalcontrato" value="1416176.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="185" source="08560898000164" target="07576271000139">
+      <edge id="185" source="08560898000164" target="07576271000139" weight="3.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="3"></attvalue>
           <attvalue for="vl_totalcontrato" value="303809.38"></attvalue>
         </attvalues>
       </edge>
-      <edge id="186" source="08560898000164" target="09499826000111">
+      <edge id="186" source="08560898000164" target="09499826000111" weight="6.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="6"></attvalue>
           <attvalue for="vl_totalcontrato" value="456200.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="187" source="08560898000164" target="09611773000189">
+      <edge id="187" source="08560898000164" target="09611773000189" weight="3.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="3"></attvalue>
           <attvalue for="vl_totalcontrato" value="326114.7"></attvalue>
         </attvalues>
       </edge>
-      <edge id="188" source="08560898000164" target="12684411000122">
+      <edge id="188" source="08560898000164" target="12684411000122" weight="3.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="3"></attvalue>
           <attvalue for="vl_totalcontrato" value="178330.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="189" source="08560898000164" target="41203514000121">
+      <edge id="189" source="08560898000164" target="41203514000121" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="8060474.5"></attvalue>
         </attvalues>
       </edge>
-      <edge id="190" source="08571091000127" target="00360045000177">
+      <edge id="190" source="08571091000127" target="00360045000177" weight="6.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="6"></attvalue>
           <attvalue for="vl_totalcontrato" value="298600.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="191" source="08652778000197" target="07309524000108">
+      <edge id="191" source="08652778000197" target="07309524000108" weight="3.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="3"></attvalue>
           <attvalue for="vl_totalcontrato" value="161960.95"></attvalue>
         </attvalues>
       </edge>
-      <edge id="192" source="09057387000197" target="02437378000182">
+      <edge id="192" source="09057387000197" target="02437378000182" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="115210.75"></attvalue>
         </attvalues>
       </edge>
-      <edge id="193" source="09084085000108" target="02099353000116">
+      <edge id="193" source="09084085000108" target="02099353000116" weight="8.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="8"></attvalue>
           <attvalue for="vl_totalcontrato" value="1042241.2"></attvalue>
         </attvalues>
       </edge>
-      <edge id="194" source="09098419000100" target="00676136000116">
+      <edge id="194" source="09098419000100" target="00676136000116" weight="7.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="7"></attvalue>
           <attvalue for="vl_totalcontrato" value="503371.9"></attvalue>
         </attvalues>
       </edge>
-      <edge id="195" source="09098419000100" target="12661996000165">
+      <edge id="195" source="09098419000100" target="12661996000165" weight="20.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="20"></attvalue>
           <attvalue for="vl_totalcontrato" value="1273161.4"></attvalue>
         </attvalues>
       </edge>
-      <edge id="196" source="09163767000106" target="02181005000193">
+      <edge id="196" source="09163767000106" target="02181005000193" weight="3.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="3"></attvalue>
           <attvalue for="vl_totalcontrato" value="67140.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="197" source="09164369000104" target="00669430000109">
+      <edge id="197" source="09164369000104" target="00669430000109" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="45000.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="198" source="09164369000104" target="04067695000180">
+      <edge id="198" source="09164369000104" target="04067695000180" weight="9.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="9"></attvalue>
           <attvalue for="vl_totalcontrato" value="152000.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="199" source="09164369000104" target="07174787000157">
+      <edge id="199" source="09164369000104" target="07174787000157" weight="3.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="3"></attvalue>
           <attvalue for="vl_totalcontrato" value="86700.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="200" source="09164369000104" target="35408525000145">
+      <edge id="200" source="09164369000104" target="35408525000145" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="75000.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="201" source="09241977000175" target="03765939000135">
+      <edge id="201" source="09241977000175" target="03765939000135" weight="3.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="3"></attvalue>
           <attvalue for="vl_totalcontrato" value="97325.93"></attvalue>
         </attvalues>
       </edge>
-      <edge id="202" source="09275132000109" target="02677710000186">
+      <edge id="202" source="09275132000109" target="02677710000186" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="45313.4"></attvalue>
         </attvalues>
       </edge>
-      <edge id="203" source="09275132000109" target="07197138000171">
+      <edge id="203" source="09275132000109" target="07197138000171" weight="4.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="4"></attvalue>
           <attvalue for="vl_totalcontrato" value="242361.5"></attvalue>
         </attvalues>
       </edge>
-      <edge id="204" source="09339036000179" target="03758697000152">
+      <edge id="204" source="09339036000179" target="03758697000152" weight="4.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="4"></attvalue>
           <attvalue for="vl_totalcontrato" value="319190.72"></attvalue>
         </attvalues>
       </edge>
-      <edge id="205" source="09372446000111" target="07174787000157">
+      <edge id="205" source="09372446000111" target="07174787000157" weight="16.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="16"></attvalue>
           <attvalue for="vl_totalcontrato" value="484384.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="206" source="09394434000198" target="07174787000157">
+      <edge id="206" source="09394434000198" target="07174787000157" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="22000.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="207" source="09394434000198" target="07553129000176">
+      <edge id="207" source="09394434000198" target="07553129000176" weight="27.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="27"></attvalue>
           <attvalue for="vl_totalcontrato" value="637400.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="208" source="09461230000122" target="08879344000124">
+      <edge id="208" source="09461230000122" target="08879344000124" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="282110.5"></attvalue>
         </attvalues>
       </edge>
-      <edge id="209" source="09617434000100" target="10494678000121">
+      <edge id="209" source="09617434000100" target="10494678000121" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="105345.87"></attvalue>
         </attvalues>
       </edge>
-      <edge id="210" source="10249508000181" target="07827274000106">
+      <edge id="210" source="10249508000181" target="07827274000106" weight="3.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="3"></attvalue>
           <attvalue for="vl_totalcontrato" value="78555.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="211" source="10249508000181" target="13167781000155">
+      <edge id="211" source="10249508000181" target="13167781000155" weight="9.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="9"></attvalue>
           <attvalue for="vl_totalcontrato" value="435253.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="212" source="10663466000120" target="08778201000126">
+      <edge id="212" source="10663466000120" target="08778201000126" weight="17.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="17"></attvalue>
           <attvalue for="vl_totalcontrato" value="827311.8"></attvalue>
         </attvalues>
       </edge>
-      <edge id="213" source="10727703000170" target="11079096000141">
+      <edge id="213" source="10727703000170" target="11079096000141" weight="3.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="3"></attvalue>
           <attvalue for="vl_totalcontrato" value="169264.3"></attvalue>
         </attvalues>
       </edge>
-      <edge id="214" source="10753143000128" target="41198664000194">
+      <edge id="214" source="10753143000128" target="41198664000194" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="125141.28"></attvalue>
         </attvalues>
       </edge>
-      <edge id="215" source="10889422000113" target="05759249000107">
+      <edge id="215" source="10889422000113" target="05759249000107" weight="7.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="7"></attvalue>
           <attvalue for="vl_totalcontrato" value="116250.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="216" source="10889422000113" target="08821355000153">
+      <edge id="216" source="10889422000113" target="08821355000153" weight="3.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="3"></attvalue>
           <attvalue for="vl_totalcontrato" value="43215.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="217" source="10889422000113" target="08821355000234">
+      <edge id="217" source="10889422000113" target="08821355000234" weight="10.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="10"></attvalue>
           <attvalue for="vl_totalcontrato" value="206933.5"></attvalue>
         </attvalues>
       </edge>
-      <edge id="218" source="11071174000161" target="08821355000234">
+      <edge id="218" source="11071174000161" target="08821355000234" weight="13.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="13"></attvalue>
           <attvalue for="vl_totalcontrato" value="433650.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="219" source="11840017000173" target="07553129000176">
+      <edge id="219" source="11840017000173" target="07553129000176" weight="19.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="19"></attvalue>
           <attvalue for="vl_totalcontrato" value="524310.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="220" source="11989944000150" target="03466743000140">
+      <edge id="220" source="11989944000150" target="03466743000140" weight="5.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="5"></attvalue>
           <attvalue for="vl_totalcontrato" value="358612.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="221" source="21187875000114" target="04182088000160">
+      <edge id="221" source="21187875000114" target="04182088000160" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="938228.9"></attvalue>
         </attvalues>
       </edge>
-      <edge id="222" source="24102667000163" target="09164369000104">
+      <edge id="222" source="24102667000163" target="09164369000104" weight="18.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="18"></attvalue>
           <attvalue for="vl_totalcontrato" value="259850.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="223" source="24287252000101" target="00035744430482">
+      <edge id="223" source="24287252000101" target="00035744430482" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="139163.4"></attvalue>
         </attvalues>
       </edge>
-      <edge id="224" source="24287252000101" target="09263120000156">
+      <edge id="224" source="24287252000101" target="09263120000156" weight="7.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="7"></attvalue>
           <attvalue for="vl_totalcontrato" value="468191.16"></attvalue>
         </attvalues>
       </edge>
-      <edge id="225" source="24287252000101" target="40979684000130">
+      <edge id="225" source="24287252000101" target="40979684000130" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="47250.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="226" source="24512733000173" target="02677710000186">
+      <edge id="226" source="24512733000173" target="02677710000186" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="45313.4"></attvalue>
         </attvalues>
       </edge>
-      <edge id="227" source="24512733000173" target="07197138000171">
+      <edge id="227" source="24512733000173" target="07197138000171" weight="3.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="3"></attvalue>
           <attvalue for="vl_totalcontrato" value="159493.6"></attvalue>
         </attvalues>
       </edge>
-      <edge id="228" source="24512733000173" target="09275132000109">
+      <edge id="228" source="24512733000173" target="09275132000109" weight="7.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="7"></attvalue>
           <attvalue for="vl_totalcontrato" value="366586.12"></attvalue>
         </attvalues>
       </edge>
-      <edge id="229" source="35408525000145" target="00669430000109">
+      <edge id="229" source="35408525000145" target="00669430000109" weight="3.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="3"></attvalue>
           <attvalue for="vl_totalcontrato" value="72200.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="230" source="35408525000145" target="04067695000180">
+      <edge id="230" source="35408525000145" target="04067695000180" weight="23.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="23"></attvalue>
           <attvalue for="vl_totalcontrato" value="450560.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="231" source="35408525000145" target="09164369000104">
+      <edge id="231" source="35408525000145" target="09164369000104" weight="55.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="55"></attvalue>
           <attvalue for="vl_totalcontrato" value="1081437.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="232" source="35425040000160" target="00547193000103">
+      <edge id="232" source="35425040000160" target="00547193000103" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="112125.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="233" source="40968588000196" target="00930087000104">
+      <edge id="233" source="40968588000196" target="00930087000104" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="44153.13"></attvalue>
         </attvalues>
       </edge>
-      <edge id="234" source="41109612000102" target="02099353000116">
+      <edge id="234" source="41109612000102" target="02099353000116" weight="13.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="13"></attvalue>
           <attvalue for="vl_totalcontrato" value="1253046.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="235" source="41123175000173" target="00669430000109">
+      <edge id="235" source="41123175000173" target="00669430000109" weight="8.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="8"></attvalue>
           <attvalue for="vl_totalcontrato" value="173781.84"></attvalue>
         </attvalues>
       </edge>
-      <edge id="236" source="41123175000173" target="04067695000180">
+      <edge id="236" source="41123175000173" target="04067695000180" weight="10.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="10"></attvalue>
           <attvalue for="vl_totalcontrato" value="324800.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="237" source="41123175000173" target="09164369000104">
+      <edge id="237" source="41123175000173" target="09164369000104" weight="24.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="24"></attvalue>
           <attvalue for="vl_totalcontrato" value="476410.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="238" source="41124959000116" target="35588359000106">
+      <edge id="238" source="41124959000116" target="35588359000106" weight="6.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="6"></attvalue>
           <attvalue for="vl_totalcontrato" value="331566.16"></attvalue>
         </attvalues>
       </edge>
-      <edge id="239" source="41127804000133" target="05084873000143">
+      <edge id="239" source="41127804000133" target="05084873000143" weight="5.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="5"></attvalue>
           <attvalue for="vl_totalcontrato" value="365499.1"></attvalue>
         </attvalues>
       </edge>
-      <edge id="240" source="41155318000129" target="09275132000109">
+      <edge id="240" source="41155318000129" target="09275132000109" weight="14.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="14"></attvalue>
           <attvalue for="vl_totalcontrato" value="845079.1"></attvalue>
         </attvalues>
       </edge>
-      <edge id="241" source="41223090000167" target="04509249000188">
+      <edge id="241" source="41223090000167" target="04509249000188" weight="2.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="2"></attvalue>
           <attvalue for="vl_totalcontrato" value="129820.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="242" source="41541301000100" target="02308335000105">
+      <edge id="242" source="41541301000100" target="02308335000105" weight="4.0">
         <attvalues>
           <attvalue for="nu_vitorias" value="4"></attvalue>
           <attvalue for="vl_totalcontrato" value="114632.91"></attvalue>
