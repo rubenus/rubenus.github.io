@@ -1,0 +1,4015 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2018-08-17">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="type" title="type" type="integer"></attribute>
+      <attribute id="vitorias_vs_losers" title="vitorias_vs_losers" type="float"></attribute>
+      <attribute id="contratos_losers" title="contratos_losers" type="float"></attribute>
+      <attribute id="taxa_por_vitorias" title="taxa_por_vitorias" type="float"></attribute>
+      <attribute id="taxa_por_valores" title="taxa_por_valores" type="float"></attribute>
+      <attribute id="ratio" title="ratio" type="string"></attribute>
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="ratio" title="ratio" type="double"></attribute>
+      <attribute id="ocorrencias" title="ocorrencias" type="integer"></attribute>
+      <attribute id="soma_vls_ofertados_y" title="soma_vls_ofertados_y" type="float"></attribute>
+    </attributes>
+    <nodes>
+      <node id="05302037000198">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="138.062" y="700.3591"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="04756522000179">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-107.583755" y="348.82062"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="04603900000184">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="-60.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="352.49423" y="-454.51477"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="09353327000111">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="764.4019" y="-201.71977"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="00009613285415">
+        <attvalues>
+          <attvalue for="type" value="0"></attvalue>
+          <attvalue for="vitorias_vs_losers" value="8.0"></attvalue>
+          <attvalue for="contratos_losers" value="316454.0"></attvalue>
+          <attvalue for="taxa_por_vitorias" value="0.6666667"></attvalue>
+          <attvalue for="taxa_por_valores" value="0.7064431"></attvalue>
+          <attvalue for="ratio" value="-2.0000000000000"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="292.04117" y="-359.47742"></viz:position>
+        <viz:color r="4" g="0" b="209"></viz:color>
+      </node>
+      <node id="09238106000100">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="-5.0000000000000"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="438.11514" y="42.586567"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="03467684000124">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="132.77" y="328.8661"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="08307662000382">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-586.8976" y="-371.08807"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="04202582000140">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="-1.0000000000000"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-97.378845" y="327.28745"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="05981871000157">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="1.0000000000000"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="570.7741" y="346.20755"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="08579912000171">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="1.0000000000000009"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1015.83844" y="374.3236"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="07913242000115">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="-1.0000000000000009"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-678.2865" y="646.0505"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="06021558000130">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="-2.0000000000000018"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="243.87497" y="213.83745"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="10831701000126">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="22.020082" y="-28.400276"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="08877441000188">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-263.8048" y="25.272943"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="02583263000104">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="3.0000000000000027"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="32.264114" y="-378.47882"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="24502742000183">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="-4.0000000000000036"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-43.31294" y="53.54411"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="08345019000181">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="75.867195" y="1108.8099"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="00006585509854">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="-4.0000000000000036"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="514.61145" y="-784.03625"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="04925612000146">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="909.1934" y="214.95335"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="08668638000107">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-554.0612" y="-420.19498"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="02375199000168">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="-1.0000000000000009"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-48.19742" y="-631.0855"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="03759246000130">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="109.44831" y="687.5148"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="10414278000169">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="294.74408" y="-247.12302"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="03652579000165">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="467.36636" y="-2.3025916"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="10779833000156">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-358.817" y="606.01526"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="11991494000130">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-21.305103" y="172.67279"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="24511222000137">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-256.08255" y="51.66805"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="40968588000196">
+        <attvalues>
+          <attvalue for="type" value="0"></attvalue>
+          <attvalue for="vitorias_vs_losers" value="23.0"></attvalue>
+          <attvalue for="contratos_losers" value="1367086.1"></attvalue>
+          <attvalue for="taxa_por_vitorias" value="0.76666665"></attvalue>
+          <attvalue for="taxa_por_valores" value="0.7647747"></attvalue>
+          <attvalue for="ratio" value="-4.0000000000000036"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-881.4547" y="-195.12228"></viz:position>
+        <viz:color r="4" g="0" b="209"></viz:color>
+      </node>
+      <node id="41119306000149">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="441.36905" y="-2.740139"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="08232897000190">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="1.0000000000000009"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="114.512886" y="653.46747"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="03592746000120">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-713.93646" y="449.92044"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="24105306000170">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-646.9686" y="78.86692"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="02977362000162">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="0.35010007" y="-46.322998"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="01081707000132">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-16.760632" y="-664.12085"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="04350383000189">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="543.924" y="386.8069"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="07163532000199">
+        <attvalues>
+          <attvalue for="type" value="0"></attvalue>
+          <attvalue for="vitorias_vs_losers" value="19.0"></attvalue>
+          <attvalue for="contratos_losers" value="1042095.44"></attvalue>
+          <attvalue for="taxa_por_vitorias" value="0.8636364"></attvalue>
+          <attvalue for="taxa_por_valores" value="0.79597574"></attvalue>
+          <attvalue for="ratio" value="-1.0000000000000009"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="689.46716" y="-735.4426"></viz:position>
+        <viz:color r="4" g="0" b="209"></viz:color>
+      </node>
+      <node id="09098419000100">
+        <attvalues>
+          <attvalue for="type" value="2"></attvalue>
+          <attvalue for="vitorias_vs_losers" value="1.0"></attvalue>
+          <attvalue for="contratos_losers" value="52000.0"></attvalue>
+          <attvalue for="taxa_por_vitorias" value="1.0"></attvalue>
+          <attvalue for="taxa_por_valores" value="1.0"></attvalue>
+          <attvalue for="ratio" value="2.0000000000000018"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="846.8111" y="-633.8067"></viz:position>
+        <viz:color r="255" g="233" b="36"></viz:color>
+      </node>
+      <node id="07917656000112">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="1.0000000000000009"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-45.913418" y="171.98381"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="07479030000171">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="273.3919" y="-255.68037"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="07212872000162">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="1.0000000000000009"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="671.2818" y="67.11973"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="05065307000194">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="1.0000000000000009"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-724.0236" y="471.50583"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="10554404000180">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-338.57672" y="-610.91205"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="06182755000130">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="-1.0000000000000009"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="693.86957" y="71.06261"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="00958548000220">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="31.872534" y="-51.287"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="03534767000199">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="523.4368" y="401.52405"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="06267222000151">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-902.9306" y="-205.67325"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="07190281000131">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="115.69281" y="711.9362"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="07350128000124">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="1.0000000000000009"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-632.1902" y="649.8051"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="04595532000170">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="2.0000000000000018"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="746.2366" y="184.99783"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="07617677000112">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-230.25673" y="-984.1248"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="70104344000126">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-7.879025" y="-81.74684"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="12912135000102">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="202.86194" y="59.32227"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="02685197000175">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="236.9671" y="-685.2159"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="24099731000102">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-207.9331" y="-973.3203"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="03120645000156">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="406.83255" y="831.2873"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="11158724000184">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="1.0000000000000009"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-10.808821" y="195.20514"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="03596979000109">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-25.753645" y="-99.8387"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="04370647000166">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3.6088812" y="-105.81574"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="05593405000285">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-332.59784" y="625.6294"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="08370039000102">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="39.29545" y="122.1799"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="04731672000128">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="225.8814" y="-707.40186"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="04904242000160">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-696.02924" y="433.9643"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="03025786000190">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="2.0000000000000018"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-305.0087" y="63.214825"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="03341410000194">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="145.70534" y="644.1367"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="11471073000188">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="1.0000000000000009"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1033.3002" y="417.22165"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="04505819000161">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="2.0000000000000018"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="200.67052" y="9.926335"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="05905065000108">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="-7.9999999999999964"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="507.3101" y="-823.97504"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="03582862000168">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-14.638487" y="12.999013"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="05309592000141">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="-1.0000000000000009"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-111.787445" y="372.41388"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="05757746000168">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-42.424244" y="-655.9356"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="10853042000129">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="-2.0000000000000018"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-917.9833" y="-5.022425"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="04426571000143">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="155.12558" y="619.79913"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="02160011000164">
+        <attvalues>
+          <attvalue for="type" value="1"></attvalue>
+          <attvalue for="vitorias_vs_losers" value="0.0"></attvalue>
+          <attvalue for="contratos_losers" value="0.0"></attvalue>
+          <attvalue for="taxa_por_vitorias" value="0.0"></attvalue>
+          <attvalue for="taxa_por_valores" value="0.0"></attvalue>
+          <attvalue for="ratio" value="1.0000000000000009"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="705.1831" y="-752.2331"></viz:position>
+        <viz:color r="224" g="13" b="0"></viz:color>
+      </node>
+      <node id="02472105000179">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="1.0000000000000009"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="318.75287" y="315.28708"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="09358430000154">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-534.36304" y="-370.43973"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="00785860000188">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="133.31935" y="672.8437"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="02538085000191">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-655.9532" y="-802.3481"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="08310625000323">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-252.70757" y="-946.0133"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="12734018000104">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-29.961626" y="33.570187"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="02708211000109">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="2.0000000000000018"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="715.97015" y="542.158"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="24214041000572">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="1.0000000000000009"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-389.55692" y="908.79504"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="03683189000152">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="2.0000000000000018"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-894.99835" y="-5.894703"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="10764389000103">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="-2.0000000000000018"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="763.9382" y="199.6795"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="04918161000110">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-674.0313" y="71.902824"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="00958548000149">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="2.0000000000000018"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-26.08879" y="-55.11829"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="03241244000154">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-540.82983" y="-394.39648"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="08888299000174">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="1.0000000000000009"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="757.4988" y="565.84393"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="24280828000109">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-357.1644" y="631.169"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="06020318000110">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="72.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="885.7591" y="412.56808"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="11895653000100">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-285.598" y="46.45909"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="09287657000156">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="724.74347" y="-485.0871"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="09196974000167">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-697.25214" y="-809.85364"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="06313433000183">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="452.9842" y="21.108425"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="00930087000104">
+        <attvalues>
+          <attvalue for="type" value="2"></attvalue>
+          <attvalue for="vitorias_vs_losers" value="5.0"></attvalue>
+          <attvalue for="contratos_losers" value="262165.34"></attvalue>
+          <attvalue for="taxa_por_vitorias" value="1.0"></attvalue>
+          <attvalue for="taxa_por_valores" value="1.0"></attvalue>
+          <attvalue for="ratio" value="1.0000000000000009"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-918.852" y="-223.50186"></viz:position>
+        <viz:color r="255" g="233" b="36"></viz:color>
+      </node>
+      <node id="00622097000174">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-559.22314" y="-367.43246"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="01704290000117">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-332.90414" y="598.6906"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="00000008086443">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="5.000000000000004"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="549.4747" y="-805.131"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="07221672000176">
+        <attvalues>
+          <attvalue for="type" value="0"></attvalue>
+          <attvalue for="vitorias_vs_losers" value="1.0"></attvalue>
+          <attvalue for="contratos_losers" value="43000.0"></attvalue>
+          <attvalue for="taxa_por_vitorias" value="1.0"></attvalue>
+          <attvalue for="taxa_por_valores" value="1.0"></attvalue>
+          <attvalue for="ratio" value="1.0000000000000009"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-983.42236" y="183.39685"></viz:position>
+        <viz:color r="4" g="0" b="209"></viz:color>
+      </node>
+      <node id="09382946000134">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1085.7896" y="-77.38206"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="07724827000197">
+        <attvalues>
+          <attvalue for="type" value="0"></attvalue>
+          <attvalue for="vitorias_vs_losers" value="15.0"></attvalue>
+          <attvalue for="contratos_losers" value="812234.7"></attvalue>
+          <attvalue for="taxa_por_vitorias" value="0.39473686"></attvalue>
+          <attvalue for="taxa_por_valores" value="0.26244637"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="252.94026" y="-706.9131"></viz:position>
+        <viz:color r="4" g="0" b="209"></viz:color>
+      </node>
+      <node id="07800935000100">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="561.3237" y="368.2988"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="03966406000111">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-291.11356" y="19.959793"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="02704301000121">
+        <attvalues>
+          <attvalue for="type" value="1"></attvalue>
+          <attvalue for="vitorias_vs_losers" value="0.0"></attvalue>
+          <attvalue for="contratos_losers" value="0.0"></attvalue>
+          <attvalue for="taxa_por_vitorias" value="0.0"></attvalue>
+          <attvalue for="taxa_por_valores" value="0.0"></attvalue>
+          <attvalue for="ratio" value="2.0000000000000018"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="497.1047" y="-389.90677"></viz:position>
+        <viz:color r="224" g="13" b="0"></viz:color>
+      </node>
+      <node id="24280828000290">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-331.48157" y="572.4125"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="02896042000188">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="15.9207115" y="-70.28835"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="35408525000145">
+        <attvalues>
+          <attvalue for="type" value="2"></attvalue>
+          <attvalue for="vitorias_vs_losers" value="6.0"></attvalue>
+          <attvalue for="contratos_losers" value="301200.0"></attvalue>
+          <attvalue for="taxa_por_vitorias" value="1.0"></attvalue>
+          <attvalue for="taxa_por_valores" value="1.0"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-696.1458" y="-834.7323"></viz:position>
+        <viz:color r="255" g="233" b="36"></viz:color>
+      </node>
+      <node id="01844555000506">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="-42.00000000000001"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="907.293" y="420.55627"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="06171252000160">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="517.78125" y="-921.7664"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="08160290000142">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="5.32392" y="-7.0280824"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="09007162000126">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="-99.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="39.24022" y="35.58027"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="10482566000150">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1030.1122" y="393.52527"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="01511184000117">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="202.94662" y="33.337227"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="06265304000167">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="19.288006" y="107.35161"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="06949023000123">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-345.3026" y="-633.85614"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="07512307000110">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="136.32237" y="306.14536"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="08527137000100">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-59.913307" y="-676.4694"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="04861245000164">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="957.8908" y="-327.60013"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="35715234000108">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="-1.0000000000000009"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="312.5737" y="293.13248"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="03426712000165">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="-1.0000000000000009"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-369.91418" y="920.761"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="09164369000104">
+        <attvalues>
+          <attvalue for="type" value="0"></attvalue>
+          <attvalue for="vitorias_vs_losers" value="110.0"></attvalue>
+          <attvalue for="contratos_losers" value="2127109.0"></attvalue>
+          <attvalue for="taxa_por_vitorias" value="0.4029304"></attvalue>
+          <attvalue for="taxa_por_valores" value="0.35250413"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-672.8453" y="-821.43317"></viz:position>
+        <viz:color r="4" g="0" b="209"></viz:color>
+      </node>
+      <node id="00198693000179">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-229.80226" y="-957.2994"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="03841826000171">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="2.0000000000000018"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="743.9554" y="-498.60345"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="40787152000109">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="-89.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="32.99446" y="1.8343811"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="05492161000163">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="931.9527" y="218.28145"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="08307662000110">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-581.2342" y="-420.11328"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="07526979000185">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="15.488819" y="133.24075"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="37517158000143">
+        <attvalues>
+          <attvalue for="type" value="0"></attvalue>
+          <attvalue for="vitorias_vs_losers" value="24.0"></attvalue>
+          <attvalue for="contratos_losers" value="2292392.2"></attvalue>
+          <attvalue for="taxa_por_vitorias" value="0.85714287"></attvalue>
+          <attvalue for="taxa_por_valores" value="0.8620277"></attvalue>
+          <attvalue for="ratio" value="-2.0000000000000018"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="515.8985" y="-403.16415"></viz:position>
+        <viz:color r="4" g="0" b="209"></viz:color>
+      </node>
+      <node id="40976144000100">
+        <attvalues>
+          <attvalue for="type" value="2"></attvalue>
+          <attvalue for="vitorias_vs_losers" value="1.0"></attvalue>
+          <attvalue for="contratos_losers" value="2925.0"></attvalue>
+          <attvalue for="taxa_por_vitorias" value="1.0"></attvalue>
+          <attvalue for="taxa_por_valores" value="1.0"></attvalue>
+          <attvalue for="ratio" value="1.0000000000000009"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-939.0167" y="192.50052"></viz:position>
+        <viz:color r="255" g="233" b="36"></viz:color>
+      </node>
+      <node id="01486101000187">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="1.0000000000000009"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-21.508112" y="-29.355711"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="02453916000122">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-239.71501" y="998.8147"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="08778201000126">
+        <attvalues>
+          <attvalue for="type" value="0"></attvalue>
+          <attvalue for="vitorias_vs_losers" value="17.0"></attvalue>
+          <attvalue for="contratos_losers" value="827311.8"></attvalue>
+          <attvalue for="taxa_por_vitorias" value="0.38636363"></attvalue>
+          <attvalue for="taxa_por_valores" value="0.27609658"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="19.164558" y="21.667982"></viz:position>
+        <viz:color r="4" g="0" b="209"></viz:color>
+      </node>
+      <node id="02372375000108">
+        <attvalues>
+          <attvalue for="type" value="2"></attvalue>
+          <attvalue for="vitorias_vs_losers" value="1.0"></attvalue>
+          <attvalue for="contratos_losers" value="30535.0"></attvalue>
+          <attvalue for="taxa_por_vitorias" value="1.0"></attvalue>
+          <attvalue for="taxa_por_valores" value="1.0"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-306.95325" y="594.4808"></viz:position>
+        <viz:color r="255" g="233" b="36"></viz:color>
+      </node>
+      <node id="01884446000199">
+        <attvalues>
+          <attvalue for="type" value="2"></attvalue>
+          <attvalue for="vitorias_vs_losers" value="1.0"></attvalue>
+          <attvalue for="contratos_losers" value="460344.6"></attvalue>
+          <attvalue for="taxa_por_vitorias" value="1.0"></attvalue>
+          <attvalue for="taxa_por_valores" value="1.0"></attvalue>
+          <attvalue for="ratio" value="24.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="689.9762" y="728.48615"></viz:position>
+        <viz:color r="255" g="233" b="36"></viz:color>
+      </node>
+      <node id="06131215000128">
+        <attvalues>
+          <attvalue for="type" value="2"></attvalue>
+          <attvalue for="vitorias_vs_losers" value="4.0"></attvalue>
+          <attvalue for="contratos_losers" value="408589.4"></attvalue>
+          <attvalue for="taxa_por_vitorias" value="1.0"></attvalue>
+          <attvalue for="taxa_por_valores" value="1.0"></attvalue>
+          <attvalue for="ratio" value="1.0000000000000009"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="277.46582" y="-699.86554"></viz:position>
+        <viz:color r="255" g="233" b="36"></viz:color>
+      </node>
+      <node id="11807734000101">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="2.0000000000000018"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="249.45688" y="191.52786"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="05922283000142">
+        <attvalues>
+          <attvalue for="type" value="2"></attvalue>
+          <attvalue for="vitorias_vs_losers" value="2.0"></attvalue>
+          <attvalue for="contratos_losers" value="37960.0"></attvalue>
+          <attvalue for="taxa_por_vitorias" value="1.0"></attvalue>
+          <attvalue for="taxa_por_valores" value="1.0"></attvalue>
+          <attvalue for="ratio" value="5.000000000000004"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-337.12372" y="-587.03925"></viz:position>
+        <viz:color r="255" g="233" b="36"></viz:color>
+      </node>
+      <node id="04966148000136">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-655.74365" y="654.0234"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="04379540000189">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="2.0000000000000018"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="210.52577" y="-134.37076"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="00020532121449">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="2.0000000000000018"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="270.76593" y="-350.73975"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="05301712000164">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="225.05553" y="-153.37357"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="07189346000129">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-962.43494" y="194.75568"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="12908752000134">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="-3.0000000000000027"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="10.846505" y="-370.09818"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="35588417000100">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-231.7998" y="45.354828"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="04780933000108">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="-1.0000000000000009"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="975.66064" y="-311.59512"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="02213325000269">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-653.5679" y="-838.09503"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="03126792000133">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="414.5502" y="800.59283"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="03789726000143">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="757.3546" y="-176.65866"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="09083015000135">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="391.75806" y="810.9911"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="10409223000160">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="-1.0000000000000009"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-725.41974" y="838.0396"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="00858337000134">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="98.41399" y="1119.6176"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="04037302000195">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="369.92075" y="800.60645"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="03713601000130">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="706.91785" y="-468.89297"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="04063441000193">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="736.3815" y="554.638"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="02395667000166">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="160.32945" y="673.7325"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="02211942000144">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-223.01819" y="982.99567"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="04011704000110">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="-1.0000000000000009"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="163.45126" y="597.1392"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="03624439000183">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-34.738113" y="-682.8782"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="40941544000172">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="479.52307" y="20.688084"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="03719576000100">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="2.0000000000000018"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-218.78645" y="-934.3377"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="01961103000180">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1092.8833" y="-100.222786"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="01067590000132">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="1.0000000000000009"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1068.4603" y="-60.887123"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="05925134000137">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="-1.0000000000000009"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="500.90723" y="409.61002"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="10408838000172">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2.7699633" y="153.09146"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="12661996000165">
+        <attvalues>
+          <attvalue for="type" value="0"></attvalue>
+          <attvalue for="vitorias_vs_losers" value="20.0"></attvalue>
+          <attvalue for="contratos_losers" value="1273161.4"></attvalue>
+          <attvalue for="taxa_por_vitorias" value="0.8"></attvalue>
+          <attvalue for="taxa_por_valores" value="0.4579492"></attvalue>
+          <attvalue for="ratio" value="-2.0000000000000018"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="864.95807" y="-647.9419"></viz:position>
+        <viz:color r="4" g="0" b="209"></viz:color>
+      </node>
+      <node id="07880044000100">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-655.7692" y="53.39889"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="04680580000166">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="-1.0000000000000009"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="205.18651" y="82.72425"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="02924526000193">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="2.0000000000000018"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-622.02216" y="84.434845"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="03982836000127">
+        <attvalues>
+          <attvalue for="type" value="2"></attvalue>
+          <attvalue for="vitorias_vs_losers" value="6.0"></attvalue>
+          <attvalue for="contratos_losers" value="318102.62"></attvalue>
+          <attvalue for="taxa_por_vitorias" value="1.0"></attvalue>
+          <attvalue for="taxa_por_valores" value="1.0"></attvalue>
+          <attvalue for="ratio" value="1.0000000000000009"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-566.91986" y="299.46823"></viz:position>
+        <viz:color r="255" g="233" b="36"></viz:color>
+      </node>
+      <node id="08948064000120">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="1.0000000000000009"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-722.27246" y="815.2569"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="10761294000128">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="1.0000000000000009"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="258.39865" y="-731.7529"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="05489130000153">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="1.0000000000000009"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="934.32074" y="-331.7111"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="09215807000116">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-567.80664" y="-395.8551"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="01364693000164">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-597.7642" y="-394.39954"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="11386332000172">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="150.99999999999997"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="369.01215" y="-470.5203"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="09094962000121">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="96.49933" y="1094.6953"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="08287535000105">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-238.44107" y="20.837374"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="06948769000112">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="-18.999999999999993"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="709.7692" y="740.20184"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="24292765000100">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="789.8417" y="-207.2285"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="24215436000166">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="782.8195" y="-182.15796"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="03781718000150">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="245.90878" y="-165.02742"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="04311199000120">
+        <attvalues>
+          <attvalue for="type" value="0"></attvalue>
+          <attvalue for="vitorias_vs_losers" value="15.0"></attvalue>
+          <attvalue for="contratos_losers" value="953244.1"></attvalue>
+          <attvalue for="taxa_por_vitorias" value="1.0"></attvalue>
+          <attvalue for="taxa_por_valores" value="1.0"></attvalue>
+          <attvalue for="ratio" value="-1.0000000000000009"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-583.3385" y="315.57706"></viz:position>
+        <viz:color r="4" g="0" b="209"></viz:color>
+      </node>
+      <node id="05828370000135">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="-1.0000000000000009"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="528.56024" y="-941.8864"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="00047799293420">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="524.8226" y="-806.5539"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+      <node id="07836758000103">
+        <attvalues>
+          <attvalue for="type" value="3"></attvalue>
+          <attvalue for="ratio" value="null"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-666.9831" y="96.91952"></viz:position>
+        <viz:color r="0" g="128" b="5"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="00000008086443" target="00047799293420" weight="18.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.05"></attvalue>
+          <attvalue for="ocorrencias" value="18"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="801400.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1" source="00006585509854" target="00047799293420" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.96"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="444000.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2" source="00009613285415" target="00020532121449" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.98"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="518400.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="3" source="00020532121449" target="00009613285415" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.02"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="507825.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4" source="00047799293420" target="00000008086443" weight="14.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.95"></attvalue>
+          <attvalue for="ocorrencias" value="14"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="625800.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="5" source="00047799293420" target="00006585509854" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.04"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="480600.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="6" source="00047799293420" target="05905065000108" weight="17.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.09"></attvalue>
+          <attvalue for="ocorrencias" value="17"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="714000.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="7" source="00198693000179" target="03719576000100" weight="16.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.98"></attvalue>
+          <attvalue for="ocorrencias" value="16"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="997166.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="8" source="00198693000179" target="07617677000112" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="802511.8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="9" source="00198693000179" target="08310625000323" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="806868.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="11" source="00198693000179" target="24099731000102" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.02"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="874260.6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="12" source="00622097000174" target="03241244000154" weight="23.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="23"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1683896.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="13" source="00622097000174" target="08307662000382" weight="22.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="22"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1305206.5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="14" source="00622097000174" target="09215807000116" weight="31.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.03"></attvalue>
+          <attvalue for="ocorrencias" value="31"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1921779.4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="20" source="00622097000174" target="09358430000154" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="787024.7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="22" source="00785860000188" target="02395667000166" weight="20.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="20"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1219271.8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="24" source="00785860000188" target="03341410000194" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="566273.06"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="25" source="00785860000188" target="03759246000130" weight="16.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="16"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1458609.4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="28" source="00785860000188" target="05302037000198" weight="28.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="28"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="2234139.2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="31" source="00785860000188" target="07190281000131" weight="20.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="20"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1440722.1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="32" source="00785860000188" target="08232897000190" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1335565.4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="33" source="00858337000134" target="08345019000181" weight="18.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="18"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="746920.3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="35" source="00858337000134" target="09094962000121" weight="14.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.05"></attvalue>
+          <attvalue for="ocorrencias" value="14"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="433031.75"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="40" source="00930087000104" target="06267222000151" weight="15.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="15"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="942020.25"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="41" source="00958548000149" target="02977362000162" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.02"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="723643.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="42" source="00958548000220" target="02977362000162" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="827163.6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="44" source="01067590000132" target="09382946000134" weight="20.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="20"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1259625.5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="45" source="01081707000132" target="03624439000183" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.05"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="757747.7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="47" source="01081707000132" target="05757746000168" weight="14.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.03"></attvalue>
+          <attvalue for="ocorrencias" value="14"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="844017.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="51" source="01364693000164" target="08307662000382" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="584171.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="52" source="01364693000164" target="09215807000116" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.03"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="754559.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="56" source="01486101000187" target="02977362000162" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="803115.44"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="57" source="01511184000117" target="04505819000161" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.98"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="254689.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="58" source="01511184000117" target="12912135000102" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.96"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="214124.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="59" source="01704290000117" target="02372375000108" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="723203.5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="61" source="01704290000117" target="05593405000285" weight="23.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="23"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1495586.1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="62" source="01704290000117" target="10779833000156" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="712563.25"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="65" source="01704290000117" target="24280828000109" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.05"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="545354.56"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="69" source="01704290000117" target="24280828000290" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.05"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="762259.1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="71" source="01844555000506" target="06020318000110" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.58"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="2346840.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="72" source="01884446000199" target="06948769000112" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.24"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="162540.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="73" source="01961103000180" target="09382946000134" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1525061.2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="75" source="02160011000164" target="07163532000199" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="722500.2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="76" source="02211942000144" target="02453916000122" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.04"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="331911.7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="78" source="02213325000269" target="09164369000104" weight="14.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.06"></attvalue>
+          <attvalue for="ocorrencias" value="14"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="290730.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="81" source="02372375000108" target="01704290000117" weight="14.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.03"></attvalue>
+          <attvalue for="ocorrencias" value="14"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="728672.6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="83" source="02375199000168" target="05757746000168" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="744711.06"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="84" source="02395667000166" target="00785860000188" weight="17.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.02"></attvalue>
+          <attvalue for="ocorrencias" value="17"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1012757.5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="86" source="02453916000122" target="02211942000144" weight="16.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="16"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="442170.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="88" source="02472105000179" target="35715234000108" weight="15.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="15"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="500800.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="89" source="02538085000191" target="09164369000104" weight="14.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.06"></attvalue>
+          <attvalue for="ocorrencias" value="14"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="290167.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="91" source="02583263000104" target="12908752000134" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.03"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="617138.06"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="92" source="02685197000175" target="04731672000128" weight="23.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="23"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1393245.9"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="93" source="02685197000175" target="07724827000197" weight="25.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="25"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1715822.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="94" source="02704301000121" target="37517158000143" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.02"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="824114.3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="95" source="02708211000109" target="04063441000193" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.02"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="629439.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="96" source="02896042000188" target="02977362000162" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.04"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="877885.2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="100" source="02896042000188" target="10831701000126" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="865002.9"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="101" source="02896042000188" target="70104344000126" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.03"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="942584.9"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="102" source="02924526000193" target="24105306000170" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.02"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="591232.4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="103" source="02977362000162" target="00958548000149" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.98"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="739047.44"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="104" source="02977362000162" target="00958548000220" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="818946.3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="105" source="02977362000162" target="01486101000187" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="811217.2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="106" source="02977362000162" target="02896042000188" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="988833.3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="110" source="02977362000162" target="08160290000142" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.02"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1467659.9"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="113" source="02977362000162" target="10831701000126" weight="19.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="19"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1944429.8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="114" source="02977362000162" target="70104344000126" weight="16.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.03"></attvalue>
+          <attvalue for="ocorrencias" value="16"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1178662.9"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="116" source="03025786000190" target="11895653000100" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.02"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="746821.7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="117" source="03120645000156" target="09083015000135" weight="24.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.07"></attvalue>
+          <attvalue for="ocorrencias" value="24"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1540349.5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="119" source="03126792000133" target="09083015000135" weight="14.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.06"></attvalue>
+          <attvalue for="ocorrencias" value="14"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="840245.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="121" source="03241244000154" target="00622097000174" weight="23.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="23"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1701343.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="122" source="03241244000154" target="09215807000116" weight="18.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.02"></attvalue>
+          <attvalue for="ocorrencias" value="18"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1220698.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="124" source="03341410000194" target="00785860000188" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="560747.2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="125" source="03341410000194" target="04426571000143" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="512684.53"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="126" source="03426712000165" target="24214041000572" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="840769.8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="127" source="03467684000124" target="07512307000110" weight="16.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="16"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1057277.2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="129" source="03534767000199" target="04350383000189" weight="15.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="15"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="203083.17"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="130" source="03534767000199" target="05925134000137" weight="14.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="14"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="116379.92"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="131" source="03582862000168" target="08160290000142" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="885945.1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="132" source="03582862000168" target="12734018000104" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.04"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="502002.47"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="134" source="03592746000120" target="04904242000160" weight="16.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.02"></attvalue>
+          <attvalue for="ocorrencias" value="16"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="957130.56"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="137" source="03592746000120" target="05065307000194" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="822996.1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="138" source="03596979000109" target="70104344000126" weight="16.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.03"></attvalue>
+          <attvalue for="ocorrencias" value="16"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1110509.8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="140" source="03624439000183" target="01081707000132" weight="14.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.95"></attvalue>
+          <attvalue for="ocorrencias" value="14"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="884535.1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="141" source="03624439000183" target="05757746000168" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.04"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="578343.94"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="146" source="03624439000183" target="08527137000100" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="881582.2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="147" source="03652579000165" target="06313433000183" weight="22.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="22"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1033495.5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="148" source="03652579000165" target="40941544000172" weight="14.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="14"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="850808.25"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="149" source="03652579000165" target="41119306000149" weight="22.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="22"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1165940.5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="150" source="03683189000152" target="10853042000129" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.02"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="895201.7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="151" source="03719576000100" target="00198693000179" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.02"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="812968.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="152" source="03759246000130" target="00785860000188" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.03"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="625883.1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="155" source="03759246000130" target="05302037000198" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="603946.5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="157" source="03759246000130" target="07190281000131" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="561147.25"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="158" source="03781718000150" target="05301712000164" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.02"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="832354.6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="161" source="03789726000143" target="09353327000111" weight="16.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.03"></attvalue>
+          <attvalue for="ocorrencias" value="16"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="702222.4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="163" source="03789726000143" target="24215436000166" weight="16.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.03"></attvalue>
+          <attvalue for="ocorrencias" value="16"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="805894.1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="166" source="03841826000171" target="09287657000156" weight="16.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.02"></attvalue>
+          <attvalue for="ocorrencias" value="16"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1249466.9"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="167" source="03966406000111" target="08877441000188" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="691050.44"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="168" source="03966406000111" target="11895653000100" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.04"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="803601.06"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="172" source="03982836000127" target="04311199000120" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="832897.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="173" source="04011704000110" target="04426571000143" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="739791.75"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="174" source="04037302000195" target="09083015000135" weight="17.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.07"></attvalue>
+          <attvalue for="ocorrencias" value="17"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1151490.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="176" source="04063441000193" target="02708211000109" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.98"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="640918.2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="177" source="04063441000193" target="08888299000174" weight="19.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="19"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1184426.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="178" source="04202582000140" target="04756522000179" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1215706.2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="179" source="04311199000120" target="03982836000127" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="896471.2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="180" source="04350383000189" target="03534767000199" weight="15.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="15"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="204874.55"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="181" source="04350383000189" target="07800935000100" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="580307.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="182" source="04379540000189" target="05301712000164" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.02"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1041164.8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="183" source="04426571000143" target="03341410000194" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="517184.28"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="184" source="04426571000143" target="04011704000110" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="731132.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="185" source="04505819000161" target="01511184000117" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.02"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="249955.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="186" source="04595532000170" target="10764389000103" weight="15.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.02"></attvalue>
+          <attvalue for="ocorrencias" value="15"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="912253.6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="187" source="04603900000184" target="11386332000172" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.4"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="96412.68"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="188" source="04680580000166" target="12912135000102" weight="17.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="17"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="884931.5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="189" source="04731672000128" target="02685197000175" weight="23.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="23"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1408501.6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="190" source="04731672000128" target="07724827000197" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1004077.75"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="191" source="04756522000179" target="04202582000140" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1203428.1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="192" source="04756522000179" target="05309592000141" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="857114.5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="193" source="04780933000108" target="04861245000164" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="462614.97"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="194" source="04861245000164" target="04780933000108" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="457601.47"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="195" source="04861245000164" target="05489130000153" weight="15.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="15"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1291814.9"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="196" source="04904242000160" target="03592746000120" weight="24.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="24"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1777236.9"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="199" source="04918161000110" target="07836758000103" weight="14.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.98"></attvalue>
+          <attvalue for="ocorrencias" value="14"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="721963.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="200" source="04918161000110" target="07880044000100" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="942099.1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="201" source="04918161000110" target="24105306000170" weight="21.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.04"></attvalue>
+          <attvalue for="ocorrencias" value="21"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1367690.2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="207" source="04925612000146" target="05492161000163" weight="18.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="18"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="3115870.8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="210" source="04966148000136" target="07350128000124" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="651068.06"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="211" source="04966148000136" target="07913242000115" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="933901.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="212" source="05065307000194" target="03592746000120" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="816348.7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="213" source="05301712000164" target="03781718000150" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.98"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="848706.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="214" source="05301712000164" target="04379540000189" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.98"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1061235.8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="215" source="05302037000198" target="00785860000188" weight="17.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.03"></attvalue>
+          <attvalue for="ocorrencias" value="17"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="979197.94"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="218" source="05302037000198" target="03759246000130" weight="17.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="17"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="837799.3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="220" source="05302037000198" target="07190281000131" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="870245.9"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="221" source="05309592000141" target="04756522000179" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="864612.4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="222" source="05489130000153" target="04861245000164" weight="15.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="15"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1279574.2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="223" source="05492161000163" target="04925612000146" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.02"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1173224.8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="226" source="05593405000285" target="01704290000117" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.05"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="477585.88"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="228" source="05593405000285" target="10779833000156" weight="14.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.98"></attvalue>
+          <attvalue for="ocorrencias" value="14"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="834849.44"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="229" source="05593405000285" target="24280828000109" weight="15.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.05"></attvalue>
+          <attvalue for="ocorrencias" value="15"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="576662.7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="234" source="05757746000168" target="01081707000132" weight="15.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="15"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="927119.3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="238" source="05757746000168" target="02375199000168" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="736926.44"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="239" source="05757746000168" target="03624439000183" weight="19.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="19"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1299442.1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="243" source="05757746000168" target="08527137000100" weight="19.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="19"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1244132.6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="245" source="05828370000135" target="06171252000160" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="791589.6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="246" source="05905065000108" target="00047799293420" weight="19.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.92"></attvalue>
+          <attvalue for="ocorrencias" value="19"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="866200.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="247" source="05922283000142" target="10554404000180" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.05"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="110000.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="248" source="05925134000137" target="03534767000199" weight="14.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="14"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="117787.17"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="249" source="05981871000157" target="07800935000100" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="663965.5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="250" source="06020318000110" target="01844555000506" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.72"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1362000.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="251" source="06021558000130" target="11807734000101" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.98"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="906682.9"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="252" source="06131215000128" target="07724827000197" weight="15.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="15"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="969506.7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="253" source="06182755000130" target="07212872000162" weight="21.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="21"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="2481100.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="254" source="06265304000167" target="07526979000185" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.03"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1911163.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="256" source="06265304000167" target="08370039000102" weight="14.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.02"></attvalue>
+          <attvalue for="ocorrencias" value="14"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1508092.8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="258" source="06267222000151" target="00930087000104" weight="15.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="15"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="950678.3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="259" source="06267222000151" target="40968588000196" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.04"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="653747.6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="260" source="06313433000183" target="03652579000165" weight="21.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="21"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="945912.4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="261" source="06313433000183" target="40941544000172" weight="17.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="17"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1104519.9"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="262" source="06313433000183" target="41119306000149" weight="14.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="14"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="959174.25"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="263" source="06948769000112" target="01884446000199" weight="14.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.81"></attvalue>
+          <attvalue for="ocorrencias" value="14"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="238548.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="264" source="06949023000123" target="10554404000180" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.15"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="112000.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="266" source="07163532000199" target="02160011000164" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="727512.6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="267" source="07189346000129" target="07221672000176" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="847914.6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="268" source="07189346000129" target="40976144000100" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="749320.25"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="269" source="07190281000131" target="00785860000188" weight="20.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="20"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1425514.4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="270" source="07190281000131" target="03759246000130" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="556349.56"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="271" source="07190281000131" target="05302037000198" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="878104.8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="272" source="07212872000162" target="06182755000130" weight="20.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="20"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="2435471.8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="273" source="07221672000176" target="07189346000129" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="840188.9"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="274" source="07350128000124" target="04966148000136" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="644817.44"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="275" source="07479030000171" target="10414278000169" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.02"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="294956.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="277" source="07512307000110" target="03467684000124" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.03"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="589380.3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="280" source="07526979000185" target="06265304000167" weight="39.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="39"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="6890496.5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="282" source="07526979000185" target="08370039000102" weight="16.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="16"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="2188577.5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="284" source="07526979000185" target="10408838000172" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1164661.6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="285" source="07617677000112" target="00198693000179" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="811520.1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="286" source="07617677000112" target="24099731000102" weight="14.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.02"></attvalue>
+          <attvalue for="ocorrencias" value="14"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="875423.8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="287" source="07724827000197" target="02685197000175" weight="25.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="25"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1733414.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="288" source="07724827000197" target="04731672000128" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1016162.6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="289" source="07724827000197" target="06131215000128" weight="15.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="15"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="979806.75"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="290" source="07724827000197" target="10761294000128" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="954423.2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="291" source="07800935000100" target="04350383000189" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="586521.3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="292" source="07800935000100" target="05981871000157" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="686097.94"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="293" source="07836758000103" target="04918161000110" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.02"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="659533.94"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="294" source="07836758000103" target="24105306000170" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="901857.7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="295" source="07880044000100" target="04918161000110" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="949799.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="296" source="07880044000100" target="24105306000170" weight="21.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.03"></attvalue>
+          <attvalue for="ocorrencias" value="21"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1560115.5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="297" source="07913242000115" target="04966148000136" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="942343.56"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="298" source="07917656000112" target="11991494000130" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="989359.5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="299" source="08160290000142" target="02977362000162" weight="16.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="16"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1159462.9"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="301" source="08160290000142" target="03582862000168" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="970332.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="302" source="08160290000142" target="08778201000126" weight="14.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.02"></attvalue>
+          <attvalue for="ocorrencias" value="14"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1457385.8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="304" source="08160290000142" target="10831701000126" weight="14.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.02"></attvalue>
+          <attvalue for="ocorrencias" value="14"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1013562.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="307" source="08160290000142" target="40787152000109" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.04"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="716340.56"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="312" source="08232897000190" target="00785860000188" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1320527.8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="313" source="08287535000105" target="08877441000188" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="957766.1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="315" source="08287535000105" target="24511222000137" weight="16.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="16"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1258552.5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="317" source="08307662000110" target="09215807000116" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="746681.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="320" source="08307662000382" target="00622097000174" weight="22.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="22"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1319565.4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="321" source="08307662000382" target="01364693000164" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="590339.4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="322" source="08307662000382" target="09215807000116" weight="15.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.03"></attvalue>
+          <attvalue for="ocorrencias" value="15"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="820898.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="327" source="08310625000323" target="00198693000179" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.02"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="761274.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="329" source="08345019000181" target="00858337000134" weight="15.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="15"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="716015.25"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="331" source="08345019000181" target="09094962000121" weight="15.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.05"></attvalue>
+          <attvalue for="ocorrencias" value="15"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="665081.44"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="336" source="08370039000102" target="06265304000167" weight="30.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="30"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="4395097.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="338" source="08370039000102" target="07526979000185" weight="16.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="16"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="3371631.2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="340" source="08527137000100" target="03624439000183" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="872945.44"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="341" source="08527137000100" target="05757746000168" weight="23.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.02"></attvalue>
+          <attvalue for="ocorrencias" value="23"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1262547.6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="344" source="08579912000171" target="10482566000150" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1412995.4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="345" source="08668638000107" target="09215807000116" weight="15.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.03"></attvalue>
+          <attvalue for="ocorrencias" value="15"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="880338.8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="347" source="08877441000188" target="03966406000111" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="684357.8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="348" source="08877441000188" target="08287535000105" weight="24.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.02"></attvalue>
+          <attvalue for="ocorrencias" value="24"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1758597.8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="350" source="08877441000188" target="11895653000100" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.03"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="899571.4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="356" source="08877441000188" target="24511222000137" weight="26.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="26"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1857098.5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="361" source="08877441000188" target="35588417000100" weight="21.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.98"></attvalue>
+          <attvalue for="ocorrencias" value="21"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1421724.5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="362" source="08888299000174" target="04063441000193" weight="19.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="19"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1172467.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="363" source="08948064000120" target="10409223000160" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1260819.8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="364" source="09007162000126" target="08778201000126" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.01"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1224947.9"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="365" source="09083015000135" target="03120645000156" weight="30.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.94"></attvalue>
+          <attvalue for="ocorrencias" value="30"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="2104335.5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="366" source="09083015000135" target="03126792000133" weight="16.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.95"></attvalue>
+          <attvalue for="ocorrencias" value="16"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="989743.4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="367" source="09083015000135" target="04037302000195" weight="14.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.95"></attvalue>
+          <attvalue for="ocorrencias" value="14"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="973815.6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="369" source="09094962000121" target="00858337000134" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="680431.3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="374" source="09094962000121" target="08345019000181" weight="16.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="16"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1059974.8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="379" source="09098419000100" target="12661996000165" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.02"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="709215.3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="380" source="09164369000104" target="02213325000269" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.96"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="283840.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="383" source="09164369000104" target="02538085000191" weight="21.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.95"></attvalue>
+          <attvalue for="ocorrencias" value="21"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="405093.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="385" source="09164369000104" target="09196974000167" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.97"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="227830.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="389" source="09164369000104" target="35408525000145" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.98"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="204545.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="391" source="09196974000167" target="09164369000104" weight="16.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.05"></attvalue>
+          <attvalue for="ocorrencias" value="16"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="424738.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="393" source="09196974000167" target="35408525000145" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.98"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="291221.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="394" source="09215807000116" target="00622097000174" weight="31.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.02"></attvalue>
+          <attvalue for="ocorrencias" value="31"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1930752.5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="399" source="09215807000116" target="01364693000164" weight="18.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.02"></attvalue>
+          <attvalue for="ocorrencias" value="18"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1128992.9"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="403" source="09215807000116" target="03241244000154" weight="17.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="17"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1148216.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="405" source="09215807000116" target="08307662000110" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.02"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="696045.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="408" source="09215807000116" target="08307662000382" weight="19.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.02"></attvalue>
+          <attvalue for="ocorrencias" value="19"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1020515.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="414" source="09215807000116" target="08668638000107" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="852834.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="416" source="09215807000116" target="09358430000154" weight="15.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.02"></attvalue>
+          <attvalue for="ocorrencias" value="15"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1104039.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="418" source="09238106000100" target="06313433000183" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.95"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="389336.56"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="419" source="09287657000156" target="03713601000130" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="560417.06"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="420" source="09287657000156" target="03841826000171" weight="16.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.98"></attvalue>
+          <attvalue for="ocorrencias" value="16"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1273036.9"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="421" source="09353327000111" target="03789726000143" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.98"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="582903.9"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="423" source="09353327000111" target="24215436000166" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.03"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="530850.56"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="428" source="09353327000111" target="24292765000100" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.03"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="462820.6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="430" source="09358430000154" target="00622097000174" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="963498.75"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="432" source="09358430000154" target="09215807000116" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="815305.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="434" source="09382946000134" target="01067590000132" weight="19.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="19"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1153379.2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="435" source="09382946000134" target="01961103000180" weight="19.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="19"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="715329.94"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="437" source="10408838000172" target="07526979000185" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1153061.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="438" source="10408838000172" target="11991494000130" weight="22.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="22"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="2108817.8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="439" source="10409223000160" target="08948064000120" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1272979.2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="440" source="10414278000169" target="07479030000171" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="255570.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="442" source="10482566000150" target="08579912000171" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1426363.9"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="443" source="10482566000150" target="11471073000188" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1070188.2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="444" source="10554404000180" target="05922283000142" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.95"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="115500.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="445" source="10554404000180" target="06949023000123" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.91"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="135300.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="447" source="10761294000128" target="07724827000197" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="945018.6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="448" source="10764389000103" target="04595532000170" weight="14.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.98"></attvalue>
+          <attvalue for="ocorrencias" value="14"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="906182.75"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="449" source="10779833000156" target="01704290000117" weight="14.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.04"></attvalue>
+          <attvalue for="ocorrencias" value="14"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="688400.75"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="453" source="10779833000156" target="05593405000285" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.02"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="712330.7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="454" source="10779833000156" target="24280828000109" weight="19.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.07"></attvalue>
+          <attvalue for="ocorrencias" value="19"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="813056.3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="458" source="10831701000126" target="02977362000162" weight="19.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="19"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1964120.5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="459" source="10831701000126" target="08160290000142" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="825516.4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="461" source="10853042000129" target="03683189000152" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.98"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="913203.8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="462" source="11158724000184" target="11991494000130" weight="30.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="30"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="2632692.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="463" source="11386332000172" target="04603900000184" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="2.51"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="38418.27"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="464" source="11471073000188" target="10482566000150" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1208731.6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="465" source="11807734000101" target="06021558000130" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.02"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="889602.2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="466" source="11895653000100" target="03025786000190" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.98"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="762496.6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="467" source="11895653000100" target="03966406000111" weight="19.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.98"></attvalue>
+          <attvalue for="ocorrencias" value="19"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1378752.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="470" source="11895653000100" target="08877441000188" weight="14.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.06"></attvalue>
+          <attvalue for="ocorrencias" value="14"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="562236.5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="474" source="11895653000100" target="24511222000137" weight="16.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="16"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="765663.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="475" source="11991494000130" target="07917656000112" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1074035.8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="476" source="11991494000130" target="10408838000172" weight="22.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="22"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="2129406.2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="477" source="11991494000130" target="11158724000184" weight="31.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="31"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="2677391.5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="478" source="12661996000165" target="09098419000100" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.98"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="803481.75"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="479" source="12734018000104" target="03582862000168" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.98"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1043446.8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="482" source="12734018000104" target="24502742000183" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.04"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="693920.5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="483" source="12908752000134" target="02583263000104" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.97"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="634499.56"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="484" source="12912135000102" target="04680580000166" weight="17.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="17"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="876234.75"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="486" source="24099731000102" target="00198693000179" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.98"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="892656.3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="487" source="24099731000102" target="07617677000112" weight="14.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.98"></attvalue>
+          <attvalue for="ocorrencias" value="14"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="891725.1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="489" source="24105306000170" target="02924526000193" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.98"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="603141.5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="490" source="24105306000170" target="04918161000110" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.04"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="635003.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="496" source="24105306000170" target="07836758000103" weight="15.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="15"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="997650.6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="497" source="24105306000170" target="07880044000100" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.98"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="775538.06"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="499" source="24214041000572" target="03426712000165" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="834285.06"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="500" source="24215436000166" target="03789726000143" weight="15.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="15"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="643881.44"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="503" source="24215436000166" target="09353327000111" weight="19.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.03"></attvalue>
+          <attvalue for="ocorrencias" value="19"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1014290.2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="508" source="24215436000166" target="24292765000100" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.03"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="786708.1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="509" source="24280828000109" target="01704290000117" weight="16.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="16"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="824904.6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="513" source="24280828000109" target="05593405000285" weight="16.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="16"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="844297.8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="517" source="24280828000109" target="10779833000156" weight="14.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.98"></attvalue>
+          <attvalue for="ocorrencias" value="14"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="667705.2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="523" source="24280828000290" target="01704290000117" weight="14.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.98"></attvalue>
+          <attvalue for="ocorrencias" value="14"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="934720.8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="525" source="24292765000100" target="09353327000111" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.98"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="716623.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="527" source="24292765000100" target="24215436000166" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.97"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="731309.6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="528" source="24502742000183" target="12734018000104" weight="15.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.96"></attvalue>
+          <attvalue for="ocorrencias" value="15"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="909212.75"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="529" source="24511222000137" target="08287535000105" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.03"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="795101.56"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="532" source="24511222000137" target="08877441000188" weight="15.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.05"></attvalue>
+          <attvalue for="ocorrencias" value="15"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="812431.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="537" source="24511222000137" target="11895653000100" weight="16.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="16"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="772620.75"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="538" source="24511222000137" target="35588417000100" weight="17.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="17"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1210708.6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="539" source="35408525000145" target="09164369000104" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.06"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="258695.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="541" source="35408525000145" target="09196974000167" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.02"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="285339.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="542" source="35588417000100" target="08877441000188" weight="21.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.02"></attvalue>
+          <attvalue for="ocorrencias" value="21"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1398401.5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="543" source="35588417000100" target="24511222000137" weight="17.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="17"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1199437.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="544" source="35715234000108" target="02472105000179" weight="14.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="14"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="462142.94"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="545" source="37517158000143" target="02704301000121" weight="12.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.98"></attvalue>
+          <attvalue for="ocorrencias" value="12"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="840880.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="546" source="40787152000109" target="08778201000126" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.11"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="885992.8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="547" source="40941544000172" target="03652579000165" weight="14.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="14"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="858662.9"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="548" source="40941544000172" target="06313433000183" weight="17.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="17"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1113902.2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="549" source="40968588000196" target="06267222000151" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.96"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="689969.9"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="550" source="40976144000100" target="07189346000129" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="1.01"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="742951.3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="551" source="41119306000149" target="03652579000165" weight="22.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="22"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1176306.9"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="552" source="41119306000149" target="06313433000183" weight="14.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.99"></attvalue>
+          <attvalue for="ocorrencias" value="14"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="968344.06"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="553" source="70104344000126" target="02896042000188" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.97"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="971520.2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="554" source="70104344000126" target="02977362000162" weight="15.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.98"></attvalue>
+          <attvalue for="ocorrencias" value="15"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1199286.8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="556" source="70104344000126" target="03596979000109" weight="13.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.98"></attvalue>
+          <attvalue for="ocorrencias" value="13"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="1029711.6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="559" source="70104344000126" target="04370647000166" weight="11.0">
+        <attvalues>
+          <attvalue for="ratio" value="0.96"></attvalue>
+          <attvalue for="ocorrencias" value="11"></attvalue>
+          <attvalue for="soma_vls_ofertados_y" value="759646.7"></attvalue>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
