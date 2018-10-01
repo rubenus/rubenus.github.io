@@ -27,8 +27,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="1219.485208333333"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-408.73563" y="-76.56115"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-717.2471" y="602.0698"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="1065574401" label="1065574401">
         <attvalues>
@@ -39,36 +40,41 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="21129.81013333334"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="313.88388" y="-392.82434"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-54.536793" y="-630.5304"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="601090" label="601090">
         <attvalues>
           <attvalue for="0" value="Fundo Municipal de Saúde de Itaporanga"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-135.40277" y="-375.85034"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-836.76935" y="-341.1032"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="201220" label="201220">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Várzea"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="90.97196" y="359.32605"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="646.95105" y="1050.2445"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="201221" label="201221">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Vieirópolis"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="360.2357" y="-277.38477"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="914.1378" y="-246.72209"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="201222" label="201222">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Vista Serrana"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-66.50823" y="56.31513"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="698.77435" y="800.0595"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="14129809415" label="14129809415">
         <attvalues>
@@ -79,15 +85,17 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="12166.68484536083"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-280.39462" y="333.7046"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1098.1356" y="442.14093"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="602123" label="602123">
         <attvalues>
           <attvalue for="0" value="Fundo Municipal de Saúde de Monteiro"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="164.62491" y="-472.63568"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="166.49152" y="116.82592"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="44189478415" label="44189478415">
         <attvalues>
@@ -98,15 +106,17 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="1226.25"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="185.69797" y="24.633366"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="696.77454" y="790.012"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="601110" label="601110">
         <attvalues>
           <attvalue for="0" value="Fundo Municipal de Saúde de Mamanguape"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-62.572044" y="466.25146"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-801.1526" y="962.59186"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="3929212439" label="3929212439">
         <attvalues>
@@ -117,22 +127,25 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="4461.1246875"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="89.627846" y="-73.35122"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="163.79942" y="-691.2798"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="602139" label="602139">
         <attvalues>
           <attvalue for="0" value="Fundo Municipal de Saúde de Pedras de Fogo"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-187.28088" y="-62.41702"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1048.6177" y="-653.1709"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="601116" label="601116">
         <attvalues>
           <attvalue for="0" value="Fundo Municipal de Saude de Mataraca"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="2.98069" y="181.09277"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="202.67143" y="-703.5425"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="74550799315" label="74550799315">
         <attvalues>
@@ -143,8 +156,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="8571.660000000002"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="454.98184" y="396.3534"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-31.43549" y="45.601803"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="10953043487" label="10953043487">
         <attvalues>
@@ -155,22 +169,25 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="4069.46"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-198.5329" y="14.42963"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-330.25943" y="522.38226"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="201178" label="201178">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de São Bento"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-481.54208" y="-435.30505"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-890.9549" y="-902.06976"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="201136" label="201136">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Paulista"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="140.2789" y="-0.48052588"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-19.528597" y="33.867805"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="5321819483" label="5321819483">
         <attvalues>
@@ -181,8 +198,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="6910.218750000001"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-121.386345" y="-274.45972"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="124.06674" y="-59.20825"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="25068776491" label="25068776491">
         <attvalues>
@@ -193,8 +211,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="5639.200833333335"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="2.676735" y="479.3648"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="65.87182" y="324.7336"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="5480722484" label="5480722484">
         <attvalues>
@@ -205,15 +224,17 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="12321.52"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-146.58282" y="-135.00858"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-799.8363" y="-324.8168"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="601143" label="601143">
         <attvalues>
           <attvalue for="0" value="Fundo Municipal de Saúde de Pilar"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="50.721657" y="-295.24896"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-715.5201" y="-618.7844"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="67457908404" label="67457908404">
         <attvalues>
@@ -224,15 +245,17 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="10356.26542857143"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-45.624474" y="-376.4915"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="13.562443" y="-616.3812"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="602171" label="602171">
         <attvalues>
           <attvalue for="0" value="Fundo Municipal de Saúde de Santa Rita"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="480.69632" y="-31.349483"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="921.31036" y="186.45139"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="44073275453" label="44073275453">
         <attvalues>
@@ -243,8 +266,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="2333.261666666667"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="9.036598" y="200.60211"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1059.5581" y="-646.03705"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="2508282430" label="2508282430">
         <attvalues>
@@ -255,15 +279,17 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="28381.52"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-34.356743" y="-92.04955"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-22.68177" y="-12.043462"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="601151" label="601151">
         <attvalues>
           <attvalue for="0" value="Fundo Municipal de Saúde de Pombal"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="204.66843" y="198.5332"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-55.136604" y="-4.360571"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="6240293440" label="6240293440">
         <attvalues>
@@ -274,8 +300,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="1483.592558139534"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="53.580544" y="187.01459"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-38.799118" y="85.69859"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="8906114400" label="8906114400">
         <attvalues>
@@ -286,8 +313,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="6681.1"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-282.91196" y="-112.40441"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="650.49316" y="389.67416"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="2516389442" label="2516389442">
         <attvalues>
@@ -298,8 +326,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="9094.735714285714"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="82.340126" y="-22.21896"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-822.6364" y="-334.8619"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="67269540420" label="67269540420">
         <attvalues>
@@ -310,29 +339,33 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="3299.35"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="109.1171" y="-471.12482"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-895.7996" y="-912.5437"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="201057" label="201057">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Catolé do Rocha"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="270.60318" y="7.545536"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="5.520409" y="29.237988"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="601163" label="601163">
         <attvalues>
           <attvalue for="0" value="Fundo Municipal de Saúde de Rio Tinto"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-390.0978" y="199.95142"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-38.040943" y="-694.4162"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="601165" label="601165">
         <attvalues>
           <attvalue for="0" value="Fundo Municipal de Saúde de Salgado de São Félix"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="149.59335" y="458.27332"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="2.0112734" y="-679.565"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="1224227409" label="1224227409">
         <attvalues>
@@ -343,8 +376,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="9221.646000000002"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-280.65634" y="34.82593"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="77.1003" y="1.5532326"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="13266705491" label="13266705491">
         <attvalues>
@@ -355,8 +389,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="3410.413181818182"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-88.98119" y="-329.77014"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="662.77673" y="366.9149"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="13325027415" label="13325027415">
         <attvalues>
@@ -367,8 +402,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="2860.688235294119"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="321.13467" y="-88.565056"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="160.66698" y="-674.3122"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="6768911449" label="6768911449">
         <attvalues>
@@ -379,8 +415,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="239.7942857142857"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-435.7613" y="427.91467"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-85.996796" y="1109.0317"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="26243385434" label="26243385434">
         <attvalues>
@@ -391,8 +428,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="14172.02848484848"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-366.57828" y="398.42035"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="103.0714" y="236.16849"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="40524795487" label="40524795487">
         <attvalues>
@@ -403,8 +441,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="5619.801186440679"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="19.261513" y="-412.27252"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="68.91784" y="290.89093"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="1287632483" label="1287632483">
         <attvalues>
@@ -415,8 +454,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="2354.9"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-122.146965" y="207.4065"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-706.9394" y="-612.1856"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="5051600484" label="5051600484">
         <attvalues>
@@ -427,8 +467,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="1226.25"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="342.06522" y="-55.506405"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="971.10254" y="509.98334"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="7679800421" label="7679800421">
         <attvalues>
@@ -439,8 +480,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="1026.0"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-494.20837" y="-512.15045"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1285.1483" y="-269.97"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="4002512487" label="4002512487">
         <attvalues>
@@ -451,8 +493,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="3602.89"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="464.86356" y="-472.0828"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="151.87668" y="-705.32495"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="18156665449" label="18156665449">
         <attvalues>
@@ -463,8 +506,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="115.05"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="184.7258" y="48.5954"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-67.05869" y="1130.8524"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="46775846487" label="46775846487">
         <attvalues>
@@ -475,8 +519,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="3954.80785714286"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-423.6763" y="-29.77023"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-795.7481" y="953.8522"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="14132176487" label="14132176487">
         <attvalues>
@@ -487,15 +532,17 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="1183.059166666667"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-481.58145" y="-6.395382"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-931.54144" y="102.52943"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="601200" label="601200">
         <attvalues>
           <attvalue for="0" value="Fundo Municipal de Saúde de Sapé"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="265.3743" y="192.74402"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1023.4879" y="-647.1431"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="2872517480" label="2872517480">
         <attvalues>
@@ -506,8 +553,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="8326.6825"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-348.90512" y="318.87097"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="15.047964" y="36.19948"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="50244531315" label="50244531315">
         <attvalues>
@@ -518,8 +566,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="3067.087777777778"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="247.12637" y="421.72058"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="54.17084" y="235.30284"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="26332302453" label="26332302453">
         <attvalues>
@@ -530,8 +579,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="2752.82"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="488.97427" y="-266.61758"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-246.68776" y="946.1776"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="50925881449" label="50925881449">
         <attvalues>
@@ -542,8 +592,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="2667.110983606557"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="160.56058" y="462.89838"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-67.885605" y="-624.5637"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="88570380410" label="88570380410">
         <attvalues>
@@ -554,8 +605,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="2829.073000000001"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="261.7123" y="339.04138"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="193.64302" y="-711.5622"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="2537850491" label="2537850491">
         <attvalues>
@@ -566,8 +618,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="10438.08"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-504.98108" y="239.23633"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="66.70956" y="219.8434"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="52644472415" label="52644472415">
         <attvalues>
@@ -578,15 +631,17 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="8521.706666666667"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-458.17535" y="-167.21509"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="277.4102" y="840.8778"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="601218" label="601218">
         <attvalues>
           <attvalue for="0" value="Fundo Municipal de Saude de Uirauna"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="176.17062" y="-172.14072"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-251.04181" y="16.42518"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="39521761415" label="39521761415">
         <attvalues>
@@ -597,8 +652,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="3118.433086419753"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-358.07687" y="-421.28882"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="90.74592" y="220.37895"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="13224395400" label="13224395400">
         <attvalues>
@@ -609,8 +665,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="4978.888333333333"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-277.99417" y="-380.10565"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="99.22106" y="-675.9793"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="13146700425" label="13146700425">
         <attvalues>
@@ -621,8 +678,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="3363.399310344827"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-482.39725" y="238.84338"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="642.9425" y="364.92334"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="67385214487" label="67385214487">
         <attvalues>
@@ -633,8 +691,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="7205.780000000002"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="165.54172" y="-229.1672"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-886.0523" y="-891.63"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="5143480469" label="5143480469">
         <attvalues>
@@ -645,8 +704,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="4619.2"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-81.92519" y="-351.77045"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="118.87262" y="-24.679365"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="5379341462" label="5379341462">
         <attvalues>
@@ -657,8 +717,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="9261.556"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="133.31107" y="-190.75601"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-261.40845" y="22.552816"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="6681719449" label="6681719449">
         <attvalues>
@@ -669,8 +730,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="11256.46641509434"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-452.8496" y="273.39825"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1073.4694" y="423.41193"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="76891917468" label="76891917468">
         <attvalues>
@@ -681,8 +743,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="3554.171666666666"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-432.6664" y="128.11633"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="289.88593" y="1216.4865"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="1848930461" label="1848930461">
         <attvalues>
@@ -693,8 +756,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="4010.732"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="423.93564" y="-97.23983"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1069.3076" y="453.45667"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="6534455471" label="6534455471">
         <attvalues>
@@ -705,8 +769,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="4512.841052631577"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-416.84543" y="95.79359"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-362.74738" y="709.0685"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="38013452468" label="38013452468">
         <attvalues>
@@ -717,8 +782,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="4930.053333333331"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="465.6082" y="183.3664"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="77.020935" y="335.62213"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="1864545461" label="1864545461">
         <attvalues>
@@ -729,8 +795,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="5379.56"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-132.33154" y="-307.57913"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-122.423386" y="-9.82139"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="2229919415" label="2229919415">
         <attvalues>
@@ -741,8 +808,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="9267.610999999999"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-446.0979" y="240.50348"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-239.75206" y="-40.051018"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="75221705400" label="75221705400">
         <attvalues>
@@ -753,8 +821,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="5528.473333333332"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-162.17395" y="-96.989586"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-64.526566" y="-21.699112"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="2190582458" label="2190582458">
         <attvalues>
@@ -765,8 +834,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="4615.114137931035"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-7.564049" y="-105.07317"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="22.453579" y="-5.0181494"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="21958815420" label="21958815420">
         <attvalues>
@@ -777,8 +847,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="11861.78316326531"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-495.04077" y="-420.31848"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1062.8145" y="437.22214"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="4558304447" label="4558304447">
         <attvalues>
@@ -789,15 +860,17 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="6478.76"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="313.77737" y="-72.89654"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-222.0184" y="-15.352324"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="201211" label="201211">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Sousa"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-380.6623" y="123.32508"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-252.15572" y="-47.89284"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="2394782404" label="2394782404">
         <attvalues>
@@ -808,8 +881,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="5150.924545454545"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-146.85568" y="428.656"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-59.148624" y="-715.84546"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="23781920453" label="23781920453">
         <attvalues>
@@ -820,8 +894,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="5948.073737373741"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="205.70676" y="128.88849"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="80.60874" y="280.42538"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="11391286472" label="11391286472">
         <attvalues>
@@ -832,8 +907,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="3900.0"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="369.90158" y="-471.73044"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-26.628475" y="-554.6636"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="6986720467" label="6986720467">
         <attvalues>
@@ -844,8 +920,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="5203.39"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="42.93656" y="88.67158"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-358.6024" y="967.75037"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="8277130457" label="8277130457">
         <attvalues>
@@ -856,8 +933,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="10570.274"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="268.51926" y="-317.35574"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1052.8699" y="-665.5854"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="41515501434" label="41515501434">
         <attvalues>
@@ -868,8 +946,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="2310.915283018868"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-10.452507" y="354.4693"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="202.95197" y="120.1347"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="39673588449" label="39673588449">
         <attvalues>
@@ -880,8 +959,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="3330.0"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-352.58414" y="282.64532"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1034.1864" y="-649.5881"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="6180146403" label="6180146403">
         <attvalues>
@@ -892,8 +972,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="9546.47"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="311.75778" y="-177.90582"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-909.29486" y="-72.57877"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="2860704485" label="2860704485">
         <attvalues>
@@ -904,8 +985,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="6775.745121951223"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="487.12045" y="-459.3756"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="114.17531" y="-8.9945135"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="2989364455" label="2989364455">
         <attvalues>
@@ -916,8 +998,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="4549.935"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="331.83322" y="220.75311"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-262.41666" y="-54.076527"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="20455879400" label="20455879400">
         <attvalues>
@@ -928,8 +1011,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="3841.91625"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-221.55966" y="-503.04544"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="911.93665" y="-181.97672"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="88464563434" label="88464563434">
         <attvalues>
@@ -940,8 +1024,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="14129.0"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-218.09897" y="464.9527"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="138.35031" y="60.821198"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="5062517486" label="5062517486">
         <attvalues>
@@ -952,15 +1037,17 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="1346.184782608696"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="286.8348" y="-487.85657"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-729.1504" y="585.26843"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="601050" label="601050">
         <attvalues>
           <attvalue for="0" value="Fundo Municipal de Saúde de Campina Grande"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="222.02353" y="258.04926"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="83.07661" y="314.15518"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="42196469491" label="42196469491">
         <attvalues>
@@ -971,8 +1058,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="1803.42540229885"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-49.05172" y="-204.543"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-61.521473" y="-526.7772"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="2470559480" label="2470559480">
         <attvalues>
@@ -983,8 +1071,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="2793.22"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-238.79065" y="24.256718"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-55.827915" y="-513.17126"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="20289162491" label="20289162491">
         <attvalues>
@@ -995,8 +1084,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="1712.843611111111"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-378.7335" y="361.80963"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-562.2104" y="887.14105"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="75940850430" label="75940850430">
         <attvalues>
@@ -1007,8 +1097,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="5868.556785714283"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="106.17252" y="289.87054"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="130.69055" y="171.03554"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="1135281408" label="1135281408">
         <attvalues>
@@ -1019,8 +1110,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="3027.015675675676"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-40.88256" y="305.7439"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="910.39935" y="179.95085"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="972273409" label="972273409">
         <attvalues>
@@ -1031,8 +1123,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="3272.905405405405"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-344.96603" y="-165.33914"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-734.02594" y="613.64777"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="4936351490" label="4936351490">
         <attvalues>
@@ -1043,8 +1136,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="18658.348"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-163.25558" y="434.64502"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="110.49397" y="-39.14123"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="26097052715" label="26097052715">
         <attvalues>
@@ -1055,8 +1149,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="2362.180476190476"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-48.208977" y="290.83325"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="20.441446" y="173.97003"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="848923405" label="848923405">
         <attvalues>
@@ -1067,8 +1162,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="12126.53333333333"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-494.06073" y="112.90565"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-540.56146" y="1142.4974"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="64944476434" label="64944476434">
         <attvalues>
@@ -1079,8 +1175,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="10912.90437500001"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="322.26456" y="379.65186"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="309.85358" y="1204.9778"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="63874504468" label="63874504468">
         <attvalues>
@@ -1091,8 +1188,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="8035.733333333333"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="135.72885" y="-365.42474"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="185.47296" y="108.61713"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="3621000470" label="3621000470">
         <attvalues>
@@ -1103,8 +1201,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="4012.050208333334"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-76.63427" y="-355.23627"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-745.49365" y="596.47437"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="66348510425" label="66348510425">
         <attvalues>
@@ -1115,8 +1214,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="7814.299166666668"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="58.86808" y="-435.89844"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="165.25655" y="136.37874"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="550280472" label="550280472">
         <attvalues>
@@ -1127,8 +1227,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="4763.99125"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-245.0929" y="366.45856"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="647.5582" y="414.29785"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="1976713498" label="1976713498">
         <attvalues>
@@ -1139,8 +1240,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="1415.612"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="212.39835" y="263.08795"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="55.58433" y="-572.4055"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="4594099483" label="4594099483">
         <attvalues>
@@ -1151,8 +1253,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="8234.717428571428"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="406.81607" y="322.54486"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-8.840625" y="-569.3953"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="4983173404" label="4983173404">
         <attvalues>
@@ -1163,8 +1266,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="11398.58739130435"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-190.70935" y="255.56476"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-210.92522" y="-34.24976"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="4738055453" label="4738055453">
         <attvalues>
@@ -1175,8 +1279,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="8169.469999999998"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="444.4904" y="199.21661"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-68.71053" y="8.886425"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="21939179491" label="21939179491">
         <attvalues>
@@ -1187,8 +1292,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="2376.909"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="236.19754" y="175.0907"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-357.553" y="686.56757"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="90821408" label="90821408">
         <attvalues>
@@ -1199,22 +1305,25 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="7896.945833333332"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="371.17044" y="-250.7681"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="920.39923" y="-237.00632"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="201008" label="201008">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Alhandra"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-463.4017" y="-215.92892"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1100.2395" y="-206.42192"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="201123" label="201123">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Monteiro"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="48.582314" y="244.9187"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="214.15128" y="120.788574"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="91819547434" label="91819547434">
         <attvalues>
@@ -1225,8 +1334,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="4652.875"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-390.87167" y="-40.999752"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="91.98523" y="334.7074"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="20579527468" label="20579527468">
         <attvalues>
@@ -1237,22 +1347,25 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="12306.99294117647"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="305.74295" y="379.96954"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="46.041767" y="-544.75977"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="201005" label="201005">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Alagoinha"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="427.64188" y="-405.0941"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="973.3595" y="499.9469"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="610095" label="610095">
         <attvalues>
           <attvalue for="0" value="Fundo Municipal de Saúde de João Pessoa"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="220.69705" y="-463.31863"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-76.35113" y="1119.8004"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="11242116400" label="11242116400">
         <attvalues>
@@ -1263,8 +1376,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="9192.125"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="172.56454" y="98.09345"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-6.4970846" y="21.319534"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="7420429448" label="7420429448">
         <attvalues>
@@ -1275,22 +1389,25 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="4864.037499999999"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="221.09177" y="254.24194"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="841.3656" y="385.56793"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="201010" label="201010">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Aparecida"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="152.35141" y="-491.64224"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="930.3306" y="-242.7169"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="201011" label="201011">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Araçagi"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-283.12473" y="-191.13934"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1292.3083" y="-262.58643"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="8164376884" label="8164376884">
         <attvalues>
@@ -1301,22 +1418,25 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="6411.198999999999"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-210.62823" y="320.15204"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-74.707794" y="-7.8724008"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="201013" label="201013">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Araruna"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="452.04068" y="47.985966"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1199.6451" y="266.97815"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="201014" label="201014">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Areia"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-253.69809" y="-243.2284"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1203.8364" y="21.161606"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="2186353466" label="2186353466">
         <attvalues>
@@ -1327,22 +1447,25 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="1987.24"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="142.2172" y="8.546452"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-181.0078" y="-17.886114"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="201019" label="201019">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Baía da Traição"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="477.1138" y="-407.5678"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-333.04034" y="512.483"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="201020" label="201020">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Bananeiras"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="251.04471" y="393.10004"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-46.09315" y="-526.9883"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="2442394448" label="2442394448">
         <attvalues>
@@ -1353,8 +1476,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="14145.64545454546"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="101.00547" y="-385.8077"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="3.5590615" y="-35.157444"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="6482629440" label="6482629440">
         <attvalues>
@@ -1365,8 +1489,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="4834.265714285714"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-49.349083" y="-322.03204"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1091.3652" y="425.54642"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="3908228417" label="3908228417">
         <attvalues>
@@ -1377,8 +1502,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="5915.421666666666"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-481.87326" y="468.98938"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-6.5857997" y="157.0697"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="87304775491" label="87304775491">
         <attvalues>
@@ -1389,50 +1515,57 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="9863.312608695649"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="410.18118" y="483.87885"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-52.163914" y="-596.6027"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="201028" label="201028">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Bernardino Batista"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="112.7125" y="-49.37054"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="299.89746" y="865.9445"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="201032" label="201032">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Bom Sucesso"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-438.7831" y="-147.65936"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-12.79019" y="-18.108465"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="201033" label="201033">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Bonito de Santa Fé"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="222.24191" y="-252.60867"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1430.4503" y="-759.66907"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="201034" label="201034">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Boqueirão"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="400.04782" y="239.90552"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-2.7514546" y="143.72705"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="201036" label="201036">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Brejo do Cruz"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-209.49814" y="292.97552"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="841.6202" y="375.33154"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="201040" label="201040">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Cabedelo"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-295.85043" y="367.6867"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-731.3787" y="599.46204"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="9011354451" label="9011354451">
         <attvalues>
@@ -1443,36 +1576,41 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="9269.326923076926"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="267.93887" y="-358.15106"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-785.5671" y="242.17155"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="201046" label="201046">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Cajazeiras"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-236.1517" y="-455.06702"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="41.46706" y="-570.21655"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="201047" label="201047">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Cajazeirinhas"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-125.55764" y="224.60742"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1.3366625" y="-46.261215"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="201048" label="201048">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Caldas Brandão"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="360.03775" y="-276.84006"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-11.66109" y="-683.4983"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="201051" label="201051">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Tacima"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-202.28967" y="-70.20327"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="111.53881" y="-686.4587"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="6707271482" label="6707271482">
         <attvalues>
@@ -1483,8 +1621,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="3873.390303030301"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-245.05222" y="331.28497"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-645.519" y="374.70584"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="8551600478" label="8551600478">
         <attvalues>
@@ -1495,15 +1634,17 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="1665.641666666666"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-235.39435" y="205.70428"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-73.55786" y="-612.1266"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="201055" label="201055">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Casserengue"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-94.655205" y="-107.59429"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="205.0398" y="-716.94745"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="20512325472" label="20512325472">
         <attvalues>
@@ -1514,8 +1655,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="400.0"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-306.581" y="-221.04523"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-87.31121" y="1129.1772"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="3450928481" label="3450928481">
         <attvalues>
@@ -1526,8 +1668,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="11205.20513513515"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="456.17825" y="-470.69156"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-17.220312" y="108.98465"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="35730480482" label="35730480482">
         <attvalues>
@@ -1538,15 +1681,17 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="6525.35"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-188.28696" y="146.31079"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1192.7961" y="274.64993"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="201059" label="201059">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Conceição"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="327.57004" y="-271.51144"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="299.90088" y="1210.8036"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="95289240420" label="95289240420">
         <attvalues>
@@ -1557,8 +1702,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="4485.233076923077"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-292.57095" y="211.90247"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-69.870384" y="-705.20435"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="780981499" label="780981499">
         <attvalues>
@@ -1569,8 +1715,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="9402.236428571425"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-130.82404" y="151.40851"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-238.78471" y="8.985784"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="2709911400" label="2709911400">
         <attvalues>
@@ -1581,15 +1728,17 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="6342.425161290324"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="270.1965" y="314.17908"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-191.07162" y="3.933387"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="601211" label="601211">
         <attvalues>
           <attvalue for="0" value="Fundo Municipal de Saúde de Sousa"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-376.6677" y="-143.08258"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-201.23376" y="-15.000309"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="4341358448" label="4341358448">
         <attvalues>
@@ -1600,8 +1749,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="2526.308333333333"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="375.29227" y="415.19574"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-642.00397" y="38.32587"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="5947928434" label="5947928434">
         <attvalues>
@@ -1612,15 +1762,17 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="769.8709090909091"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-287.9683" y="30.197208"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-65.524536" y="1110.1787"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="201078" label="201078">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Esperança"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="464.4556" y="409.41968"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="78.11781" y="239.89035"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="27109945855" label="27109945855">
         <attvalues>
@@ -1631,8 +1783,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="7709.851818181819"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-257.34268" y="201.30048"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="151.52214" y="105.88641"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="73873284472" label="73873284472">
         <attvalues>
@@ -1643,8 +1796,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="4022.760000000001"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-114.228966" y="350.05933"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="173.0017" y="97.119316"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="65917979472" label="65917979472">
         <attvalues>
@@ -1655,15 +1809,17 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="6674.621000000001"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-86.46459" y="-19.713161"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-192.74384" y="-35.382515"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="201082" label="201082">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Guarabira"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-30.908592" y="-112.007805"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-7.5109234" y="-582.2795"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="8640793468" label="8640793468">
         <attvalues>
@@ -1674,8 +1830,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="6589.610000000001"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-307.25003" y="-463.83936"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="57.949966" y="254.22533"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="990658430" label="990658430">
         <attvalues>
@@ -1686,22 +1843,25 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="2710.59527777778"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="333.9785" y="371.6844"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1430.3585" y="-769.8715"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="201088" label="201088">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Ingá"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="42.296303" y="403.2605"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="106.927605" y="-645.40533"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="201090" label="201090">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Itaporanga"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-146.1012" y="-133.93155"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-810.6218" y="-329.49658"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="4727655403" label="4727655403">
         <attvalues>
@@ -1712,22 +1872,25 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="25440.71083333333"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-335.4677" y="-288.55725"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="99.35631" y="1.8168178"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="201094" label="201094">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Jericó"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="33.41825" y="-185.83594"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-27.218863" y="79.56066"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="201095" label="201095">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de João Pessoa"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="159.01956" y="-394.65073"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-50.317932" y="-613.7673"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="2398702472" label="2398702472">
         <attvalues>
@@ -1738,8 +1901,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="8190.6625"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="294.39835" y="187.29767"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="59.158806" y="-550.38745"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="17698391434" label="17698391434">
         <attvalues>
@@ -1750,8 +1914,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="2182.42"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="295.22946" y="443.24408"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="123.97297" y="-692.2783"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="37278380430" label="37278380430">
         <attvalues>
@@ -1762,8 +1927,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="6927.233333333333"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-187.2963" y="-251.9031"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="99.56605" y="-654.2446"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="32423683472" label="32423683472">
         <attvalues>
@@ -1774,15 +1940,17 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="9263.454615384611"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-169.77878" y="347.3484"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-7.385062" y="-672.59106"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="201106" label="201106">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Logradouro"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="98.6887" y="485.00616"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1092.0149" y="661.41766"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="7686980499" label="7686980499">
         <attvalues>
@@ -1793,22 +1961,25 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="930.1237037037033"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="430.28366" y="-184.70056"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="68.24377" y="-29.516367"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="601075" label="601075">
         <attvalues>
           <attvalue for="0" value="Fundo Municipal de Saúde de Dona Inês"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="472.73898" y="367.8902"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="144.52393" y="-686.43744"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="201112" label="201112">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Marcação"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="291.66214" y="396.30383"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="900.92566" y="174.48857"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="6894233497" label="6894233497">
         <attvalues>
@@ -1819,8 +1990,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="17146.22227272727"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-48.598595" y="321.3623"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="299.05234" y="854.47064"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="50394541472" label="50394541472">
         <attvalues>
@@ -1831,8 +2003,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="6012.966666666664"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-2.1212997" y="-114.24871"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="61.078102" y="-513.6896"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="14131587491" label="14131587491">
         <attvalues>
@@ -1843,8 +2016,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="2830.226"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-169.85712" y="-284.20544"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-37.164646" y="-682.98785"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="44138156453" label="44138156453">
         <attvalues>
@@ -1855,15 +2029,17 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="10035.74397727273"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-0.21743022" y="98.49958"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="93.82486" y="289.0468"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="201126" label="201126">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Nazarezinho"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="425.53885" y="-264.46204"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="914.4871" y="-222.6803"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="990975401" label="990975401">
         <attvalues>
@@ -1874,15 +2050,17 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="2223.737931034483"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-140.64536" y="43.73749"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="93.537476" y="-39.755184"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="601003" label="601003">
         <attvalues>
           <attvalue for="0" value="Fundo Municipal de Saúde de Alagoa Grande"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="22.696144" y="-300.3"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="70.41013" y="-648.7327"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="93120150444" label="93120150444">
         <attvalues>
@@ -1893,22 +2071,25 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="7632.754390243901"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="59.418312" y="243.27777"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="908.45557" y="-208.23247"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="601005" label="601005">
         <attvalues>
           <attvalue for="0" value="Fundo Municipal de Saúde de Alagoinha"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="62.976784" y="-217.10211"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-11.48267" y="-655.5342"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="201135" label="201135">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Patos"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-251.20407" y="10.326725"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1080.5107" y="439.69742"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="1191979440" label="1191979440">
         <attvalues>
@@ -1919,85 +2100,97 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="5048.647142857143"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="2.5942764" y="-388.27365"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-848.83215" y="-335.77316"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="201138" label="201138">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Pedra Lavrada"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="266.08" y="-262.77713"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-360.05194" y="697.8274"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="201139" label="201139">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Pedras de Fogo"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="74.412636" y="-102.75182"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-922.1233" y="98.3905"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="201140" label="201140">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Pedro Régis"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-334.9277" y="-371.66656"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-646.02795" y="47.793964"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="201141" label="201141">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Piancó"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="393.2869" y="-395.3624"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="88.03363" y="-20.682545"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="201142" label="201142">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Picuí"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-248.92328" y="-141.76001"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-534.0915" y="1134.5004"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="201143" label="201143">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Pilar"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="459.54074" y="158.17487"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-698.46045" y="-605.4111"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="201149" label="201149">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Poço Dantas"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="329.6149" y="-164.4566"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="287.41528" y="847.05316"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="201151" label="201151">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Pombal"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="135.68442" y="-166.88724"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-0.0012524477" y="0.0019983368"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="201152" label="201152">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Prata"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="467.7648" y="109.06037"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="648.96466" y="402.57602"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="601025" label="601025">
         <attvalues>
           <attvalue for="0" value="Fundo Municipal de Saúde de Bayeux"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-401.7639" y="-204.49557"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-564.7357" y="877.17395"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="601026" label="601026">
         <attvalues>
           <attvalue for="0" value="Fundo Municipal de Saúde de Belém"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-426.79153" y="465.88135"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="193.19228" y="-723.69147"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="4022782404" label="4022782404">
         <attvalues>
@@ -2008,15 +2201,17 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="1064.571428571429"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-400.48605" y="216.90356"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-17.436308" y="144.21005"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="201157" label="201157">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Remígio"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="7.2035904" y="-60.295986"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="652.0077" y="374.45114"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="29518270406" label="29518270406">
         <attvalues>
@@ -2027,8 +2222,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="1689.5"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-386.4722" y="-487.0831"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1200.4318" y="11.459954"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="99921685449" label="99921685449">
         <attvalues>
@@ -2039,15 +2235,17 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="7320.479705882355"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-234.919" y="-226.94852"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="74.4046" y="-47.62301"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="201162" label="201162">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Riacho dos Cavalos"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="85.60502" y="32.91083"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-29.662199" y="-26.88789"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="2578814414" label="2578814414">
         <attvalues>
@@ -2058,15 +2256,17 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="12296.03041666667"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="481.4991" y="-141.569"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="182.35005" y="130.12177"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="201170" label="201170">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Santa Luzia"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="57.142555" y="462.74304"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="131.73964" y="-67.35434"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="3572905427" label="3572905427">
         <attvalues>
@@ -2077,22 +2277,25 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="2272.58157894737"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-352.42825" y="-178.81757"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1087.0929" y="456.2549"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="601046" label="601046">
         <attvalues>
           <attvalue for="0" value="Fundo Municipal de Saúde de Cajazeiras"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-105.112755" y="-206.78946"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="61.68803" y="-529.7439"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="601047" label="601047">
         <attvalues>
           <attvalue for="0" value="Fundo Municipal de Saúde de Cajazeirinhas"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="463.11716" y="-299.287"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="12.887481" y="-42.7098"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="73405400" label="73405400">
         <attvalues>
@@ -2103,8 +2306,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="3414.5"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-281.59872" y="-46.023006"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="931.2245" y="192.5552"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="5667179482" label="5667179482">
         <attvalues>
@@ -2115,8 +2319,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="3445.921923076923"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="189.6594" y="137.00818"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-66.19077" y="-600.6177"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="56872810459" label="56872810459">
         <attvalues>
@@ -2127,43 +2332,49 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="5418.082604166669"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="389.88034" y="116.060616"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="97.95785" y="253.78918"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="601052" label="601052">
         <attvalues>
           <attvalue for="0" value="Fundo Municipal de Saúde de Capim"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="218.44638" y="75.75599"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-795.5816" y="244.42818"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="201181" label="201181">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de São Francisco"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-392.752" y="225.53552"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="896.8967" y="-207.45412"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="201183" label="201183">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de São João do Rio do Peixe"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="322.6309" y="268.11523"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="309.9395" y="850.7923"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="201185" label="201185">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de São José da Lagoa Tapada"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-275.54208" y="-453.07977"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="910.73926" y="-193.8374"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="201186" label="201186">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de São José de Caiana"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-276.10608" y="260.10535"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-256.49133" y="949.13696"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="1442152419" label="1442152419">
         <attvalues>
@@ -2174,8 +2385,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="3228.6875"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="412.19418" y="-133.20511"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="91.727715" y="-55.509457"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="20378130404" label="20378130404">
         <attvalues>
@@ -2186,8 +2398,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="5610.436666666667"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-328.82657" y="141.78888"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="101.68663" y="322.53027"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="14520710120" label="14520710120">
         <attvalues>
@@ -2198,8 +2411,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="1744.0"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="167.66678" y="-463.4875"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1101.8899" y="-216.5762"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="87369575420" label="87369575420">
         <attvalues>
@@ -2210,22 +2424,25 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="7914.38"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="202.79312" y="57.86524"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-34.32916" y="-38.26296"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
       <node id="201194" label="201194">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de São José dos Ramos"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-16.041893" y="-282.5631"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-655.72943" y="373.9612"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="201195" label="201195">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de São Mamede"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-356.83087" y="368.98767"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-363.24625" y="976.91406"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="41453123415" label="41453123415">
         <attvalues>
@@ -2236,8 +2453,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="1000.0"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="197.3826" y="32.961674"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1100.8085" y="666.755"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="819093491" label="819093491">
         <attvalues>
@@ -2248,8 +2466,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="5161.820833333334"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="171.4061" y="397.062"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-840.95624" y="-353.6219"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="9903356404" label="9903356404">
         <attvalues>
@@ -2260,29 +2479,33 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="9182.178636363637"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-354.4181" y="328.63538"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-41.0252" y="-512.4368"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="601001" label="601001">
         <attvalues>
           <attvalue for="0" value="Fundo Municipal de Saúde de Água Branca"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-508.52475" y="-112.020226"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-918.49225" y="-77.17715"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="201208" label="201208">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Solânea"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-210.41705" y="395.03644"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="92.03835" y="-685.57837"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="601082" label="601082">
         <attvalues>
           <attvalue for="0" value="Fundo Municipal de Saúde de Guarabira"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="232.30173" y="-318.31482"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="25.45551" y="-619.6761"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="16237994491" label="16237994491">
         <attvalues>
@@ -2293,8 +2516,9 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="1807.400000000001"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="379.80643" y="317.6142"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-210.39482" y="4.517485"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="2064958460" label="2064958460">
         <attvalues>
@@ -2305,15 +2529,17 @@
           <attvalue for="4" value="false"></attvalue>
           <attvalue for="5" value="3483.884"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="210.97018" y="-407.82996"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="75.16842" y="-521.0077"></viz:position>
+        <viz:color r="255" g="87" b="76"></viz:color>
       </node>
       <node id="201213" label="201213">
         <attvalues>
           <attvalue for="0" value="Prefeitura Municipal de Taperoá"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-420.98035" y="-416.46942"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-56.183064" y="-701.86707"></viz:position>
+        <viz:color r="13" g="0" b="255"></viz:color>
       </node>
       <node id="11234628449" label="11234628449">
         <attvalues>
@@ -2324,8 +2550,9 @@
           <attvalue for="4" value="true"></attvalue>
           <attvalue for="5" value="1819.531428571429"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="103.390114" y="168.9347"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="642.8613" y="1040.7972"></viz:position>
+        <viz:color r="250" g="0" b="67"></viz:color>
       </node>
     </nodes>
     <edges>
