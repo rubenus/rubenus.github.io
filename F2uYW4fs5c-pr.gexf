@@ -9016,151 +9016,151 @@
       </node>
     </nodes>
     <edges>
-      <edge id="0" source="00250062000151" target="11027713000165">
+      <edge id="0" source="00250062000151" target="11027713000165" weight="94.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="94"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="36984.94"></attvalue>
         </attvalues>
       </edge>
-      <edge id="1" source="00250062000151" target="17142400000134">
+      <edge id="1" source="00250062000151" target="17142400000134" weight="24.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="24"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="33000.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="2" source="00250062000151" target="77744118000159">
+      <edge id="2" source="00250062000151" target="77744118000159" weight="16.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="16"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="79150.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="3" source="00250062000151" target="77744514000186">
+      <edge id="3" source="00250062000151" target="77744514000186" weight="248.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="248"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="248607.3"></attvalue>
         </attvalues>
       </edge>
-      <edge id="4" source="00485479000101" target="04759433000186">
+      <edge id="4" source="00485479000101" target="04759433000186" weight="117.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="117"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="71715.85"></attvalue>
         </attvalues>
       </edge>
-      <edge id="5" source="00805922000176" target="01075832000130">
+      <edge id="5" source="00805922000176" target="01075832000130" weight="2.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="2"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="3395.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="6" source="01075832000130" target="00805922000176">
+      <edge id="6" source="01075832000130" target="00805922000176" weight="2.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="2"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="26334.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="7" source="01075832000130" target="01796652000147">
+      <edge id="7" source="01075832000130" target="01796652000147" weight="328.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="328"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="30527.51"></attvalue>
         </attvalues>
       </edge>
-      <edge id="8" source="01075832000130" target="07099006000107">
+      <edge id="8" source="01075832000130" target="07099006000107" weight="601.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="601"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="124385.47"></attvalue>
         </attvalues>
       </edge>
-      <edge id="9" source="01075832000130" target="78932589000153">
+      <edge id="9" source="01075832000130" target="78932589000153" weight="191.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="191"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="15951.25"></attvalue>
         </attvalues>
       </edge>
-      <edge id="10" source="01075832000130" target="79636817000100">
+      <edge id="10" source="01075832000130" target="79636817000100" weight="24.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="24"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="4130.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="11" source="01075832000130" target="84880137000178">
+      <edge id="11" source="01075832000130" target="84880137000178" weight="392.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="392"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="34926.16"></attvalue>
         </attvalues>
       </edge>
-      <edge id="12" source="01186736000169" target="08799386000155">
+      <edge id="12" source="01186736000169" target="08799386000155" weight="147.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="147"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="15944.24"></attvalue>
         </attvalues>
       </edge>
-      <edge id="13" source="01186736000169" target="85005353000137">
+      <edge id="13" source="01186736000169" target="85005353000137" weight="38.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="38"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="37939.68"></attvalue>
         </attvalues>
       </edge>
-      <edge id="14" source="02001435000186" target="79634937000179">
+      <edge id="14" source="02001435000186" target="79634937000179" weight="2.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="2"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="93350.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="15" source="02007365000173" target="05785834000173">
+      <edge id="15" source="02007365000173" target="05785834000173" weight="100.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="100"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="77418.05"></attvalue>
         </attvalues>
       </edge>
-      <edge id="16" source="02839583000174" target="79634937000179">
+      <edge id="16" source="02839583000174" target="79634937000179" weight="2.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="2"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="93350.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="17" source="03074146000170" target="77266575000185">
+      <edge id="17" source="03074146000170" target="77266575000185" weight="59.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="59"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="27665.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="18" source="03433196000104" target="05619017000145">
+      <edge id="18" source="03433196000104" target="05619017000145" weight="10.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="10"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="13008.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="19" source="03433196000104" target="10243551000130">
+      <edge id="19" source="03433196000104" target="10243551000130" weight="81.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="81"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="96180.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="20" source="03889753000198" target="04883827000141">
+      <edge id="20" source="03889753000198" target="04883827000141" weight="100.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="100"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="105282.1"></attvalue>
         </attvalues>
       </edge>
-      <edge id="21" source="03977027000127" target="07206304000159">
+      <edge id="21" source="03977027000127" target="07206304000159" weight="83.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="83"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="66660.48"></attvalue>
         </attvalues>
       </edge>
-      <edge id="22" source="04283722000151" target="04132587000143">
+      <edge id="22" source="04283722000151" target="04132587000143" weight="48.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="48"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="21090.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="23" source="04283722000151" target="77816445000179">
+      <edge id="23" source="04283722000151" target="77816445000179" weight="17.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="17"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="615000.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="24" source="04283722000151" target="95377990000198">
+      <edge id="24" source="04283722000151" target="95377990000198" weight="2.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="2"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="6900.0"></attvalue>
@@ -9172,25 +9172,25 @@
           <attvalue for="valor_total_propostas_ganh" value="37.6"></attvalue>
         </attvalues>
       </edge>
-      <edge id="26" source="04636573000167" target="08017013000185">
+      <edge id="26" source="04636573000167" target="08017013000185" weight="15.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="15"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="60238.74"></attvalue>
         </attvalues>
       </edge>
-      <edge id="27" source="04636573000167" target="08433163000170">
+      <edge id="27" source="04636573000167" target="08433163000170" weight="143.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="143"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="436009.7"></attvalue>
         </attvalues>
       </edge>
-      <edge id="28" source="04636573000167" target="09254808000170">
+      <edge id="28" source="04636573000167" target="09254808000170" weight="5.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="5"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="38941.37"></attvalue>
         </attvalues>
       </edge>
-      <edge id="29" source="04636573000167" target="11476232000137">
+      <edge id="29" source="04636573000167" target="11476232000137" weight="153.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="153"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="524620.3"></attvalue>
@@ -9202,37 +9202,37 @@
           <attvalue for="valor_total_propostas_ganh" value="4770.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="31" source="04636573000167" target="79024105000483">
+      <edge id="31" source="04636573000167" target="79024105000483" weight="51.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="51"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="78254.63"></attvalue>
         </attvalues>
       </edge>
-      <edge id="32" source="04788615000185" target="02322317000170">
+      <edge id="32" source="04788615000185" target="02322317000170" weight="111.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="111"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="74545.4"></attvalue>
         </attvalues>
       </edge>
-      <edge id="33" source="04986486000130" target="79634937000179">
+      <edge id="33" source="04986486000130" target="79634937000179" weight="2.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="2"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="93350.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="34" source="05127294000130" target="07875159000107">
+      <edge id="34" source="05127294000130" target="07875159000107" weight="53.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="53"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="76975.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="35" source="05487385000187" target="05785834000173">
+      <edge id="35" source="05487385000187" target="05785834000173" weight="100.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="100"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="77418.05"></attvalue>
         </attvalues>
       </edge>
-      <edge id="36" source="05669715000155" target="00175382000194">
+      <edge id="36" source="05669715000155" target="00175382000194" weight="132.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="132"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="361806.16"></attvalue>
@@ -9244,43 +9244,43 @@
           <attvalue for="valor_total_propostas_ganh" value="210.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="38" source="05795161000132" target="01170904000128">
+      <edge id="38" source="05795161000132" target="01170904000128" weight="6.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="6"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="2205.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="39" source="05795161000132" target="02535454000192">
+      <edge id="39" source="05795161000132" target="02535454000192" weight="13.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="13"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="7777.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="40" source="05795161000132" target="03435894000130">
+      <edge id="40" source="05795161000132" target="03435894000130" weight="37.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="37"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="59224.04"></attvalue>
         </attvalues>
       </edge>
-      <edge id="41" source="05795161000132" target="04261548000146">
+      <edge id="41" source="05795161000132" target="04261548000146" weight="7.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="7"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="81783.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="42" source="05795161000132" target="05495541000151">
+      <edge id="42" source="05795161000132" target="05495541000151" weight="2.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="2"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="2400.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="43" source="05795161000132" target="05665084000104">
+      <edge id="43" source="05795161000132" target="05665084000104" weight="5.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="5"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="25380.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="44" source="05795161000132" target="14579435000147">
+      <edge id="44" source="05795161000132" target="14579435000147" weight="10.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="10"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="9721.0"></attvalue>
@@ -9292,109 +9292,109 @@
           <attvalue for="valor_total_propostas_ganh" value="1500.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="46" source="05795161000132" target="82076977000157">
+      <edge id="46" source="05795161000132" target="82076977000157" weight="10.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="10"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="8624.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="47" source="06128039000175" target="15007470000154">
+      <edge id="47" source="06128039000175" target="15007470000154" weight="393.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="393"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="199665.98"></attvalue>
         </attvalues>
       </edge>
-      <edge id="48" source="06128039000175" target="17264357000180">
+      <edge id="48" source="06128039000175" target="17264357000180" weight="273.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="273"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="73300.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="49" source="06128039000175" target="22237752000103">
+      <edge id="49" source="06128039000175" target="22237752000103" weight="868.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="868"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="520537.75"></attvalue>
         </attvalues>
       </edge>
-      <edge id="50" source="06193188000118" target="09644925000140">
+      <edge id="50" source="06193188000118" target="09644925000140" weight="2.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="2"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="2600.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="51" source="06251852000138" target="10243551000130">
+      <edge id="51" source="06251852000138" target="10243551000130" weight="81.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="81"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="96180.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="52" source="07190348000138" target="11027713000165">
+      <edge id="52" source="07190348000138" target="11027713000165" weight="94.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="94"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="36984.94"></attvalue>
         </attvalues>
       </edge>
-      <edge id="53" source="07190348000138" target="17142400000134">
+      <edge id="53" source="07190348000138" target="17142400000134" weight="51.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="51"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="63899.9"></attvalue>
         </attvalues>
       </edge>
-      <edge id="54" source="07190348000138" target="77744118000159">
+      <edge id="54" source="07190348000138" target="77744118000159" weight="16.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="16"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="79150.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="55" source="07190348000138" target="77744514000186">
+      <edge id="55" source="07190348000138" target="77744514000186" weight="109.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="109"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="187807.3"></attvalue>
         </attvalues>
       </edge>
-      <edge id="56" source="07214246000105" target="05834259000151">
+      <edge id="56" source="07214246000105" target="05834259000151" weight="69.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="69"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="40198.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="57" source="07214246000105" target="85089274000151">
+      <edge id="57" source="07214246000105" target="85089274000151" weight="10.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="10"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="5628.4"></attvalue>
         </attvalues>
       </edge>
-      <edge id="58" source="07260725000168" target="02995568000115">
+      <edge id="58" source="07260725000168" target="02995568000115" weight="2.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="2"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="2304.8"></attvalue>
         </attvalues>
       </edge>
-      <edge id="59" source="07260725000168" target="08831603000147">
+      <edge id="59" source="07260725000168" target="08831603000147" weight="7.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="7"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="3548.5"></attvalue>
         </attvalues>
       </edge>
-      <edge id="60" source="07260725000168" target="13002425000181">
+      <edge id="60" source="07260725000168" target="13002425000181" weight="46.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="46"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="33784.4"></attvalue>
         </attvalues>
       </edge>
-      <edge id="61" source="07260725000168" target="21943423000115">
+      <edge id="61" source="07260725000168" target="21943423000115" weight="22.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="22"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="4896.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="62" source="07260725000168" target="26926117000194">
+      <edge id="62" source="07260725000168" target="26926117000194" weight="5.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="5"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="698.25"></attvalue>
         </attvalues>
       </edge>
-      <edge id="63" source="07260725000168" target="85514214000139">
+      <edge id="63" source="07260725000168" target="85514214000139" weight="9.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="9"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="1744.0"></attvalue>
@@ -9406,115 +9406,115 @@
           <attvalue for="valor_total_propostas_ganh" value="25.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="65" source="07544458000150" target="08017013000185">
+      <edge id="65" source="07544458000150" target="08017013000185" weight="12.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="12"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="57362.4"></attvalue>
         </attvalues>
       </edge>
-      <edge id="66" source="07544458000150" target="08433163000170">
+      <edge id="66" source="07544458000150" target="08433163000170" weight="93.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="93"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="299428.88"></attvalue>
         </attvalues>
       </edge>
-      <edge id="67" source="07544458000150" target="09254808000170">
+      <edge id="67" source="07544458000150" target="09254808000170" weight="3.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="3"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="6367.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="68" source="07544458000150" target="11476232000137">
+      <edge id="68" source="07544458000150" target="11476232000137" weight="108.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="108"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="440352.75"></attvalue>
         </attvalues>
       </edge>
-      <edge id="69" source="07544458000150" target="79024105000483">
+      <edge id="69" source="07544458000150" target="79024105000483" weight="25.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="25"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="55855.65"></attvalue>
         </attvalues>
       </edge>
-      <edge id="70" source="07687594000108" target="04883827000141">
+      <edge id="70" source="07687594000108" target="04883827000141" weight="50.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="50"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="45530.7"></attvalue>
         </attvalues>
       </edge>
-      <edge id="71" source="07846713000110" target="05353119000161">
+      <edge id="71" source="07846713000110" target="05353119000161" weight="99.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="99"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="740122.75"></attvalue>
         </attvalues>
       </edge>
-      <edge id="72" source="07921185000116" target="07460912000195">
+      <edge id="72" source="07921185000116" target="07460912000195" weight="33.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="33"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="4863.24"></attvalue>
         </attvalues>
       </edge>
-      <edge id="73" source="07921185000116" target="07481107000148">
+      <edge id="73" source="07921185000116" target="07481107000148" weight="47.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="47"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="10310.24"></attvalue>
         </attvalues>
       </edge>
-      <edge id="74" source="07921185000116" target="08178062000108">
+      <edge id="74" source="07921185000116" target="08178062000108" weight="44.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="44"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="15347.79"></attvalue>
         </attvalues>
       </edge>
-      <edge id="75" source="07921185000116" target="75997858000171">
+      <edge id="75" source="07921185000116" target="75997858000171" weight="36.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="36"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="5539.15"></attvalue>
         </attvalues>
       </edge>
-      <edge id="76" source="07921185000116" target="78054632000125">
+      <edge id="76" source="07921185000116" target="78054632000125" weight="32.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="32"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="10573.59"></attvalue>
         </attvalues>
       </edge>
-      <edge id="77" source="07932368000137" target="01170904000128">
+      <edge id="77" source="07932368000137" target="01170904000128" weight="6.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="6"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="2205.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="78" source="07932368000137" target="02535454000192">
+      <edge id="78" source="07932368000137" target="02535454000192" weight="13.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="13"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="7777.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="79" source="07932368000137" target="03435894000130">
+      <edge id="79" source="07932368000137" target="03435894000130" weight="37.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="37"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="59224.04"></attvalue>
         </attvalues>
       </edge>
-      <edge id="80" source="07932368000137" target="04261548000146">
+      <edge id="80" source="07932368000137" target="04261548000146" weight="7.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="7"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="81783.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="81" source="07932368000137" target="05495541000151">
+      <edge id="81" source="07932368000137" target="05495541000151" weight="2.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="2"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="2400.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="82" source="07932368000137" target="05665084000104">
+      <edge id="82" source="07932368000137" target="05665084000104" weight="5.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="5"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="25380.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="83" source="07932368000137" target="14579435000147">
+      <edge id="83" source="07932368000137" target="14579435000147" weight="10.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="10"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="9721.0"></attvalue>
@@ -9526,7 +9526,7 @@
           <attvalue for="valor_total_propostas_ganh" value="1500.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="85" source="07932368000137" target="82076977000157">
+      <edge id="85" source="07932368000137" target="82076977000157" weight="10.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="10"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="8624.0"></attvalue>
@@ -9544,31 +9544,31 @@
           <attvalue for="valor_total_propostas_ganh" value="667.4"></attvalue>
         </attvalues>
       </edge>
-      <edge id="88" source="08672973000189" target="11027713000165">
+      <edge id="88" source="08672973000189" target="11027713000165" weight="30.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="30"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="10124.97"></attvalue>
         </attvalues>
       </edge>
-      <edge id="89" source="08672973000189" target="17142400000134">
+      <edge id="89" source="08672973000189" target="17142400000134" weight="27.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="27"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="30899.9"></attvalue>
         </attvalues>
       </edge>
-      <edge id="90" source="08672973000189" target="77744118000159">
+      <edge id="90" source="08672973000189" target="77744118000159" weight="16.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="16"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="79150.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="91" source="08672973000189" target="77744514000186">
+      <edge id="91" source="08672973000189" target="77744514000186" weight="246.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="246"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="235107.3"></attvalue>
         </attvalues>
       </edge>
-      <edge id="92" source="08695393000107" target="13630315000164">
+      <edge id="92" source="08695393000107" target="13630315000164" weight="445.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="445"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="268544.25"></attvalue>
@@ -9580,25 +9580,25 @@
           <attvalue for="valor_total_propostas_ganh" value="5.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="94" source="08850339000199" target="16834765000167">
+      <edge id="94" source="08850339000199" target="16834765000167" weight="80.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="80"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="32248.95"></attvalue>
         </attvalues>
       </edge>
-      <edge id="95" source="09104374000121" target="04883827000141">
+      <edge id="95" source="09104374000121" target="04883827000141" weight="50.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="50"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="59751.4"></attvalue>
         </attvalues>
       </edge>
-      <edge id="96" source="09346150000126" target="17307974000115">
+      <edge id="96" source="09346150000126" target="17307974000115" weight="71.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="71"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="45827.55"></attvalue>
         </attvalues>
       </edge>
-      <edge id="97" source="09644925000140" target="06193188000118">
+      <edge id="97" source="09644925000140" target="06193188000118" weight="202.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="202"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="48900.0"></attvalue>
@@ -9610,55 +9610,55 @@
           <attvalue for="valor_total_propostas_ganh" value="965.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="99" source="10218438000102" target="07274456000199">
+      <edge id="99" source="10218438000102" target="07274456000199" weight="88.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="88"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="69380.5"></attvalue>
         </attvalues>
       </edge>
-      <edge id="100" source="10509854000151" target="15874834000101">
+      <edge id="100" source="10509854000151" target="15874834000101" weight="100.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="100"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="587866.25"></attvalue>
         </attvalues>
       </edge>
-      <edge id="101" source="10571953000163" target="01846273000114">
+      <edge id="101" source="10571953000163" target="01846273000114" weight="9.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="9"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="107600.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="102" source="10571953000163" target="02268396000188">
+      <edge id="102" source="10571953000163" target="02268396000188" weight="5.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="5"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="97291.49"></attvalue>
         </attvalues>
       </edge>
-      <edge id="103" source="10571953000163" target="03657902000193">
+      <edge id="103" source="10571953000163" target="03657902000193" weight="2.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="2"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="49460.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="104" source="10571953000163" target="07648889000167">
+      <edge id="104" source="10571953000163" target="07648889000167" weight="11.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="11"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="104546.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="105" source="10571953000163" target="10498189000148">
+      <edge id="105" source="10571953000163" target="10498189000148" weight="15.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="15"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="51000.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="106" source="10571953000163" target="19389126000128">
+      <edge id="106" source="10571953000163" target="19389126000128" weight="8.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="8"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="121996.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="107" source="10571953000163" target="26926117000194">
+      <edge id="107" source="10571953000163" target="26926117000194" weight="4.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="4"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="110998.0"></attvalue>
@@ -9670,7 +9670,7 @@
           <attvalue for="valor_total_propostas_ganh" value="37.6"></attvalue>
         </attvalues>
       </edge>
-      <edge id="109" source="11253582000134" target="07213924000115">
+      <edge id="109" source="11253582000134" target="07213924000115" weight="4.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="4"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="1344.0"></attvalue>
@@ -9682,37 +9682,37 @@
           <attvalue for="valor_total_propostas_ganh" value="400.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="111" source="11253582000134" target="08626122000108">
+      <edge id="111" source="11253582000134" target="08626122000108" weight="27.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="27"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="16651.5"></attvalue>
         </attvalues>
       </edge>
-      <edge id="112" source="11253582000134" target="09358509000185">
+      <edge id="112" source="11253582000134" target="09358509000185" weight="21.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="21"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="11854.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="113" source="11274331000136" target="04151335000161">
+      <edge id="113" source="11274331000136" target="04151335000161" weight="5.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="5"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="5890.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="114" source="11274331000136" target="26326990000146">
+      <edge id="114" source="11274331000136" target="26326990000146" weight="64.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="64"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="36199.96"></attvalue>
         </attvalues>
       </edge>
-      <edge id="115" source="11288238000180" target="02334275000197">
+      <edge id="115" source="11288238000180" target="02334275000197" weight="7.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="7"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="8763.69"></attvalue>
         </attvalues>
       </edge>
-      <edge id="116" source="11288238000180" target="10711024000102">
+      <edge id="116" source="11288238000180" target="10711024000102" weight="54.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="54"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="133798.28"></attvalue>
@@ -9724,43 +9724,43 @@
           <attvalue for="valor_total_propostas_ganh" value="5349.28"></attvalue>
         </attvalues>
       </edge>
-      <edge id="118" source="11288238000180" target="77550523000136">
+      <edge id="118" source="11288238000180" target="77550523000136" weight="17.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="17"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="12817.58"></attvalue>
         </attvalues>
       </edge>
-      <edge id="119" source="11384692000135" target="06064658000143">
+      <edge id="119" source="11384692000135" target="06064658000143" weight="9.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="9"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="3342.86"></attvalue>
         </attvalues>
       </edge>
-      <edge id="120" source="11384692000135" target="08583449000131">
+      <edge id="120" source="11384692000135" target="08583449000131" weight="29.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="29"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="7028.64"></attvalue>
         </attvalues>
       </edge>
-      <edge id="121" source="11384692000135" target="11025309000152">
+      <edge id="121" source="11384692000135" target="11025309000152" weight="21.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="21"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="15627.64"></attvalue>
         </attvalues>
       </edge>
-      <edge id="122" source="11384692000135" target="14227560000198">
+      <edge id="122" source="11384692000135" target="14227560000198" weight="51.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="51"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="17056.86"></attvalue>
         </attvalues>
       </edge>
-      <edge id="123" source="11384692000135" target="14280217000107">
+      <edge id="123" source="11384692000135" target="14280217000107" weight="28.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="28"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="26338.07"></attvalue>
         </attvalues>
       </edge>
-      <edge id="124" source="11384692000135" target="14313343000110">
+      <edge id="124" source="11384692000135" target="14313343000110" weight="50.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="50"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="127597.84"></attvalue>
@@ -9772,73 +9772,73 @@
           <attvalue for="valor_total_propostas_ganh" value="282.1"></attvalue>
         </attvalues>
       </edge>
-      <edge id="126" source="11384692000135" target="75652305000187">
+      <edge id="126" source="11384692000135" target="75652305000187" weight="22.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="22"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="10742.05"></attvalue>
         </attvalues>
       </edge>
-      <edge id="127" source="11384692000135" target="85475523000147">
+      <edge id="127" source="11384692000135" target="85475523000147" weight="10.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="10"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="10618.32"></attvalue>
         </attvalues>
       </edge>
-      <edge id="128" source="11405217000106" target="09591956000180">
+      <edge id="128" source="11405217000106" target="09591956000180" weight="37.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="37"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="32183.41"></attvalue>
         </attvalues>
       </edge>
-      <edge id="129" source="11405217000106" target="10546441000147">
+      <edge id="129" source="11405217000106" target="10546441000147" weight="14.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="14"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="26346.54"></attvalue>
         </attvalues>
       </edge>
-      <edge id="130" source="11405217000106" target="17044627000147">
+      <edge id="130" source="11405217000106" target="17044627000147" weight="16.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="16"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="21522.84"></attvalue>
         </attvalues>
       </edge>
-      <edge id="131" source="11449957000136" target="04384015000151">
+      <edge id="131" source="11449957000136" target="04384015000151" weight="30.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="30"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="29499.3"></attvalue>
         </attvalues>
       </edge>
-      <edge id="132" source="11449957000136" target="10653448000168">
+      <edge id="132" source="11449957000136" target="10653448000168" weight="38.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="38"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="52234.3"></attvalue>
         </attvalues>
       </edge>
-      <edge id="133" source="11449957000136" target="17340109000170">
+      <edge id="133" source="11449957000136" target="17340109000170" weight="39.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="39"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="69913.5"></attvalue>
         </attvalues>
       </edge>
-      <edge id="134" source="11499486000170" target="80926462000173">
+      <edge id="134" source="11499486000170" target="80926462000173" weight="88.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="88"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="1187911.5"></attvalue>
         </attvalues>
       </edge>
-      <edge id="135" source="11814305000153" target="08705850000105">
+      <edge id="135" source="11814305000153" target="08705850000105" weight="2.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="2"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="1190.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="136" source="11814305000153" target="12236503000140">
+      <edge id="136" source="11814305000153" target="12236503000140" weight="50.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="50"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="170213.7"></attvalue>
         </attvalues>
       </edge>
-      <edge id="137" source="12237172000162" target="01646985000190">
+      <edge id="137" source="12237172000162" target="01646985000190" weight="127.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="127"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="411143.62"></attvalue>
@@ -9850,19 +9850,19 @@
           <attvalue for="valor_total_propostas_ganh" value="3200.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="139" source="12237172000162" target="76126036000188">
+      <edge id="139" source="12237172000162" target="76126036000188" weight="116.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="116"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="222472.69"></attvalue>
         </attvalues>
       </edge>
-      <edge id="140" source="12289792000145" target="11260157000172">
+      <edge id="140" source="12289792000145" target="11260157000172" weight="95.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="95"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="150513.28"></attvalue>
         </attvalues>
       </edge>
-      <edge id="141" source="12463644000103" target="11562926000197">
+      <edge id="141" source="12463644000103" target="11562926000197" weight="102.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="102"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="196122.48"></attvalue>
@@ -9880,145 +9880,145 @@
           <attvalue for="valor_total_propostas_ganh" value="895.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="144" source="13200769000103" target="04525675000105">
+      <edge id="144" source="13200769000103" target="04525675000105" weight="9.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="9"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="16577.9"></attvalue>
         </attvalues>
       </edge>
-      <edge id="145" source="13200769000103" target="04538615000127">
+      <edge id="145" source="13200769000103" target="04538615000127" weight="11.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="11"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="27610.5"></attvalue>
         </attvalues>
       </edge>
-      <edge id="146" source="13200769000103" target="04760944000118">
+      <edge id="146" source="13200769000103" target="04760944000118" weight="4.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="4"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="7100.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="147" source="13200769000103" target="06082249000170">
+      <edge id="147" source="13200769000103" target="06082249000170" weight="5.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="5"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="3862.4"></attvalue>
         </attvalues>
       </edge>
-      <edge id="148" source="13200769000103" target="07907982000149">
+      <edge id="148" source="13200769000103" target="07907982000149" weight="4.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="4"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="80445.7"></attvalue>
         </attvalues>
       </edge>
-      <edge id="149" source="13200769000103" target="08079994000195">
+      <edge id="149" source="13200769000103" target="08079994000195" weight="3.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="3"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="9506.5"></attvalue>
         </attvalues>
       </edge>
-      <edge id="150" source="13200769000103" target="11025309000152">
+      <edge id="150" source="13200769000103" target="11025309000152" weight="8.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="8"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="9958.95"></attvalue>
         </attvalues>
       </edge>
-      <edge id="151" source="13200769000103" target="17312441000121">
+      <edge id="151" source="13200769000103" target="17312441000121" weight="7.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="7"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="8109.04"></attvalue>
         </attvalues>
       </edge>
-      <edge id="152" source="13200769000103" target="72272149000130">
+      <edge id="152" source="13200769000103" target="72272149000130" weight="23.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="23"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="44059.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="153" source="13200769000103" target="78767480000108">
+      <edge id="153" source="13200769000103" target="78767480000108" weight="5.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="5"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="22567.8"></attvalue>
         </attvalues>
       </edge>
-      <edge id="154" source="13222640000198" target="07274456000199">
+      <edge id="154" source="13222640000198" target="07274456000199" weight="88.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="88"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="69380.5"></attvalue>
         </attvalues>
       </edge>
-      <edge id="155" source="13292098000140" target="11419869000191">
+      <edge id="155" source="13292098000140" target="11419869000191" weight="14.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="14"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="34582.8"></attvalue>
         </attvalues>
       </edge>
-      <edge id="156" source="13292098000140" target="16693832000170">
+      <edge id="156" source="13292098000140" target="16693832000170" weight="102.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="102"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="106511.95"></attvalue>
         </attvalues>
       </edge>
-      <edge id="157" source="13292098000140" target="17263792000190">
+      <edge id="157" source="13292098000140" target="17263792000190" weight="12.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="12"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="8849.35"></attvalue>
         </attvalues>
       </edge>
-      <edge id="158" source="13316982000177" target="07564729000130">
+      <edge id="158" source="13316982000177" target="07564729000130" weight="3.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="3"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="120800.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="159" source="13316982000177" target="13553143000172">
+      <edge id="159" source="13316982000177" target="13553143000172" weight="98.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="98"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="147869.23"></attvalue>
         </attvalues>
       </edge>
-      <edge id="160" source="13316982000177" target="78905353000128">
+      <edge id="160" source="13316982000177" target="78905353000128" weight="3.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="3"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="130.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="161" source="13509824000133" target="05278906000196">
+      <edge id="161" source="13509824000133" target="05278906000196" weight="119.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="119"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="142332.48"></attvalue>
         </attvalues>
       </edge>
-      <edge id="162" source="13556572000101" target="04151335000161">
+      <edge id="162" source="13556572000101" target="04151335000161" weight="213.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="213"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="129360.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="163" source="13556572000101" target="26326990000146">
+      <edge id="163" source="13556572000101" target="26326990000146" weight="30.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="30"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="72540.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="164" source="13914027000131" target="01149960000180">
+      <edge id="164" source="13914027000131" target="01149960000180" weight="12.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="12"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="38999.8"></attvalue>
         </attvalues>
       </edge>
-      <edge id="165" source="13914027000131" target="04151335000161">
+      <edge id="165" source="13914027000131" target="04151335000161" weight="48.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="48"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="22187.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="166" source="13914027000131" target="07987610000170">
+      <edge id="166" source="13914027000131" target="07987610000170" weight="40.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="40"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="6790.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="167" source="13914027000131" target="17307974000115">
+      <edge id="167" source="13914027000131" target="17307974000115" weight="13.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="13"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="3838.9"></attvalue>
@@ -10030,13 +10030,13 @@
           <attvalue for="valor_total_propostas_ganh" value="20300.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="169" source="14141383000122" target="07564729000130">
+      <edge id="169" source="14141383000122" target="07564729000130" weight="5.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="5"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="44501.5"></attvalue>
         </attvalues>
       </edge>
-      <edge id="170" source="14141383000122" target="08394064000126">
+      <edge id="170" source="14141383000122" target="08394064000126" weight="100.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="100"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="77634.0"></attvalue>
@@ -10054,25 +10054,25 @@
           <attvalue for="valor_total_propostas_ganh" value="9700.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="173" source="14877418000196" target="08394064000126">
+      <edge id="173" source="14877418000196" target="08394064000126" weight="100.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="100"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="77634.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="174" source="15006855000105" target="79634937000179">
+      <edge id="174" source="15006855000105" target="79634937000179" weight="2.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="2"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="93350.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="175" source="15141090000108" target="81730285000118">
+      <edge id="175" source="15141090000108" target="81730285000118" weight="281.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="281"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="47197.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="176" source="15142901000195" target="03643099000138">
+      <edge id="176" source="15142901000195" target="03643099000138" weight="79.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="79"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="69716.82"></attvalue>
@@ -10090,37 +10090,37 @@
           <attvalue for="valor_total_propostas_ganh" value="2850.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="179" source="16884811000132" target="76386382000103">
+      <edge id="179" source="16884811000132" target="76386382000103" weight="112.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="112"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="149067.1"></attvalue>
         </attvalues>
       </edge>
-      <edge id="180" source="16963032000122" target="01227738000159">
+      <edge id="180" source="16963032000122" target="01227738000159" weight="70.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="70"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="265179.1"></attvalue>
         </attvalues>
       </edge>
-      <edge id="181" source="16963032000122" target="04374509000155">
+      <edge id="181" source="16963032000122" target="04374509000155" weight="3.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="3"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="32690.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="182" source="16963032000122" target="72137391000100">
+      <edge id="182" source="16963032000122" target="72137391000100" weight="64.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="64"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="114167.9"></attvalue>
         </attvalues>
       </edge>
-      <edge id="183" source="17176004000128" target="00508958000198">
+      <edge id="183" source="17176004000128" target="00508958000198" weight="263.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="263"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="50100.6"></attvalue>
         </attvalues>
       </edge>
-      <edge id="184" source="17176004000128" target="04715359000104">
+      <edge id="184" source="17176004000128" target="04715359000104" weight="37.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="37"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="47594.6"></attvalue>
@@ -10144,7 +10144,7 @@
           <attvalue for="valor_total_propostas_ganh" value="37.6"></attvalue>
         </attvalues>
       </edge>
-      <edge id="188" source="17348948000135" target="02353432000101">
+      <edge id="188" source="17348948000135" target="02353432000101" weight="442.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="442"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="136312.08"></attvalue>
@@ -10162,7 +10162,7 @@
           <attvalue for="valor_total_propostas_ganh" value="965.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="191" source="18622030000103" target="79634937000179">
+      <edge id="191" source="18622030000103" target="79634937000179" weight="2.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="2"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="93350.0"></attvalue>
@@ -10174,37 +10174,37 @@
           <attvalue for="valor_total_propostas_ganh" value="36900.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="193" source="19638917000144" target="05034375000196">
+      <edge id="193" source="19638917000144" target="05034375000196" weight="6.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="6"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="146790.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="194" source="19638917000144" target="09436050000190">
+      <edge id="194" source="19638917000144" target="09436050000190" weight="517.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="517"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="108754.6"></attvalue>
         </attvalues>
       </edge>
-      <edge id="195" source="19638917000144" target="09499629000100">
+      <edge id="195" source="19638917000144" target="09499629000100" weight="2.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="2"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="3850.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="196" source="19638917000144" target="10596750000121">
+      <edge id="196" source="19638917000144" target="10596750000121" weight="13.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="13"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="5975.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="197" source="19638917000144" target="13227465000121">
+      <edge id="197" source="19638917000144" target="13227465000121" weight="16.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="16"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="163650.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="198" source="19638917000144" target="17044990000162">
+      <edge id="198" source="19638917000144" target="17044990000162" weight="272.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="272"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="58840.94"></attvalue>
@@ -10222,7 +10222,7 @@
           <attvalue for="valor_total_propostas_ganh" value="26700.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="201" source="19638917000144" target="20870498000150">
+      <edge id="201" source="19638917000144" target="20870498000150" weight="4.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="4"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="4200.02"></attvalue>
@@ -10240,85 +10240,85 @@
           <attvalue for="valor_total_propostas_ganh" value="16900.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="204" source="19638917000144" target="79183919000118">
+      <edge id="204" source="19638917000144" target="79183919000118" weight="491.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="491"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="131323.38"></attvalue>
         </attvalues>
       </edge>
-      <edge id="205" source="19638917000144" target="84880137000178">
+      <edge id="205" source="19638917000144" target="84880137000178" weight="3.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="3"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="51840.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="206" source="20122244000154" target="07966699000198">
+      <edge id="206" source="20122244000154" target="07966699000198" weight="10.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="10"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="60888.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="207" source="20122244000154" target="08998979000140">
+      <edge id="207" source="20122244000154" target="08998979000140" weight="14.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="14"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="77680.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="208" source="20122244000154" target="09687051000108">
+      <edge id="208" source="20122244000154" target="09687051000108" weight="5.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="5"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="10637.5"></attvalue>
         </attvalues>
       </edge>
-      <edge id="209" source="20122244000154" target="17092175000179">
+      <edge id="209" source="20122244000154" target="17092175000179" weight="6.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="6"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="58686.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="210" source="20122244000154" target="25115613000103">
+      <edge id="210" source="20122244000154" target="25115613000103" weight="16.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="16"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="311637.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="211" source="20122244000154" target="26472570000178">
+      <edge id="211" source="20122244000154" target="26472570000178" weight="7.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="7"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="35266.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="212" source="20122244000154" target="27822528000100">
+      <edge id="212" source="20122244000154" target="27822528000100" weight="9.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="9"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="95108.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="213" source="20122244000154" target="28888423000109">
+      <edge id="213" source="20122244000154" target="28888423000109" weight="57.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="57"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="856223.7"></attvalue>
         </attvalues>
       </edge>
-      <edge id="214" source="20122244000154" target="29259420000179">
+      <edge id="214" source="20122244000154" target="29259420000179" weight="5.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="5"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="2568.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="215" source="20122244000154" target="82425356000131">
+      <edge id="215" source="20122244000154" target="82425356000131" weight="7.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="7"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="69680.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="216" source="20122244000154" target="88197330000160">
+      <edge id="216" source="20122244000154" target="88197330000160" weight="2.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="2"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="156504.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="217" source="20362118000177" target="15156111000169">
+      <edge id="217" source="20362118000177" target="15156111000169" weight="74.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="74"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="774085.2"></attvalue>
@@ -10330,37 +10330,37 @@
           <attvalue for="valor_total_propostas_ganh" value="5900.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="219" source="21127693000158" target="06880642000109">
+      <edge id="219" source="21127693000158" target="06880642000109" weight="2.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="2"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="46716.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="220" source="21127693000158" target="06889977000198">
+      <edge id="220" source="21127693000158" target="06889977000198" weight="22.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="22"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="273684.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="221" source="21127693000158" target="17450564000129">
+      <edge id="221" source="21127693000158" target="17450564000129" weight="14.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="14"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="168353.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="222" source="21127693000158" target="20707920000151">
+      <edge id="222" source="21127693000158" target="20707920000151" weight="6.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="6"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="55238.5"></attvalue>
         </attvalues>
       </edge>
-      <edge id="223" source="21127693000158" target="25115613000103">
+      <edge id="223" source="21127693000158" target="25115613000103" weight="5.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="5"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="92518.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="224" source="21127693000158" target="26472570000178">
+      <edge id="224" source="21127693000158" target="26472570000178" weight="9.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="9"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="91805.0"></attvalue>
@@ -10372,7 +10372,7 @@
           <attvalue for="valor_total_propostas_ganh" value="42000.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="226" source="22962048000113" target="07287318000144">
+      <edge id="226" source="22962048000113" target="07287318000144" weight="104.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="104"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="27899.99"></attvalue>
@@ -10384,31 +10384,31 @@
           <attvalue for="valor_total_propostas_ganh" value="36900.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="228" source="23351740000178" target="02001435000186">
+      <edge id="228" source="23351740000178" target="02001435000186" weight="138.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="138"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="61550.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="229" source="23351740000178" target="02083142000195">
+      <edge id="229" source="23351740000178" target="02083142000195" weight="2.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="2"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="25399.5"></attvalue>
         </attvalues>
       </edge>
-      <edge id="230" source="23351740000178" target="02839583000174">
+      <edge id="230" source="23351740000178" target="02839583000174" weight="305.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="305"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="216000.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="231" source="23351740000178" target="05000011000195">
+      <edge id="231" source="23351740000178" target="05000011000195" weight="115.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="115"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="57900.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="232" source="23351740000178" target="09436050000190">
+      <edge id="232" source="23351740000178" target="09436050000190" weight="231.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="231"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="102500.0"></attvalue>
@@ -10420,7 +10420,7 @@
           <attvalue for="valor_total_propostas_ganh" value="25230.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="234" source="23351740000178" target="14275578000165">
+      <edge id="234" source="23351740000178" target="14275578000165" weight="49.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="49"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="39901.4"></attvalue>
@@ -10432,43 +10432,43 @@
           <attvalue for="valor_total_propostas_ganh" value="73687.5"></attvalue>
         </attvalues>
       </edge>
-      <edge id="236" source="23351740000178" target="21067549000173">
+      <edge id="236" source="23351740000178" target="21067549000173" weight="52.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="52"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="40800.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="237" source="23351740000178" target="22963328000146">
+      <edge id="237" source="23351740000178" target="22963328000146" weight="2.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="2"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="91288.5"></attvalue>
         </attvalues>
       </edge>
-      <edge id="238" source="23902520000195" target="27550064000112">
+      <edge id="238" source="23902520000195" target="27550064000112" weight="170.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="170"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="116000.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="239" source="24385350000181" target="05306530000186">
+      <edge id="239" source="24385350000181" target="05306530000186" weight="91.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="91"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="169999.97"></attvalue>
         </attvalues>
       </edge>
-      <edge id="240" source="25008177000165" target="04916476000128">
+      <edge id="240" source="25008177000165" target="04916476000128" weight="160.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="160"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="56981.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="241" source="25008177000165" target="78562345000126">
+      <edge id="241" source="25008177000165" target="78562345000126" weight="83.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="83"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="25432.6"></attvalue>
         </attvalues>
       </edge>
-      <edge id="242" source="26473122000199" target="18333846000109">
+      <edge id="242" source="26473122000199" target="18333846000109" weight="33.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="33"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="118645.0"></attvalue>
@@ -10480,7 +10480,7 @@
           <attvalue for="valor_total_propostas_ganh" value="10000.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="244" source="26473122000199" target="24699676000183">
+      <edge id="244" source="26473122000199" target="24699676000183" weight="15.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="15"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="37141.5"></attvalue>
@@ -10492,67 +10492,67 @@
           <attvalue for="valor_total_propostas_ganh" value="10.4"></attvalue>
         </attvalues>
       </edge>
-      <edge id="246" source="26896172000189" target="06349494000109">
+      <edge id="246" source="26896172000189" target="06349494000109" weight="79.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="79"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="87799.55"></attvalue>
         </attvalues>
       </edge>
-      <edge id="247" source="26896172000189" target="27082228000124">
+      <edge id="247" source="26896172000189" target="27082228000124" weight="8.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="8"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="15040.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="248" source="27011755000148" target="10195399000167">
+      <edge id="248" source="27011755000148" target="10195399000167" weight="22.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="22"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="21141.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="249" source="27011755000148" target="79069217000108">
+      <edge id="249" source="27011755000148" target="79069217000108" weight="58.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="58"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="39211.5"></attvalue>
         </attvalues>
       </edge>
-      <edge id="250" source="27152135000129" target="05919156000194">
+      <edge id="250" source="27152135000129" target="05919156000194" weight="46.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="46"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="174006.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="251" source="27152135000129" target="07793253000109">
+      <edge id="251" source="27152135000129" target="07793253000109" weight="2.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="2"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="10305.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="252" source="27152135000129" target="19988744000194">
+      <edge id="252" source="27152135000129" target="19988744000194" weight="59.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="59"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="132654.5"></attvalue>
         </attvalues>
       </edge>
-      <edge id="253" source="27152135000129" target="26500121000196">
+      <edge id="253" source="27152135000129" target="26500121000196" weight="3.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="3"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="13590.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="254" source="27152135000129" target="85081115000100">
+      <edge id="254" source="27152135000129" target="85081115000100" weight="30.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="30"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="110445.6"></attvalue>
         </attvalues>
       </edge>
-      <edge id="255" source="27643917000160" target="05127739000182">
+      <edge id="255" source="27643917000160" target="05127739000182" weight="148.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="148"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="140939.92"></attvalue>
         </attvalues>
       </edge>
-      <edge id="256" source="28593079000120" target="08873392000105">
+      <edge id="256" source="28593079000120" target="08873392000105" weight="54.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="54"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="62800.6"></attvalue>
@@ -10564,7 +10564,7 @@
           <attvalue for="valor_total_propostas_ganh" value="36900.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="258" source="29034775000160" target="27550064000112">
+      <edge id="258" source="29034775000160" target="27550064000112" weight="170.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="170"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="116000.0"></attvalue>
@@ -10576,61 +10576,61 @@
           <attvalue for="valor_total_propostas_ganh" value="960.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="260" source="29621297000194" target="09072545000188">
+      <edge id="260" source="29621297000194" target="09072545000188" weight="9.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="9"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="301340.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="261" source="29621297000194" target="15090176000159">
+      <edge id="261" source="29621297000194" target="15090176000159" weight="21.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="21"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="139326.5"></attvalue>
         </attvalues>
       </edge>
-      <edge id="262" source="29621297000194" target="15804135000187">
+      <edge id="262" source="29621297000194" target="15804135000187" weight="11.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="11"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="28599.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="263" source="29621297000194" target="16757964000119">
+      <edge id="263" source="29621297000194" target="16757964000119" weight="8.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="8"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="40115.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="264" source="29621297000194" target="22499940000100">
+      <edge id="264" source="29621297000194" target="22499940000100" weight="13.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="13"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="34692.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="265" source="29621297000194" target="25116311000141">
+      <edge id="265" source="29621297000194" target="25116311000141" weight="19.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="19"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="187142.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="266" source="29621297000194" target="27959887000104">
+      <edge id="266" source="29621297000194" target="27959887000104" weight="30.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="30"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="183268.5"></attvalue>
         </attvalues>
       </edge>
-      <edge id="267" source="29834310000193" target="01766976000132">
+      <edge id="267" source="29834310000193" target="01766976000132" weight="60.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="60"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="44900.02"></attvalue>
         </attvalues>
       </edge>
-      <edge id="268" source="29834310000193" target="28393409000134">
+      <edge id="268" source="29834310000193" target="28393409000134" weight="9.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="9"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="12900.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="269" source="30560290000199" target="07287318000144">
+      <edge id="269" source="30560290000199" target="07287318000144" weight="104.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="104"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="27899.99"></attvalue>
@@ -10642,19 +10642,19 @@
           <attvalue for="valor_total_propostas_ganh" value="42000.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="271" source="51504215000180" target="15007470000154">
+      <edge id="271" source="51504215000180" target="15007470000154" weight="395.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="395"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="199841.98"></attvalue>
         </attvalues>
       </edge>
-      <edge id="272" source="51504215000180" target="17264357000180">
+      <edge id="272" source="51504215000180" target="17264357000180" weight="274.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="274"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="74300.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="273" source="51504215000180" target="22237752000103">
+      <edge id="273" source="51504215000180" target="22237752000103" weight="870.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="870"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="520699.94"></attvalue>
@@ -10666,13 +10666,13 @@
           <attvalue for="valor_total_propostas_ganh" value="2850.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="275" source="75223511000171" target="76386382000103">
+      <edge id="275" source="75223511000171" target="76386382000103" weight="112.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="112"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="149067.1"></attvalue>
         </attvalues>
       </edge>
-      <edge id="276" source="75387795000131" target="80926462000173">
+      <edge id="276" source="75387795000131" target="80926462000173" weight="88.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="88"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="1187911.5"></attvalue>
@@ -10684,7 +10684,7 @@
           <attvalue for="valor_total_propostas_ganh" value="163500.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="278" source="75646109000108" target="10899149000108">
+      <edge id="278" source="75646109000108" target="10899149000108" weight="250.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="250"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="39793.99"></attvalue>
@@ -10696,7 +10696,7 @@
           <attvalue for="valor_total_propostas_ganh" value="25.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="280" source="76081124000291" target="07206304000159">
+      <edge id="280" source="76081124000291" target="07206304000159" weight="84.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="84"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="66962.88"></attvalue>
@@ -10708,13 +10708,13 @@
           <attvalue for="valor_total_propostas_ganh" value="965.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="282" source="77095743000117" target="02945876000136">
+      <edge id="282" source="77095743000117" target="02945876000136" weight="46.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="46"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="40395.59"></attvalue>
         </attvalues>
       </edge>
-      <edge id="283" source="77095743000117" target="03746444000169">
+      <edge id="283" source="77095743000117" target="03746444000169" weight="41.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="41"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="35174.0"></attvalue>
@@ -10726,13 +10726,13 @@
           <attvalue for="valor_total_propostas_ganh" value="25.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="285" source="78085511000140" target="02322317000170">
+      <edge id="285" source="78085511000140" target="02322317000170" weight="111.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="111"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="74545.4"></attvalue>
         </attvalues>
       </edge>
-      <edge id="286" source="78364395000107" target="14019100000174">
+      <edge id="286" source="78364395000107" target="14019100000174" weight="21.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="21"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="15200.0"></attvalue>
@@ -10744,25 +10744,25 @@
           <attvalue for="valor_total_propostas_ganh" value="7450.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="288" source="78364395000107" target="14563891000107">
+      <edge id="288" source="78364395000107" target="14563891000107" weight="34.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="34"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="24581.6"></attvalue>
         </attvalues>
       </edge>
-      <edge id="289" source="78364395000107" target="75581074000168">
+      <edge id="289" source="78364395000107" target="75581074000168" weight="98.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="98"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="39000.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="290" source="78464955000197" target="15874834000101">
+      <edge id="290" source="78464955000197" target="15874834000101" weight="100.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="100"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="587866.25"></attvalue>
         </attvalues>
       </edge>
-      <edge id="291" source="78807823000110" target="06973073000146">
+      <edge id="291" source="78807823000110" target="06973073000146" weight="78.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="78"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="113988.6"></attvalue>
@@ -10774,145 +10774,145 @@
           <attvalue for="valor_total_propostas_ganh" value="667.4"></attvalue>
         </attvalues>
       </edge>
-      <edge id="293" source="79095493000140" target="19731758000128">
+      <edge id="293" source="79095493000140" target="19731758000128" weight="151.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="151"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="273000.94"></attvalue>
         </attvalues>
       </edge>
-      <edge id="294" source="79542551000137" target="04958600000118">
+      <edge id="294" source="79542551000137" target="04958600000118" weight="19.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="19"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="9031.13"></attvalue>
         </attvalues>
       </edge>
-      <edge id="295" source="79542551000137" target="06006493000153">
+      <edge id="295" source="79542551000137" target="06006493000153" weight="11.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="11"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="3038.8"></attvalue>
         </attvalues>
       </edge>
-      <edge id="296" source="79542551000137" target="06082249000170">
+      <edge id="296" source="79542551000137" target="06082249000170" weight="7.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="7"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="13968.69"></attvalue>
         </attvalues>
       </edge>
-      <edge id="297" source="79542551000137" target="11975632000197">
+      <edge id="297" source="79542551000137" target="11975632000197" weight="20.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="20"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="6044.49"></attvalue>
         </attvalues>
       </edge>
-      <edge id="298" source="79542551000137" target="13708118000110">
+      <edge id="298" source="79542551000137" target="13708118000110" weight="3.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="3"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="270.45"></attvalue>
         </attvalues>
       </edge>
-      <edge id="299" source="79542551000137" target="14227560000198">
+      <edge id="299" source="79542551000137" target="14227560000198" weight="28.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="28"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="7736.12"></attvalue>
         </attvalues>
       </edge>
-      <edge id="300" source="79542551000137" target="85475523000147">
+      <edge id="300" source="79542551000137" target="85475523000147" weight="42.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="42"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="9108.99"></attvalue>
         </attvalues>
       </edge>
-      <edge id="301" source="79581245000100" target="02456116000165">
+      <edge id="301" source="79581245000100" target="02456116000165" weight="15.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="15"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="33652.45"></attvalue>
         </attvalues>
       </edge>
-      <edge id="302" source="79581245000100" target="03159962000186">
+      <edge id="302" source="79581245000100" target="03159962000186" weight="2.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="2"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="9538.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="303" source="79581245000100" target="03775336000114">
+      <edge id="303" source="79581245000100" target="03775336000114" weight="6.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="6"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="12391.1"></attvalue>
         </attvalues>
       </edge>
-      <edge id="304" source="79581245000100" target="07965868000175">
+      <edge id="304" source="79581245000100" target="07965868000175" weight="16.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="16"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="27098.59"></attvalue>
         </attvalues>
       </edge>
-      <edge id="305" source="79581245000100" target="11338711000197">
+      <edge id="305" source="79581245000100" target="11338711000197" weight="27.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="27"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="53483.5"></attvalue>
         </attvalues>
       </edge>
-      <edge id="306" source="79581245000100" target="11358329000145">
+      <edge id="306" source="79581245000100" target="11358329000145" weight="2.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="2"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="711.8"></attvalue>
         </attvalues>
       </edge>
-      <edge id="307" source="79634937000179" target="02001435000186">
+      <edge id="307" source="79634937000179" target="02001435000186" weight="143.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="143"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="279100.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="308" source="79634937000179" target="02083142000195">
+      <edge id="308" source="79634937000179" target="02083142000195" weight="2.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="2"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="25399.5"></attvalue>
         </attvalues>
       </edge>
-      <edge id="309" source="79634937000179" target="02839583000174">
+      <edge id="309" source="79634937000179" target="02839583000174" weight="313.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="313"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="481075.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="310" source="79634937000179" target="05000011000195">
+      <edge id="310" source="79634937000179" target="05000011000195" weight="155.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="155"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="103140.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="311" source="79634937000179" target="09436050000190">
+      <edge id="311" source="79634937000179" target="09436050000190" weight="94.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="94"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="67900.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="312" source="79634937000179" target="14275578000165">
+      <edge id="312" source="79634937000179" target="14275578000165" weight="49.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="49"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="39901.4"></attvalue>
         </attvalues>
       </edge>
-      <edge id="313" source="79634937000179" target="18622030000103">
+      <edge id="313" source="79634937000179" target="18622030000103" weight="7.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="7"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="270990.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="314" source="79634937000179" target="21067549000173">
+      <edge id="314" source="79634937000179" target="21067549000173" weight="52.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="52"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="40800.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="315" source="79634937000179" target="85075281000102">
+      <edge id="315" source="79634937000179" target="85075281000102" weight="84.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="84"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="68400.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="316" source="79665436000150" target="10367732000178">
+      <edge id="316" source="79665436000150" target="10367732000178" weight="2.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="2"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="3790.0"></attvalue>
@@ -10924,73 +10924,73 @@
           <attvalue for="valor_total_propostas_ganh" value="29670.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="318" source="79665436000150" target="23037457000176">
+      <edge id="318" source="79665436000150" target="23037457000176" weight="33.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="33"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="247620.1"></attvalue>
         </attvalues>
       </edge>
-      <edge id="319" source="79665436000150" target="81192759000115">
+      <edge id="319" source="79665436000150" target="81192759000115" weight="26.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="26"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="130679.25"></attvalue>
         </attvalues>
       </edge>
-      <edge id="320" source="79665436000150" target="85093433000191">
+      <edge id="320" source="79665436000150" target="85093433000191" weight="3.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="3"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="187855.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="321" source="80186273000101" target="07939649000111">
+      <edge id="321" source="80186273000101" target="07939649000111" weight="55.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="55"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="5750.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="322" source="80359789000100" target="16752591000193">
+      <edge id="322" source="80359789000100" target="16752591000193" weight="68.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="68"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="100380.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="323" source="81554644000123" target="10215032000168">
+      <edge id="323" source="81554644000123" target="10215032000168" weight="2.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="2"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="9830.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="324" source="81554644000123" target="10553937000148">
+      <edge id="324" source="81554644000123" target="10553937000148" weight="74.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="74"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="7335.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="325" source="81554644000123" target="11291063000160">
+      <edge id="325" source="81554644000123" target="11291063000160" weight="37.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="37"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="3006.22"></attvalue>
         </attvalues>
       </edge>
-      <edge id="326" source="81554644000123" target="85020154000106">
+      <edge id="326" source="81554644000123" target="85020154000106" weight="19.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="19"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="304908.56"></attvalue>
         </attvalues>
       </edge>
-      <edge id="327" source="82378415000168" target="17307974000115">
+      <edge id="327" source="82378415000168" target="17307974000115" weight="71.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="71"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="45827.55"></attvalue>
         </attvalues>
       </edge>
-      <edge id="328" source="84930957000127" target="08761647000148">
+      <edge id="328" source="84930957000127" target="08761647000148" weight="2.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="2"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="2515.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="329" source="84930957000127" target="10337984000154">
+      <edge id="329" source="84930957000127" target="10337984000154" weight="32.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="32"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="64837.1"></attvalue>
@@ -11002,13 +11002,13 @@
           <attvalue for="valor_total_propostas_ganh" value="269.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="331" source="84930957000127" target="11025309000152">
+      <edge id="331" source="84930957000127" target="11025309000152" weight="2.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="2"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="5962.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="332" source="84930957000127" target="72272149000130">
+      <edge id="332" source="84930957000127" target="72272149000130" weight="35.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="35"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="73566.5"></attvalue>
@@ -11020,43 +11020,43 @@
           <attvalue for="valor_total_propostas_ganh" value="5.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="334" source="88470422000171" target="00824499000151">
+      <edge id="334" source="88470422000171" target="00824499000151" weight="74.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="74"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="249000.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="335" source="88470422000171" target="01400519000120">
+      <edge id="335" source="88470422000171" target="01400519000120" weight="114.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="114"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="326548.34"></attvalue>
         </attvalues>
       </edge>
-      <edge id="336" source="88470422000171" target="04683301000118">
+      <edge id="336" source="88470422000171" target="04683301000118" weight="184.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="184"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="31735.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="337" source="88470422000171" target="04902369000140">
+      <edge id="337" source="88470422000171" target="04902369000140" weight="26.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="26"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="15030.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="338" source="88470422000171" target="09436050000190">
+      <edge id="338" source="88470422000171" target="09436050000190" weight="71.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="71"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="132860.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="339" source="88470422000171" target="10616173000192">
+      <edge id="339" source="88470422000171" target="10616173000192" weight="6.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="6"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="852.0"></attvalue>
         </attvalues>
       </edge>
-      <edge id="340" source="88470422000171" target="84880137000178">
+      <edge id="340" source="88470422000171" target="84880137000178" weight="20.0">
         <attvalues>
           <attvalue for="particip_conjuntas" value="20"></attvalue>
           <attvalue for="valor_total_propostas_ganh" value="18330.0"></attvalue>
