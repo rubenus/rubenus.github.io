@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2018-11-28">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="bairro" title="bairro" type="string"></attribute>
+      <attribute id="cep" title="cep" type="string"></attribute>
+      <attribute id="capital social" title="capital social" type="string"></attribute>
+      <attribute id="complemento" title="complemento" type="string"></attribute>
+      <attribute id="data de constituição" title="data de constituição" type="string"></attribute>
+      <attribute id="data de entrada na sociedade" title="data de entrada na sociedade" type="string"></attribute>
+      <attribute id="data de saída na sociedade" title="data de saída na sociedade" type="string"></attribute>
+      <attribute id="logradouro" title="logradouro" type="string"></attribute>
+      <attribute id="município" title="município" type="string"></attribute>
+      <attribute id="nome da empresa" title="nome da empresa" type="string"></attribute>
+      <attribute id="nome de empresa" title="nome de empresa" type="string"></attribute>
+      <attribute id="numero de cnaes" title="numero de cnaes" type="string"></attribute>
+      <attribute id="numero de socios" title="numero de socios" type="string"></attribute>
+      <attribute id="numero de socios no bf" title="numero de socios no bf" type="string"></attribute>
+      <attribute id="número" title="número" type="string"></attribute>
+      <attribute id="número de funcionários" title="número de funcionários" type="string"></attribute>
+      <attribute id="número de socios com sal. baixo" title="número de socios com sal. baixo" type="string"></attribute>
+      <attribute id="uf" title="uf" type="string"></attribute>
+      <attribute id="cpf" title="cpf" type="string"></attribute>
+      <attribute id="firms_in_address" title="firms_in_address" type="string"></attribute>
+      <attribute id="map_link" title="map_link" type="string"></attribute>
+      <attribute id="n_socios_funcionarios_publicos" title="n_socios_funcionarios_publicos" type="string"></attribute>
+      <attribute id="relacionamento" title="relacionamento" type="string"></attribute>
+      <attribute id="type" title="type" type="integer"></attribute>
+    </attributes>
+    <nodes>
+      <node id="ALEJANDRO JUVENAL HERBAS CAMACHO JUNIOR">
+        <attvalues>
+          <attvalue for="cpf" value="09391110800"></attvalue>
+          <attvalue for="type" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="466.0804" y="-209.26974"></viz:position>
+        <viz:color r="240" g="0" b="7"></viz:color>
+      </node>
+      <node id="FRANCISCA ALVES DA SILVA">
+        <attvalues>
+          <attvalue for="cpf" value="12726678807"></attvalue>
+          <attvalue for="relacionamento" value="COMPANHEIRA"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="433.76385" y="-273.1103"></viz:position>
+        <viz:color r="240" g="144" b="0"></viz:color>
+      </node>
+      <node id="VITORIA ALVES HERBAS CAMACHO">
+        <attvalues>
+          <attvalue for="cpf" value="07345004325"></attvalue>
+          <attvalue for="relacionamento" value="FILHA"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="498.2462" y="-186.14337"></viz:position>
+        <viz:color r="240" g="144" b="0"></viz:color>
+      </node>
+      <node id="PALOMA SANCHES HERBAS CAMACHO">
+        <attvalues>
+          <attvalue for="cpf" value="36673944897"></attvalue>
+          <attvalue for="relacionamento" value="FILHA"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="430.95105" y="-181.31526"></viz:position>
+        <viz:color r="240" g="144" b="0"></viz:color>
+      </node>
+      <node id="LEONARDO ALEXSANDER RIBEIRO HERBAS CAMACHO">
+        <attvalues>
+          <attvalue for="cpf" value="47052256860"></attvalue>
+          <attvalue for="relacionamento" value="FILHO"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="425.56256" y="-229.78519"></viz:position>
+        <viz:color r="240" g="144" b="0"></viz:color>
+      </node>
+      <node id="ALEJANDRO JUVENAL HERBAS CAMACHO NETO">
+        <attvalues>
+          <attvalue for="cpf" value="07345014398"></attvalue>
+          <attvalue for="relacionamento" value="FILHO"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="456.66333" y="-244.12306"></viz:position>
+        <viz:color r="240" g="144" b="0"></viz:color>
+      </node>
+      <node id="THAIS CRISTINA OLIVEIRA DA SILVA">
+        <attvalues>
+          <attvalue for="cpf" value="37924151869"></attvalue>
+          <attvalue for="relacionamento" value="IRMA"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="522.6261" y="-218.85689"></viz:position>
+        <viz:color r="240" g="144" b="0"></viz:color>
+      </node>
+      <node id="EDUARDO OLIVEIRA DA SILVA">
+        <attvalues>
+          <attvalue for="cpf" value="31259730824"></attvalue>
+          <attvalue for="relacionamento" value="IRMAO"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="468.87262" y="-130.41579"></viz:position>
+        <viz:color r="240" g="144" b="0"></viz:color>
+      </node>
+      <node id="BARBARA ALVES MOTA">
+        <attvalues>
+          <attvalue for="cpf" value="07002433300"></attvalue>
+          <attvalue for="relacionamento" value="ENTEADA"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="495.137" y="-239.16518"></viz:position>
+        <viz:color r="240" g="144" b="0"></viz:color>
+      </node>
+      <node id="ANTONIO JOSE MULLER JUNIOR">
+        <attvalues>
+          <attvalue for="cpf" value="18747433818"></attvalue>
+          <attvalue for="type" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-194.71169" y="-18.896894"></viz:position>
+        <viz:color r="240" g="0" b="7"></viz:color>
+      </node>
+      <node id="CARLA DE PAULA MULLER">
+        <attvalues>
+          <attvalue for="cpf" value="27762086854"></attvalue>
+          <attvalue for="relacionamento" value="ESPOSA"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-131.61942" y="54.66828"></viz:position>
+        <viz:color r="240" g="144" b="0"></viz:color>
+      </node>
+      <node id="MARIA EDUARDA FINUCCI SANTOS">
+        <attvalues>
+          <attvalue for="cpf" value="43128442835"></attvalue>
+          <attvalue for="relacionamento" value="FILHA"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-210.25923" y="-60.68566"></viz:position>
+        <viz:color r="240" g="144" b="0"></viz:color>
+      </node>
+      <node id="GIOVANNA DE PAULA MULLER">
+        <attvalues>
+          <attvalue for="cpf" value="45010207842"></attvalue>
+          <attvalue for="relacionamento" value="FILHA"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-150.6091" y="-20.124798"></viz:position>
+        <viz:color r="240" g="144" b="0"></viz:color>
+      </node>
+      <node id="MICHELLE FERNANDA MULLER">
+        <attvalues>
+          <attvalue for="cpf" value="08350038683"></attvalue>
+          <attvalue for="relacionamento" value="FILHA"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-158.2592" y="-69.81124"></viz:position>
+        <viz:color r="240" g="144" b="0"></viz:color>
+      </node>
+      <node id="THALIA CONCEIÇÃO MULLER">
+        <attvalues>
+          <attvalue for="cpf" value="46860755806"></attvalue>
+          <attvalue for="relacionamento" value="FILHA"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-235.6256" y="-5.144757"></viz:position>
+        <viz:color r="240" g="144" b="0"></viz:color>
+      </node>
+      <node id="TAYNAH CONCEIÇÃO DE WERK MULLER">
+        <attvalues>
+          <attvalue for="cpf" value="42726787878"></attvalue>
+          <attvalue for="relacionamento" value="FILHA"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-273.53223" y="-49.067635"></viz:position>
+        <viz:color r="240" g="144" b="0"></viz:color>
+      </node>
+      <node id="EDER FERNANDO MULLER">
+        <attvalues>
+          <attvalue for="cpf" value="34440129854"></attvalue>
+          <attvalue for="relacionamento" value="FILHO"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-209.63538" y="23.692951"></viz:position>
+        <viz:color r="240" g="144" b="0"></viz:color>
+      </node>
+      <node id="FELIPE DE WERK MULLER">
+        <attvalues>
+          <attvalue for="cpf" value="35662881871"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-338.05118" y="-74.77217"></viz:position>
+        <viz:color r="240" g="144" b="0"></viz:color>
+      </node>
+      <node id="06259677000125">
+        <attvalues>
+          <attvalue for="bairro" value="SE"></attvalue>
+          <attvalue for="cep" value="01512020"></attvalue>
+          <attvalue for="capital social" value="2000.0"></attvalue>
+          <attvalue for="data de constituição" value="2004-04-19"></attvalue>
+          <attvalue for="logradouro" value="RUA HELENA ZERRENER"></attvalue>
+          <attvalue for="município" value="SÃO PAULO"></attvalue>
+          <attvalue for="nome de empresa" value="FRANCISCA ALVES DA SILVA CONFECCOES"></attvalue>
+          <attvalue for="numero de cnaes" value="1.0"></attvalue>
+          <attvalue for="numero de socios" value="1.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+          <attvalue for="número" value="47"></attvalue>
+          <attvalue for="número de funcionários" value="3.0"></attvalue>
+          <attvalue for="número de socios com sal. baixo" value="0.0"></attvalue>
+          <attvalue for="uf" value="SP"></attvalue>
+          <attvalue for="firms_in_address" value="1.0"></attvalue>
+          <attvalue for="map_link" value="https://www.google.com/maps/search/01512020,+RUA+HELENA+ZERRENER,+47,+SE"></attvalue>
+          <attvalue for="n_socios_funcionarios_publicos" value="0.0"></attvalue>
+          <attvalue for="type" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="410.66785" y="-322.82687"></viz:position>
+        <viz:color r="0" g="10" b="245"></viz:color>
+      </node>
+      <node id="14751453000164">
+        <attvalues>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+          <attvalue for="número de funcionários" value="-1.0"></attvalue>
+          <attvalue for="número de socios com sal. baixo" value="0.0"></attvalue>
+          <attvalue for="n_socios_funcionarios_publicos" value="0.0"></attvalue>
+          <attvalue for="type" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="558.06195" y="-229.08916"></viz:position>
+        <viz:color r="0" g="10" b="245"></viz:color>
+      </node>
+      <node id="14599276000142">
+        <attvalues>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+          <attvalue for="número de funcionários" value="-1.0"></attvalue>
+          <attvalue for="número de socios com sal. baixo" value="0.0"></attvalue>
+          <attvalue for="n_socios_funcionarios_publicos" value="0.0"></attvalue>
+          <attvalue for="type" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="448.68573" y="-94.889244"></viz:position>
+        <viz:color r="0" g="10" b="245"></viz:color>
+      </node>
+      <node id="21279234000190">
+        <attvalues>
+          <attvalue for="bairro" value="SAUDE"></attvalue>
+          <attvalue for="cep" value="04055090"></attvalue>
+          <attvalue for="capital social" value="50000.0"></attvalue>
+          <attvalue for="data de constituição" value="2014-10-23"></attvalue>
+          <attvalue for="logradouro" value="RUA DECIO"></attvalue>
+          <attvalue for="município" value="QUITANDINHA"></attvalue>
+          <attvalue for="nome de empresa" value="CENTRO DE TREINAMENTO PARA MULHERES NO TRANSITO LTDA - M.E."></attvalue>
+          <attvalue for="numero de cnaes" value="1.0"></attvalue>
+          <attvalue for="numero de socios" value="1.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+          <attvalue for="número" value="162"></attvalue>
+          <attvalue for="número de funcionários" value="11.0"></attvalue>
+          <attvalue for="número de socios com sal. baixo" value="0.0"></attvalue>
+          <attvalue for="uf" value="PR"></attvalue>
+          <attvalue for="firms_in_address" value="1.0"></attvalue>
+          <attvalue for="map_link" value="https://www.google.com/maps/search/04055090,+RUA+DECIO,+162,+SAUDE"></attvalue>
+          <attvalue for="n_socios_funcionarios_publicos" value="0.0"></attvalue>
+          <attvalue for="type" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-47.323635" y="114.32729"></viz:position>
+        <viz:color r="0" g="10" b="245"></viz:color>
+      </node>
+      <node id="22861933000106">
+        <attvalues>
+          <attvalue for="bairro" value="Vila do Encontro"></attvalue>
+          <attvalue for="cep" value="04323180"></attvalue>
+          <attvalue for="capital social" value="50000.0"></attvalue>
+          <attvalue for="complemento" value="Casa 2"></attvalue>
+          <attvalue for="data de constituição" value="2015-07-16"></attvalue>
+          <attvalue for="logradouro" value="Rua do Céu"></attvalue>
+          <attvalue for="município" value="SÃO PAULO"></attvalue>
+          <attvalue for="nome de empresa" value="CARLA DE PAULA MÜLLER TRANSPORTES"></attvalue>
+          <attvalue for="numero de cnaes" value="5.0"></attvalue>
+          <attvalue for="numero de socios" value="1.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+          <attvalue for="número" value="65"></attvalue>
+          <attvalue for="número de funcionários" value="1.0"></attvalue>
+          <attvalue for="número de socios com sal. baixo" value="0.0"></attvalue>
+          <attvalue for="uf" value="SP"></attvalue>
+          <attvalue for="firms_in_address" value="1.0"></attvalue>
+          <attvalue for="map_link" value="https://www.google.com/maps/search/04323180,+Rua+do+Céu,+65,+Vila+do+Encontro"></attvalue>
+          <attvalue for="n_socios_funcionarios_publicos" value="0.0"></attvalue>
+          <attvalue for="type" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-162.17224" y="82.77828"></viz:position>
+        <viz:color r="0" g="10" b="245"></viz:color>
+      </node>
+      <node id="22679361000149">
+        <attvalues>
+          <attvalue for="bairro" value="PIRITUBA"></attvalue>
+          <attvalue for="cep" value="07417140"></attvalue>
+          <attvalue for="capital social" value="3000.0"></attvalue>
+          <attvalue for="data de constituição" value="2015-06-18"></attvalue>
+          <attvalue for="logradouro" value="RUA UMBELINA FERREIRA BARBOSA (PRQ R BAR, ARUJÁ,"></attvalue>
+          <attvalue for="nome de empresa" value="MICHELLE FERNANDA MULLER 08350038683"></attvalue>
+          <attvalue for="numero de cnaes" value="1.0"></attvalue>
+          <attvalue for="numero de socios" value="1.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+          <attvalue for="número" value="165"></attvalue>
+          <attvalue for="número de funcionários" value="-1.0"></attvalue>
+          <attvalue for="número de socios com sal. baixo" value="0.0"></attvalue>
+          <attvalue for="map_link" value="https://www.google.com/maps/search/07417140,+RUA+UMBELINA+FERREIRA+BARBOSA+(PRQ+R+BAR,+ARUJÁ,+,+165,+PIRITUBA"></attvalue>
+          <attvalue for="n_socios_funcionarios_publicos" value="0.0"></attvalue>
+          <attvalue for="type" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-136.7638" y="-98.978874"></viz:position>
+        <viz:color r="0" g="10" b="245"></viz:color>
+      </node>
+      <node id="18102998000109">
+        <attvalues>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+          <attvalue for="número de funcionários" value="-1.0"></attvalue>
+          <attvalue for="número de socios com sal. baixo" value="0.0"></attvalue>
+          <attvalue for="n_socios_funcionarios_publicos" value="0.0"></attvalue>
+          <attvalue for="type" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-299.3049" y="-79.16793"></viz:position>
+        <viz:color r="0" g="10" b="245"></viz:color>
+      </node>
+      <node id="17005944000154">
+        <attvalues>
+          <attvalue for="bairro" value="JARDIM MOREIRA"></attvalue>
+          <attvalue for="cep" value="07083280"></attvalue>
+          <attvalue for="capital social" value="3000.0"></attvalue>
+          <attvalue for="data de constituição" value="2011-10-17"></attvalue>
+          <attvalue for="logradouro" value="RUA ANGRA DOS REIS"></attvalue>
+          <attvalue for="município" value="GUARULHOS"></attvalue>
+          <attvalue for="nome de empresa" value="WERK INFORMATICA LTDA - M.E."></attvalue>
+          <attvalue for="numero de cnaes" value="2.0"></attvalue>
+          <attvalue for="numero de socios" value="2.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+          <attvalue for="número" value="90"></attvalue>
+          <attvalue for="número de funcionários" value="-1.0"></attvalue>
+          <attvalue for="número de socios com sal. baixo" value="0.0"></attvalue>
+          <attvalue for="uf" value="SP"></attvalue>
+          <attvalue for="firms_in_address" value="1.0"></attvalue>
+          <attvalue for="map_link" value="https://www.google.com/maps/search/07083280,+RUA+ANGRA+DOS+REIS,+90,+JARDIM+MOREIRA"></attvalue>
+          <attvalue for="n_socios_funcionarios_publicos" value="0.0"></attvalue>
+          <attvalue for="type" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-323.39145" y="-44.492672"></viz:position>
+        <viz:color r="0" g="10" b="245"></viz:color>
+      </node>
+      <node id="FERNANDA PIRES DOS SANTOS">
+        <attvalues>
+          <attvalue for="cpf" value="32686831855"></attvalue>
+          <attvalue for="type" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-94.13296" y="95.72315"></viz:position>
+        <viz:color r="0" g="173" b="17"></viz:color>
+      </node>
+      <node id="MARINALVA BEZERRA LEITE">
+        <attvalues>
+          <attvalue for="cpf" value="35148265876"></attvalue>
+          <attvalue for="type" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="24.482199" y="125.51954"></viz:position>
+        <viz:color r="0" g="173" b="17"></viz:color>
+      </node>
+      <node id="WANDER ALVES DA COSTA">
+        <attvalues>
+          <attvalue for="cpf" value="38527772833"></attvalue>
+          <attvalue for="type" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="390.6807" y="-360.69302"></viz:position>
+        <viz:color r="0" g="173" b="17"></viz:color>
+      </node>
+      <node id="RENATO DIAS SOUSA">
+        <attvalues>
+          <attvalue for="cpf" value="04040205855"></attvalue>
+          <attvalue for="type" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-189.32733" y="106.934105"></viz:position>
+        <viz:color r="0" g="173" b="17"></viz:color>
+      </node>
+      <node id="ORMANDO BARBOSA DE SOUZA">
+        <attvalues>
+          <attvalue for="cpf" value="05032534803"></attvalue>
+          <attvalue for="type" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="5.7912903" y="79.6201"></viz:position>
+        <viz:color r="0" g="173" b="17"></viz:color>
+      </node>
+      <node id="MARA DO CARMO DE OLIVEIRA ARAUJO">
+        <attvalues>
+          <attvalue for="cpf" value="26316306881"></attvalue>
+          <attvalue for="type" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-56.673435" y="186.10138"></viz:position>
+        <viz:color r="0" g="173" b="17"></viz:color>
+      </node>
+      <node id="HELIUDE TEIXEIRA DE ANDRADE">
+        <attvalues>
+          <attvalue for="cpf" value="37180555894"></attvalue>
+          <attvalue for="type" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-12.132715" y="107.31918"></viz:position>
+        <viz:color r="0" g="173" b="17"></viz:color>
+      </node>
+      <node id="KATIA SOARES">
+        <attvalues>
+          <attvalue for="cpf" value="27781303814"></attvalue>
+          <attvalue for="type" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-68.407906" y="148.79944"></viz:position>
+        <viz:color r="0" g="173" b="17"></viz:color>
+      </node>
+      <node id="MARA LEILIANE DA SILVA LEAO">
+        <attvalues>
+          <attvalue for="cpf" value="00988186438"></attvalue>
+          <attvalue for="type" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-98.12445" y="135.04112"></viz:position>
+        <viz:color r="0" g="173" b="17"></viz:color>
+      </node>
+      <node id="JENIFER DOS SANTOS SOARES">
+        <attvalues>
+          <attvalue for="cpf" value="35096051870"></attvalue>
+          <attvalue for="type" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-69.220215" y="69.23943"></viz:position>
+        <viz:color r="0" g="173" b="17"></viz:color>
+      </node>
+      <node id="ANTONIA CHAVES DE SOUSA">
+        <attvalues>
+          <attvalue for="cpf" value="32196103829"></attvalue>
+          <attvalue for="type" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="370.3389" y="-319.6292"></viz:position>
+        <viz:color r="0" g="173" b="17"></viz:color>
+      </node>
+      <node id="EVA MARIA DE OLIVEIRA">
+        <attvalues>
+          <attvalue for="cpf" value="79243649353"></attvalue>
+          <attvalue for="type" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="435.759" y="-355.61768"></viz:position>
+        <viz:color r="0" g="173" b="17"></viz:color>
+      </node>
+      <node id="ROSEILDA ALVES DE JESUS LIMA">
+        <attvalues>
+          <attvalue for="cpf" value="26081932850"></attvalue>
+          <attvalue for="type" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-5.7122808" y="145.77971"></viz:position>
+        <viz:color r="0" g="173" b="17"></viz:color>
+      </node>
+      <node id="DAYANE LUIZ RODRIGUES DA SILVA">
+        <attvalues>
+          <attvalue for="cpf" value="34351099801"></attvalue>
+          <attvalue for="type" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-34.071377" y="161.41045"></viz:position>
+        <viz:color r="0" g="173" b="17"></viz:color>
+      </node>
+      <node id="LAURA SUELI DE PINA QUADROS GONCALVES">
+        <attvalues>
+          <attvalue for="cpf" value="30078284813"></attvalue>
+          <attvalue for="type" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-29.706968" y="64.050285"></viz:position>
+        <viz:color r="0" g="173" b="17"></viz:color>
+      </node>
+      <node id="16891431000125">
+        <attvalues>
+          <attvalue for="data de entrada na sociedade" value="1900-01-01"></attvalue>
+          <attvalue for="nome da empresa" value="MARINALVA BEZERRA LEITE 35148265876"></attvalue>
+          <attvalue for="type" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="60.74489" y="134.98485"></viz:position>
+        <viz:color r="0" g="10" b="245"></viz:color>
+      </node>
+      <node id="Desconhecido">
+        <attvalues>
+          <attvalue for="data de entrada na sociedade" value="1900-01-01"></attvalue>
+          <attvalue for="nome da empresa" value="THEREMAR AJUSTES DE ROUPAS LTDA. - M.E."></attvalue>
+          <attvalue for="type" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-56.596325" y="223.42152"></viz:position>
+        <viz:color r="0" g="10" b="245"></viz:color>
+      </node>
+      <node id="00000000000000">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="495.80447" y="-101.4239"></viz:position>
+        <viz:color r="35" g="150" b="111"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="ALEJANDRO JUVENAL HERBAS CAMACHO JUNIOR" target="FRANCISCA ALVES DA SILVA"></edge>
+      <edge id="1" source="ALEJANDRO JUVENAL HERBAS CAMACHO JUNIOR" target="VITORIA ALVES HERBAS CAMACHO"></edge>
+      <edge id="2" source="ALEJANDRO JUVENAL HERBAS CAMACHO JUNIOR" target="PALOMA SANCHES HERBAS CAMACHO"></edge>
+      <edge id="3" source="ALEJANDRO JUVENAL HERBAS CAMACHO JUNIOR" target="LEONARDO ALEXSANDER RIBEIRO HERBAS CAMACHO"></edge>
+      <edge id="4" source="ALEJANDRO JUVENAL HERBAS CAMACHO JUNIOR" target="ALEJANDRO JUVENAL HERBAS CAMACHO NETO"></edge>
+      <edge id="5" source="ALEJANDRO JUVENAL HERBAS CAMACHO JUNIOR" target="THAIS CRISTINA OLIVEIRA DA SILVA"></edge>
+      <edge id="6" source="ALEJANDRO JUVENAL HERBAS CAMACHO JUNIOR" target="EDUARDO OLIVEIRA DA SILVA"></edge>
+      <edge id="7" source="ALEJANDRO JUVENAL HERBAS CAMACHO JUNIOR" target="BARBARA ALVES MOTA"></edge>
+      <edge id="8" source="ANTONIO JOSE MULLER JUNIOR" target="CARLA DE PAULA MULLER"></edge>
+      <edge id="9" source="ANTONIO JOSE MULLER JUNIOR" target="MARIA EDUARDA FINUCCI SANTOS"></edge>
+      <edge id="10" source="ANTONIO JOSE MULLER JUNIOR" target="GIOVANNA DE PAULA MULLER"></edge>
+      <edge id="11" source="ANTONIO JOSE MULLER JUNIOR" target="MICHELLE FERNANDA MULLER"></edge>
+      <edge id="12" source="ANTONIO JOSE MULLER JUNIOR" target="THALIA CONCEIÇÃO MULLER"></edge>
+      <edge id="13" source="ANTONIO JOSE MULLER JUNIOR" target="TAYNAH CONCEIÇÃO DE WERK MULLER"></edge>
+      <edge id="14" source="ANTONIO JOSE MULLER JUNIOR" target="EDER FERNANDO MULLER"></edge>
+      <edge id="15" source="FRANCISCA ALVES DA SILVA" target="06259677000125"></edge>
+      <edge id="16" source="THAIS CRISTINA OLIVEIRA DA SILVA" target="14751453000164"></edge>
+      <edge id="17" source="EDUARDO OLIVEIRA DA SILVA" target="00000000000000"></edge>
+      <edge id="18" source="EDUARDO OLIVEIRA DA SILVA" target="14599276000142"></edge>
+      <edge id="19" source="CARLA DE PAULA MULLER" target="21279234000190"></edge>
+      <edge id="20" source="CARLA DE PAULA MULLER" target="22861933000106"></edge>
+      <edge id="21" source="MICHELLE FERNANDA MULLER" target="22679361000149"></edge>
+      <edge id="22" source="TAYNAH CONCEIÇÃO DE WERK MULLER" target="18102998000109"></edge>
+      <edge id="23" source="TAYNAH CONCEIÇÃO DE WERK MULLER" target="17005944000154"></edge>
+      <edge id="24" source="FELIPE DE WERK MULLER" target="18102998000109"></edge>
+      <edge id="25" source="FELIPE DE WERK MULLER" target="17005944000154"></edge>
+      <edge id="26" source="21279234000190" target="FERNANDA PIRES DOS SANTOS"></edge>
+      <edge id="27" source="21279234000190" target="MARINALVA BEZERRA LEITE"></edge>
+      <edge id="28" source="06259677000125" target="WANDER ALVES DA COSTA"></edge>
+      <edge id="29" source="22861933000106" target="RENATO DIAS SOUSA"></edge>
+      <edge id="30" source="21279234000190" target="ORMANDO BARBOSA DE SOUZA"></edge>
+      <edge id="31" source="21279234000190" target="MARA DO CARMO DE OLIVEIRA ARAUJO"></edge>
+      <edge id="32" source="21279234000190" target="HELIUDE TEIXEIRA DE ANDRADE"></edge>
+      <edge id="33" source="21279234000190" target="KATIA SOARES"></edge>
+      <edge id="34" source="21279234000190" target="MARA LEILIANE DA SILVA LEAO"></edge>
+      <edge id="35" source="21279234000190" target="JENIFER DOS SANTOS SOARES"></edge>
+      <edge id="36" source="06259677000125" target="ANTONIA CHAVES DE SOUSA"></edge>
+      <edge id="37" source="06259677000125" target="EVA MARIA DE OLIVEIRA"></edge>
+      <edge id="38" source="21279234000190" target="ROSEILDA ALVES DE JESUS LIMA"></edge>
+      <edge id="39" source="21279234000190" target="DAYANE LUIZ RODRIGUES DA SILVA"></edge>
+      <edge id="40" source="21279234000190" target="LAURA SUELI DE PINA QUADROS GONCALVES"></edge>
+      <edge id="41" source="MARINALVA BEZERRA LEITE" target="16891431000125"></edge>
+      <edge id="42" source="MARA DO CARMO DE OLIVEIRA ARAUJO" target="Desconhecido"></edge>
+    </edges>
+  </graph>
+</gexf>
