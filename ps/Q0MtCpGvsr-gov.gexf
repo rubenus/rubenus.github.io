@@ -38,7 +38,7 @@
           <attvalue for="type" value="0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="466.0804" y="-209.26974"></viz:position>
+        <viz:position x="504.91382" y="-213.98534"></viz:position>
         <viz:color r="240" g="0" b="7"></viz:color>
       </node>
       <node id="FRANCISCA ALVES DA SILVA">
@@ -48,7 +48,7 @@
           <attvalue for="type" value="1"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="433.76385" y="-273.1103"></viz:position>
+        <viz:position x="440.9569" y="-320.73865"></viz:position>
         <viz:color r="240" g="144" b="0"></viz:color>
       </node>
       <node id="VITORIA ALVES HERBAS CAMACHO">
@@ -58,7 +58,7 @@
           <attvalue for="type" value="1"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="498.2462" y="-186.14337"></viz:position>
+        <viz:position x="548.3378" y="-164.51358"></viz:position>
         <viz:color r="240" g="144" b="0"></viz:color>
       </node>
       <node id="PALOMA SANCHES HERBAS CAMACHO">
@@ -68,7 +68,7 @@
           <attvalue for="type" value="1"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="430.95105" y="-181.31526"></viz:position>
+        <viz:position x="469.80835" y="-171.24365"></viz:position>
         <viz:color r="240" g="144" b="0"></viz:color>
       </node>
       <node id="LEONARDO ALEXSANDER RIBEIRO HERBAS CAMACHO">
@@ -78,7 +78,7 @@
           <attvalue for="type" value="1"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="425.56256" y="-229.78519"></viz:position>
+        <viz:position x="447.72906" y="-225.38347"></viz:position>
         <viz:color r="240" g="144" b="0"></viz:color>
       </node>
       <node id="ALEJANDRO JUVENAL HERBAS CAMACHO NETO">
@@ -88,7 +88,7 @@
           <attvalue for="type" value="1"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="456.66333" y="-244.12306"></viz:position>
+        <viz:position x="484.07098" y="-258.57993"></viz:position>
         <viz:color r="240" g="144" b="0"></viz:color>
       </node>
       <node id="THAIS CRISTINA OLIVEIRA DA SILVA">
@@ -98,7 +98,7 @@
           <attvalue for="type" value="1"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="522.6261" y="-218.85689"></viz:position>
+        <viz:position x="580.5285" y="-224.25452"></viz:position>
         <viz:color r="240" g="144" b="0"></viz:color>
       </node>
       <node id="EDUARDO OLIVEIRA DA SILVA">
@@ -108,7 +108,7 @@
           <attvalue for="type" value="1"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="468.87262" y="-130.41579"></viz:position>
+        <viz:position x="500.5473" y="-85.130585"></viz:position>
         <viz:color r="240" g="144" b="0"></viz:color>
       </node>
       <node id="BARBARA ALVES MOTA">
@@ -118,7 +118,7 @@
           <attvalue for="type" value="1"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="495.137" y="-239.16518"></viz:position>
+        <viz:position x="541.3298" y="-268.7903"></viz:position>
         <viz:color r="240" g="144" b="0"></viz:color>
       </node>
       <node id="ANTONIO JOSE MULLER JUNIOR">
@@ -127,7 +127,7 @@
           <attvalue for="type" value="0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-194.71169" y="-18.896894"></viz:position>
+        <viz:position x="-226.20316" y="-41.353115"></viz:position>
         <viz:color r="240" g="0" b="7"></viz:color>
       </node>
       <node id="CARLA DE PAULA MULLER">
@@ -137,7 +137,7 @@
           <attvalue for="type" value="1"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-131.61942" y="54.66828"></viz:position>
+        <viz:position x="-116.15886" y="60.313652"></viz:position>
         <viz:color r="240" g="144" b="0"></viz:color>
       </node>
       <node id="MARIA EDUARDA FINUCCI SANTOS">
@@ -147,7 +147,7 @@
           <attvalue for="type" value="1"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-210.25923" y="-60.68566"></viz:position>
+        <viz:position x="-250.00134" y="-97.73097"></viz:position>
         <viz:color r="240" g="144" b="0"></viz:color>
       </node>
       <node id="GIOVANNA DE PAULA MULLER">
@@ -157,7 +157,7 @@
           <attvalue for="type" value="1"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-150.6091" y="-20.124798"></viz:position>
+        <viz:position x="-165.73386" y="-46.207447"></viz:position>
         <viz:color r="240" g="144" b="0"></viz:color>
       </node>
       <node id="MICHELLE FERNANDA MULLER">
@@ -167,7 +167,7 @@
           <attvalue for="type" value="1"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-158.2592" y="-69.81124"></viz:position>
+        <viz:position x="-181.97565" y="-108.73882"></viz:position>
         <viz:color r="240" g="144" b="0"></viz:color>
       </node>
       <node id="THALIA CONCEIÇÃO MULLER">
@@ -177,7 +177,7 @@
           <attvalue for="type" value="1"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-235.6256" y="-5.144757"></viz:position>
+        <viz:position x="-286.56387" y="-32.43848"></viz:position>
         <viz:color r="240" g="144" b="0"></viz:color>
       </node>
       <node id="TAYNAH CONCEIÇÃO DE WERK MULLER">
@@ -187,7 +187,7 @@
           <attvalue for="type" value="1"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-273.53223" y="-49.067635"></viz:position>
+        <viz:position x="-334.70154" y="-80.483025"></viz:position>
         <viz:color r="240" g="144" b="0"></viz:color>
       </node>
       <node id="EDER FERNANDO MULLER">
@@ -197,7 +197,7 @@
           <attvalue for="type" value="1"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-209.63538" y="23.692951"></viz:position>
+        <viz:position x="-255.16963" y="17.40213"></viz:position>
         <viz:color r="240" g="144" b="0"></viz:color>
       </node>
       <node id="FELIPE DE WERK MULLER">
@@ -206,7 +206,7 @@
           <attvalue for="type" value="1"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-338.05118" y="-74.77217"></viz:position>
+        <viz:position x="-408.8026" y="-95.76922"></viz:position>
         <viz:color r="240" g="144" b="0"></viz:color>
       </node>
       <node id="06259677000125">
@@ -231,7 +231,7 @@
           <attvalue for="type" value="2"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="410.66785" y="-322.82687"></viz:position>
+        <viz:position x="418.397" y="-360.39505"></viz:position>
         <viz:color r="0" g="10" b="245"></viz:color>
       </node>
       <node id="14751453000164">
@@ -243,7 +243,7 @@
           <attvalue for="type" value="2"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="558.06195" y="-229.08916"></viz:position>
+        <viz:position x="615.29974" y="-230.0162"></viz:position>
         <viz:color r="0" g="10" b="245"></viz:color>
       </node>
       <node id="14599276000142">
@@ -255,7 +255,7 @@
           <attvalue for="type" value="2"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="448.68573" y="-94.889244"></viz:position>
+        <viz:position x="473.2416" y="-53.94678"></viz:position>
         <viz:color r="0" g="10" b="245"></viz:color>
       </node>
       <node id="21279234000190">
@@ -280,7 +280,7 @@
           <attvalue for="type" value="2"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-47.323635" y="114.32729"></viz:position>
+        <viz:position x="-31.766806" y="98.00233"></viz:position>
         <viz:color r="0" g="10" b="245"></viz:color>
       </node>
       <node id="22861933000106">
@@ -306,7 +306,7 @@
           <attvalue for="type" value="2"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-162.17224" y="82.77828"></viz:position>
+        <viz:position x="-155.86841" y="83.10291"></viz:position>
         <viz:color r="0" g="10" b="245"></viz:color>
       </node>
       <node id="22679361000149">
@@ -328,7 +328,7 @@
           <attvalue for="type" value="2"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-136.7638" y="-98.978874"></viz:position>
+        <viz:position x="-160.14973" y="-137.3204"></viz:position>
         <viz:color r="0" g="10" b="245"></viz:color>
       </node>
       <node id="18102998000109">
@@ -340,7 +340,7 @@
           <attvalue for="type" value="2"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-299.3049" y="-79.16793"></viz:position>
+        <viz:position x="-376.2379" y="-116.746376"></viz:position>
         <viz:color r="0" g="10" b="245"></viz:color>
       </node>
       <node id="17005944000154">
@@ -365,7 +365,7 @@
           <attvalue for="type" value="2"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-323.39145" y="-44.492672"></viz:position>
+        <viz:position x="-382.62784" y="-66.272224"></viz:position>
         <viz:color r="0" g="10" b="245"></viz:color>
       </node>
       <node id="FERNANDA PIRES DOS SANTOS">
@@ -374,7 +374,7 @@
           <attvalue for="type" value="3"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-94.13296" y="95.72315"></viz:position>
+        <viz:position x="-97.65629" y="116.82379"></viz:position>
         <viz:color r="0" g="173" b="17"></viz:color>
       </node>
       <node id="MARINALVA BEZERRA LEITE">
@@ -383,7 +383,7 @@
           <attvalue for="type" value="3"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="24.482199" y="125.51954"></viz:position>
+        <viz:position x="84.67509" y="151.67072"></viz:position>
         <viz:color r="0" g="173" b="17"></viz:color>
       </node>
       <node id="WANDER ALVES DA COSTA">
@@ -392,7 +392,7 @@
           <attvalue for="type" value="3"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="390.6807" y="-360.69302"></viz:position>
+        <viz:position x="390.88327" y="-399.5078"></viz:position>
         <viz:color r="0" g="173" b="17"></viz:color>
       </node>
       <node id="RENATO DIAS SOUSA">
@@ -401,7 +401,7 @@
           <attvalue for="type" value="3"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-189.32733" y="106.934105"></viz:position>
+        <viz:position x="-185.47562" y="104.000114"></viz:position>
         <viz:color r="0" g="173" b="17"></viz:color>
       </node>
       <node id="ORMANDO BARBOSA DE SOUZA">
@@ -410,7 +410,7 @@
           <attvalue for="type" value="3"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="5.7912903" y="79.6201"></viz:position>
+        <viz:position x="47.511314" y="43.700188"></viz:position>
         <viz:color r="0" g="173" b="17"></viz:color>
       </node>
       <node id="MARA DO CARMO DE OLIVEIRA ARAUJO">
@@ -419,7 +419,7 @@
           <attvalue for="type" value="3"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-56.673435" y="186.10138"></viz:position>
+        <viz:position x="-45.761047" y="227.48375"></viz:position>
         <viz:color r="0" g="173" b="17"></viz:color>
       </node>
       <node id="HELIUDE TEIXEIRA DE ANDRADE">
@@ -428,7 +428,7 @@
           <attvalue for="type" value="3"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-12.132715" y="107.31918"></viz:position>
+        <viz:position x="53.104385" y="92.11169"></viz:position>
         <viz:color r="0" g="173" b="17"></viz:color>
       </node>
       <node id="KATIA SOARES">
@@ -437,7 +437,7 @@
           <attvalue for="type" value="3"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-68.407906" y="148.79944"></viz:position>
+        <viz:position x="-62.86002" y="146.97687"></viz:position>
         <viz:color r="0" g="173" b="17"></viz:color>
       </node>
       <node id="MARA LEILIANE DA SILVA LEAO">
@@ -446,7 +446,7 @@
           <attvalue for="type" value="3"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-98.12445" y="135.04112"></viz:position>
+        <viz:position x="-95.82476" y="180.2222"></viz:position>
         <viz:color r="0" g="173" b="17"></viz:color>
       </node>
       <node id="JENIFER DOS SANTOS SOARES">
@@ -455,7 +455,7 @@
           <attvalue for="type" value="3"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-69.220215" y="69.23943"></viz:position>
+        <viz:position x="-57.301983" y="17.170858"></viz:position>
         <viz:color r="0" g="173" b="17"></viz:color>
       </node>
       <node id="ANTONIA CHAVES DE SOUSA">
@@ -464,7 +464,7 @@
           <attvalue for="type" value="3"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="370.3389" y="-319.6292"></viz:position>
+        <viz:position x="373.43753" y="-348.7527"></viz:position>
         <viz:color r="0" g="173" b="17"></viz:color>
       </node>
       <node id="EVA MARIA DE OLIVEIRA">
@@ -473,7 +473,7 @@
           <attvalue for="type" value="3"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="435.759" y="-355.61768"></viz:position>
+        <viz:position x="443.23392" y="-401.0542"></viz:position>
         <viz:color r="0" g="173" b="17"></viz:color>
       </node>
       <node id="ROSEILDA ALVES DE JESUS LIMA">
@@ -482,7 +482,7 @@
           <attvalue for="type" value="3"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-5.7122808" y="145.77971"></viz:position>
+        <viz:position x="17.603682" y="151.96346"></viz:position>
         <viz:color r="0" g="173" b="17"></viz:color>
       </node>
       <node id="DAYANE LUIZ RODRIGUES DA SILVA">
@@ -491,7 +491,7 @@
           <attvalue for="type" value="3"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-34.071377" y="161.41045"></viz:position>
+        <viz:position x="-19.692623" y="169.9056"></viz:position>
         <viz:color r="0" g="173" b="17"></viz:color>
       </node>
       <node id="LAURA SUELI DE PINA QUADROS GONCALVES">
@@ -500,7 +500,7 @@
           <attvalue for="type" value="3"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-29.706968" y="64.050285"></viz:position>
+        <viz:position x="-0.013500996" y="10.934659"></viz:position>
         <viz:color r="0" g="173" b="17"></viz:color>
       </node>
       <node id="16891431000125">
@@ -510,7 +510,7 @@
           <attvalue for="type" value="2"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="60.74489" y="134.98485"></viz:position>
+        <viz:position x="117.194824" y="167.90298"></viz:position>
         <viz:color r="0" g="10" b="245"></viz:color>
       </node>
       <node id="Desconhecido">
@@ -520,13 +520,13 @@
           <attvalue for="type" value="2"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-56.596325" y="223.42152"></viz:position>
+        <viz:position x="-50.177513" y="263.26425"></viz:position>
         <viz:color r="0" g="10" b="245"></viz:color>
       </node>
       <node id="00000000000000">
         <attvalues></attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="495.80447" y="-101.4239"></viz:position>
+        <viz:position x="528.9911" y="-55.49452"></viz:position>
         <viz:color r="35" g="150" b="111"></viz:color>
       </node>
     </nodes>
