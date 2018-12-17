@@ -590,202 +590,202 @@
       </node>
     </nodes>
     <edges>
-      <edge id="0" source="O" target="17393180804">
+      <edge id="0" source="O" target="17393180804" label="investigados">
         <attvalues>
           <attvalue for="tipo de relacao" value="investigados"></attvalue>
         </attvalues>
       </edge>
-      <edge id="1" source="O" target="34413166817">
+      <edge id="1" source="O" target="34413166817" label="investigados">
         <attvalues>
           <attvalue for="tipo de relacao" value="investigados"></attvalue>
         </attvalues>
       </edge>
-      <edge id="2" source="O" target="30575316870">
+      <edge id="2" source="O" target="30575316870" label="investigados">
         <attvalues>
           <attvalue for="tipo de relacao" value="investigados"></attvalue>
         </attvalues>
       </edge>
-      <edge id="3" source="O" target="24991329817">
+      <edge id="3" source="O" target="24991329817" label="investigados">
         <attvalues>
           <attvalue for="tipo de relacao" value="investigados"></attvalue>
         </attvalues>
       </edge>
-      <edge id="4" source="O" target="29790526806">
+      <edge id="4" source="O" target="29790526806" label="investigados">
         <attvalues>
           <attvalue for="tipo de relacao" value="investigados"></attvalue>
         </attvalues>
       </edge>
-      <edge id="5" source="O" target="16095672856">
+      <edge id="5" source="O" target="16095672856" label="investigados">
         <attvalues>
           <attvalue for="tipo de relacao" value="investigados"></attvalue>
         </attvalues>
       </edge>
-      <edge id="6" source="O" target="15933680893">
+      <edge id="6" source="O" target="15933680893" label="investigados">
         <attvalues>
           <attvalue for="tipo de relacao" value="investigados"></attvalue>
         </attvalues>
       </edge>
-      <edge id="7" source="O" target="25560834840">
+      <edge id="7" source="O" target="25560834840" label="investigados">
         <attvalues>
           <attvalue for="tipo de relacao" value="investigados"></attvalue>
         </attvalues>
       </edge>
-      <edge id="8" source="O" target="05623402895">
+      <edge id="8" source="O" target="05623402895" label="investigados">
         <attvalues>
           <attvalue for="tipo de relacao" value="investigados"></attvalue>
         </attvalues>
       </edge>
-      <edge id="9" source="O" target="27178167807">
+      <edge id="9" source="O" target="27178167807" label="investigados">
         <attvalues>
           <attvalue for="tipo de relacao" value="investigados"></attvalue>
         </attvalues>
       </edge>
-      <edge id="10" source="O" target="35799567870">
+      <edge id="10" source="O" target="35799567870" label="investigados">
         <attvalues>
           <attvalue for="tipo de relacao" value="investigados"></attvalue>
         </attvalues>
       </edge>
-      <edge id="11" source="O" target="37834411888">
+      <edge id="11" source="O" target="37834411888" label="investigados">
         <attvalues>
           <attvalue for="tipo de relacao" value="investigados"></attvalue>
         </attvalues>
       </edge>
-      <edge id="12" source="O" target="47541957879">
+      <edge id="12" source="O" target="47541957879" label="investigados">
         <attvalues>
           <attvalue for="tipo de relacao" value="investigados"></attvalue>
         </attvalues>
       </edge>
-      <edge id="13" source="O" target="31956790861">
+      <edge id="13" source="O" target="31956790861" label="investigados">
         <attvalues>
           <attvalue for="tipo de relacao" value="investigados"></attvalue>
         </attvalues>
       </edge>
-      <edge id="14" source="O" target="31215673817">
+      <edge id="14" source="O" target="31215673817" label="investigados">
         <attvalues>
           <attvalue for="tipo de relacao" value="investigados"></attvalue>
         </attvalues>
       </edge>
-      <edge id="15" source="O" target="13072105898">
+      <edge id="15" source="O" target="13072105898" label="investigados">
         <attvalues>
           <attvalue for="tipo de relacao" value="investigados"></attvalue>
         </attvalues>
       </edge>
-      <edge id="16" source="30575316870" target="18079042000125">
+      <edge id="16" source="30575316870" target="18079042000125" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="17" source="05623402895" target="66343757000196">
+      <edge id="17" source="05623402895" target="66343757000196" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="18" source="18079042000125" target="30575316870">
+      <edge id="18" source="18079042000125" target="30575316870" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="19" source="66343757000196" target="05623402895">
+      <edge id="19" source="66343757000196" target="05623402895" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="20" source="66343757000196" target="13565400668">
+      <edge id="20" source="66343757000196" target="13565400668" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="21" source="66343757000196" target="98871307887">
+      <edge id="21" source="66343757000196" target="98871307887" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="24" source="13565400668" target="66343757000196">
+      <edge id="24" source="13565400668" target="66343757000196" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="25" source="98871307887" target="66343757000196">
+      <edge id="25" source="98871307887" target="66343757000196" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="26" source="17393180804" target="61793337000198">
+      <edge id="26" source="17393180804" target="61793337000198" label="funcionario de">
         <attvalues>
           <attvalue for="tipo de relacao" value="funcionario de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="27" source="16095672856" target="08231746000118">
+      <edge id="27" source="16095672856" target="08231746000118" label="funcionario de">
         <attvalues>
           <attvalue for="tipo de relacao" value="funcionario de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="28" source="24991329817" target="06172552000163">
+      <edge id="28" source="24991329817" target="06172552000163" label="funcionario de">
         <attvalues>
           <attvalue for="tipo de relacao" value="funcionario de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="29" source="25560834840" target="60318797000100">
+      <edge id="29" source="25560834840" target="60318797000100" label="funcionario de">
         <attvalues>
           <attvalue for="tipo de relacao" value="funcionario de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="30" source="08231746000118" target="12781418803">
+      <edge id="30" source="08231746000118" target="12781418803" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="31" source="60318797000100" target="26697916893">
+      <edge id="31" source="60318797000100" target="26697916893" label="empregador de">
         <attvalues>
           <attvalue for="tipo de relacao" value="empregador de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="32" source="60318797000100" target="39535347500">
+      <edge id="32" source="60318797000100" target="39535347500" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="33" source="60318797000100" target="27709579884">
+      <edge id="33" source="60318797000100" target="27709579884" label="empregador de">
         <attvalues>
           <attvalue for="tipo de relacao" value="empregador de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="34" source="61793337000198" target="91102367834">
+      <edge id="34" source="61793337000198" target="91102367834" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="35" source="61793337000198" target="15849646850">
+      <edge id="35" source="61793337000198" target="15849646850" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="36" source="06172552000163" target="10537704809">
+      <edge id="36" source="06172552000163" target="10537704809" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="37" source="06172552000163" target="15650303894">
+      <edge id="37" source="06172552000163" target="15650303894" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="38" source="08231746000118" target="16095672856">
+      <edge id="38" source="08231746000118" target="16095672856" label="empregador de">
         <attvalues>
           <attvalue for="tipo de relacao" value="empregador de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="39" source="61793337000198" target="17393180804">
+      <edge id="39" source="61793337000198" target="17393180804" label="empregador de">
         <attvalues>
           <attvalue for="tipo de relacao" value="empregador de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="41" source="06172552000163" target="24991329817">
+      <edge id="41" source="06172552000163" target="24991329817" label="empregador de">
         <attvalues>
           <attvalue for="tipo de relacao" value="empregador de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="42" source="60318797000100" target="25560834840">
+      <edge id="42" source="60318797000100" target="25560834840" label="empregador de">
         <attvalues>
           <attvalue for="tipo de relacao" value="empregador de"></attvalue>
         </attvalues>
