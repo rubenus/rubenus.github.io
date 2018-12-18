@@ -36,7 +36,7 @@
       <attribute id="tipo de relacao" title="tipo de relacao" type="string"></attribute>
     </attributes>
     <nodes>
-      <node id="O">
+      <node id="SP">
         <attvalues>
           <attvalue for="tipo" value="1"></attvalue>
         </attvalues>
