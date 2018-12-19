@@ -37,13 +37,13 @@
       <attribute id="tipo de relacao" title="tipo de relacao" type="string"></attribute>
     </attributes>
     <nodes>
-      <node id="O">
+      <node id="PB">
         <attvalues>
           <attvalue for="tipo" value="1"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="53.65114" y="27.128397"></viz:position>
-        <viz:color r="245" g="29" b="0"></viz:color>
+        <viz:position x="-0.37835893" y="-12.301294"></viz:position>
+        <viz:color r="224" g="20" b="0"></viz:color>
       </node>
       <node id="45107793487">
         <attvalues>
@@ -58,8 +58,8 @@
           <attvalue for="número de vezes em que foi candidato" value="4.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="8.2940645" y="-78.36566"></viz:position>
-        <viz:color r="245" g="29" b="0"></viz:color>
+        <viz:position x="143.32156" y="-4.9246078"></viz:position>
+        <viz:color r="224" g="20" b="0"></viz:color>
       </node>
       <node id="60104970430">
         <attvalues>
@@ -74,8 +74,8 @@
           <attvalue for="número de vezes em que foi candidato" value="5.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="94.26056" y="13.989979"></viz:position>
-        <viz:color r="245" g="29" b="0"></viz:color>
+        <viz:position x="-1.9563427" y="27.911655"></viz:position>
+        <viz:color r="224" g="20" b="0"></viz:color>
       </node>
       <node id="82707146404">
         <attvalues>
@@ -90,8 +90,8 @@
           <attvalue for="número de vezes em que foi candidato" value="4.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-106.705795" y="55.769485"></viz:position>
-        <viz:color r="245" g="29" b="0"></viz:color>
+        <viz:position x="33.302303" y="-163.8498"></viz:position>
+        <viz:color r="224" g="20" b="0"></viz:color>
       </node>
       <node id="00083095403">
         <attvalues>
@@ -106,8 +106,8 @@
           <attvalue for="número de vezes em que foi candidato" value="3.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="222.66074" y="76.093"></viz:position>
-        <viz:color r="245" g="29" b="0"></viz:color>
+        <viz:position x="-149.38885" y="113.230034"></viz:position>
+        <viz:color r="224" g="20" b="0"></viz:color>
       </node>
       <node id="01341489400">
         <attvalues>
@@ -122,40 +122,8 @@
           <attvalue for="número de vezes em que foi candidato" value="3.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="63.085472" y="71.1726"></viz:position>
-        <viz:color r="245" g="29" b="0"></viz:color>
-      </node>
-      <node id="03244747418">
-        <attvalues>
-          <attvalue for="tipo" value="2"></attvalue>
-          <attvalue for="nome da pessoa" value="ADO CORDEIRO BORBOREMA"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="False"></attvalue>
-          <attvalue for="n_vinculos" value="0.0"></attvalue>
-          <attvalue for="n_vinculos_publicos" value="0.0"></attvalue>
-          <attvalue for="número de empresas em que é sócio" value="3.0"></attvalue>
-          <attvalue for="número de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-36.805187" y="-166.19173"></viz:position>
-        <viz:color r="0" g="194" b="2"></viz:color>
-      </node>
-      <node id="67443478453">
-        <attvalues>
-          <attvalue for="tipo" value="2"></attvalue>
-          <attvalue for="nome da pessoa" value="ANDRE AGRA GOMES DE LIRA"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="False"></attvalue>
-          <attvalue for="n_vinculos" value="2.0"></attvalue>
-          <attvalue for="n_vinculos_publicos" value="2.0"></attvalue>
-          <attvalue for="número de empresas em que é sócio" value="4.0"></attvalue>
-          <attvalue for="número de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-85.585915" y="-86.13627"></viz:position>
-        <viz:color r="0" g="194" b="2"></viz:color>
+        <viz:position x="-40.14809" y="-25.459969"></viz:position>
+        <viz:color r="224" g="20" b="0"></viz:color>
       </node>
       <node id="03262760412">
         <attvalues>
@@ -170,8 +138,40 @@
           <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-8.002076" y="-152.47849"></viz:position>
-        <viz:color r="0" g="194" b="2"></viz:color>
+        <viz:position x="242.53856" y="4.922934"></viz:position>
+        <viz:color r="255" g="170" b="26"></viz:color>
+      </node>
+      <node id="03244747418">
+        <attvalues>
+          <attvalue for="tipo" value="2"></attvalue>
+          <attvalue for="nome da pessoa" value="ADO CORDEIRO BORBOREMA"></attvalue>
+          <attvalue for="isin_bf" value="False"></attvalue>
+          <attvalue for="isin_cadu" value="False"></attvalue>
+          <attvalue for="n_vinculos" value="0.0"></attvalue>
+          <attvalue for="n_vinculos_publicos" value="0.0"></attvalue>
+          <attvalue for="número de empresas em que é sócio" value="3.0"></attvalue>
+          <attvalue for="número de vezes em que foi eleito" value="0.0"></attvalue>
+          <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="258.84424" y="-21.26741"></viz:position>
+        <viz:color r="255" g="170" b="26"></viz:color>
+      </node>
+      <node id="67443478453">
+        <attvalues>
+          <attvalue for="tipo" value="2"></attvalue>
+          <attvalue for="nome da pessoa" value="ANDRE AGRA GOMES DE LIRA"></attvalue>
+          <attvalue for="isin_bf" value="False"></attvalue>
+          <attvalue for="isin_cadu" value="False"></attvalue>
+          <attvalue for="n_vinculos" value="2.0"></attvalue>
+          <attvalue for="n_vinculos_publicos" value="2.0"></attvalue>
+          <attvalue for="número de empresas em que é sócio" value="4.0"></attvalue>
+          <attvalue for="número de vezes em que foi eleito" value="0.0"></attvalue>
+          <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="196.8747" y="-79.041245"></viz:position>
+        <viz:color r="255" g="170" b="26"></viz:color>
       </node>
       <node id="03830003439">
         <attvalues>
@@ -186,40 +186,8 @@
           <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-52.38024" y="-126.64476"></viz:position>
-        <viz:color r="0" g="194" b="2"></viz:color>
-      </node>
-      <node id="40721736491">
-        <attvalues>
-          <attvalue for="tipo" value="2"></attvalue>
-          <attvalue for="nome da pessoa" value="RITA DE CASSIA DA SILVA COSTA"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="False"></attvalue>
-          <attvalue for="n_vinculos" value="1.0"></attvalue>
-          <attvalue for="n_vinculos_publicos" value="1.0"></attvalue>
-          <attvalue for="número de empresas em que é sócio" value="2.0"></attvalue>
-          <attvalue for="número de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-172.88698" y="155.33736"></viz:position>
-        <viz:color r="0" g="194" b="2"></viz:color>
-      </node>
-      <node id="59460091415">
-        <attvalues>
-          <attvalue for="tipo" value="2"></attvalue>
-          <attvalue for="nome da pessoa" value="MARIA ELIZABETE SOARES DA SILVA"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="False"></attvalue>
-          <attvalue for="n_vinculos" value="0.0"></attvalue>
-          <attvalue for="n_vinculos_publicos" value="0.0"></attvalue>
-          <attvalue for="número de empresas em que é sócio" value="3.0"></attvalue>
-          <attvalue for="número de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-213.66019" y="82.74955"></viz:position>
-        <viz:color r="0" g="194" b="2"></viz:color>
+        <viz:position x="220.9741" y="-37.30809"></viz:position>
+        <viz:color r="255" g="170" b="26"></viz:color>
       </node>
       <node id="46850740415">
         <attvalues>
@@ -234,8 +202,40 @@
           <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-219.2797" y="130.90202"></viz:position>
-        <viz:color r="0" g="194" b="2"></viz:color>
+        <viz:position x="-18.25612" y="-249.44655"></viz:position>
+        <viz:color r="255" g="170" b="26"></viz:color>
+      </node>
+      <node id="40721736491">
+        <attvalues>
+          <attvalue for="tipo" value="2"></attvalue>
+          <attvalue for="nome da pessoa" value="RITA DE CASSIA DA SILVA COSTA"></attvalue>
+          <attvalue for="isin_bf" value="False"></attvalue>
+          <attvalue for="isin_cadu" value="False"></attvalue>
+          <attvalue for="n_vinculos" value="1.0"></attvalue>
+          <attvalue for="n_vinculos_publicos" value="1.0"></attvalue>
+          <attvalue for="número de empresas em que é sócio" value="2.0"></attvalue>
+          <attvalue for="número de vezes em que foi eleito" value="0.0"></attvalue>
+          <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="11.752049" y="-280.79694"></viz:position>
+        <viz:color r="255" g="170" b="26"></viz:color>
+      </node>
+      <node id="59460091415">
+        <attvalues>
+          <attvalue for="tipo" value="2"></attvalue>
+          <attvalue for="nome da pessoa" value="MARIA ELIZABETE SOARES DA SILVA"></attvalue>
+          <attvalue for="isin_bf" value="False"></attvalue>
+          <attvalue for="isin_cadu" value="False"></attvalue>
+          <attvalue for="n_vinculos" value="0.0"></attvalue>
+          <attvalue for="n_vinculos_publicos" value="0.0"></attvalue>
+          <attvalue for="número de empresas em que é sócio" value="3.0"></attvalue>
+          <attvalue for="número de vezes em que foi eleito" value="0.0"></attvalue>
+          <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="55.4506" y="-262.62253"></viz:position>
+        <viz:color r="255" g="170" b="26"></viz:color>
       </node>
       <node id="01423486439">
         <attvalues>
@@ -250,8 +250,8 @@
           <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="266.5321" y="124.94062"></viz:position>
-        <viz:color r="0" g="194" b="2"></viz:color>
+        <viz:position x="-204.30145" y="201.87361"></viz:position>
+        <viz:color r="255" g="170" b="26"></viz:color>
       </node>
       <node id="93039093487">
         <attvalues>
@@ -267,8 +267,8 @@
           <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="386.71512" y="112.08664"></viz:position>
-        <viz:color r="0" g="194" b="2"></viz:color>
+        <viz:position x="-317.38855" y="223.59018"></viz:position>
+        <viz:color r="255" g="170" b="26"></viz:color>
       </node>
       <node id="39583279404">
         <attvalues>
@@ -283,7 +283,155 @@
           <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-280.63464" y="166.50941"></viz:position>
+        <viz:position x="-77.515274" y="-298.47424"></viz:position>
+        <viz:color r="255" g="170" b="26"></viz:color>
+      </node>
+      <node id="03967198480">
+        <attvalues>
+          <attvalue for="tipo" value="3"></attvalue>
+          <attvalue for="nome da pessoa" value="KERLY DA COSTA OLIVEIRA"></attvalue>
+          <attvalue for="isin_bf" value="False"></attvalue>
+          <attvalue for="isin_cadu" value="True"></attvalue>
+          <attvalue for="vlr_renda_media_fam" value="0.0"></attvalue>
+          <attvalue for="n_vinculos" value="0.0"></attvalue>
+          <attvalue for="n_vinculos_publicos" value="0.0"></attvalue>
+          <attvalue for="número de empresas em que é sócio" value="1.0"></attvalue>
+          <attvalue for="número de vezes em que foi eleito" value="0.0"></attvalue>
+          <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-156.96162" y="163.22704"></viz:position>
+        <viz:color r="0" g="194" b="2"></viz:color>
+      </node>
+      <node id="07127313423">
+        <attvalues>
+          <attvalue for="tipo" value="3"></attvalue>
+          <attvalue for="nome da pessoa" value="MARTA MARIA DA SILVA SOUSA"></attvalue>
+          <attvalue for="isin_bf" value="False"></attvalue>
+          <attvalue for="isin_cadu" value="True"></attvalue>
+          <attvalue for="vlr_renda_media_fam" value="293.0"></attvalue>
+          <attvalue for="n_vinculos" value="0.0"></attvalue>
+          <attvalue for="n_vinculos_publicos" value="0.0"></attvalue>
+          <attvalue for="número de empresas em que é sócio" value="1.0"></attvalue>
+          <attvalue for="número de vezes em que foi eleito" value="0.0"></attvalue>
+          <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-240.4582" y="153.88858"></viz:position>
+        <viz:color r="0" g="194" b="2"></viz:color>
+      </node>
+      <node id="72713658420">
+        <attvalues>
+          <attvalue for="tipo" value="3"></attvalue>
+          <attvalue for="nome da pessoa" value="GILBERTO COSTA VENANCIO"></attvalue>
+          <attvalue for="isin_bf" value="False"></attvalue>
+          <attvalue for="isin_cadu" value="False"></attvalue>
+          <attvalue for="n_vinculos" value="3.0"></attvalue>
+          <attvalue for="n_vinculos_publicos" value="2.0"></attvalue>
+          <attvalue for="número de empresas em que é sócio" value="1.0"></attvalue>
+          <attvalue for="número de vezes em que foi eleito" value="0.0"></attvalue>
+          <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-164.15225" y="202.82025"></viz:position>
+        <viz:color r="0" g="194" b="2"></viz:color>
+      </node>
+      <node id="92830293487">
+        <attvalues>
+          <attvalue for="tipo" value="3"></attvalue>
+          <attvalue for="nome da pessoa" value="OTAVIO COSME DE LIMA"></attvalue>
+          <attvalue for="isin_bf" value="False"></attvalue>
+          <attvalue for="isin_cadu" value="False"></attvalue>
+          <attvalue for="n_vinculos" value="2.0"></attvalue>
+          <attvalue for="n_vinculos_publicos" value="1.0"></attvalue>
+          <attvalue for="número de empresas em que é sócio" value="1.0"></attvalue>
+          <attvalue for="número de vezes em que foi eleito" value="0.0"></attvalue>
+          <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-191.84387" y="128.13493"></viz:position>
+        <viz:color r="0" g="194" b="2"></viz:color>
+      </node>
+      <node id="05008594427">
+        <attvalues>
+          <attvalue for="tipo" value="3"></attvalue>
+          <attvalue for="nome da pessoa" value="VALDELIDA MAXIMA FIGUEREDO DE BRITO"></attvalue>
+          <attvalue for="isin_bf" value="False"></attvalue>
+          <attvalue for="isin_cadu" value="True"></attvalue>
+          <attvalue for="vlr_renda_media_fam" value="50.0"></attvalue>
+          <attvalue for="n_vinculos" value="0.0"></attvalue>
+          <attvalue for="n_vinculos_publicos" value="0.0"></attvalue>
+          <attvalue for="número de empresas em que é sócio" value="1.0"></attvalue>
+          <attvalue for="número de vezes em que foi eleito" value="0.0"></attvalue>
+          <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-223.04535" y="126.95009"></viz:position>
+        <viz:color r="0" g="194" b="2"></viz:color>
+      </node>
+      <node id="08621763443">
+        <attvalues>
+          <attvalue for="tipo" value="3"></attvalue>
+          <attvalue for="nome da pessoa" value="PATRICIA MARTINS DA COSTA"></attvalue>
+          <attvalue for="isin_bf" value="False"></attvalue>
+          <attvalue for="isin_cadu" value="True"></attvalue>
+          <attvalue for="vlr_renda_media_fam" value="100.0"></attvalue>
+          <attvalue for="n_vinculos" value="0.0"></attvalue>
+          <attvalue for="n_vinculos_publicos" value="0.0"></attvalue>
+          <attvalue for="número de empresas em que é sócio" value="1.0"></attvalue>
+          <attvalue for="número de vezes em que foi eleito" value="0.0"></attvalue>
+          <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="228.66162" y="37.493366"></viz:position>
+        <viz:color r="0" g="194" b="2"></viz:color>
+      </node>
+      <node id="07985544445">
+        <attvalues>
+          <attvalue for="tipo" value="3"></attvalue>
+          <attvalue for="nome da pessoa" value="RAFAELA TAYANA REGIS TOMAZ"></attvalue>
+          <attvalue for="isin_bf" value="False"></attvalue>
+          <attvalue for="isin_cadu" value="False"></attvalue>
+          <attvalue for="n_vinculos" value="0.0"></attvalue>
+          <attvalue for="n_vinculos_publicos" value="0.0"></attvalue>
+          <attvalue for="número de empresas em que é sócio" value="1.0"></attvalue>
+          <attvalue for="número de vezes em que foi eleito" value="0.0"></attvalue>
+          <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="204.47385" y="26.676975"></viz:position>
+        <viz:color r="0" g="194" b="2"></viz:color>
+      </node>
+      <node id="03364079471">
+        <attvalues>
+          <attvalue for="tipo" value="3"></attvalue>
+          <attvalue for="nome da pessoa" value="IBERO FERREIRA DE FREITAS"></attvalue>
+          <attvalue for="isin_bf" value="False"></attvalue>
+          <attvalue for="isin_cadu" value="False"></attvalue>
+          <attvalue for="n_vinculos" value="0.0"></attvalue>
+          <attvalue for="n_vinculos_publicos" value="0.0"></attvalue>
+          <attvalue for="número de empresas em que é sócio" value="1.0"></attvalue>
+          <attvalue for="número de vezes em que foi eleito" value="0.0"></attvalue>
+          <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="172.17795" y="21.40637"></viz:position>
+        <viz:color r="0" g="194" b="2"></viz:color>
+      </node>
+      <node id="07021074417">
+        <attvalues>
+          <attvalue for="tipo" value="3"></attvalue>
+          <attvalue for="nome da pessoa" value="RENIER SOARES DE SOUZA"></attvalue>
+          <attvalue for="isin_bf" value="False"></attvalue>
+          <attvalue for="isin_cadu" value="False"></attvalue>
+          <attvalue for="n_vinculos" value="0.0"></attvalue>
+          <attvalue for="n_vinculos_publicos" value="0.0"></attvalue>
+          <attvalue for="número de empresas em que é sócio" value="1.0"></attvalue>
+          <attvalue for="número de vezes em que foi eleito" value="0.0"></attvalue>
+          <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="186.99854" y="46.79202"></viz:position>
         <viz:color r="0" g="194" b="2"></viz:color>
       </node>
       <node id="12881013000104">
@@ -306,8 +454,8 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/59063400,+AV.+CAPITÃO+MOR+GOUVEIA,+1498,+LAGOA+NOVA"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-21.395035" y="-112.712494"></viz:position>
-        <viz:color r="4" g="0" b="214"></viz:color>
+        <viz:position x="197.8215" y="-7.98612"></viz:position>
+        <viz:color r="0" g="9" b="224"></viz:color>
       </node>
       <node id="35576297000112">
         <attvalues>
@@ -328,8 +476,8 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58100000,+RUA+MONTEIRO+LOBATO+474+A,+,+ALTO+BRANCO"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="35.64315" y="-78.506485"></viz:position>
-        <viz:color r="4" g="0" b="214"></viz:color>
+        <viz:position x="120.88038" y="10.619964"></viz:position>
+        <viz:color r="0" g="9" b="224"></viz:color>
       </node>
       <node id="41205626000111">
         <attvalues>
@@ -348,8 +496,8 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58000000,+PARQUE+SOLON+DE+LUCENA+119,+,+Centro"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="119.50826" y="4.9357934"></viz:position>
-        <viz:color r="4" g="0" b="214"></viz:color>
+        <viz:position x="-2.4358435" y="54.614143"></viz:position>
+        <viz:color r="0" g="9" b="224"></viz:color>
       </node>
       <node id="01784217000100">
         <attvalues>
@@ -371,8 +519,8 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58300000,+RUA+SIQUEIRA+CAMPOS,+133,+CENTRO"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-170.50175" y="101.95869"></viz:position>
-        <viz:color r="4" g="0" b="214"></viz:color>
+        <viz:position x="21.51369" y="-230.45697"></viz:position>
+        <viz:color r="0" g="9" b="224"></viz:color>
       </node>
       <node id="10714599000189">
         <attvalues>
@@ -394,8 +542,8 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58884000,+RUA+VENANCIO+NEIVA,+SN,+CENTRO"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="282.80295" y="94.33318"></viz:position>
-        <viz:color r="4" g="0" b="214"></viz:color>
+        <viz:position x="-204.92255" y="162.62672"></viz:position>
+        <viz:color r="0" g="9" b="224"></viz:color>
       </node>
       <node id="17887842000100">
         <attvalues>
@@ -418,8 +566,8 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58010100,+IRINEU+PINTO,+146,+AEROPORTO"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="69.09214" y="97.4488"></viz:position>
-        <viz:color r="4" g="0" b="214"></viz:color>
+        <viz:position x="-65.55881" y="-34.106857"></viz:position>
+        <viz:color r="0" g="9" b="224"></viz:color>
       </node>
       <node id="07144400000110">
         <attvalues>
@@ -441,8 +589,8 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/59032620,+AVENIDA+JAGUARARI,+1757,+LAGOA+NOVA"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-11.137917" y="-190.14725"></viz:position>
-        <viz:color r="4" g="0" b="214"></viz:color>
+        <viz:position x="281.69727" y="5.7333603"></viz:position>
+        <viz:color r="0" g="9" b="224"></viz:color>
       </node>
       <node id="12881013000287">
         <attvalues>
@@ -465,8 +613,8 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58410100,+RUA+GUILHERMINO+BARBOSA,+52,+CATOLÉ"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-68.24958" y="-153.13948"></viz:position>
-        <viz:color r="4" g="0" b="214"></viz:color>
+        <viz:position x="249.58113" y="-53.4286"></viz:position>
+        <viz:color r="0" g="9" b="224"></viz:color>
       </node>
       <node id="09123654000187">
         <attvalues>
@@ -488,8 +636,8 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58015570,+Feliciano+Cirne,+220,+Jaguaribe"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-126.22076" y="-103.28048"></viz:position>
-        <viz:color r="4" g="0" b="214"></viz:color>
+        <viz:position x="210.09187" y="-116.732864"></viz:position>
+        <viz:color r="0" g="9" b="224"></viz:color>
       </node>
       <node id="10684218000166">
         <attvalues>
@@ -512,8 +660,8 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58045100,+AVENIDA+Cairu,+222,+Cabo+Branco"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-103.16812" y="-120.4769"></viz:position>
-        <viz:color r="4" g="0" b="214"></viz:color>
+        <viz:position x="231.60565" y="-96.904594"></viz:position>
+        <viz:color r="0" g="9" b="224"></viz:color>
       </node>
       <node id="06032967000131">
         <attvalues>
@@ -535,8 +683,8 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58300000,+AV+DOUTOR+FLAVIO+RIBEIRO+COUTINHO,+375,+CENTRO"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-155.07738" y="186.21843"></viz:position>
-        <viz:color r="4" g="0" b="214"></viz:color>
+        <viz:position x="20.729116" y="-315.15955"></viz:position>
+        <viz:color r="0" g="9" b="224"></viz:color>
       </node>
       <node id="05730009000171">
         <attvalues>
@@ -558,8 +706,8 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58300000,+RUA+SIQUEIRA+CAMPOS,+156,+CENTRO"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-249.03818" y="84.47364"></viz:position>
-        <viz:color r="4" g="0" b="214"></viz:color>
+        <viz:position x="65.61829" y="-296.45923"></viz:position>
+        <viz:color r="0" g="9" b="224"></viz:color>
       </node>
       <node id="35433242000153">
         <attvalues>
@@ -581,8 +729,8 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58300000,+MERCADO+PUBLICO,+S/N,+Centro"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-235.50092" y="56.202034"></viz:position>
-        <viz:color r="4" g="0" b="214"></viz:color>
+        <viz:position x="87.59256" y="-273.7305"></viz:position>
+        <viz:color r="0" g="9" b="224"></viz:color>
       </node>
       <node id="24783738000130">
         <attvalues>
@@ -605,8 +753,8 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58032090,+RUA+ANTONIO+RABELO+JUNIOR,+81,+MIRAMAR"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="254.27788" y="153.84312"></viz:position>
-        <viz:color r="4" g="0" b="214"></viz:color>
+        <viz:position x="-198.37587" y="234.29982"></viz:position>
+        <viz:color r="0" g="9" b="224"></viz:color>
       </node>
       <node id="00526995000129">
         <attvalues>
@@ -627,8 +775,8 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58700000,+RUA+LEONCIO+WANDERLEY+383+A,+,+CENTRO"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="351.57172" y="140.71597"></viz:position>
-        <viz:color r="4" g="0" b="214"></viz:color>
+        <viz:position x="-274.47336" y="235.1716"></viz:position>
+        <viz:color r="0" g="9" b="224"></viz:color>
       </node>
       <node id="03822790000189">
         <attvalues>
@@ -650,8 +798,8 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58700000,+R+PEREGRINO++FILHO,+.475,+BTRASILIA"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="373.53296" y="155.29112"></viz:position>
-        <viz:color r="4" g="0" b="214"></viz:color>
+        <viz:position x="-343.5989" y="251.12752"></viz:position>
+        <viz:color r="0" g="9" b="224"></viz:color>
       </node>
       <node id="05964758000163">
         <attvalues>
@@ -674,8 +822,8 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58700550,++Marechal+Deodoro+da+Fonseca,+31,+Centro"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="393.74988" y="172.5334"></viz:position>
-        <viz:color r="4" g="0" b="214"></viz:color>
+        <viz:position x="-324.95322" y="177.7143"></viz:position>
+        <viz:color r="0" g="9" b="224"></viz:color>
       </node>
       <node id="07073859000170">
         <attvalues>
@@ -698,8 +846,8 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58700000,+RUA+PEDRO+FIRMINO,+470,+CENTRO"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="432.81754" y="139.70358"></viz:position>
-        <viz:color r="4" g="0" b="214"></viz:color>
+        <viz:position x="-370.3938" y="198.6067"></viz:position>
+        <viz:color r="0" g="9" b="224"></viz:color>
       </node>
       <node id="10801326000171">
         <attvalues>
@@ -721,8 +869,8 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58213000,++VEREADOR+JUVINO+MARREIRO,+366,+CENTRO"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="450.56317" y="118.547646"></viz:position>
-        <viz:color r="4" g="0" b="214"></viz:color>
+        <viz:position x="-353.13644" y="174.2931"></viz:position>
+        <viz:color r="0" g="9" b="224"></viz:color>
       </node>
       <node id="15112096000157">
         <attvalues>
@@ -744,8 +892,8 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58701360,+RUA+SERGIO+LIMA,+SN,+JD+GUANABARA"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="441.84924" y="92.03464"></viz:position>
-        <viz:color r="4" g="0" b="214"></viz:color>
+        <viz:position x="-356.68463" y="274.4872"></viz:position>
+        <viz:color r="0" g="9" b="224"></viz:color>
       </node>
       <node id="17645796000132">
         <attvalues>
@@ -768,8 +916,8 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58701360,+RUA+SÉRGIO+LIMA,+SN,+JD+GUANABARA"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="403.40613" y="55.51974"></viz:position>
-        <viz:color r="4" g="0" b="214"></viz:color>
+        <viz:position x="-343.47787" y="199.55334"></viz:position>
+        <viz:color r="0" g="9" b="224"></viz:color>
       </node>
       <node id="20239487000177">
         <attvalues>
@@ -792,8 +940,8 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58700550,++RUA+MARECHAL+DEODORO+DA+FONSECA,+31,+Centro"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="366.03937" y="60.699192"></viz:position>
-        <viz:color r="4" g="0" b="214"></viz:color>
+        <viz:position x="-288.6345" y="257.80582"></viz:position>
+        <viz:color r="0" g="9" b="224"></viz:color>
       </node>
       <node id="20514883000165">
         <attvalues>
@@ -816,8 +964,8 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58700550,++RUA+MARECHAL+DEODORO+DA+FONSECA,+31,+Centro"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="354.23334" y="86.41461"></viz:position>
-        <viz:color r="4" g="0" b="214"></viz:color>
+        <viz:position x="-330.5877" y="283.22565"></viz:position>
+        <viz:color r="0" g="9" b="224"></viz:color>
       </node>
       <node id="20541471000114">
         <attvalues>
@@ -840,8 +988,8 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58700550,+RUA+MARECHAL+DEODORO+DA+FONSECA,+31,+Centro"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="430.85852" y="65.81246"></viz:position>
-        <viz:color r="4" g="0" b="214"></viz:color>
+        <viz:position x="-280.7697" y="207.55911"></viz:position>
+        <viz:color r="0" g="9" b="224"></viz:color>
       </node>
       <node id="20694457000150">
         <attvalues>
@@ -864,8 +1012,8 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58700550,+RUA+Marechal+Deodoro+da+Fonseca,+31,+Centro"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="344.73807" y="113.21011"></viz:position>
-        <viz:color r="4" g="0" b="214"></viz:color>
+        <viz:position x="-382.34372" y="224.27696"></viz:position>
+        <viz:color r="0" g="9" b="224"></viz:color>
       </node>
       <node id="20929904000103">
         <attvalues>
@@ -888,8 +1036,8 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58700550,+Rua+Marechal+Deodoro+da+Fonseca,+31,+Centro"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="422.18826" y="165.13248"></viz:position>
-        <viz:color r="4" g="0" b="214"></viz:color>
+        <viz:position x="-301.52933" y="281.85742"></viz:position>
+        <viz:color r="0" g="9" b="224"></viz:color>
       </node>
       <node id="21779017000169">
         <attvalues>
@@ -912,8 +1060,8 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58700550,+Marechal+Deodoro+da+Fonseca,+31,+Centro"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="387.382" y="76.271095"></viz:position>
-        <viz:color r="4" g="0" b="214"></viz:color>
+        <viz:position x="-317.40997" y="259.73865"></viz:position>
+        <viz:color r="0" g="9" b="224"></viz:color>
       </node>
       <node id="23922900000191">
         <attvalues>
@@ -936,8 +1084,8 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58700550,+RUA+MARECHAL+DEODORO+DA+FONSECA,+31,+CENTRO"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="423.38095" y="113.43166"></viz:position>
-        <viz:color r="4" g="0" b="214"></viz:color>
+        <viz:position x="-298.76465" y="185.35432"></viz:position>
+        <viz:color r="0" g="9" b="224"></viz:color>
       </node>
       <node id="24339864000109">
         <attvalues>
@@ -960,8 +1108,8 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58700550,+RUA+Marechal+Deodoro+da+Fonseca,+31,+Centro"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="414.0102" y="86.32452"></viz:position>
-        <viz:color r="4" g="0" b="214"></viz:color>
+        <viz:position x="-355.42987" y="225.62915"></viz:position>
+        <viz:color r="0" g="9" b="224"></viz:color>
       </node>
       <node id="09433715000102">
         <attvalues>
@@ -970,8 +1118,8 @@
           <attvalue for="numero de socios no bf" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-136.28322" y="38.653122"></viz:position>
-        <viz:color r="4" g="0" b="214"></viz:color>
+        <viz:position x="16.197487" y="-134.98387"></viz:position>
+        <viz:color r="0" g="9" b="224"></viz:color>
       </node>
       <node id="02949141000261">
         <attvalues>
@@ -990,8 +1138,8 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58063970,+AVENIDA+FREI+GALVAO,+12,+GRAMAME"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-73.03803" y="63.529278"></viz:position>
-        <viz:color r="4" g="0" b="214"></viz:color>
+        <viz:position x="64.842514" y="-175.21011"></viz:position>
+        <viz:color r="0" g="9" b="224"></viz:color>
       </node>
       <node id="09308966000165">
         <attvalues>
@@ -1000,8 +1148,8 @@
           <attvalue for="numero de socios no bf" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="403.01334" y="143.824"></viz:position>
-        <viz:color r="4" g="0" b="214"></viz:color>
+        <viz:position x="-371.49368" y="250.18"></viz:position>
+        <viz:color r="0" g="9" b="224"></viz:color>
       </node>
       <node id="08761140000194">
         <attvalues>
@@ -1010,8 +1158,8 @@
           <attvalue for="numero de socios no bf" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-98.42597" y="-15.849596"></viz:position>
-        <viz:color r="4" g="0" b="214"></viz:color>
+        <viz:position x="116.201065" y="-125.73719"></viz:position>
+        <viz:color r="0" g="9" b="224"></viz:color>
       </node>
       <node id="08993917000146">
         <attvalues>
@@ -1020,8 +1168,8 @@
           <attvalue for="numero de socios no bf" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-116.80695" y="-73.01793"></viz:position>
-        <viz:color r="4" g="0" b="214"></viz:color>
+        <viz:position x="179.56732" y="-109.66891"></viz:position>
+        <viz:color r="0" g="9" b="224"></viz:color>
       </node>
       <node id="10753366000195">
         <attvalues>
@@ -1041,8 +1189,8 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58000000,+RUA+JOSE+JARDIM+180,+,+BAIRRO+DOS+IPES"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-252.24895" y="150.0432"></viz:position>
-        <viz:color r="4" g="0" b="214"></viz:color>
+        <viz:position x="-54.920536" y="-277.67242"></viz:position>
+        <viz:color r="0" g="9" b="224"></viz:color>
       </node>
       <node id="10490987000123">
         <attvalues>
@@ -1051,8 +1199,8 @@
           <attvalue for="numero de socios no bf" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-101.49918" y="90.41689"></viz:position>
-        <viz:color r="4" g="0" b="214"></viz:color>
+        <viz:position x="-1.0818709" y="-168.09323"></viz:position>
+        <viz:color r="0" g="9" b="224"></viz:color>
       </node>
       <node id="08694222000163">
         <attvalues>
@@ -1061,8 +1209,8 @@
           <attvalue for="numero de socios no bf" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-188.83464" y="183.8312"></viz:position>
-        <viz:color r="4" g="0" b="214"></viz:color>
+        <viz:position x="-9.836599" y="-308.77228"></viz:position>
+        <viz:color r="0" g="9" b="224"></viz:color>
       </node>
       <node id="06081249000155">
         <attvalues>
@@ -1085,8 +1233,8 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58840000,+RUA+ANTONIO+FERREIRA,+105,+CENTRO"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-224.46074" y="-1142.0497"></viz:position>
-        <viz:color r="4" g="0" b="214"></viz:color>
+        <viz:position x="-126.667915" y="168.30202"></viz:position>
+        <viz:color r="0" g="9" b="224"></viz:color>
       </node>
       <node id="17952485000116">
         <attvalues>
@@ -1109,94 +1257,82 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58884000,+PROJETADA,+180,+CONJ.+JOAO+PINHEIRO+DANTAS"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-1196.1166" y="-20.634323"></viz:position>
-        <viz:color r="4" g="0" b="214"></viz:color>
-      </node>
-      <node id="03967198480">
-        <attvalues></attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-200.42336" y="-1152.7867"></viz:position>
-        <viz:color r="4" g="4" b="4"></viz:color>
-      </node>
-      <node id="72713658420">
-        <attvalues></attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-1197.3169" y="-46.933483"></viz:position>
-        <viz:color r="4" g="4" b="4"></viz:color>
+        <viz:position x="-143.0812" y="226.51213"></viz:position>
+        <viz:color r="0" g="9" b="224"></viz:color>
       </node>
     </nodes>
     <edges>
-      <edge id="0" source="O" target="45107793487">
+      <edge id="0" source="PB" target="45107793487">
         <attvalues>
           <attvalue for="tipo de relacao" value="investigados"></attvalue>
         </attvalues>
       </edge>
-      <edge id="1" source="O" target="60104970430">
+      <edge id="1" source="PB" target="60104970430">
         <attvalues>
           <attvalue for="tipo de relacao" value="investigados"></attvalue>
         </attvalues>
       </edge>
-      <edge id="2" source="O" target="82707146404">
+      <edge id="2" source="PB" target="82707146404">
         <attvalues>
           <attvalue for="tipo de relacao" value="investigados"></attvalue>
         </attvalues>
       </edge>
-      <edge id="3" source="O" target="00083095403">
+      <edge id="3" source="PB" target="00083095403">
         <attvalues>
           <attvalue for="tipo de relacao" value="investigados"></attvalue>
         </attvalues>
       </edge>
-      <edge id="4" source="O" target="01341489400">
+      <edge id="4" source="PB" target="01341489400">
         <attvalues>
           <attvalue for="tipo de relacao" value="investigados"></attvalue>
         </attvalues>
       </edge>
-      <edge id="5" source="45107793487" target="12881013000104">
+      <edge id="5" source="45107793487" target="12881013000104" weight="3.0">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="6" source="45107793487" target="35576297000112">
+      <edge id="6" source="45107793487" target="35576297000112" weight="3.0">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="7" source="60104970430" target="41205626000111">
+      <edge id="7" source="60104970430" target="41205626000111" weight="2.0">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="8" source="82707146404" target="01784217000100">
+      <edge id="8" source="82707146404" target="01784217000100" weight="2.0">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="9" source="00083095403" target="10714599000189">
+      <edge id="9" source="00083095403" target="10714599000189" weight="2.0">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="10" source="01341489400" target="17887842000100">
+      <edge id="10" source="01341489400" target="17887842000100" weight="2.0">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="11" source="12881013000104" target="03244747418">
+      <edge id="11" source="12881013000104" target="45107793487">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="12" source="12881013000104" target="67443478453">
+      <edge id="12" source="12881013000104" target="03262760412">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="13" source="12881013000104" target="45107793487">
+      <edge id="13" source="12881013000104" target="03244747418">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="14" source="12881013000104" target="03262760412">
+      <edge id="14" source="12881013000104" target="67443478453">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
@@ -1216,22 +1352,22 @@
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="18" source="01784217000100" target="82707146404">
+      <edge id="18" source="01784217000100" target="46850740415">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="19" source="01784217000100" target="40721736491">
+      <edge id="19" source="01784217000100" target="82707146404">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="20" source="01784217000100" target="59460091415">
+      <edge id="20" source="01784217000100" target="40721736491">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="21" source="01784217000100" target="46850740415">
+      <edge id="21" source="01784217000100" target="59460091415">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
@@ -1256,52 +1392,52 @@
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="26" source="03244747418" target="07144400000110">
+      <edge id="28" source="03262760412" target="07144400000110">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="27" source="03244747418" target="12881013000104">
+      <edge id="29" source="03262760412" target="12881013000104">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="28" source="03244747418" target="12881013000287">
+      <edge id="30" source="03262760412" target="12881013000287">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="29" source="67443478453" target="09123654000187">
+      <edge id="31" source="03244747418" target="07144400000110">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="30" source="67443478453" target="10684218000166">
+      <edge id="32" source="03244747418" target="12881013000104">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="31" source="67443478453" target="12881013000104">
+      <edge id="33" source="03244747418" target="12881013000287">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="32" source="67443478453" target="12881013000287">
+      <edge id="34" source="67443478453" target="09123654000187">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="35" source="03262760412" target="07144400000110">
+      <edge id="35" source="67443478453" target="10684218000166">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="36" source="03262760412" target="12881013000104">
+      <edge id="36" source="67443478453" target="12881013000104">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="37" source="03262760412" target="12881013000287">
+      <edge id="37" source="67443478453" target="12881013000287">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
@@ -1316,32 +1452,32 @@
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="44" source="40721736491" target="01784217000100">
+      <edge id="43" source="46850740415" target="01784217000100">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="45" source="40721736491" target="06032967000131">
+      <edge id="45" source="40721736491" target="01784217000100">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="46" source="59460091415" target="01784217000100">
+      <edge id="46" source="40721736491" target="06032967000131">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="47" source="59460091415" target="05730009000171">
+      <edge id="47" source="59460091415" target="01784217000100">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="48" source="59460091415" target="35433242000153">
+      <edge id="48" source="59460091415" target="05730009000171">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="49" source="46850740415" target="01784217000100">
+      <edge id="49" source="59460091415" target="35433242000153">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
@@ -1486,47 +1622,47 @@
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="80" source="10753366000195" target="46850740415">
+      <edge id="80" source="10714599000189" target="03967198480">
         <attvalues>
           <attvalue for="tipo de relacao" value="empregador de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="81" source="08761140000194" target="67443478453">
+      <edge id="81" source="10714599000189" target="07127313423">
         <attvalues>
           <attvalue for="tipo de relacao" value="empregador de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="82" source="08694222000163" target="40721736491">
+      <edge id="82" source="10714599000189" target="72713658420">
         <attvalues>
           <attvalue for="tipo de relacao" value="empregador de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="83" source="10490987000123" target="82707146404">
+      <edge id="83" source="10714599000189" target="92830293487">
         <attvalues>
           <attvalue for="tipo de relacao" value="empregador de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="84" source="02949141000261" target="82707146404">
+      <edge id="84" source="10714599000189" target="05008594427">
         <attvalues>
           <attvalue for="tipo de relacao" value="empregador de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="85" source="09308966000165" target="93039093487">
+      <edge id="85" source="12881013000104" target="08621763443">
         <attvalues>
           <attvalue for="tipo de relacao" value="empregador de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="86" source="08761140000194" target="82707146404">
+      <edge id="86" source="12881013000104" target="07985544445">
         <attvalues>
           <attvalue for="tipo de relacao" value="empregador de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="87" source="09433715000102" target="82707146404">
+      <edge id="87" source="12881013000104" target="03364079471">
         <attvalues>
           <attvalue for="tipo de relacao" value="empregador de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="88" source="08993917000146" target="67443478453">
+      <edge id="88" source="12881013000104" target="07021074417">
         <attvalues>
           <attvalue for="tipo de relacao" value="empregador de"></attvalue>
         </attvalues>
