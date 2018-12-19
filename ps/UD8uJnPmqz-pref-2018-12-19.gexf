@@ -1,0 +1,1546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2018-12-19">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="tipo" title="tipo" type="integer"></attribute>
+      <attribute id="nome da pessoa" title="nome da pessoa" type="string"></attribute>
+      <attribute id="isin_bf" title="isin_bf" type="string"></attribute>
+      <attribute id="isin_cadu" title="isin_cadu" type="string"></attribute>
+      <attribute id="vlr_renda_media_fam" title="vlr_renda_media_fam" type="string"></attribute>
+      <attribute id="n_vinculos" title="n_vinculos" type="string"></attribute>
+      <attribute id="n_vinculos_publicos" title="n_vinculos_publicos" type="string"></attribute>
+      <attribute id="número de empresas em que é sócio" title="número de empresas em que é sócio" type="string"></attribute>
+      <attribute id="número de vezes em que foi eleito" title="número de vezes em que foi eleito" type="string"></attribute>
+      <attribute id="número de vezes em que foi candidato" title="número de vezes em que foi candidato" type="string"></attribute>
+      <attribute id="nome da empresa" title="nome da empresa" type="string"></attribute>
+      <attribute id="nome" title="nome" type="string"></attribute>
+      <attribute id="número de funcionários" title="número de funcionários" type="string"></attribute>
+      <attribute id="numero de socios" title="numero de socios" type="string"></attribute>
+      <attribute id="capital social" title="capital social" type="string"></attribute>
+      <attribute id="numero de socios no bf" title="numero de socios no bf" type="string"></attribute>
+      <attribute id="data de constituição" title="data de constituição" type="string"></attribute>
+      <attribute id="numero de cnaes" title="numero de cnaes" type="string"></attribute>
+      <attribute id="logradouro" title="logradouro" type="string"></attribute>
+      <attribute id="número" title="número" type="string"></attribute>
+      <attribute id="complemento" title="complemento" type="string"></attribute>
+      <attribute id="bairro" title="bairro" type="string"></attribute>
+      <attribute id="cep" title="cep" type="string"></attribute>
+      <attribute id="uf" title="uf" type="string"></attribute>
+      <attribute id="município" title="município" type="string"></attribute>
+      <attribute id="map_link" title="map_link" type="string"></attribute>
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="tipo de relacao" title="tipo de relacao" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="O">
+        <attvalues>
+          <attvalue for="tipo" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="53.65114" y="27.128397"></viz:position>
+        <viz:color r="245" g="29" b="0"></viz:color>
+      </node>
+      <node id="45107793487">
+        <attvalues>
+          <attvalue for="tipo" value="1"></attvalue>
+          <attvalue for="nome da pessoa" value="ROMERO RODRIGUES VEIGA"></attvalue>
+          <attvalue for="isin_bf" value="False"></attvalue>
+          <attvalue for="isin_cadu" value="False"></attvalue>
+          <attvalue for="n_vinculos" value="0.0"></attvalue>
+          <attvalue for="n_vinculos_publicos" value="0.0"></attvalue>
+          <attvalue for="número de empresas em que é sócio" value="2.0"></attvalue>
+          <attvalue for="número de vezes em que foi eleito" value="3.0"></attvalue>
+          <attvalue for="número de vezes em que foi candidato" value="4.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="8.2940645" y="-78.36566"></viz:position>
+        <viz:color r="245" g="29" b="0"></viz:color>
+      </node>
+      <node id="60104970430">
+        <attvalues>
+          <attvalue for="tipo" value="1"></attvalue>
+          <attvalue for="nome da pessoa" value="LUCIANO CARTAXO PIRES DE SÁ"></attvalue>
+          <attvalue for="isin_bf" value="False"></attvalue>
+          <attvalue for="isin_cadu" value="False"></attvalue>
+          <attvalue for="n_vinculos" value="0.0"></attvalue>
+          <attvalue for="n_vinculos_publicos" value="0.0"></attvalue>
+          <attvalue for="número de empresas em que é sócio" value="1.0"></attvalue>
+          <attvalue for="número de vezes em que foi eleito" value="3.0"></attvalue>
+          <attvalue for="número de vezes em que foi candidato" value="5.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="94.26056" y="13.989979"></viz:position>
+        <viz:color r="245" g="29" b="0"></viz:color>
+      </node>
+      <node id="82707146404">
+        <attvalues>
+          <attvalue for="tipo" value="1"></attvalue>
+          <attvalue for="nome da pessoa" value="EMERSON FERNANDES ALVINO PANTA"></attvalue>
+          <attvalue for="isin_bf" value="False"></attvalue>
+          <attvalue for="isin_cadu" value="False"></attvalue>
+          <attvalue for="n_vinculos" value="4.0"></attvalue>
+          <attvalue for="n_vinculos_publicos" value="2.0"></attvalue>
+          <attvalue for="número de empresas em que é sócio" value="1.0"></attvalue>
+          <attvalue for="número de vezes em que foi eleito" value="0.0"></attvalue>
+          <attvalue for="número de vezes em que foi candidato" value="4.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-106.705795" y="55.769485"></viz:position>
+        <viz:color r="245" g="29" b="0"></viz:color>
+      </node>
+      <node id="00083095403">
+        <attvalues>
+          <attvalue for="tipo" value="1"></attvalue>
+          <attvalue for="nome da pessoa" value="DINALDO MEDEIROS WANDERLEY FILHO"></attvalue>
+          <attvalue for="isin_bf" value="False"></attvalue>
+          <attvalue for="isin_cadu" value="False"></attvalue>
+          <attvalue for="n_vinculos" value="0.0"></attvalue>
+          <attvalue for="n_vinculos_publicos" value="0.0"></attvalue>
+          <attvalue for="número de empresas em que é sócio" value="1.0"></attvalue>
+          <attvalue for="número de vezes em que foi eleito" value="0.0"></attvalue>
+          <attvalue for="número de vezes em que foi candidato" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="222.66074" y="76.093"></viz:position>
+        <viz:color r="245" g="29" b="0"></viz:color>
+      </node>
+      <node id="01341489400">
+        <attvalues>
+          <attvalue for="tipo" value="1"></attvalue>
+          <attvalue for="nome da pessoa" value="GUTEMBERG DE LIMA DAVI"></attvalue>
+          <attvalue for="isin_bf" value="False"></attvalue>
+          <attvalue for="isin_cadu" value="False"></attvalue>
+          <attvalue for="n_vinculos" value="0.0"></attvalue>
+          <attvalue for="n_vinculos_publicos" value="0.0"></attvalue>
+          <attvalue for="número de empresas em que é sócio" value="1.0"></attvalue>
+          <attvalue for="número de vezes em que foi eleito" value="0.0"></attvalue>
+          <attvalue for="número de vezes em que foi candidato" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="63.085472" y="71.1726"></viz:position>
+        <viz:color r="245" g="29" b="0"></viz:color>
+      </node>
+      <node id="03244747418">
+        <attvalues>
+          <attvalue for="tipo" value="2"></attvalue>
+          <attvalue for="nome da pessoa" value="ADO CORDEIRO BORBOREMA"></attvalue>
+          <attvalue for="isin_bf" value="False"></attvalue>
+          <attvalue for="isin_cadu" value="False"></attvalue>
+          <attvalue for="n_vinculos" value="0.0"></attvalue>
+          <attvalue for="n_vinculos_publicos" value="0.0"></attvalue>
+          <attvalue for="número de empresas em que é sócio" value="3.0"></attvalue>
+          <attvalue for="número de vezes em que foi eleito" value="0.0"></attvalue>
+          <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-36.805187" y="-166.19173"></viz:position>
+        <viz:color r="0" g="194" b="2"></viz:color>
+      </node>
+      <node id="67443478453">
+        <attvalues>
+          <attvalue for="tipo" value="2"></attvalue>
+          <attvalue for="nome da pessoa" value="ANDRE AGRA GOMES DE LIRA"></attvalue>
+          <attvalue for="isin_bf" value="False"></attvalue>
+          <attvalue for="isin_cadu" value="False"></attvalue>
+          <attvalue for="n_vinculos" value="2.0"></attvalue>
+          <attvalue for="n_vinculos_publicos" value="2.0"></attvalue>
+          <attvalue for="número de empresas em que é sócio" value="4.0"></attvalue>
+          <attvalue for="número de vezes em que foi eleito" value="0.0"></attvalue>
+          <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-85.585915" y="-86.13627"></viz:position>
+        <viz:color r="0" g="194" b="2"></viz:color>
+      </node>
+      <node id="03262760412">
+        <attvalues>
+          <attvalue for="tipo" value="2"></attvalue>
+          <attvalue for="nome da pessoa" value="ASSUERO CORDEIRO BORBOREMA"></attvalue>
+          <attvalue for="isin_bf" value="False"></attvalue>
+          <attvalue for="isin_cadu" value="False"></attvalue>
+          <attvalue for="n_vinculos" value="0.0"></attvalue>
+          <attvalue for="n_vinculos_publicos" value="0.0"></attvalue>
+          <attvalue for="número de empresas em que é sócio" value="4.0"></attvalue>
+          <attvalue for="número de vezes em que foi eleito" value="0.0"></attvalue>
+          <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-8.002076" y="-152.47849"></viz:position>
+        <viz:color r="0" g="194" b="2"></viz:color>
+      </node>
+      <node id="03830003439">
+        <attvalues>
+          <attvalue for="tipo" value="2"></attvalue>
+          <attvalue for="nome da pessoa" value="ANA KARLA AGRA GOMES DE LIRA BORBOREMA"></attvalue>
+          <attvalue for="isin_bf" value="False"></attvalue>
+          <attvalue for="isin_cadu" value="False"></attvalue>
+          <attvalue for="n_vinculos" value="0.0"></attvalue>
+          <attvalue for="n_vinculos_publicos" value="0.0"></attvalue>
+          <attvalue for="número de empresas em que é sócio" value="2.0"></attvalue>
+          <attvalue for="número de vezes em que foi eleito" value="0.0"></attvalue>
+          <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-52.38024" y="-126.64476"></viz:position>
+        <viz:color r="0" g="194" b="2"></viz:color>
+      </node>
+      <node id="40721736491">
+        <attvalues>
+          <attvalue for="tipo" value="2"></attvalue>
+          <attvalue for="nome da pessoa" value="RITA DE CASSIA DA SILVA COSTA"></attvalue>
+          <attvalue for="isin_bf" value="False"></attvalue>
+          <attvalue for="isin_cadu" value="False"></attvalue>
+          <attvalue for="n_vinculos" value="1.0"></attvalue>
+          <attvalue for="n_vinculos_publicos" value="1.0"></attvalue>
+          <attvalue for="número de empresas em que é sócio" value="2.0"></attvalue>
+          <attvalue for="número de vezes em que foi eleito" value="0.0"></attvalue>
+          <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-172.88698" y="155.33736"></viz:position>
+        <viz:color r="0" g="194" b="2"></viz:color>
+      </node>
+      <node id="59460091415">
+        <attvalues>
+          <attvalue for="tipo" value="2"></attvalue>
+          <attvalue for="nome da pessoa" value="MARIA ELIZABETE SOARES DA SILVA"></attvalue>
+          <attvalue for="isin_bf" value="False"></attvalue>
+          <attvalue for="isin_cadu" value="False"></attvalue>
+          <attvalue for="n_vinculos" value="0.0"></attvalue>
+          <attvalue for="n_vinculos_publicos" value="0.0"></attvalue>
+          <attvalue for="número de empresas em que é sócio" value="3.0"></attvalue>
+          <attvalue for="número de vezes em que foi eleito" value="0.0"></attvalue>
+          <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-213.66019" y="82.74955"></viz:position>
+        <viz:color r="0" g="194" b="2"></viz:color>
+      </node>
+      <node id="46850740415">
+        <attvalues>
+          <attvalue for="tipo" value="2"></attvalue>
+          <attvalue for="nome da pessoa" value="MONICA DE CASSIA RODRIGUES DO NASCIMENTO"></attvalue>
+          <attvalue for="isin_bf" value="False"></attvalue>
+          <attvalue for="isin_cadu" value="False"></attvalue>
+          <attvalue for="n_vinculos" value="1.0"></attvalue>
+          <attvalue for="n_vinculos_publicos" value="0.0"></attvalue>
+          <attvalue for="número de empresas em que é sócio" value="1.0"></attvalue>
+          <attvalue for="número de vezes em que foi eleito" value="0.0"></attvalue>
+          <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-219.2797" y="130.90202"></viz:position>
+        <viz:color r="0" g="194" b="2"></viz:color>
+      </node>
+      <node id="01423486439">
+        <attvalues>
+          <attvalue for="tipo" value="2"></attvalue>
+          <attvalue for="nome da pessoa" value="MIRNA MEDEIROS NOIA JACOME WANDERLEY"></attvalue>
+          <attvalue for="isin_bf" value="False"></attvalue>
+          <attvalue for="isin_cadu" value="False"></attvalue>
+          <attvalue for="n_vinculos" value="0.0"></attvalue>
+          <attvalue for="n_vinculos_publicos" value="0.0"></attvalue>
+          <attvalue for="número de empresas em que é sócio" value="2.0"></attvalue>
+          <attvalue for="número de vezes em que foi eleito" value="0.0"></attvalue>
+          <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="266.5321" y="124.94062"></viz:position>
+        <viz:color r="0" g="194" b="2"></viz:color>
+      </node>
+      <node id="93039093487">
+        <attvalues>
+          <attvalue for="tipo" value="2"></attvalue>
+          <attvalue for="nome da pessoa" value="GUSTAVO GUEDES WANDERLEY"></attvalue>
+          <attvalue for="isin_bf" value="False"></attvalue>
+          <attvalue for="isin_cadu" value="True"></attvalue>
+          <attvalue for="vlr_renda_media_fam" value="83.0"></attvalue>
+          <attvalue for="n_vinculos" value="1.0"></attvalue>
+          <attvalue for="n_vinculos_publicos" value="0.0"></attvalue>
+          <attvalue for="número de empresas em que é sócio" value="17.0"></attvalue>
+          <attvalue for="número de vezes em que foi eleito" value="0.0"></attvalue>
+          <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="386.71512" y="112.08664"></viz:position>
+        <viz:color r="0" g="194" b="2"></viz:color>
+      </node>
+      <node id="39583279404">
+        <attvalues>
+          <attvalue for="tipo" value="2"></attvalue>
+          <attvalue for="nome da pessoa" value="MARIA DO SOCORRO DE LIMA SANTOS"></attvalue>
+          <attvalue for="isin_bf" value="False"></attvalue>
+          <attvalue for="isin_cadu" value="False"></attvalue>
+          <attvalue for="n_vinculos" value="0.0"></attvalue>
+          <attvalue for="n_vinculos_publicos" value="0.0"></attvalue>
+          <attvalue for="número de empresas em que é sócio" value="2.0"></attvalue>
+          <attvalue for="número de vezes em que foi eleito" value="0.0"></attvalue>
+          <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-280.63464" y="166.50941"></viz:position>
+        <viz:color r="0" g="194" b="2"></viz:color>
+      </node>
+      <node id="12881013000104">
+        <attvalues>
+          <attvalue for="tipo" value="4"></attvalue>
+          <attvalue for="nome da empresa" value="A3R - COMERCIO, DISTRIBUIÇÃO E IMPORTAÇÃO DE PNEUS E RODAS LTDA"></attvalue>
+          <attvalue for="nome" value="A3R - COMERCIO, DISTRIBUIÇÃO E IMPORTAÇÃO DE PNEUS E RODAS LTDA"></attvalue>
+          <attvalue for="número de funcionários" value="4.0"></attvalue>
+          <attvalue for="numero de socios" value="5.0"></attvalue>
+          <attvalue for="capital social" value="100000.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+          <attvalue for="data de constituição" value="2010-08-26"></attvalue>
+          <attvalue for="numero de cnaes" value="4.0"></attvalue>
+          <attvalue for="logradouro" value="AV. CAPITÃO MOR GOUVEIA"></attvalue>
+          <attvalue for="número" value="1498"></attvalue>
+          <attvalue for="bairro" value="LAGOA NOVA"></attvalue>
+          <attvalue for="cep" value="59063400"></attvalue>
+          <attvalue for="uf" value="RN"></attvalue>
+          <attvalue for="município" value="NATAL"></attvalue>
+          <attvalue for="map_link" value="https://www.google.com/maps/search/59063400,+AV.+CAPITÃO+MOR+GOUVEIA,+1498,+LAGOA+NOVA"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-21.395035" y="-112.712494"></viz:position>
+        <viz:color r="4" g="0" b="214"></viz:color>
+      </node>
+      <node id="35576297000112">
+        <attvalues>
+          <attvalue for="tipo" value="4"></attvalue>
+          <attvalue for="nome da empresa" value="ROMERO RODRIGUES VEIGA ME"></attvalue>
+          <attvalue for="nome" value="ROMERO RODRIGUES VEIGA ME"></attvalue>
+          <attvalue for="número de funcionários" value="-1.0"></attvalue>
+          <attvalue for="numero de socios" value="1.0"></attvalue>
+          <attvalue for="capital social" value="0.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+          <attvalue for="data de constituição" value="1991-06-26"></attvalue>
+          <attvalue for="numero de cnaes" value="3.0"></attvalue>
+          <attvalue for="logradouro" value="RUA MONTEIRO LOBATO 474 A"></attvalue>
+          <attvalue for="bairro" value="ALTO BRANCO"></attvalue>
+          <attvalue for="cep" value="58100000"></attvalue>
+          <attvalue for="uf" value="PB"></attvalue>
+          <attvalue for="município" value="CAMPINA GRANDE"></attvalue>
+          <attvalue for="map_link" value="https://www.google.com/maps/search/58100000,+RUA+MONTEIRO+LOBATO+474+A,+,+ALTO+BRANCO"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="35.64315" y="-78.506485"></viz:position>
+        <viz:color r="4" g="0" b="214"></viz:color>
+      </node>
+      <node id="41205626000111">
+        <attvalues>
+          <attvalue for="tipo" value="4"></attvalue>
+          <attvalue for="nome da empresa" value="LUCIANO CARTAXO PIRES DE SA ME"></attvalue>
+          <attvalue for="nome" value="LUCIANO CARTAXO PIRES DE SA ME"></attvalue>
+          <attvalue for="número de funcionários" value="-1.0"></attvalue>
+          <attvalue for="numero de socios" value="1.0"></attvalue>
+          <attvalue for="capital social" value="21.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+          <attvalue for="data de constituição" value="1993-06-01"></attvalue>
+          <attvalue for="numero de cnaes" value="3.0"></attvalue>
+          <attvalue for="logradouro" value="PARQUE SOLON DE LUCENA 119"></attvalue>
+          <attvalue for="bairro" value="Centro"></attvalue>
+          <attvalue for="cep" value="58000000"></attvalue>
+          <attvalue for="map_link" value="https://www.google.com/maps/search/58000000,+PARQUE+SOLON+DE+LUCENA+119,+,+Centro"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="119.50826" y="4.9357934"></viz:position>
+        <viz:color r="4" g="0" b="214"></viz:color>
+      </node>
+      <node id="01784217000100">
+        <attvalues>
+          <attvalue for="tipo" value="4"></attvalue>
+          <attvalue for="nome da empresa" value="CINFISIO CENTRO INTEGRADO DE FISIOTERAPIA LTDA"></attvalue>
+          <attvalue for="nome" value="CINFISIO CENTRO INTEGRADO DE FISIOTERAPIA LTDA"></attvalue>
+          <attvalue for="número de funcionários" value="-1.0"></attvalue>
+          <attvalue for="numero de socios" value="4.0"></attvalue>
+          <attvalue for="capital social" value="8000.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+          <attvalue for="data de constituição" value="1997-04-24"></attvalue>
+          <attvalue for="numero de cnaes" value="2.0"></attvalue>
+          <attvalue for="logradouro" value="RUA SIQUEIRA CAMPOS"></attvalue>
+          <attvalue for="número" value="133"></attvalue>
+          <attvalue for="bairro" value="CENTRO"></attvalue>
+          <attvalue for="cep" value="58300000"></attvalue>
+          <attvalue for="uf" value="PB"></attvalue>
+          <attvalue for="município" value="UIRAÚNA"></attvalue>
+          <attvalue for="map_link" value="https://www.google.com/maps/search/58300000,+RUA+SIQUEIRA+CAMPOS,+133,+CENTRO"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-170.50175" y="101.95869"></viz:position>
+        <viz:color r="4" g="0" b="214"></viz:color>
+      </node>
+      <node id="10714599000189">
+        <attvalues>
+          <attvalue for="tipo" value="4"></attvalue>
+          <attvalue for="nome da empresa" value="ORTOMED CLINICA ESPECIALIZADA EIRELI - ME"></attvalue>
+          <attvalue for="nome" value="ORTOMED CLINICA ESPECIALIZADA EIRELI - ME"></attvalue>
+          <attvalue for="número de funcionários" value="5.0"></attvalue>
+          <attvalue for="numero de socios" value="3.0"></attvalue>
+          <attvalue for="capital social" value="78800.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+          <attvalue for="data de constituição" value="2009-03-23"></attvalue>
+          <attvalue for="numero de cnaes" value="3.0"></attvalue>
+          <attvalue for="logradouro" value="RUA VENANCIO NEIVA"></attvalue>
+          <attvalue for="número" value="SN"></attvalue>
+          <attvalue for="bairro" value="CENTRO"></attvalue>
+          <attvalue for="cep" value="58884000"></attvalue>
+          <attvalue for="uf" value="PB"></attvalue>
+          <attvalue for="município" value="CATOLÉ DO ROCHA"></attvalue>
+          <attvalue for="map_link" value="https://www.google.com/maps/search/58884000,+RUA+VENANCIO+NEIVA,+SN,+CENTRO"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="282.80295" y="94.33318"></viz:position>
+        <viz:color r="4" g="0" b="214"></viz:color>
+      </node>
+      <node id="17887842000100">
+        <attvalues>
+          <attvalue for="tipo" value="4"></attvalue>
+          <attvalue for="nome da empresa" value="GUTEMBERG DE LIMA DAVI 01341489400"></attvalue>
+          <attvalue for="nome" value="GUTEMBERG DE LIMA DAVI 01341489400"></attvalue>
+          <attvalue for="número de funcionários" value="-1.0"></attvalue>
+          <attvalue for="numero de socios" value="1.0"></attvalue>
+          <attvalue for="capital social" value="500.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+          <attvalue for="data de constituição" value="2013-04-08"></attvalue>
+          <attvalue for="numero de cnaes" value="2.0"></attvalue>
+          <attvalue for="logradouro" value="IRINEU PINTO"></attvalue>
+          <attvalue for="número" value="146"></attvalue>
+          <attvalue for="complemento" value="SALA 101"></attvalue>
+          <attvalue for="bairro" value="AEROPORTO"></attvalue>
+          <attvalue for="cep" value="58010100"></attvalue>
+          <attvalue for="uf" value="PB"></attvalue>
+          <attvalue for="município" value="JOÃO PESSOA"></attvalue>
+          <attvalue for="map_link" value="https://www.google.com/maps/search/58010100,+IRINEU+PINTO,+146,+AEROPORTO"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="69.09214" y="97.4488"></viz:position>
+        <viz:color r="4" g="0" b="214"></viz:color>
+      </node>
+      <node id="07144400000110">
+        <attvalues>
+          <attvalue for="tipo" value="4"></attvalue>
+          <attvalue for="nome da empresa" value="LEAL E CORDEIRO LTDA EPP"></attvalue>
+          <attvalue for="nome" value="LEAL E CORDEIRO LTDA EPP"></attvalue>
+          <attvalue for="número de funcionários" value="15.0"></attvalue>
+          <attvalue for="numero de socios" value="3.0"></attvalue>
+          <attvalue for="capital social" value="20000.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+          <attvalue for="data de constituição" value="2004-12-14"></attvalue>
+          <attvalue for="numero de cnaes" value="8.0"></attvalue>
+          <attvalue for="logradouro" value="AVENIDA JAGUARARI"></attvalue>
+          <attvalue for="número" value="1757"></attvalue>
+          <attvalue for="bairro" value="LAGOA NOVA"></attvalue>
+          <attvalue for="cep" value="59032620"></attvalue>
+          <attvalue for="uf" value="RN"></attvalue>
+          <attvalue for="município" value="NATAL"></attvalue>
+          <attvalue for="map_link" value="https://www.google.com/maps/search/59032620,+AVENIDA+JAGUARARI,+1757,+LAGOA+NOVA"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-11.137917" y="-190.14725"></viz:position>
+        <viz:color r="4" g="0" b="214"></viz:color>
+      </node>
+      <node id="12881013000287">
+        <attvalues>
+          <attvalue for="tipo" value="4"></attvalue>
+          <attvalue for="nome da empresa" value="A3R - COMERCIO, DISTRIBUIÇÃO E IMPORTAÇÃO DE PNEUS E RODAS LTDA"></attvalue>
+          <attvalue for="nome" value="A3R - COMERCIO, DISTRIBUIÇÃO E IMPORTAÇÃO DE PNEUS E RODAS LTDA"></attvalue>
+          <attvalue for="número de funcionários" value="-1.0"></attvalue>
+          <attvalue for="numero de socios" value="4.0"></attvalue>
+          <attvalue for="capital social" value="0.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+          <attvalue for="data de constituição" value="2014-10-22"></attvalue>
+          <attvalue for="numero de cnaes" value="4.0"></attvalue>
+          <attvalue for="logradouro" value="RUA GUILHERMINO BARBOSA"></attvalue>
+          <attvalue for="número" value="52"></attvalue>
+          <attvalue for="complemento" value="B - GP 20"></attvalue>
+          <attvalue for="bairro" value="CATOLÉ"></attvalue>
+          <attvalue for="cep" value="58410100"></attvalue>
+          <attvalue for="uf" value="PB"></attvalue>
+          <attvalue for="município" value="CAMPINA GRANDE"></attvalue>
+          <attvalue for="map_link" value="https://www.google.com/maps/search/58410100,+RUA+GUILHERMINO+BARBOSA,+52,+CATOLÉ"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-68.24958" y="-153.13948"></viz:position>
+        <viz:color r="4" g="0" b="214"></viz:color>
+      </node>
+      <node id="09123654000187">
+        <attvalues>
+          <attvalue for="tipo" value="4"></attvalue>
+          <attvalue for="nome da empresa" value="COMPANHIA DE AGUA E ESGOTOS DA PARAIBA CAGEPA"></attvalue>
+          <attvalue for="nome" value="COMPANHIA DE AGUA E ESGOTOS DA PARAIBA CAGEPA"></attvalue>
+          <attvalue for="número de funcionários" value="452.0"></attvalue>
+          <attvalue for="numero de socios" value="91.0"></attvalue>
+          <attvalue for="capital social" value="469644210.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+          <attvalue for="data de constituição" value="1968-03-18"></attvalue>
+          <attvalue for="numero de cnaes" value="1.0"></attvalue>
+          <attvalue for="logradouro" value="Feliciano Cirne"></attvalue>
+          <attvalue for="número" value="220"></attvalue>
+          <attvalue for="bairro" value="Jaguaribe"></attvalue>
+          <attvalue for="cep" value="58015570"></attvalue>
+          <attvalue for="uf" value="PB"></attvalue>
+          <attvalue for="município" value="JOÃO PESSOA"></attvalue>
+          <attvalue for="map_link" value="https://www.google.com/maps/search/58015570,+Feliciano+Cirne,+220,+Jaguaribe"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-126.22076" y="-103.28048"></viz:position>
+        <viz:color r="4" g="0" b="214"></viz:color>
+      </node>
+      <node id="10684218000166">
+        <attvalues>
+          <attvalue for="tipo" value="4"></attvalue>
+          <attvalue for="nome da empresa" value="ACCROPOLI HOTEL LTDA"></attvalue>
+          <attvalue for="nome" value="ACCROPOLI HOTEL LTDA"></attvalue>
+          <attvalue for="número de funcionários" value="13.0"></attvalue>
+          <attvalue for="numero de socios" value="4.0"></attvalue>
+          <attvalue for="capital social" value="300000.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+          <attvalue for="data de constituição" value="2009-03-04"></attvalue>
+          <attvalue for="numero de cnaes" value="2.0"></attvalue>
+          <attvalue for="logradouro" value="AVENIDA Cairu"></attvalue>
+          <attvalue for="número" value="222"></attvalue>
+          <attvalue for="complemento" value="SALA 111"></attvalue>
+          <attvalue for="bairro" value="Cabo Branco"></attvalue>
+          <attvalue for="cep" value="58045100"></attvalue>
+          <attvalue for="uf" value="PB"></attvalue>
+          <attvalue for="município" value="JOÃO PESSOA"></attvalue>
+          <attvalue for="map_link" value="https://www.google.com/maps/search/58045100,+AVENIDA+Cairu,+222,+Cabo+Branco"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-103.16812" y="-120.4769"></viz:position>
+        <viz:color r="4" g="0" b="214"></viz:color>
+      </node>
+      <node id="06032967000131">
+        <attvalues>
+          <attvalue for="tipo" value="4"></attvalue>
+          <attvalue for="nome da empresa" value="FISIOTERAPIA REABILITAÇÃO E ESTETICA ERA LTDA"></attvalue>
+          <attvalue for="nome" value="FISIOTERAPIA REABILITAÇÃO E ESTETICA ERA LTDA"></attvalue>
+          <attvalue for="número de funcionários" value="-1.0"></attvalue>
+          <attvalue for="numero de socios" value="3.0"></attvalue>
+          <attvalue for="capital social" value="6000.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+          <attvalue for="data de constituição" value="2003-12-15"></attvalue>
+          <attvalue for="numero de cnaes" value="2.0"></attvalue>
+          <attvalue for="logradouro" value="AV DOUTOR FLAVIO RIBEIRO COUTINHO"></attvalue>
+          <attvalue for="número" value="375"></attvalue>
+          <attvalue for="bairro" value="CENTRO"></attvalue>
+          <attvalue for="cep" value="58300000"></attvalue>
+          <attvalue for="uf" value="PB"></attvalue>
+          <attvalue for="município" value="UIRAÚNA"></attvalue>
+          <attvalue for="map_link" value="https://www.google.com/maps/search/58300000,+AV+DOUTOR+FLAVIO+RIBEIRO+COUTINHO,+375,+CENTRO"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-155.07738" y="186.21843"></viz:position>
+        <viz:color r="4" g="0" b="214"></viz:color>
+      </node>
+      <node id="05730009000171">
+        <attvalues>
+          <attvalue for="tipo" value="4"></attvalue>
+          <attvalue for="nome da empresa" value="MARIA ELIZABETE SOARES DA SILVA"></attvalue>
+          <attvalue for="nome" value="MARIA ELIZABETE SOARES DA SILVA"></attvalue>
+          <attvalue for="número de funcionários" value="-1.0"></attvalue>
+          <attvalue for="numero de socios" value="1.0"></attvalue>
+          <attvalue for="capital social" value="1000.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+          <attvalue for="data de constituição" value="2003-06-27"></attvalue>
+          <attvalue for="numero de cnaes" value="2.0"></attvalue>
+          <attvalue for="logradouro" value="RUA SIQUEIRA CAMPOS"></attvalue>
+          <attvalue for="número" value="156"></attvalue>
+          <attvalue for="bairro" value="CENTRO"></attvalue>
+          <attvalue for="cep" value="58300000"></attvalue>
+          <attvalue for="uf" value="PB"></attvalue>
+          <attvalue for="município" value="UIRAÚNA"></attvalue>
+          <attvalue for="map_link" value="https://www.google.com/maps/search/58300000,+RUA+SIQUEIRA+CAMPOS,+156,+CENTRO"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-249.03818" y="84.47364"></viz:position>
+        <viz:color r="4" g="0" b="214"></viz:color>
+      </node>
+      <node id="35433242000153">
+        <attvalues>
+          <attvalue for="tipo" value="4"></attvalue>
+          <attvalue for="nome da empresa" value="MARIA ELIZABETE SOARES DA SILVA ME"></attvalue>
+          <attvalue for="nome" value="MARIA ELIZABETE SOARES DA SILVA ME"></attvalue>
+          <attvalue for="número de funcionários" value="-1.0"></attvalue>
+          <attvalue for="numero de socios" value="1.0"></attvalue>
+          <attvalue for="capital social" value="0.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+          <attvalue for="data de constituição" value="1990-09-10"></attvalue>
+          <attvalue for="numero de cnaes" value="1.0"></attvalue>
+          <attvalue for="logradouro" value="MERCADO PUBLICO"></attvalue>
+          <attvalue for="número" value="S/N"></attvalue>
+          <attvalue for="bairro" value="Centro"></attvalue>
+          <attvalue for="cep" value="58300000"></attvalue>
+          <attvalue for="uf" value="PB"></attvalue>
+          <attvalue for="município" value="UIRAÚNA"></attvalue>
+          <attvalue for="map_link" value="https://www.google.com/maps/search/58300000,+MERCADO+PUBLICO,+S/N,+Centro"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-235.50092" y="56.202034"></viz:position>
+        <viz:color r="4" g="0" b="214"></viz:color>
+      </node>
+      <node id="24783738000130">
+        <attvalues>
+          <attvalue for="tipo" value="4"></attvalue>
+          <attvalue for="nome da empresa" value="GOHAP SERVIÇOS MÉDICOS LTDA - ME"></attvalue>
+          <attvalue for="nome" value="GOHAP SERVIÇOS MÉDICOS LTDA - ME"></attvalue>
+          <attvalue for="número de funcionários" value="-1.0"></attvalue>
+          <attvalue for="numero de socios" value="20.0"></attvalue>
+          <attvalue for="capital social" value="20000.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+          <attvalue for="data de constituição" value="2016-05-12"></attvalue>
+          <attvalue for="numero de cnaes" value="2.0"></attvalue>
+          <attvalue for="logradouro" value="RUA ANTONIO RABELO JUNIOR"></attvalue>
+          <attvalue for="número" value="81"></attvalue>
+          <attvalue for="complemento" value="SALA 101 CXPST 120"></attvalue>
+          <attvalue for="bairro" value="MIRAMAR"></attvalue>
+          <attvalue for="cep" value="58032090"></attvalue>
+          <attvalue for="uf" value="PB"></attvalue>
+          <attvalue for="município" value="JOÃO PESSOA"></attvalue>
+          <attvalue for="map_link" value="https://www.google.com/maps/search/58032090,+RUA+ANTONIO+RABELO+JUNIOR,+81,+MIRAMAR"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="254.27788" y="153.84312"></viz:position>
+        <viz:color r="4" g="0" b="214"></viz:color>
+      </node>
+      <node id="00526995000129">
+        <attvalues>
+          <attvalue for="tipo" value="4"></attvalue>
+          <attvalue for="nome da empresa" value="DEG INDUSTRIA DE EMBALAGENS LTDA"></attvalue>
+          <attvalue for="nome" value="DEG INDUSTRIA DE EMBALAGENS LTDA"></attvalue>
+          <attvalue for="número de funcionários" value="-1.0"></attvalue>
+          <attvalue for="numero de socios" value="3.0"></attvalue>
+          <attvalue for="capital social" value="5000.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+          <attvalue for="data de constituição" value="1995-04-04"></attvalue>
+          <attvalue for="numero de cnaes" value="3.0"></attvalue>
+          <attvalue for="logradouro" value="RUA LEONCIO WANDERLEY 383 A"></attvalue>
+          <attvalue for="bairro" value="CENTRO"></attvalue>
+          <attvalue for="cep" value="58700000"></attvalue>
+          <attvalue for="uf" value="PB"></attvalue>
+          <attvalue for="município" value="PATOS"></attvalue>
+          <attvalue for="map_link" value="https://www.google.com/maps/search/58700000,+RUA+LEONCIO+WANDERLEY+383+A,+,+CENTRO"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="351.57172" y="140.71597"></viz:position>
+        <viz:color r="4" g="0" b="214"></viz:color>
+      </node>
+      <node id="03822790000189">
+        <attvalues>
+          <attvalue for="tipo" value="4"></attvalue>
+          <attvalue for="nome da empresa" value="SISTEMA DE COMUNICACAO VALE DAS ESPINHARAS LTDA"></attvalue>
+          <attvalue for="nome" value="SISTEMA DE COMUNICACAO VALE DAS ESPINHARAS LTDA"></attvalue>
+          <attvalue for="número de funcionários" value="-1.0"></attvalue>
+          <attvalue for="numero de socios" value="2.0"></attvalue>
+          <attvalue for="capital social" value="110000.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+          <attvalue for="data de constituição" value="2000-05-19"></attvalue>
+          <attvalue for="numero de cnaes" value="2.0"></attvalue>
+          <attvalue for="logradouro" value="R PEREGRINO  FILHO"></attvalue>
+          <attvalue for="número" value=".475"></attvalue>
+          <attvalue for="bairro" value="BTRASILIA"></attvalue>
+          <attvalue for="cep" value="58700000"></attvalue>
+          <attvalue for="uf" value="PB"></attvalue>
+          <attvalue for="município" value="PATOS"></attvalue>
+          <attvalue for="map_link" value="https://www.google.com/maps/search/58700000,+R+PEREGRINO++FILHO,+.475,+BTRASILIA"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="373.53296" y="155.29112"></viz:position>
+        <viz:color r="4" g="0" b="214"></viz:color>
+      </node>
+      <node id="05964758000163">
+        <attvalues>
+          <attvalue for="tipo" value="4"></attvalue>
+          <attvalue for="nome da empresa" value="FG LOCADORA DE AUTOMÓVEIS LTDA  ME"></attvalue>
+          <attvalue for="nome" value="FG LOCADORA DE AUTOMÓVEIS LTDA  ME"></attvalue>
+          <attvalue for="número de funcionários" value="-1.0"></attvalue>
+          <attvalue for="numero de socios" value="2.0"></attvalue>
+          <attvalue for="capital social" value="150000.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+          <attvalue for="data de constituição" value="2003-11-05"></attvalue>
+          <attvalue for="numero de cnaes" value="1.0"></attvalue>
+          <attvalue for="logradouro" value="Marechal Deodoro da Fonseca"></attvalue>
+          <attvalue for="número" value="31"></attvalue>
+          <attvalue for="complemento" value="SALA 01"></attvalue>
+          <attvalue for="bairro" value="Centro"></attvalue>
+          <attvalue for="cep" value="58700550"></attvalue>
+          <attvalue for="uf" value="PB"></attvalue>
+          <attvalue for="município" value="PATOS"></attvalue>
+          <attvalue for="map_link" value="https://www.google.com/maps/search/58700550,++Marechal+Deodoro+da+Fonseca,+31,+Centro"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="393.74988" y="172.5334"></viz:position>
+        <viz:color r="4" g="0" b="214"></viz:color>
+      </node>
+      <node id="07073859000170">
+        <attvalues>
+          <attvalue for="tipo" value="4"></attvalue>
+          <attvalue for="nome da empresa" value="GUSTAVO GUEDES WANDERLEY ME"></attvalue>
+          <attvalue for="nome" value="GUSTAVO GUEDES WANDERLEY ME"></attvalue>
+          <attvalue for="número de funcionários" value="-1.0"></attvalue>
+          <attvalue for="numero de socios" value="1.0"></attvalue>
+          <attvalue for="capital social" value="15000.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+          <attvalue for="data de constituição" value="2004-11-11"></attvalue>
+          <attvalue for="numero de cnaes" value="1.0"></attvalue>
+          <attvalue for="logradouro" value="RUA PEDRO FIRMINO"></attvalue>
+          <attvalue for="número" value="470"></attvalue>
+          <attvalue for="complemento" value="GUEDES SHOPPING CENTER LOJA 03"></attvalue>
+          <attvalue for="bairro" value="CENTRO"></attvalue>
+          <attvalue for="cep" value="58700000"></attvalue>
+          <attvalue for="uf" value="PB"></attvalue>
+          <attvalue for="município" value="PATOS"></attvalue>
+          <attvalue for="map_link" value="https://www.google.com/maps/search/58700000,+RUA+PEDRO+FIRMINO,+470,+CENTRO"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="432.81754" y="139.70358"></viz:position>
+        <viz:color r="4" g="0" b="214"></viz:color>
+      </node>
+      <node id="10801326000171">
+        <attvalues>
+          <attvalue for="tipo" value="4"></attvalue>
+          <attvalue for="nome da empresa" value="REALIZE III EMPREENDIMENTOS IMOBILIÁRIOS LTDA   ME"></attvalue>
+          <attvalue for="nome" value="REALIZE III EMPREENDIMENTOS IMOBILIÁRIOS LTDA   ME"></attvalue>
+          <attvalue for="número de funcionários" value="-1.0"></attvalue>
+          <attvalue for="numero de socios" value="4.0"></attvalue>
+          <attvalue for="capital social" value="100000.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+          <attvalue for="data de constituição" value="2009-05-06"></attvalue>
+          <attvalue for="numero de cnaes" value="2.0"></attvalue>
+          <attvalue for="logradouro" value="VEREADOR JUVINO MARREIRO"></attvalue>
+          <attvalue for="número" value="366"></attvalue>
+          <attvalue for="bairro" value="CENTRO"></attvalue>
+          <attvalue for="cep" value="58213000"></attvalue>
+          <attvalue for="uf" value="PB"></attvalue>
+          <attvalue for="município" value="PIRPIRITUBA"></attvalue>
+          <attvalue for="map_link" value="https://www.google.com/maps/search/58213000,++VEREADOR+JUVINO+MARREIRO,+366,+CENTRO"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="450.56317" y="118.547646"></viz:position>
+        <viz:color r="4" g="0" b="214"></viz:color>
+      </node>
+      <node id="15112096000157">
+        <attvalues>
+          <attvalue for="tipo" value="4"></attvalue>
+          <attvalue for="nome da empresa" value="AG SERVIÇOS E EMPREENDIMENTOS IMOBILIÁRIOS LTDA - ME"></attvalue>
+          <attvalue for="nome" value="AG SERVIÇOS E EMPREENDIMENTOS IMOBILIÁRIOS LTDA - ME"></attvalue>
+          <attvalue for="número de funcionários" value="-1.0"></attvalue>
+          <attvalue for="numero de socios" value="3.0"></attvalue>
+          <attvalue for="capital social" value="50000.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+          <attvalue for="data de constituição" value="2012-02-16"></attvalue>
+          <attvalue for="numero de cnaes" value="7.0"></attvalue>
+          <attvalue for="logradouro" value="RUA SERGIO LIMA"></attvalue>
+          <attvalue for="número" value="SN"></attvalue>
+          <attvalue for="bairro" value="JD GUANABARA"></attvalue>
+          <attvalue for="cep" value="58701360"></attvalue>
+          <attvalue for="uf" value="PB"></attvalue>
+          <attvalue for="município" value="PATOS"></attvalue>
+          <attvalue for="map_link" value="https://www.google.com/maps/search/58701360,+RUA+SERGIO+LIMA,+SN,+JD+GUANABARA"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="441.84924" y="92.03464"></viz:position>
+        <viz:color r="4" g="0" b="214"></viz:color>
+      </node>
+      <node id="17645796000132">
+        <attvalues>
+          <attvalue for="tipo" value="4"></attvalue>
+          <attvalue for="nome da empresa" value="AG 01 SERVIÇOS E EMPREENDIMENTOS IMOBILIARIOS LTDA"></attvalue>
+          <attvalue for="nome" value="AG 01 SERVIÇOS E EMPREENDIMENTOS IMOBILIARIOS LTDA"></attvalue>
+          <attvalue for="número de funcionários" value="-1.0"></attvalue>
+          <attvalue for="numero de socios" value="3.0"></attvalue>
+          <attvalue for="capital social" value="50000.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+          <attvalue for="data de constituição" value="2013-02-26"></attvalue>
+          <attvalue for="numero de cnaes" value="9.0"></attvalue>
+          <attvalue for="logradouro" value="RUA SÉRGIO LIMA"></attvalue>
+          <attvalue for="número" value="SN"></attvalue>
+          <attvalue for="complemento" value="SL A"></attvalue>
+          <attvalue for="bairro" value="JD GUANABARA"></attvalue>
+          <attvalue for="cep" value="58701360"></attvalue>
+          <attvalue for="uf" value="PB"></attvalue>
+          <attvalue for="município" value="PATOS"></attvalue>
+          <attvalue for="map_link" value="https://www.google.com/maps/search/58701360,+RUA+SÉRGIO+LIMA,+SN,+JD+GUANABARA"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="403.40613" y="55.51974"></viz:position>
+        <viz:color r="4" g="0" b="214"></viz:color>
+      </node>
+      <node id="20239487000177">
+        <attvalues>
+          <attvalue for="tipo" value="4"></attvalue>
+          <attvalue for="nome da empresa" value="LOTS EMPREENDIMENTOS IMOBILIÁRIOS E PARTICIPAÇÕES LTDA"></attvalue>
+          <attvalue for="nome" value="LOTS EMPREENDIMENTOS IMOBILIÁRIOS E PARTICIPAÇÕES LTDA"></attvalue>
+          <attvalue for="número de funcionários" value="-1.0"></attvalue>
+          <attvalue for="numero de socios" value="2.0"></attvalue>
+          <attvalue for="capital social" value="300000.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+          <attvalue for="data de constituição" value="2014-05-13"></attvalue>
+          <attvalue for="numero de cnaes" value="2.0"></attvalue>
+          <attvalue for="logradouro" value="RUA MARECHAL DEODORO DA FONSECA"></attvalue>
+          <attvalue for="número" value="31"></attvalue>
+          <attvalue for="complemento" value="SALA 01"></attvalue>
+          <attvalue for="bairro" value="Centro"></attvalue>
+          <attvalue for="cep" value="58700550"></attvalue>
+          <attvalue for="uf" value="PB"></attvalue>
+          <attvalue for="município" value="PATOS"></attvalue>
+          <attvalue for="map_link" value="https://www.google.com/maps/search/58700550,++RUA+MARECHAL+DEODORO+DA+FONSECA,+31,+Centro"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="366.03937" y="60.699192"></viz:position>
+        <viz:color r="4" g="0" b="214"></viz:color>
+      </node>
+      <node id="20514883000165">
+        <attvalues>
+          <attvalue for="tipo" value="4"></attvalue>
+          <attvalue for="nome da empresa" value="LOTS POMBAL EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA"></attvalue>
+          <attvalue for="nome" value="LOTS POMBAL EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA"></attvalue>
+          <attvalue for="número de funcionários" value="-1.0"></attvalue>
+          <attvalue for="numero de socios" value="3.0"></attvalue>
+          <attvalue for="capital social" value="100000.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+          <attvalue for="data de constituição" value="2014-06-27"></attvalue>
+          <attvalue for="numero de cnaes" value="2.0"></attvalue>
+          <attvalue for="logradouro" value="RUA MARECHAL DEODORO DA FONSECA"></attvalue>
+          <attvalue for="número" value="31"></attvalue>
+          <attvalue for="complemento" value="SALA 01 ;"></attvalue>
+          <attvalue for="bairro" value="Centro"></attvalue>
+          <attvalue for="cep" value="58700550"></attvalue>
+          <attvalue for="uf" value="PB"></attvalue>
+          <attvalue for="município" value="PATOS"></attvalue>
+          <attvalue for="map_link" value="https://www.google.com/maps/search/58700550,++RUA+MARECHAL+DEODORO+DA+FONSECA,+31,+Centro"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="354.23334" y="86.41461"></viz:position>
+        <viz:color r="4" g="0" b="214"></viz:color>
+      </node>
+      <node id="20541471000114">
+        <attvalues>
+          <attvalue for="tipo" value="4"></attvalue>
+          <attvalue for="nome da empresa" value="LOTS SANTA GERTRUDES EMPREENDIMENTOS IMOBILIÁRIOS LTDA"></attvalue>
+          <attvalue for="nome" value="LOTS SANTA GERTRUDES EMPREENDIMENTOS IMOBILIÁRIOS LTDA"></attvalue>
+          <attvalue for="número de funcionários" value="-1.0"></attvalue>
+          <attvalue for="numero de socios" value="4.0"></attvalue>
+          <attvalue for="capital social" value="100000.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+          <attvalue for="data de constituição" value="2014-07-02"></attvalue>
+          <attvalue for="numero de cnaes" value="2.0"></attvalue>
+          <attvalue for="logradouro" value="RUA MARECHAL DEODORO DA FONSECA"></attvalue>
+          <attvalue for="número" value="31"></attvalue>
+          <attvalue for="complemento" value="SALA 01 ;"></attvalue>
+          <attvalue for="bairro" value="Centro"></attvalue>
+          <attvalue for="cep" value="58700550"></attvalue>
+          <attvalue for="uf" value="PB"></attvalue>
+          <attvalue for="município" value="PATOS"></attvalue>
+          <attvalue for="map_link" value="https://www.google.com/maps/search/58700550,+RUA+MARECHAL+DEODORO+DA+FONSECA,+31,+Centro"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="430.85852" y="65.81246"></viz:position>
+        <viz:color r="4" g="0" b="214"></viz:color>
+      </node>
+      <node id="20694457000150">
+        <attvalues>
+          <attvalue for="tipo" value="4"></attvalue>
+          <attvalue for="nome da empresa" value="LOTS PATOS EMPREENDIMENTOS IMOBILIARIOS LTDA"></attvalue>
+          <attvalue for="nome" value="LOTS PATOS EMPREENDIMENTOS IMOBILIARIOS LTDA"></attvalue>
+          <attvalue for="número de funcionários" value="-1.0"></attvalue>
+          <attvalue for="numero de socios" value="3.0"></attvalue>
+          <attvalue for="capital social" value="100000.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+          <attvalue for="data de constituição" value="2014-07-23"></attvalue>
+          <attvalue for="numero de cnaes" value="2.0"></attvalue>
+          <attvalue for="logradouro" value="RUA Marechal Deodoro da Fonseca"></attvalue>
+          <attvalue for="número" value="31"></attvalue>
+          <attvalue for="complemento" value="SALA 01 ;"></attvalue>
+          <attvalue for="bairro" value="Centro"></attvalue>
+          <attvalue for="cep" value="58700550"></attvalue>
+          <attvalue for="uf" value="PB"></attvalue>
+          <attvalue for="município" value="PATOS"></attvalue>
+          <attvalue for="map_link" value="https://www.google.com/maps/search/58700550,+RUA+Marechal+Deodoro+da+Fonseca,+31,+Centro"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="344.73807" y="113.21011"></viz:position>
+        <viz:color r="4" g="0" b="214"></viz:color>
+      </node>
+      <node id="20929904000103">
+        <attvalues>
+          <attvalue for="tipo" value="4"></attvalue>
+          <attvalue for="nome da empresa" value="LOTS TENA EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA ME"></attvalue>
+          <attvalue for="nome" value="LOTS TENA EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA ME"></attvalue>
+          <attvalue for="número de funcionários" value="-1.0"></attvalue>
+          <attvalue for="numero de socios" value="2.0"></attvalue>
+          <attvalue for="capital social" value="100000.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+          <attvalue for="data de constituição" value="2014-08-28"></attvalue>
+          <attvalue for="numero de cnaes" value="2.0"></attvalue>
+          <attvalue for="logradouro" value="Rua Marechal Deodoro da Fonseca"></attvalue>
+          <attvalue for="número" value="31"></attvalue>
+          <attvalue for="complemento" value="SALA 01"></attvalue>
+          <attvalue for="bairro" value="Centro"></attvalue>
+          <attvalue for="cep" value="58700550"></attvalue>
+          <attvalue for="uf" value="PB"></attvalue>
+          <attvalue for="município" value="PATOS"></attvalue>
+          <attvalue for="map_link" value="https://www.google.com/maps/search/58700550,+Rua+Marechal+Deodoro+da+Fonseca,+31,+Centro"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="422.18826" y="165.13248"></viz:position>
+        <viz:color r="4" g="0" b="214"></viz:color>
+      </node>
+      <node id="21779017000169">
+        <attvalues>
+          <attvalue for="tipo" value="4"></attvalue>
+          <attvalue for="nome da empresa" value="LOTS SÃO MAMEDE EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA"></attvalue>
+          <attvalue for="nome" value="LOTS SÃO MAMEDE EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA"></attvalue>
+          <attvalue for="número de funcionários" value="-1.0"></attvalue>
+          <attvalue for="numero de socios" value="2.0"></attvalue>
+          <attvalue for="capital social" value="10000000.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+          <attvalue for="data de constituição" value="2015-01-29"></attvalue>
+          <attvalue for="numero de cnaes" value="2.0"></attvalue>
+          <attvalue for="logradouro" value="Marechal Deodoro da Fonseca"></attvalue>
+          <attvalue for="número" value="31"></attvalue>
+          <attvalue for="complemento" value="SALA 01"></attvalue>
+          <attvalue for="bairro" value="Centro"></attvalue>
+          <attvalue for="cep" value="58700550"></attvalue>
+          <attvalue for="uf" value="PB"></attvalue>
+          <attvalue for="município" value="PATOS"></attvalue>
+          <attvalue for="map_link" value="https://www.google.com/maps/search/58700550,+Marechal+Deodoro+da+Fonseca,+31,+Centro"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="387.382" y="76.271095"></viz:position>
+        <viz:color r="4" g="0" b="214"></viz:color>
+      </node>
+      <node id="23922900000191">
+        <attvalues>
+          <attvalue for="tipo" value="4"></attvalue>
+          <attvalue for="nome da empresa" value="LOTS PATOS 1 EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA"></attvalue>
+          <attvalue for="nome" value="LOTS PATOS 1 EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA"></attvalue>
+          <attvalue for="número de funcionários" value="-1.0"></attvalue>
+          <attvalue for="numero de socios" value="2.0"></attvalue>
+          <attvalue for="capital social" value="100000.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+          <attvalue for="data de constituição" value="2016-01-07"></attvalue>
+          <attvalue for="numero de cnaes" value="2.0"></attvalue>
+          <attvalue for="logradouro" value="RUA MARECHAL DEODORO DA FONSECA"></attvalue>
+          <attvalue for="número" value="31"></attvalue>
+          <attvalue for="complemento" value="SALA 01"></attvalue>
+          <attvalue for="bairro" value="CENTRO"></attvalue>
+          <attvalue for="cep" value="58700550"></attvalue>
+          <attvalue for="uf" value="PB"></attvalue>
+          <attvalue for="município" value="PATOS"></attvalue>
+          <attvalue for="map_link" value="https://www.google.com/maps/search/58700550,+RUA+MARECHAL+DEODORO+DA+FONSECA,+31,+CENTRO"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="423.38095" y="113.43166"></viz:position>
+        <viz:color r="4" g="0" b="214"></viz:color>
+      </node>
+      <node id="24339864000109">
+        <attvalues>
+          <attvalue for="tipo" value="4"></attvalue>
+          <attvalue for="nome da empresa" value="LOTS BARRO EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA"></attvalue>
+          <attvalue for="nome" value="LOTS BARRO EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA"></attvalue>
+          <attvalue for="número de funcionários" value="-1.0"></attvalue>
+          <attvalue for="numero de socios" value="2.0"></attvalue>
+          <attvalue for="capital social" value="100000.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+          <attvalue for="data de constituição" value="2016-03-09"></attvalue>
+          <attvalue for="numero de cnaes" value="2.0"></attvalue>
+          <attvalue for="logradouro" value="RUA Marechal Deodoro da Fonseca"></attvalue>
+          <attvalue for="número" value="31"></attvalue>
+          <attvalue for="complemento" value="SALA 01"></attvalue>
+          <attvalue for="bairro" value="Centro"></attvalue>
+          <attvalue for="cep" value="58700550"></attvalue>
+          <attvalue for="uf" value="PB"></attvalue>
+          <attvalue for="município" value="PATOS"></attvalue>
+          <attvalue for="map_link" value="https://www.google.com/maps/search/58700550,+RUA+Marechal+Deodoro+da+Fonseca,+31,+Centro"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="414.0102" y="86.32452"></viz:position>
+        <viz:color r="4" g="0" b="214"></viz:color>
+      </node>
+      <node id="09433715000102">
+        <attvalues>
+          <attvalue for="tipo" value="4"></attvalue>
+          <attvalue for="número de funcionários" value="243.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-136.28322" y="38.653122"></viz:position>
+        <viz:color r="4" g="0" b="214"></viz:color>
+      </node>
+      <node id="02949141000261">
+        <attvalues>
+          <attvalue for="tipo" value="4"></attvalue>
+          <attvalue for="nome" value="ESCOLA DE ENFERMAGEM NOVA ESPERRANCA LTDA"></attvalue>
+          <attvalue for="número de funcionários" value="432.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+          <attvalue for="data de constituição" value="2002-02-25"></attvalue>
+          <attvalue for="numero de cnaes" value="6.0"></attvalue>
+          <attvalue for="logradouro" value="AVENIDA FREI GALVAO"></attvalue>
+          <attvalue for="número" value="12"></attvalue>
+          <attvalue for="bairro" value="GRAMAME"></attvalue>
+          <attvalue for="cep" value="58063970"></attvalue>
+          <attvalue for="uf" value="PB"></attvalue>
+          <attvalue for="município" value="JOÃO PESSOA"></attvalue>
+          <attvalue for="map_link" value="https://www.google.com/maps/search/58063970,+AVENIDA+FREI+GALVAO,+12,+GRAMAME"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-73.03803" y="63.529278"></viz:position>
+        <viz:color r="4" g="0" b="214"></viz:color>
+      </node>
+      <node id="09308966000165">
+        <attvalues>
+          <attvalue for="tipo" value="4"></attvalue>
+          <attvalue for="número de funcionários" value="17.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="403.01334" y="143.824"></viz:position>
+        <viz:color r="4" g="0" b="214"></viz:color>
+      </node>
+      <node id="08761140000194">
+        <attvalues>
+          <attvalue for="tipo" value="4"></attvalue>
+          <attvalue for="número de funcionários" value="77621.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-98.42597" y="-15.849596"></viz:position>
+        <viz:color r="4" g="0" b="214"></viz:color>
+      </node>
+      <node id="08993917000146">
+        <attvalues>
+          <attvalue for="tipo" value="4"></attvalue>
+          <attvalue for="número de funcionários" value="10366.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-116.80695" y="-73.01793"></viz:position>
+        <viz:color r="4" g="0" b="214"></viz:color>
+      </node>
+      <node id="10753366000195">
+        <attvalues>
+          <attvalue for="tipo" value="4"></attvalue>
+          <attvalue for="nome" value="MARIA DO SOCORRO DE LIMA SANTOS"></attvalue>
+          <attvalue for="número de funcionários" value="32.0"></attvalue>
+          <attvalue for="numero de socios" value="1.0"></attvalue>
+          <attvalue for="capital social" value="181.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+          <attvalue for="data de constituição" value="1986-06-18"></attvalue>
+          <attvalue for="numero de cnaes" value="5.0"></attvalue>
+          <attvalue for="logradouro" value="RUA JOSE JARDIM 180"></attvalue>
+          <attvalue for="bairro" value="BAIRRO DOS IPES"></attvalue>
+          <attvalue for="cep" value="58000000"></attvalue>
+          <attvalue for="uf" value="PB"></attvalue>
+          <attvalue for="município" value="JOÃO PESSOA"></attvalue>
+          <attvalue for="map_link" value="https://www.google.com/maps/search/58000000,+RUA+JOSE+JARDIM+180,+,+BAIRRO+DOS+IPES"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-252.24895" y="150.0432"></viz:position>
+        <viz:color r="4" g="0" b="214"></viz:color>
+      </node>
+      <node id="10490987000123">
+        <attvalues>
+          <attvalue for="tipo" value="4"></attvalue>
+          <attvalue for="número de funcionários" value="420.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-101.49918" y="90.41689"></viz:position>
+        <viz:color r="4" g="0" b="214"></viz:color>
+      </node>
+      <node id="08694222000163">
+        <attvalues>
+          <attvalue for="tipo" value="4"></attvalue>
+          <attvalue for="número de funcionários" value="1658.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-188.83464" y="183.8312"></viz:position>
+        <viz:color r="4" g="0" b="214"></viz:color>
+      </node>
+      <node id="06081249000155">
+        <attvalues>
+          <attvalue for="tipo" value="4"></attvalue>
+          <attvalue for="nome da empresa" value="KERLY DA COSTA OLIVEIRA ME"></attvalue>
+          <attvalue for="nome" value="KERLY DA COSTA OLIVEIRA ME"></attvalue>
+          <attvalue for="número de funcionários" value="-1.0"></attvalue>
+          <attvalue for="numero de socios" value="1.0"></attvalue>
+          <attvalue for="capital social" value="60000.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+          <attvalue for="data de constituição" value="2004-01-28"></attvalue>
+          <attvalue for="numero de cnaes" value="4.0"></attvalue>
+          <attvalue for="logradouro" value="RUA ANTONIO FERREIRA"></attvalue>
+          <attvalue for="número" value="105"></attvalue>
+          <attvalue for="complemento" value="A"></attvalue>
+          <attvalue for="bairro" value="CENTRO"></attvalue>
+          <attvalue for="cep" value="58840000"></attvalue>
+          <attvalue for="uf" value="PB"></attvalue>
+          <attvalue for="município" value="POMBAL"></attvalue>
+          <attvalue for="map_link" value="https://www.google.com/maps/search/58840000,+RUA+ANTONIO+FERREIRA,+105,+CENTRO"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-224.46074" y="-1142.0497"></viz:position>
+        <viz:color r="4" g="0" b="214"></viz:color>
+      </node>
+      <node id="17952485000116">
+        <attvalues>
+          <attvalue for="tipo" value="4"></attvalue>
+          <attvalue for="nome da empresa" value="GILBERTO COSTA VENANCIO 72713658420"></attvalue>
+          <attvalue for="nome" value="GILBERTO COSTA VENANCIO 72713658420"></attvalue>
+          <attvalue for="número de funcionários" value="-1.0"></attvalue>
+          <attvalue for="numero de socios" value="1.0"></attvalue>
+          <attvalue for="capital social" value="10000.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+          <attvalue for="data de constituição" value="2013-04-17"></attvalue>
+          <attvalue for="numero de cnaes" value="1.0"></attvalue>
+          <attvalue for="logradouro" value="PROJETADA"></attvalue>
+          <attvalue for="número" value="180"></attvalue>
+          <attvalue for="complemento" value="TERREO - B"></attvalue>
+          <attvalue for="bairro" value="CONJ. JOAO PINHEIRO DANTAS"></attvalue>
+          <attvalue for="cep" value="58884000"></attvalue>
+          <attvalue for="uf" value="PB"></attvalue>
+          <attvalue for="município" value="CATOLÉ DO ROCHA"></attvalue>
+          <attvalue for="map_link" value="https://www.google.com/maps/search/58884000,+PROJETADA,+180,+CONJ.+JOAO+PINHEIRO+DANTAS"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1196.1166" y="-20.634323"></viz:position>
+        <viz:color r="4" g="0" b="214"></viz:color>
+      </node>
+      <node id="03967198480">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-200.42336" y="-1152.7867"></viz:position>
+        <viz:color r="4" g="4" b="4"></viz:color>
+      </node>
+      <node id="72713658420">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1197.3169" y="-46.933483"></viz:position>
+        <viz:color r="4" g="4" b="4"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="O" target="45107793487">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="investigados"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1" source="O" target="60104970430">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="investigados"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2" source="O" target="82707146404">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="investigados"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="3" source="O" target="00083095403">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="investigados"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4" source="O" target="01341489400">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="investigados"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="5" source="45107793487" target="12881013000104">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="6" source="45107793487" target="35576297000112">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="7" source="60104970430" target="41205626000111">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="8" source="82707146404" target="01784217000100">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="9" source="00083095403" target="10714599000189">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="10" source="01341489400" target="17887842000100">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="11" source="12881013000104" target="03244747418">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="12" source="12881013000104" target="67443478453">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="13" source="12881013000104" target="45107793487">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="14" source="12881013000104" target="03262760412">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="15" source="12881013000104" target="03830003439">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="16" source="35576297000112" target="45107793487">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="17" source="41205626000111" target="60104970430">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="18" source="01784217000100" target="82707146404">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="19" source="01784217000100" target="40721736491">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="20" source="01784217000100" target="59460091415">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="21" source="01784217000100" target="46850740415">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="22" source="10714599000189" target="00083095403">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="23" source="10714599000189" target="01423486439">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="24" source="10714599000189" target="93039093487">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="25" source="17887842000100" target="01341489400">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="26" source="03244747418" target="07144400000110">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="27" source="03244747418" target="12881013000104">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="28" source="03244747418" target="12881013000287">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="29" source="67443478453" target="09123654000187">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="30" source="67443478453" target="10684218000166">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="31" source="67443478453" target="12881013000104">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="32" source="67443478453" target="12881013000287">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="35" source="03262760412" target="07144400000110">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="36" source="03262760412" target="12881013000104">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="37" source="03262760412" target="12881013000287">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="38" source="03830003439" target="12881013000104">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="39" source="03830003439" target="12881013000287">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="44" source="40721736491" target="01784217000100">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="45" source="40721736491" target="06032967000131">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="46" source="59460091415" target="01784217000100">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="47" source="59460091415" target="05730009000171">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="48" source="59460091415" target="35433242000153">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="49" source="46850740415" target="01784217000100">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="51" source="01423486439" target="10714599000189">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="52" source="01423486439" target="24783738000130">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="53" source="93039093487" target="00526995000129">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="54" source="93039093487" target="03822790000189">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="55" source="93039093487" target="05964758000163">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="56" source="93039093487" target="07073859000170">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="57" source="93039093487" target="10714599000189">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="58" source="93039093487" target="10801326000171">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="59" source="93039093487" target="15112096000157">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="60" source="93039093487" target="17645796000132">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="61" source="93039093487" target="20239487000177">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="62" source="93039093487" target="20514883000165">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="63" source="93039093487" target="20541471000114">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="64" source="93039093487" target="20694457000150">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="65" source="93039093487" target="20929904000103">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="66" source="93039093487" target="21779017000169">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="67" source="93039093487" target="23922900000191">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="68" source="93039093487" target="24339864000109">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="70" source="82707146404" target="09433715000102">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="funcionario de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="71" source="82707146404" target="02949141000261">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="funcionario de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="72" source="93039093487" target="09308966000165">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="funcionario de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="73" source="82707146404" target="08761140000194">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="funcionario de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="74" source="67443478453" target="08993917000146">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="funcionario de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="75" source="46850740415" target="10753366000195">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="funcionario de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="76" source="67443478453" target="08761140000194">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="funcionario de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="77" source="82707146404" target="10490987000123">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="funcionario de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="78" source="40721736491" target="08694222000163">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="funcionario de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="79" source="10753366000195" target="39583279404">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="80" source="10753366000195" target="46850740415">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="empregador de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="81" source="08761140000194" target="67443478453">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="empregador de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="82" source="08694222000163" target="40721736491">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="empregador de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="83" source="10490987000123" target="82707146404">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="empregador de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="84" source="02949141000261" target="82707146404">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="empregador de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="85" source="09308966000165" target="93039093487">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="empregador de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="86" source="08761140000194" target="82707146404">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="empregador de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="87" source="09433715000102" target="82707146404">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="empregador de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="88" source="08993917000146" target="67443478453">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="empregador de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="89" source="03967198480" target="06081249000155">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="90" source="72713658420" target="17952485000116">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="socio de"></attvalue>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
