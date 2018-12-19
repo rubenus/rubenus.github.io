@@ -17,7 +17,7 @@
       <attribute id="número de vezes em que foi eleito" title="número de vezes em que foi eleito" type="string"></attribute>
       <attribute id="número de vezes em que foi candidato" title="número de vezes em que foi candidato" type="string"></attribute>
       <attribute id="nome da empresa" title="nome da empresa" type="string"></attribute>
-      <attribute id="nome" title="nome" type="string"></attribute>
+      <attribute id="nome_x" title="nome_x" type="string"></attribute>
       <attribute id="número de funcionários" title="número de funcionários" type="string"></attribute>
       <attribute id="numero de socios" title="numero de socios" type="string"></attribute>
       <attribute id="capital social" title="capital social" type="string"></attribute>
@@ -32,18 +32,35 @@
       <attribute id="uf" title="uf" type="string"></attribute>
       <attribute id="município" title="município" type="string"></attribute>
       <attribute id="map_link" title="map_link" type="string"></attribute>
+      <attribute id="nome_y" title="nome_y" type="string"></attribute>
+      <attribute id="tipo do documento" title="tipo do documento" type="string"></attribute>
+      <attribute id="número de contratos" title="número de contratos" type="string"></attribute>
+      <attribute id="valor total dos contratos" title="valor total dos contratos" type="string"></attribute>
+      <attribute id="valor total das contratações diretas" title="valor total das contratações diretas" type="string"></attribute>
+      <attribute id="percentual do valor de contratos que foram contratações diretas" title="percentual do valor de contratos que foram contratações diretas" type="string"></attribute>
+      <attribute id="data de assinatura do primeiro contrato" title="data de assinatura do primeiro contrato" type="string"></attribute>
+      <attribute id="data de assinatura do último contrato" title="data de assinatura do último contrato" type="string"></attribute>
+      <attribute id="número de propostas" title="número de propostas" type="string"></attribute>
+      <attribute id="data da primeira proposta" title="data da primeira proposta" type="string"></attribute>
+      <attribute id="data da última proposta" title="data da última proposta" type="string"></attribute>
+      <attribute id="valor total das propostas" title="valor total das propostas" type="string"></attribute>
+      <attribute id="valor total dos aditivos" title="valor total dos aditivos" type="string"></attribute>
+      <attribute id="percentual de majoração contratual via aditivos" title="percentual de majoração contratual via aditivos" type="string"></attribute>
+      <attribute id="taxa de vitórias em licitações" title="taxa de vitórias em licitações" type="string"></attribute>
+      <attribute id="valor dos contratos ganhos em licitações com apenas uma proposta (descartando contratações diretas)" title="valor dos contratos ganhos em licitações com apenas uma proposta (descartando contratações diretas)" type="string"></attribute>
+      <attribute id="percentual do valor em contratos ganhos em licitações com apenas uma proposta (descartando contratações diretas)" title="percentual do valor em contratos ganhos em licitações com apenas uma proposta (descartando contratações diretas)" type="string"></attribute>
     </attributes>
     <attributes class="edge" mode="static">
       <attribute id="tipo de relacao" title="tipo de relacao" type="string"></attribute>
     </attributes>
     <nodes>
-      <node id="PB">
+      <node id="O">
         <attvalues>
           <attvalue for="tipo" value="1"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-0.37835893" y="-12.301294"></viz:position>
-        <viz:color r="224" g="20" b="0"></viz:color>
+        <viz:position x="3.510171" y="-4.102762"></viz:position>
+        <viz:color r="240" g="22" b="0"></viz:color>
       </node>
       <node id="45107793487">
         <attvalues>
@@ -54,12 +71,12 @@
           <attvalue for="n_vinculos" value="0.0"></attvalue>
           <attvalue for="n_vinculos_publicos" value="0.0"></attvalue>
           <attvalue for="número de empresas em que é sócio" value="2.0"></attvalue>
-          <attvalue for="número de vezes em que foi eleito" value="3.0"></attvalue>
+          <attvalue for="número de vezes em que foi eleito" value="4.0"></attvalue>
           <attvalue for="número de vezes em que foi candidato" value="4.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="143.32156" y="-4.9246078"></viz:position>
-        <viz:color r="224" g="20" b="0"></viz:color>
+        <viz:position x="-138.942" y="-49.111584"></viz:position>
+        <viz:color r="240" g="22" b="0"></viz:color>
       </node>
       <node id="60104970430">
         <attvalues>
@@ -70,12 +87,12 @@
           <attvalue for="n_vinculos" value="0.0"></attvalue>
           <attvalue for="n_vinculos_publicos" value="0.0"></attvalue>
           <attvalue for="número de empresas em que é sócio" value="1.0"></attvalue>
-          <attvalue for="número de vezes em que foi eleito" value="3.0"></attvalue>
+          <attvalue for="número de vezes em que foi eleito" value="4.0"></attvalue>
           <attvalue for="número de vezes em que foi candidato" value="5.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-1.9563427" y="27.911655"></viz:position>
-        <viz:color r="224" g="20" b="0"></viz:color>
+        <viz:position x="-11.113748" y="34.51092"></viz:position>
+        <viz:color r="240" g="22" b="0"></viz:color>
       </node>
       <node id="82707146404">
         <attvalues>
@@ -86,12 +103,12 @@
           <attvalue for="n_vinculos" value="4.0"></attvalue>
           <attvalue for="n_vinculos_publicos" value="2.0"></attvalue>
           <attvalue for="número de empresas em que é sócio" value="1.0"></attvalue>
-          <attvalue for="número de vezes em que foi eleito" value="0.0"></attvalue>
+          <attvalue for="número de vezes em que foi eleito" value="1.0"></attvalue>
           <attvalue for="número de vezes em que foi candidato" value="4.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="33.302303" y="-163.8498"></viz:position>
-        <viz:color r="224" g="20" b="0"></viz:color>
+        <viz:position x="21.79105" y="-155.13605"></viz:position>
+        <viz:color r="240" g="22" b="0"></viz:color>
       </node>
       <node id="00083095403">
         <attvalues>
@@ -102,12 +119,12 @@
           <attvalue for="n_vinculos" value="0.0"></attvalue>
           <attvalue for="n_vinculos_publicos" value="0.0"></attvalue>
           <attvalue for="número de empresas em que é sócio" value="1.0"></attvalue>
-          <attvalue for="número de vezes em que foi eleito" value="0.0"></attvalue>
+          <attvalue for="número de vezes em que foi eleito" value="1.0"></attvalue>
           <attvalue for="número de vezes em que foi candidato" value="3.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-149.38885" y="113.230034"></viz:position>
-        <viz:color r="224" g="20" b="0"></viz:color>
+        <viz:position x="115.6861" y="160.99011"></viz:position>
+        <viz:color r="240" g="22" b="0"></viz:color>
       </node>
       <node id="01341489400">
         <attvalues>
@@ -118,28 +135,12 @@
           <attvalue for="n_vinculos" value="0.0"></attvalue>
           <attvalue for="n_vinculos_publicos" value="0.0"></attvalue>
           <attvalue for="número de empresas em que é sócio" value="1.0"></attvalue>
-          <attvalue for="número de vezes em que foi eleito" value="0.0"></attvalue>
+          <attvalue for="número de vezes em que foi eleito" value="1.0"></attvalue>
           <attvalue for="número de vezes em que foi candidato" value="3.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-40.14809" y="-25.459969"></viz:position>
-        <viz:color r="224" g="20" b="0"></viz:color>
-      </node>
-      <node id="03262760412">
-        <attvalues>
-          <attvalue for="tipo" value="2"></attvalue>
-          <attvalue for="nome da pessoa" value="ASSUERO CORDEIRO BORBOREMA"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="False"></attvalue>
-          <attvalue for="n_vinculos" value="0.0"></attvalue>
-          <attvalue for="n_vinculos_publicos" value="0.0"></attvalue>
-          <attvalue for="número de empresas em que é sócio" value="4.0"></attvalue>
-          <attvalue for="número de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="242.53856" y="4.922934"></viz:position>
-        <viz:color r="255" g="170" b="26"></viz:color>
+        <viz:position x="44.18895" y="-1.1850964"></viz:position>
+        <viz:color r="240" g="22" b="0"></viz:color>
       </node>
       <node id="03244747418">
         <attvalues>
@@ -154,8 +155,8 @@
           <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="258.84424" y="-21.26741"></viz:position>
-        <viz:color r="255" g="170" b="26"></viz:color>
+        <viz:position x="-241.1063" y="-106.040924"></viz:position>
+        <viz:color r="255" g="203" b="46"></viz:color>
       </node>
       <node id="67443478453">
         <attvalues>
@@ -170,8 +171,24 @@
           <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="196.8747" y="-79.041245"></viz:position>
-        <viz:color r="255" g="170" b="26"></viz:color>
+        <viz:position x="-162.27805" y="-137.75085"></viz:position>
+        <viz:color r="255" g="203" b="46"></viz:color>
+      </node>
+      <node id="03262760412">
+        <attvalues>
+          <attvalue for="tipo" value="2"></attvalue>
+          <attvalue for="nome da pessoa" value="ASSUERO CORDEIRO BORBOREMA"></attvalue>
+          <attvalue for="isin_bf" value="False"></attvalue>
+          <attvalue for="isin_cadu" value="False"></attvalue>
+          <attvalue for="n_vinculos" value="0.0"></attvalue>
+          <attvalue for="n_vinculos_publicos" value="0.0"></attvalue>
+          <attvalue for="número de empresas em que é sócio" value="4.0"></attvalue>
+          <attvalue for="número de vezes em que foi eleito" value="0.0"></attvalue>
+          <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-235.6783" y="-75.784195"></viz:position>
+        <viz:color r="255" g="203" b="46"></viz:color>
       </node>
       <node id="03830003439">
         <attvalues>
@@ -186,24 +203,8 @@
           <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="220.9741" y="-37.30809"></viz:position>
-        <viz:color r="255" g="170" b="26"></viz:color>
-      </node>
-      <node id="46850740415">
-        <attvalues>
-          <attvalue for="tipo" value="2"></attvalue>
-          <attvalue for="nome da pessoa" value="MONICA DE CASSIA RODRIGUES DO NASCIMENTO"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="False"></attvalue>
-          <attvalue for="n_vinculos" value="1.0"></attvalue>
-          <attvalue for="n_vinculos_publicos" value="0.0"></attvalue>
-          <attvalue for="número de empresas em que é sócio" value="1.0"></attvalue>
-          <attvalue for="número de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-18.25612" y="-249.44655"></viz:position>
-        <viz:color r="255" g="170" b="26"></viz:color>
+        <viz:position x="-199.96066" y="-107.87984"></viz:position>
+        <viz:color r="255" g="203" b="46"></viz:color>
       </node>
       <node id="40721736491">
         <attvalues>
@@ -218,8 +219,8 @@
           <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="11.752049" y="-280.79694"></viz:position>
-        <viz:color r="255" g="170" b="26"></viz:color>
+        <viz:position x="37.340134" y="-255.00703"></viz:position>
+        <viz:color r="255" g="203" b="46"></viz:color>
       </node>
       <node id="59460091415">
         <attvalues>
@@ -234,8 +235,24 @@
           <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="55.4506" y="-262.62253"></viz:position>
-        <viz:color r="255" g="170" b="26"></viz:color>
+        <viz:position x="84.67652" y="-254.32756"></viz:position>
+        <viz:color r="255" g="203" b="46"></viz:color>
+      </node>
+      <node id="46850740415">
+        <attvalues>
+          <attvalue for="tipo" value="2"></attvalue>
+          <attvalue for="nome da pessoa" value="MONICA DE CASSIA RODRIGUES DO NASCIMENTO"></attvalue>
+          <attvalue for="isin_bf" value="False"></attvalue>
+          <attvalue for="isin_cadu" value="False"></attvalue>
+          <attvalue for="n_vinculos" value="1.0"></attvalue>
+          <attvalue for="n_vinculos_publicos" value="0.0"></attvalue>
+          <attvalue for="número de empresas em que é sócio" value="1.0"></attvalue>
+          <attvalue for="número de vezes em que foi eleito" value="0.0"></attvalue>
+          <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="100.27476" y="-214.0641"></viz:position>
+        <viz:color r="255" g="203" b="46"></viz:color>
       </node>
       <node id="01423486439">
         <attvalues>
@@ -250,8 +267,8 @@
           <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-204.30145" y="201.87361"></viz:position>
-        <viz:color r="255" g="170" b="26"></viz:color>
+        <viz:position x="136.71901" y="257.9649"></viz:position>
+        <viz:color r="255" g="203" b="46"></viz:color>
       </node>
       <node id="93039093487">
         <attvalues>
@@ -267,8 +284,8 @@
           <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-317.38855" y="223.59018"></viz:position>
-        <viz:color r="255" g="170" b="26"></viz:color>
+        <viz:position x="239.2481" y="325.9818"></viz:position>
+        <viz:color r="255" g="203" b="46"></viz:color>
       </node>
       <node id="39583279404">
         <attvalues>
@@ -283,8 +300,8 @@
           <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-77.515274" y="-298.47424"></viz:position>
-        <viz:color r="255" g="170" b="26"></viz:color>
+        <viz:position x="173.16869" y="-237.6793"></viz:position>
+        <viz:color r="255" g="203" b="46"></viz:color>
       </node>
       <node id="03967198480">
         <attvalues>
@@ -300,8 +317,8 @@
           <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-156.96162" y="163.22704"></viz:position>
-        <viz:color r="0" g="194" b="2"></viz:color>
+        <viz:position x="198.1256" y="189.10542"></viz:position>
+        <viz:color r="4" g="199" b="0"></viz:color>
       </node>
       <node id="07127313423">
         <attvalues>
@@ -317,8 +334,8 @@
           <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-240.4582" y="153.88858"></viz:position>
-        <viz:color r="0" g="194" b="2"></viz:color>
+        <viz:position x="193.67322" y="228.6021"></viz:position>
+        <viz:color r="4" g="199" b="0"></viz:color>
       </node>
       <node id="72713658420">
         <attvalues>
@@ -333,8 +350,8 @@
           <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-164.15225" y="202.82025"></viz:position>
-        <viz:color r="0" g="194" b="2"></viz:color>
+        <viz:position x="104.51904" y="230.60231"></viz:position>
+        <viz:color r="4" g="199" b="0"></viz:color>
       </node>
       <node id="92830293487">
         <attvalues>
@@ -349,8 +366,8 @@
           <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-191.84387" y="128.13493"></viz:position>
-        <viz:color r="0" g="194" b="2"></viz:color>
+        <viz:position x="129.78429" y="201.62433"></viz:position>
+        <viz:color r="4" g="199" b="0"></viz:color>
       </node>
       <node id="05008594427">
         <attvalues>
@@ -366,8 +383,8 @@
           <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-223.04535" y="126.95009"></viz:position>
-        <viz:color r="0" g="194" b="2"></viz:color>
+        <viz:position x="161.4173" y="187.01907"></viz:position>
+        <viz:color r="4" g="199" b="0"></viz:color>
       </node>
       <node id="08621763443">
         <attvalues>
@@ -383,8 +400,8 @@
           <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="228.66162" y="37.493366"></viz:position>
-        <viz:color r="0" g="194" b="2"></viz:color>
+        <viz:position x="-201.94359" y="-20.974373"></viz:position>
+        <viz:color r="4" g="199" b="0"></viz:color>
       </node>
       <node id="07985544445">
         <attvalues>
@@ -399,8 +416,8 @@
           <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="204.47385" y="26.676975"></viz:position>
-        <viz:color r="0" g="194" b="2"></viz:color>
+        <viz:position x="-211.47392" y="-46.033707"></viz:position>
+        <viz:color r="4" g="199" b="0"></viz:color>
       </node>
       <node id="03364079471">
         <attvalues>
@@ -415,8 +432,8 @@
           <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="172.17795" y="21.40637"></viz:position>
-        <viz:color r="0" g="194" b="2"></viz:color>
+        <viz:position x="-237.05733" y="-38.369015"></viz:position>
+        <viz:color r="4" g="199" b="0"></viz:color>
       </node>
       <node id="07021074417">
         <attvalues>
@@ -431,14 +448,14 @@
           <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="186.99854" y="46.79202"></viz:position>
-        <viz:color r="0" g="194" b="2"></viz:color>
+        <viz:position x="-177.01892" y="-36.35498"></viz:position>
+        <viz:color r="4" g="199" b="0"></viz:color>
       </node>
       <node id="12881013000104">
         <attvalues>
           <attvalue for="tipo" value="4"></attvalue>
           <attvalue for="nome da empresa" value="A3R - COMERCIO, DISTRIBUIÇÃO E IMPORTAÇÃO DE PNEUS E RODAS LTDA"></attvalue>
-          <attvalue for="nome" value="A3R - COMERCIO, DISTRIBUIÇÃO E IMPORTAÇÃO DE PNEUS E RODAS LTDA"></attvalue>
+          <attvalue for="nome_x" value="A3R - COMERCIO, DISTRIBUIÇÃO E IMPORTAÇÃO DE PNEUS E RODAS LTDA"></attvalue>
           <attvalue for="número de funcionários" value="4.0"></attvalue>
           <attvalue for="numero de socios" value="5.0"></attvalue>
           <attvalue for="capital social" value="100000.0"></attvalue>
@@ -454,14 +471,14 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/59063400,+AV.+CAPITÃO+MOR+GOUVEIA,+1498,+LAGOA+NOVA"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="197.8215" y="-7.98612"></viz:position>
-        <viz:color r="0" g="9" b="224"></viz:color>
+        <viz:position x="-189.11502" y="-72.21399"></viz:position>
+        <viz:color r="24" g="0" b="219"></viz:color>
       </node>
       <node id="35576297000112">
         <attvalues>
           <attvalue for="tipo" value="4"></attvalue>
           <attvalue for="nome da empresa" value="ROMERO RODRIGUES VEIGA ME"></attvalue>
-          <attvalue for="nome" value="ROMERO RODRIGUES VEIGA ME"></attvalue>
+          <attvalue for="nome_x" value="ROMERO RODRIGUES VEIGA ME"></attvalue>
           <attvalue for="número de funcionários" value="-1.0"></attvalue>
           <attvalue for="numero de socios" value="1.0"></attvalue>
           <attvalue for="capital social" value="0.0"></attvalue>
@@ -476,14 +493,14 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58100000,+RUA+MONTEIRO+LOBATO+474+A,+,+ALTO+BRANCO"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="120.88038" y="10.619964"></viz:position>
-        <viz:color r="0" g="9" b="224"></viz:color>
+        <viz:position x="-125.12929" y="-25.641554"></viz:position>
+        <viz:color r="24" g="0" b="219"></viz:color>
       </node>
       <node id="41205626000111">
         <attvalues>
           <attvalue for="tipo" value="4"></attvalue>
           <attvalue for="nome da empresa" value="LUCIANO CARTAXO PIRES DE SA ME"></attvalue>
-          <attvalue for="nome" value="LUCIANO CARTAXO PIRES DE SA ME"></attvalue>
+          <attvalue for="nome_x" value="LUCIANO CARTAXO PIRES DE SA ME"></attvalue>
           <attvalue for="número de funcionários" value="-1.0"></attvalue>
           <attvalue for="numero de socios" value="1.0"></attvalue>
           <attvalue for="capital social" value="21.0"></attvalue>
@@ -496,14 +513,14 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58000000,+PARQUE+SOLON+DE+LUCENA+119,+,+Centro"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-2.4358435" y="54.614143"></viz:position>
-        <viz:color r="0" g="9" b="224"></viz:color>
+        <viz:position x="-20.552582" y="59.5946"></viz:position>
+        <viz:color r="24" g="0" b="219"></viz:color>
       </node>
       <node id="01784217000100">
         <attvalues>
           <attvalue for="tipo" value="4"></attvalue>
           <attvalue for="nome da empresa" value="CINFISIO CENTRO INTEGRADO DE FISIOTERAPIA LTDA"></attvalue>
-          <attvalue for="nome" value="CINFISIO CENTRO INTEGRADO DE FISIOTERAPIA LTDA"></attvalue>
+          <attvalue for="nome_x" value="CINFISIO CENTRO INTEGRADO DE FISIOTERAPIA LTDA"></attvalue>
           <attvalue for="número de funcionários" value="-1.0"></attvalue>
           <attvalue for="numero de socios" value="4.0"></attvalue>
           <attvalue for="capital social" value="8000.0"></attvalue>
@@ -519,14 +536,14 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58300000,+RUA+SIQUEIRA+CAMPOS,+133,+CENTRO"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="21.51369" y="-230.45697"></viz:position>
-        <viz:color r="0" g="9" b="224"></viz:color>
+        <viz:position x="56.56355" y="-212.0427"></viz:position>
+        <viz:color r="24" g="0" b="219"></viz:color>
       </node>
       <node id="10714599000189">
         <attvalues>
-          <attvalue for="tipo" value="4"></attvalue>
+          <attvalue for="tipo" value="5"></attvalue>
           <attvalue for="nome da empresa" value="ORTOMED CLINICA ESPECIALIZADA EIRELI - ME"></attvalue>
-          <attvalue for="nome" value="ORTOMED CLINICA ESPECIALIZADA EIRELI - ME"></attvalue>
+          <attvalue for="nome_x" value="ORTOMED CLINICA ESPECIALIZADA EIRELI - ME"></attvalue>
           <attvalue for="número de funcionários" value="5.0"></attvalue>
           <attvalue for="numero de socios" value="3.0"></attvalue>
           <attvalue for="capital social" value="78800.0"></attvalue>
@@ -540,16 +557,33 @@
           <attvalue for="uf" value="PB"></attvalue>
           <attvalue for="município" value="CATOLÉ DO ROCHA"></attvalue>
           <attvalue for="map_link" value="https://www.google.com/maps/search/58884000,+RUA+VENANCIO+NEIVA,+SN,+CENTRO"></attvalue>
+          <attvalue for="nome_y" value="ORTOMED CLINICA ESPECIALIZADA EIRELI - ME"></attvalue>
+          <attvalue for="tipo do documento" value="CNPJ"></attvalue>
+          <attvalue for="número de contratos" value="2.0"></attvalue>
+          <attvalue for="valor total dos contratos" value="48000.0"></attvalue>
+          <attvalue for="valor total das contratações diretas" value="0.0"></attvalue>
+          <attvalue for="percentual do valor de contratos que foram contratações diretas" value="0.0"></attvalue>
+          <attvalue for="data de assinatura do primeiro contrato" value="2013-07-10"></attvalue>
+          <attvalue for="data de assinatura do último contrato" value="2013-08-21"></attvalue>
+          <attvalue for="número de propostas" value="2.0"></attvalue>
+          <attvalue for="data da primeira proposta" value="2013-07-10"></attvalue>
+          <attvalue for="data da última proposta" value="2013-08-21"></attvalue>
+          <attvalue for="valor total das propostas" value="48000.0"></attvalue>
+          <attvalue for="valor total dos aditivos" value="6000.0"></attvalue>
+          <attvalue for="percentual de majoração contratual via aditivos" value="0.12"></attvalue>
+          <attvalue for="taxa de vitórias em licitações" value="1.0"></attvalue>
+          <attvalue for="valor dos contratos ganhos em licitações com apenas uma proposta (descartando contratações diretas)" value="24000.0"></attvalue>
+          <attvalue for="percentual do valor em contratos ganhos em licitações com apenas uma proposta (descartando contratações diretas)" value="0.5"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-204.92255" y="162.62672"></viz:position>
-        <viz:color r="0" g="9" b="224"></viz:color>
+        <viz:position x="157.96317" y="224.11308"></viz:position>
+        <viz:color r="31" g="0" b="5"></viz:color>
       </node>
       <node id="17887842000100">
         <attvalues>
           <attvalue for="tipo" value="4"></attvalue>
           <attvalue for="nome da empresa" value="GUTEMBERG DE LIMA DAVI 01341489400"></attvalue>
-          <attvalue for="nome" value="GUTEMBERG DE LIMA DAVI 01341489400"></attvalue>
+          <attvalue for="nome_x" value="GUTEMBERG DE LIMA DAVI 01341489400"></attvalue>
           <attvalue for="número de funcionários" value="-1.0"></attvalue>
           <attvalue for="numero de socios" value="1.0"></attvalue>
           <attvalue for="capital social" value="500.0"></attvalue>
@@ -566,14 +600,14 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58010100,+IRINEU+PINTO,+146,+AEROPORTO"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-65.55881" y="-34.106857"></viz:position>
-        <viz:color r="0" g="9" b="224"></viz:color>
+        <viz:position x="70.93687" y="0.315241"></viz:position>
+        <viz:color r="24" g="0" b="219"></viz:color>
       </node>
       <node id="07144400000110">
         <attvalues>
           <attvalue for="tipo" value="4"></attvalue>
           <attvalue for="nome da empresa" value="LEAL E CORDEIRO LTDA EPP"></attvalue>
-          <attvalue for="nome" value="LEAL E CORDEIRO LTDA EPP"></attvalue>
+          <attvalue for="nome_x" value="LEAL E CORDEIRO LTDA EPP"></attvalue>
           <attvalue for="número de funcionários" value="15.0"></attvalue>
           <attvalue for="numero de socios" value="3.0"></attvalue>
           <attvalue for="capital social" value="20000.0"></attvalue>
@@ -589,14 +623,14 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/59032620,+AVENIDA+JAGUARARI,+1757,+LAGOA+NOVA"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="281.69727" y="5.7333603"></viz:position>
-        <viz:color r="0" g="9" b="224"></viz:color>
+        <viz:position x="-272.3655" y="-89.212456"></viz:position>
+        <viz:color r="24" g="0" b="219"></viz:color>
       </node>
       <node id="12881013000287">
         <attvalues>
           <attvalue for="tipo" value="4"></attvalue>
           <attvalue for="nome da empresa" value="A3R - COMERCIO, DISTRIBUIÇÃO E IMPORTAÇÃO DE PNEUS E RODAS LTDA"></attvalue>
-          <attvalue for="nome" value="A3R - COMERCIO, DISTRIBUIÇÃO E IMPORTAÇÃO DE PNEUS E RODAS LTDA"></attvalue>
+          <attvalue for="nome_x" value="A3R - COMERCIO, DISTRIBUIÇÃO E IMPORTAÇÃO DE PNEUS E RODAS LTDA"></attvalue>
           <attvalue for="número de funcionários" value="-1.0"></attvalue>
           <attvalue for="numero de socios" value="4.0"></attvalue>
           <attvalue for="capital social" value="0.0"></attvalue>
@@ -613,14 +647,14 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58410100,+RUA+GUILHERMINO+BARBOSA,+52,+CATOLÉ"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="249.58113" y="-53.4286"></viz:position>
-        <viz:color r="0" g="9" b="224"></viz:color>
+        <viz:position x="-221.10654" y="-132.84285"></viz:position>
+        <viz:color r="24" g="0" b="219"></viz:color>
       </node>
       <node id="09123654000187">
         <attvalues>
-          <attvalue for="tipo" value="4"></attvalue>
+          <attvalue for="tipo" value="5"></attvalue>
           <attvalue for="nome da empresa" value="COMPANHIA DE AGUA E ESGOTOS DA PARAIBA CAGEPA"></attvalue>
-          <attvalue for="nome" value="COMPANHIA DE AGUA E ESGOTOS DA PARAIBA CAGEPA"></attvalue>
+          <attvalue for="nome_x" value="COMPANHIA DE AGUA E ESGOTOS DA PARAIBA CAGEPA"></attvalue>
           <attvalue for="número de funcionários" value="452.0"></attvalue>
           <attvalue for="numero de socios" value="91.0"></attvalue>
           <attvalue for="capital social" value="469644210.0"></attvalue>
@@ -634,16 +668,33 @@
           <attvalue for="uf" value="PB"></attvalue>
           <attvalue for="município" value="JOÃO PESSOA"></attvalue>
           <attvalue for="map_link" value="https://www.google.com/maps/search/58015570,+Feliciano+Cirne,+220,+Jaguaribe"></attvalue>
+          <attvalue for="nome_y" value="COMPANHIA DE AGUA E ESGOTOS DA PARAIBA CAGEPA"></attvalue>
+          <attvalue for="tipo do documento" value="CNPJ"></attvalue>
+          <attvalue for="número de contratos" value="6.0"></attvalue>
+          <attvalue for="valor total dos contratos" value="847494.0"></attvalue>
+          <attvalue for="valor total das contratações diretas" value="847494.0"></attvalue>
+          <attvalue for="percentual do valor de contratos que foram contratações diretas" value="1.0"></attvalue>
+          <attvalue for="data de assinatura do primeiro contrato" value="2013-05-03"></attvalue>
+          <attvalue for="data de assinatura do último contrato" value="2017-03-27"></attvalue>
+          <attvalue for="número de propostas" value="55.0"></attvalue>
+          <attvalue for="data da primeira proposta" value="2006-01-10"></attvalue>
+          <attvalue for="data da última proposta" value="2017-03-27"></attvalue>
+          <attvalue for="valor total das propostas" value="2222057.05"></attvalue>
+          <attvalue for="valor total dos aditivos" value="0.0"></attvalue>
+          <attvalue for="percentual de majoração contratual via aditivos" value="0.0"></attvalue>
+          <attvalue for="taxa de vitórias em licitações" value="0.11"></attvalue>
+          <attvalue for="valor dos contratos ganhos em licitações com apenas uma proposta (descartando contratações diretas)" value="0.0"></attvalue>
+          <attvalue for="percentual do valor em contratos ganhos em licitações com apenas uma proposta (descartando contratações diretas)" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="210.09187" y="-116.732864"></viz:position>
-        <viz:color r="0" g="9" b="224"></viz:color>
+        <viz:position x="-136.30772" y="-161.25128"></viz:position>
+        <viz:color r="31" g="0" b="5"></viz:color>
       </node>
       <node id="10684218000166">
         <attvalues>
           <attvalue for="tipo" value="4"></attvalue>
           <attvalue for="nome da empresa" value="ACCROPOLI HOTEL LTDA"></attvalue>
-          <attvalue for="nome" value="ACCROPOLI HOTEL LTDA"></attvalue>
+          <attvalue for="nome_x" value="ACCROPOLI HOTEL LTDA"></attvalue>
           <attvalue for="número de funcionários" value="13.0"></attvalue>
           <attvalue for="numero de socios" value="4.0"></attvalue>
           <attvalue for="capital social" value="300000.0"></attvalue>
@@ -660,14 +711,14 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58045100,+AVENIDA+Cairu,+222,+Cabo+Branco"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="231.60565" y="-96.904594"></viz:position>
-        <viz:color r="0" g="9" b="224"></viz:color>
+        <viz:position x="-161.05518" y="-178.6875"></viz:position>
+        <viz:color r="24" g="0" b="219"></viz:color>
       </node>
       <node id="06032967000131">
         <attvalues>
           <attvalue for="tipo" value="4"></attvalue>
           <attvalue for="nome da empresa" value="FISIOTERAPIA REABILITAÇÃO E ESTETICA ERA LTDA"></attvalue>
-          <attvalue for="nome" value="FISIOTERAPIA REABILITAÇÃO E ESTETICA ERA LTDA"></attvalue>
+          <attvalue for="nome_x" value="FISIOTERAPIA REABILITAÇÃO E ESTETICA ERA LTDA"></attvalue>
           <attvalue for="número de funcionários" value="-1.0"></attvalue>
           <attvalue for="numero de socios" value="3.0"></attvalue>
           <attvalue for="capital social" value="6000.0"></attvalue>
@@ -683,14 +734,14 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58300000,+AV+DOUTOR+FLAVIO+RIBEIRO+COUTINHO,+375,+CENTRO"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="20.729116" y="-315.15955"></viz:position>
-        <viz:color r="0" g="9" b="224"></viz:color>
+        <viz:position x="41.14696" y="-290.21472"></viz:position>
+        <viz:color r="24" g="0" b="219"></viz:color>
       </node>
       <node id="05730009000171">
         <attvalues>
           <attvalue for="tipo" value="4"></attvalue>
           <attvalue for="nome da empresa" value="MARIA ELIZABETE SOARES DA SILVA"></attvalue>
-          <attvalue for="nome" value="MARIA ELIZABETE SOARES DA SILVA"></attvalue>
+          <attvalue for="nome_x" value="MARIA ELIZABETE SOARES DA SILVA"></attvalue>
           <attvalue for="número de funcionários" value="-1.0"></attvalue>
           <attvalue for="numero de socios" value="1.0"></attvalue>
           <attvalue for="capital social" value="1000.0"></attvalue>
@@ -706,14 +757,14 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58300000,+RUA+SIQUEIRA+CAMPOS,+156,+CENTRO"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="65.61829" y="-296.45923"></viz:position>
-        <viz:color r="0" g="9" b="224"></viz:color>
+        <viz:position x="89.456894" y="-289.57986"></viz:position>
+        <viz:color r="24" g="0" b="219"></viz:color>
       </node>
       <node id="35433242000153">
         <attvalues>
           <attvalue for="tipo" value="4"></attvalue>
           <attvalue for="nome da empresa" value="MARIA ELIZABETE SOARES DA SILVA ME"></attvalue>
-          <attvalue for="nome" value="MARIA ELIZABETE SOARES DA SILVA ME"></attvalue>
+          <attvalue for="nome_x" value="MARIA ELIZABETE SOARES DA SILVA ME"></attvalue>
           <attvalue for="número de funcionários" value="-1.0"></attvalue>
           <attvalue for="numero de socios" value="1.0"></attvalue>
           <attvalue for="capital social" value="0.0"></attvalue>
@@ -729,14 +780,14 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58300000,+MERCADO+PUBLICO,+S/N,+Centro"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="87.59256" y="-273.7305"></viz:position>
-        <viz:color r="0" g="9" b="224"></viz:color>
+        <viz:position x="114.94919" y="-272.13504"></viz:position>
+        <viz:color r="24" g="0" b="219"></viz:color>
       </node>
       <node id="24783738000130">
         <attvalues>
           <attvalue for="tipo" value="4"></attvalue>
           <attvalue for="nome da empresa" value="GOHAP SERVIÇOS MÉDICOS LTDA - ME"></attvalue>
-          <attvalue for="nome" value="GOHAP SERVIÇOS MÉDICOS LTDA - ME"></attvalue>
+          <attvalue for="nome_x" value="GOHAP SERVIÇOS MÉDICOS LTDA - ME"></attvalue>
           <attvalue for="número de funcionários" value="-1.0"></attvalue>
           <attvalue for="numero de socios" value="20.0"></attvalue>
           <attvalue for="capital social" value="20000.0"></attvalue>
@@ -753,14 +804,14 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58032090,+RUA+ANTONIO+RABELO+JUNIOR,+81,+MIRAMAR"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-198.37587" y="234.29982"></viz:position>
-        <viz:color r="0" g="9" b="224"></viz:color>
+        <viz:position x="115.53996" y="283.01205"></viz:position>
+        <viz:color r="24" g="0" b="219"></viz:color>
       </node>
       <node id="00526995000129">
         <attvalues>
           <attvalue for="tipo" value="4"></attvalue>
           <attvalue for="nome da empresa" value="DEG INDUSTRIA DE EMBALAGENS LTDA"></attvalue>
-          <attvalue for="nome" value="DEG INDUSTRIA DE EMBALAGENS LTDA"></attvalue>
+          <attvalue for="nome_x" value="DEG INDUSTRIA DE EMBALAGENS LTDA"></attvalue>
           <attvalue for="número de funcionários" value="-1.0"></attvalue>
           <attvalue for="numero de socios" value="3.0"></attvalue>
           <attvalue for="capital social" value="5000.0"></attvalue>
@@ -775,14 +826,14 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58700000,+RUA+LEONCIO+WANDERLEY+383+A,+,+CENTRO"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-274.47336" y="235.1716"></viz:position>
-        <viz:color r="0" g="9" b="224"></viz:color>
+        <viz:position x="211.46278" y="296.45883"></viz:position>
+        <viz:color r="24" g="0" b="219"></viz:color>
       </node>
       <node id="03822790000189">
         <attvalues>
           <attvalue for="tipo" value="4"></attvalue>
           <attvalue for="nome da empresa" value="SISTEMA DE COMUNICACAO VALE DAS ESPINHARAS LTDA"></attvalue>
-          <attvalue for="nome" value="SISTEMA DE COMUNICACAO VALE DAS ESPINHARAS LTDA"></attvalue>
+          <attvalue for="nome_x" value="SISTEMA DE COMUNICACAO VALE DAS ESPINHARAS LTDA"></attvalue>
           <attvalue for="número de funcionários" value="-1.0"></attvalue>
           <attvalue for="numero de socios" value="2.0"></attvalue>
           <attvalue for="capital social" value="110000.0"></attvalue>
@@ -798,14 +849,14 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58700000,+R+PEREGRINO++FILHO,+.475,+BTRASILIA"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-343.5989" y="251.12752"></viz:position>
-        <viz:color r="0" g="9" b="224"></viz:color>
+        <viz:position x="272.70163" y="313.85452"></viz:position>
+        <viz:color r="24" g="0" b="219"></viz:color>
       </node>
       <node id="05964758000163">
         <attvalues>
           <attvalue for="tipo" value="4"></attvalue>
           <attvalue for="nome da empresa" value="FG LOCADORA DE AUTOMÓVEIS LTDA  ME"></attvalue>
-          <attvalue for="nome" value="FG LOCADORA DE AUTOMÓVEIS LTDA  ME"></attvalue>
+          <attvalue for="nome_x" value="FG LOCADORA DE AUTOMÓVEIS LTDA  ME"></attvalue>
           <attvalue for="número de funcionários" value="-1.0"></attvalue>
           <attvalue for="numero de socios" value="2.0"></attvalue>
           <attvalue for="capital social" value="150000.0"></attvalue>
@@ -822,14 +873,14 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58700550,++Marechal+Deodoro+da+Fonseca,+31,+Centro"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-324.95322" y="177.7143"></viz:position>
-        <viz:color r="0" g="9" b="224"></viz:color>
+        <viz:position x="196.42653" y="320.28442"></viz:position>
+        <viz:color r="24" g="0" b="219"></viz:color>
       </node>
       <node id="07073859000170">
         <attvalues>
           <attvalue for="tipo" value="4"></attvalue>
           <attvalue for="nome da empresa" value="GUSTAVO GUEDES WANDERLEY ME"></attvalue>
-          <attvalue for="nome" value="GUSTAVO GUEDES WANDERLEY ME"></attvalue>
+          <attvalue for="nome_x" value="GUSTAVO GUEDES WANDERLEY ME"></attvalue>
           <attvalue for="número de funcionários" value="-1.0"></attvalue>
           <attvalue for="numero de socios" value="1.0"></attvalue>
           <attvalue for="capital social" value="15000.0"></attvalue>
@@ -846,14 +897,14 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58700000,+RUA+PEDRO+FIRMINO,+470,+CENTRO"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-370.3938" y="198.6067"></viz:position>
-        <viz:color r="0" g="9" b="224"></viz:color>
+        <viz:position x="237.35535" y="284.17368"></viz:position>
+        <viz:color r="24" g="0" b="219"></viz:color>
       </node>
       <node id="10801326000171">
         <attvalues>
           <attvalue for="tipo" value="4"></attvalue>
           <attvalue for="nome da empresa" value="REALIZE III EMPREENDIMENTOS IMOBILIÁRIOS LTDA   ME"></attvalue>
-          <attvalue for="nome" value="REALIZE III EMPREENDIMENTOS IMOBILIÁRIOS LTDA   ME"></attvalue>
+          <attvalue for="nome_x" value="REALIZE III EMPREENDIMENTOS IMOBILIÁRIOS LTDA   ME"></attvalue>
           <attvalue for="número de funcionários" value="-1.0"></attvalue>
           <attvalue for="numero de socios" value="4.0"></attvalue>
           <attvalue for="capital social" value="100000.0"></attvalue>
@@ -869,14 +920,14 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58213000,++VEREADOR+JUVINO+MARREIRO,+366,+CENTRO"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-353.13644" y="174.2931"></viz:position>
-        <viz:color r="0" g="9" b="224"></viz:color>
+        <viz:position x="224.68532" y="359.14993"></viz:position>
+        <viz:color r="24" g="0" b="219"></viz:color>
       </node>
       <node id="15112096000157">
         <attvalues>
           <attvalue for="tipo" value="4"></attvalue>
           <attvalue for="nome da empresa" value="AG SERVIÇOS E EMPREENDIMENTOS IMOBILIÁRIOS LTDA - ME"></attvalue>
-          <attvalue for="nome" value="AG SERVIÇOS E EMPREENDIMENTOS IMOBILIÁRIOS LTDA - ME"></attvalue>
+          <attvalue for="nome_x" value="AG SERVIÇOS E EMPREENDIMENTOS IMOBILIÁRIOS LTDA - ME"></attvalue>
           <attvalue for="número de funcionários" value="-1.0"></attvalue>
           <attvalue for="numero de socios" value="3.0"></attvalue>
           <attvalue for="capital social" value="50000.0"></attvalue>
@@ -892,14 +943,14 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58701360,+RUA+SERGIO+LIMA,+SN,+JD+GUANABARA"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-356.68463" y="274.4872"></viz:position>
-        <viz:color r="0" g="9" b="224"></viz:color>
+        <viz:position x="252.23643" y="362.3338"></viz:position>
+        <viz:color r="24" g="0" b="219"></viz:color>
       </node>
       <node id="17645796000132">
         <attvalues>
           <attvalue for="tipo" value="4"></attvalue>
           <attvalue for="nome da empresa" value="AG 01 SERVIÇOS E EMPREENDIMENTOS IMOBILIARIOS LTDA"></attvalue>
-          <attvalue for="nome" value="AG 01 SERVIÇOS E EMPREENDIMENTOS IMOBILIARIOS LTDA"></attvalue>
+          <attvalue for="nome_x" value="AG 01 SERVIÇOS E EMPREENDIMENTOS IMOBILIARIOS LTDA"></attvalue>
           <attvalue for="número de funcionários" value="-1.0"></attvalue>
           <attvalue for="numero de socios" value="3.0"></attvalue>
           <attvalue for="capital social" value="50000.0"></attvalue>
@@ -916,14 +967,14 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58701360,+RUA+SÉRGIO+LIMA,+SN,+JD+GUANABARA"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-343.47787" y="199.55334"></viz:position>
-        <viz:color r="0" g="9" b="224"></viz:color>
+        <viz:position x="230.30986" y="385.36502"></viz:position>
+        <viz:color r="24" g="0" b="219"></viz:color>
       </node>
       <node id="20239487000177">
         <attvalues>
           <attvalue for="tipo" value="4"></attvalue>
           <attvalue for="nome da empresa" value="LOTS EMPREENDIMENTOS IMOBILIÁRIOS E PARTICIPAÇÕES LTDA"></attvalue>
-          <attvalue for="nome" value="LOTS EMPREENDIMENTOS IMOBILIÁRIOS E PARTICIPAÇÕES LTDA"></attvalue>
+          <attvalue for="nome_x" value="LOTS EMPREENDIMENTOS IMOBILIÁRIOS E PARTICIPAÇÕES LTDA"></attvalue>
           <attvalue for="número de funcionários" value="-1.0"></attvalue>
           <attvalue for="numero de socios" value="2.0"></attvalue>
           <attvalue for="capital social" value="300000.0"></attvalue>
@@ -940,14 +991,14 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58700550,++RUA+MARECHAL+DEODORO+DA+FONSECA,+31,+Centro"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-288.6345" y="257.80582"></viz:position>
-        <viz:color r="0" g="9" b="224"></viz:color>
+        <viz:position x="278.9557" y="370.2682"></viz:position>
+        <viz:color r="24" g="0" b="219"></viz:color>
       </node>
       <node id="20514883000165">
         <attvalues>
           <attvalue for="tipo" value="4"></attvalue>
           <attvalue for="nome da empresa" value="LOTS POMBAL EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA"></attvalue>
-          <attvalue for="nome" value="LOTS POMBAL EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA"></attvalue>
+          <attvalue for="nome_x" value="LOTS POMBAL EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA"></attvalue>
           <attvalue for="número de funcionários" value="-1.0"></attvalue>
           <attvalue for="numero de socios" value="3.0"></attvalue>
           <attvalue for="capital social" value="100000.0"></attvalue>
@@ -964,14 +1015,14 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58700550,++RUA+MARECHAL+DEODORO+DA+FONSECA,+31,+Centro"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-330.5877" y="283.22565"></viz:position>
-        <viz:color r="0" g="9" b="224"></viz:color>
+        <viz:position x="258.033" y="388.87097"></viz:position>
+        <viz:color r="24" g="0" b="219"></viz:color>
       </node>
       <node id="20541471000114">
         <attvalues>
           <attvalue for="tipo" value="4"></attvalue>
           <attvalue for="nome da empresa" value="LOTS SANTA GERTRUDES EMPREENDIMENTOS IMOBILIÁRIOS LTDA"></attvalue>
-          <attvalue for="nome" value="LOTS SANTA GERTRUDES EMPREENDIMENTOS IMOBILIÁRIOS LTDA"></attvalue>
+          <attvalue for="nome_x" value="LOTS SANTA GERTRUDES EMPREENDIMENTOS IMOBILIÁRIOS LTDA"></attvalue>
           <attvalue for="número de funcionários" value="-1.0"></attvalue>
           <attvalue for="numero de socios" value="4.0"></attvalue>
           <attvalue for="capital social" value="100000.0"></attvalue>
@@ -988,14 +1039,14 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58700550,+RUA+MARECHAL+DEODORO+DA+FONSECA,+31,+Centro"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-280.7697" y="207.55911"></viz:position>
-        <viz:color r="0" g="9" b="224"></viz:color>
+        <viz:position x="202.09212" y="374.71683"></viz:position>
+        <viz:color r="24" g="0" b="219"></viz:color>
       </node>
       <node id="20694457000150">
         <attvalues>
           <attvalue for="tipo" value="4"></attvalue>
           <attvalue for="nome da empresa" value="LOTS PATOS EMPREENDIMENTOS IMOBILIARIOS LTDA"></attvalue>
-          <attvalue for="nome" value="LOTS PATOS EMPREENDIMENTOS IMOBILIARIOS LTDA"></attvalue>
+          <attvalue for="nome_x" value="LOTS PATOS EMPREENDIMENTOS IMOBILIARIOS LTDA"></attvalue>
           <attvalue for="número de funcionários" value="-1.0"></attvalue>
           <attvalue for="numero de socios" value="3.0"></attvalue>
           <attvalue for="capital social" value="100000.0"></attvalue>
@@ -1012,14 +1063,14 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58700550,+RUA+Marechal+Deodoro+da+Fonseca,+31,+Centro"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-382.34372" y="224.27696"></viz:position>
-        <viz:color r="0" g="9" b="224"></viz:color>
+        <viz:position x="264.58975" y="286.2943"></viz:position>
+        <viz:color r="24" g="0" b="219"></viz:color>
       </node>
       <node id="20929904000103">
         <attvalues>
           <attvalue for="tipo" value="4"></attvalue>
           <attvalue for="nome da empresa" value="LOTS TENA EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA ME"></attvalue>
-          <attvalue for="nome" value="LOTS TENA EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA ME"></attvalue>
+          <attvalue for="nome_x" value="LOTS TENA EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA ME"></attvalue>
           <attvalue for="número de funcionários" value="-1.0"></attvalue>
           <attvalue for="numero de socios" value="2.0"></attvalue>
           <attvalue for="capital social" value="100000.0"></attvalue>
@@ -1036,14 +1087,14 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58700550,+Rua+Marechal+Deodoro+da+Fonseca,+31,+Centro"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-301.52933" y="281.85742"></viz:position>
-        <viz:color r="0" g="9" b="224"></viz:color>
+        <viz:position x="273.98108" y="342.44614"></viz:position>
+        <viz:color r="24" g="0" b="219"></viz:color>
       </node>
       <node id="21779017000169">
         <attvalues>
           <attvalue for="tipo" value="4"></attvalue>
           <attvalue for="nome da empresa" value="LOTS SÃO MAMEDE EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA"></attvalue>
-          <attvalue for="nome" value="LOTS SÃO MAMEDE EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA"></attvalue>
+          <attvalue for="nome_x" value="LOTS SÃO MAMEDE EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA"></attvalue>
           <attvalue for="número de funcionários" value="-1.0"></attvalue>
           <attvalue for="numero de socios" value="2.0"></attvalue>
           <attvalue for="capital social" value="10000000.0"></attvalue>
@@ -1060,14 +1111,14 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58700550,+Marechal+Deodoro+da+Fonseca,+31,+Centro"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-317.40997" y="259.73865"></viz:position>
-        <viz:color r="0" g="9" b="224"></viz:color>
+        <viz:position x="299.49863" y="351.33014"></viz:position>
+        <viz:color r="24" g="0" b="219"></viz:color>
       </node>
       <node id="23922900000191">
         <attvalues>
           <attvalue for="tipo" value="4"></attvalue>
           <attvalue for="nome da empresa" value="LOTS PATOS 1 EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA"></attvalue>
-          <attvalue for="nome" value="LOTS PATOS 1 EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA"></attvalue>
+          <attvalue for="nome_x" value="LOTS PATOS 1 EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA"></attvalue>
           <attvalue for="número de funcionários" value="-1.0"></attvalue>
           <attvalue for="numero de socios" value="2.0"></attvalue>
           <attvalue for="capital social" value="100000.0"></attvalue>
@@ -1084,14 +1135,14 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58700550,+RUA+MARECHAL+DEODORO+DA+FONSECA,+31,+CENTRO"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-298.76465" y="185.35432"></viz:position>
-        <viz:color r="0" g="9" b="224"></viz:color>
+        <viz:position x="291.89603" y="294.8332"></viz:position>
+        <viz:color r="24" g="0" b="219"></viz:color>
       </node>
       <node id="24339864000109">
         <attvalues>
           <attvalue for="tipo" value="4"></attvalue>
           <attvalue for="nome da empresa" value="LOTS BARRO EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA"></attvalue>
-          <attvalue for="nome" value="LOTS BARRO EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA"></attvalue>
+          <attvalue for="nome_x" value="LOTS BARRO EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA"></attvalue>
           <attvalue for="número de funcionários" value="-1.0"></attvalue>
           <attvalue for="numero de socios" value="2.0"></attvalue>
           <attvalue for="capital social" value="100000.0"></attvalue>
@@ -1108,23 +1159,39 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58700550,+RUA+Marechal+Deodoro+da+Fonseca,+31,+Centro"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-355.42987" y="225.62915"></viz:position>
-        <viz:color r="0" g="9" b="224"></viz:color>
+        <viz:position x="197.81125" y="347.17615"></viz:position>
+        <viz:color r="24" g="0" b="219"></viz:color>
       </node>
       <node id="09433715000102">
         <attvalues>
-          <attvalue for="tipo" value="4"></attvalue>
+          <attvalue for="tipo" value="5"></attvalue>
           <attvalue for="número de funcionários" value="243.0"></attvalue>
           <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+          <attvalue for="tipo do documento" value="CNPJ"></attvalue>
+          <attvalue for="número de contratos" value="3.0"></attvalue>
+          <attvalue for="valor total dos contratos" value="14062415.38"></attvalue>
+          <attvalue for="valor total das contratações diretas" value="14062415.38"></attvalue>
+          <attvalue for="percentual do valor de contratos que foram contratações diretas" value="1.0"></attvalue>
+          <attvalue for="data de assinatura do primeiro contrato" value="2007-02-26"></attvalue>
+          <attvalue for="data de assinatura do último contrato" value="2012-03-12"></attvalue>
+          <attvalue for="número de propostas" value="7.0"></attvalue>
+          <attvalue for="data da primeira proposta" value="2006-06-19"></attvalue>
+          <attvalue for="data da última proposta" value="2012-03-09"></attvalue>
+          <attvalue for="valor total das propostas" value="15327429.91"></attvalue>
+          <attvalue for="valor total dos aditivos" value="17319673.64"></attvalue>
+          <attvalue for="percentual de majoração contratual via aditivos" value="1.23"></attvalue>
+          <attvalue for="taxa de vitórias em licitações" value="0.43"></attvalue>
+          <attvalue for="valor dos contratos ganhos em licitações com apenas uma proposta (descartando contratações diretas)" value="0.0"></attvalue>
+          <attvalue for="percentual do valor em contratos ganhos em licitações com apenas uma proposta (descartando contratações diretas)" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="16.197487" y="-134.98387"></viz:position>
-        <viz:color r="0" g="9" b="224"></viz:color>
+        <viz:position x="-4.201809" y="-176.36484"></viz:position>
+        <viz:color r="31" g="0" b="5"></viz:color>
       </node>
       <node id="02949141000261">
         <attvalues>
           <attvalue for="tipo" value="4"></attvalue>
-          <attvalue for="nome" value="ESCOLA DE ENFERMAGEM NOVA ESPERRANCA LTDA"></attvalue>
+          <attvalue for="nome_x" value="ESCOLA DE ENFERMAGEM NOVA ESPERRANCA LTDA"></attvalue>
           <attvalue for="número de funcionários" value="432.0"></attvalue>
           <attvalue for="numero de socios no bf" value="0.0"></attvalue>
           <attvalue for="data de constituição" value="2002-02-25"></attvalue>
@@ -1138,8 +1205,8 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58063970,+AVENIDA+FREI+GALVAO,+12,+GRAMAME"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="64.842514" y="-175.21011"></viz:position>
-        <viz:color r="0" g="9" b="224"></viz:color>
+        <viz:position x="23.760466" y="-121.75889"></viz:position>
+        <viz:color r="24" g="0" b="219"></viz:color>
       </node>
       <node id="09308966000165">
         <attvalues>
@@ -1148,8 +1215,8 @@
           <attvalue for="numero de socios no bf" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-371.49368" y="250.18"></viz:position>
-        <viz:color r="0" g="9" b="224"></viz:color>
+        <viz:position x="298.08243" y="323.6422"></viz:position>
+        <viz:color r="24" g="0" b="219"></viz:color>
       </node>
       <node id="08761140000194">
         <attvalues>
@@ -1158,8 +1225,8 @@
           <attvalue for="numero de socios no bf" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="116.201065" y="-125.73719"></viz:position>
-        <viz:color r="0" g="9" b="224"></viz:color>
+        <viz:position x="-69.74287" y="-150.57965"></viz:position>
+        <viz:color r="24" g="0" b="219"></viz:color>
       </node>
       <node id="08993917000146">
         <attvalues>
@@ -1168,13 +1235,13 @@
           <attvalue for="numero de socios no bf" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="179.56732" y="-109.66891"></viz:position>
-        <viz:color r="0" g="9" b="224"></viz:color>
+        <viz:position x="-187.92984" y="-166.74321"></viz:position>
+        <viz:color r="24" g="0" b="219"></viz:color>
       </node>
       <node id="10753366000195">
         <attvalues>
           <attvalue for="tipo" value="4"></attvalue>
-          <attvalue for="nome" value="MARIA DO SOCORRO DE LIMA SANTOS"></attvalue>
+          <attvalue for="nome_x" value="MARIA DO SOCORRO DE LIMA SANTOS"></attvalue>
           <attvalue for="número de funcionários" value="32.0"></attvalue>
           <attvalue for="numero de socios" value="1.0"></attvalue>
           <attvalue for="capital social" value="181.0"></attvalue>
@@ -1189,8 +1256,8 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58000000,+RUA+JOSE+JARDIM+180,+,+BAIRRO+DOS+IPES"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-54.920536" y="-277.67242"></viz:position>
-        <viz:color r="0" g="9" b="224"></viz:color>
+        <viz:position x="144.61787" y="-226.37872"></viz:position>
+        <viz:color r="24" g="0" b="219"></viz:color>
       </node>
       <node id="10490987000123">
         <attvalues>
@@ -1199,8 +1266,8 @@
           <attvalue for="numero de socios no bf" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-1.0818709" y="-168.09323"></viz:position>
-        <viz:color r="0" g="9" b="224"></viz:color>
+        <viz:position x="54.693554" y="-144.66035"></viz:position>
+        <viz:color r="24" g="0" b="219"></viz:color>
       </node>
       <node id="08694222000163">
         <attvalues>
@@ -1209,14 +1276,14 @@
           <attvalue for="numero de socios no bf" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-9.836599" y="-308.77228"></viz:position>
-        <viz:color r="0" g="9" b="224"></viz:color>
+        <viz:position x="11.699145" y="-277.76514"></viz:position>
+        <viz:color r="24" g="0" b="219"></viz:color>
       </node>
       <node id="06081249000155">
         <attvalues>
           <attvalue for="tipo" value="4"></attvalue>
           <attvalue for="nome da empresa" value="KERLY DA COSTA OLIVEIRA ME"></attvalue>
-          <attvalue for="nome" value="KERLY DA COSTA OLIVEIRA ME"></attvalue>
+          <attvalue for="nome_x" value="KERLY DA COSTA OLIVEIRA ME"></attvalue>
           <attvalue for="número de funcionários" value="-1.0"></attvalue>
           <attvalue for="numero de socios" value="1.0"></attvalue>
           <attvalue for="capital social" value="60000.0"></attvalue>
@@ -1233,14 +1300,14 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58840000,+RUA+ANTONIO+FERREIRA,+105,+CENTRO"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-126.667915" y="168.30202"></viz:position>
-        <viz:color r="0" g="9" b="224"></viz:color>
+        <viz:position x="220.9185" y="168.33083"></viz:position>
+        <viz:color r="24" g="0" b="219"></viz:color>
       </node>
       <node id="17952485000116">
         <attvalues>
           <attvalue for="tipo" value="4"></attvalue>
           <attvalue for="nome da empresa" value="GILBERTO COSTA VENANCIO 72713658420"></attvalue>
-          <attvalue for="nome" value="GILBERTO COSTA VENANCIO 72713658420"></attvalue>
+          <attvalue for="nome_x" value="GILBERTO COSTA VENANCIO 72713658420"></attvalue>
           <attvalue for="número de funcionários" value="-1.0"></attvalue>
           <attvalue for="numero de socios" value="1.0"></attvalue>
           <attvalue for="capital social" value="10000.0"></attvalue>
@@ -1257,422 +1324,422 @@
           <attvalue for="map_link" value="https://www.google.com/maps/search/58884000,+PROJETADA,+180,+CONJ.+JOAO+PINHEIRO+DANTAS"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-143.0812" y="226.51213"></viz:position>
-        <viz:color r="0" g="9" b="224"></viz:color>
+        <viz:position x="74.41666" y="238.20001"></viz:position>
+        <viz:color r="24" g="0" b="219"></viz:color>
       </node>
     </nodes>
     <edges>
-      <edge id="0" source="PB" target="45107793487">
+      <edge id="0" source="O" target="45107793487" label="investigados">
         <attvalues>
           <attvalue for="tipo de relacao" value="investigados"></attvalue>
         </attvalues>
       </edge>
-      <edge id="1" source="PB" target="60104970430">
+      <edge id="1" source="O" target="60104970430" label="investigados">
         <attvalues>
           <attvalue for="tipo de relacao" value="investigados"></attvalue>
         </attvalues>
       </edge>
-      <edge id="2" source="PB" target="82707146404">
+      <edge id="2" source="O" target="82707146404" label="investigados">
         <attvalues>
           <attvalue for="tipo de relacao" value="investigados"></attvalue>
         </attvalues>
       </edge>
-      <edge id="3" source="PB" target="00083095403">
+      <edge id="3" source="O" target="00083095403" label="investigados">
         <attvalues>
           <attvalue for="tipo de relacao" value="investigados"></attvalue>
         </attvalues>
       </edge>
-      <edge id="4" source="PB" target="01341489400">
+      <edge id="4" source="O" target="01341489400" label="investigados">
         <attvalues>
           <attvalue for="tipo de relacao" value="investigados"></attvalue>
         </attvalues>
       </edge>
-      <edge id="5" source="45107793487" target="12881013000104" weight="3.0">
+      <edge id="5" source="45107793487" target="12881013000104" label="socio de" weight="3.0">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="6" source="45107793487" target="35576297000112" weight="3.0">
+      <edge id="6" source="45107793487" target="35576297000112" label="socio de" weight="3.0">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="7" source="60104970430" target="41205626000111" weight="2.0">
+      <edge id="7" source="60104970430" target="41205626000111" label="socio de" weight="2.0">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="8" source="82707146404" target="01784217000100" weight="2.0">
+      <edge id="8" source="82707146404" target="01784217000100" label="socio de" weight="2.0">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="9" source="00083095403" target="10714599000189" weight="2.0">
+      <edge id="9" source="00083095403" target="10714599000189" label="socio de" weight="2.0">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="10" source="01341489400" target="17887842000100" weight="2.0">
+      <edge id="10" source="01341489400" target="17887842000100" label="socio de" weight="2.0">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="11" source="12881013000104" target="45107793487">
+      <edge id="11" source="12881013000104" target="03244747418" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="12" source="12881013000104" target="03262760412">
+      <edge id="12" source="12881013000104" target="67443478453" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="13" source="12881013000104" target="03244747418">
+      <edge id="13" source="12881013000104" target="45107793487" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="14" source="12881013000104" target="67443478453">
+      <edge id="14" source="12881013000104" target="03262760412" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="15" source="12881013000104" target="03830003439">
+      <edge id="15" source="12881013000104" target="03830003439" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="16" source="35576297000112" target="45107793487">
+      <edge id="16" source="35576297000112" target="45107793487" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="17" source="41205626000111" target="60104970430">
+      <edge id="17" source="41205626000111" target="60104970430" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="18" source="01784217000100" target="46850740415">
+      <edge id="18" source="01784217000100" target="82707146404" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="19" source="01784217000100" target="82707146404">
+      <edge id="19" source="01784217000100" target="40721736491" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="20" source="01784217000100" target="40721736491">
+      <edge id="20" source="01784217000100" target="59460091415" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="21" source="01784217000100" target="59460091415">
+      <edge id="21" source="01784217000100" target="46850740415" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="22" source="10714599000189" target="00083095403">
+      <edge id="22" source="10714599000189" target="00083095403" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="23" source="10714599000189" target="01423486439">
+      <edge id="23" source="10714599000189" target="01423486439" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="24" source="10714599000189" target="93039093487">
+      <edge id="24" source="10714599000189" target="93039093487" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="25" source="17887842000100" target="01341489400">
+      <edge id="25" source="17887842000100" target="01341489400" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="28" source="03262760412" target="07144400000110">
+      <edge id="26" source="03244747418" target="07144400000110" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="29" source="03262760412" target="12881013000104">
+      <edge id="27" source="03244747418" target="12881013000104" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="30" source="03262760412" target="12881013000287">
+      <edge id="28" source="03244747418" target="12881013000287" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="31" source="03244747418" target="07144400000110">
+      <edge id="29" source="67443478453" target="09123654000187" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="32" source="03244747418" target="12881013000104">
+      <edge id="30" source="67443478453" target="10684218000166" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="33" source="03244747418" target="12881013000287">
+      <edge id="31" source="67443478453" target="12881013000104" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="34" source="67443478453" target="09123654000187">
+      <edge id="32" source="67443478453" target="12881013000287" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="35" source="67443478453" target="10684218000166">
+      <edge id="35" source="03262760412" target="07144400000110" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="36" source="67443478453" target="12881013000104">
+      <edge id="36" source="03262760412" target="12881013000104" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="37" source="67443478453" target="12881013000287">
+      <edge id="37" source="03262760412" target="12881013000287" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="38" source="03830003439" target="12881013000104">
+      <edge id="38" source="03830003439" target="12881013000104" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="39" source="03830003439" target="12881013000287">
+      <edge id="39" source="03830003439" target="12881013000287" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="43" source="46850740415" target="01784217000100">
+      <edge id="44" source="40721736491" target="01784217000100" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="45" source="40721736491" target="01784217000100">
+      <edge id="45" source="40721736491" target="06032967000131" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="46" source="40721736491" target="06032967000131">
+      <edge id="46" source="59460091415" target="01784217000100" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="47" source="59460091415" target="01784217000100">
+      <edge id="47" source="59460091415" target="05730009000171" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="48" source="59460091415" target="05730009000171">
+      <edge id="48" source="59460091415" target="35433242000153" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="49" source="59460091415" target="35433242000153">
+      <edge id="49" source="46850740415" target="01784217000100" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="51" source="01423486439" target="10714599000189">
+      <edge id="51" source="01423486439" target="10714599000189" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="52" source="01423486439" target="24783738000130">
+      <edge id="52" source="01423486439" target="24783738000130" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="53" source="93039093487" target="00526995000129">
+      <edge id="53" source="93039093487" target="00526995000129" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="54" source="93039093487" target="03822790000189">
+      <edge id="54" source="93039093487" target="03822790000189" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="55" source="93039093487" target="05964758000163">
+      <edge id="55" source="93039093487" target="05964758000163" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="56" source="93039093487" target="07073859000170">
+      <edge id="56" source="93039093487" target="07073859000170" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="57" source="93039093487" target="10714599000189">
+      <edge id="57" source="93039093487" target="10714599000189" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="58" source="93039093487" target="10801326000171">
+      <edge id="58" source="93039093487" target="10801326000171" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="59" source="93039093487" target="15112096000157">
+      <edge id="59" source="93039093487" target="15112096000157" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="60" source="93039093487" target="17645796000132">
+      <edge id="60" source="93039093487" target="17645796000132" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="61" source="93039093487" target="20239487000177">
+      <edge id="61" source="93039093487" target="20239487000177" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="62" source="93039093487" target="20514883000165">
+      <edge id="62" source="93039093487" target="20514883000165" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="63" source="93039093487" target="20541471000114">
+      <edge id="63" source="93039093487" target="20541471000114" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="64" source="93039093487" target="20694457000150">
+      <edge id="64" source="93039093487" target="20694457000150" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="65" source="93039093487" target="20929904000103">
+      <edge id="65" source="93039093487" target="20929904000103" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="66" source="93039093487" target="21779017000169">
+      <edge id="66" source="93039093487" target="21779017000169" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="67" source="93039093487" target="23922900000191">
+      <edge id="67" source="93039093487" target="23922900000191" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="68" source="93039093487" target="24339864000109">
+      <edge id="68" source="93039093487" target="24339864000109" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="70" source="82707146404" target="09433715000102">
+      <edge id="70" source="82707146404" target="09433715000102" label="funcionario de">
         <attvalues>
           <attvalue for="tipo de relacao" value="funcionario de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="71" source="82707146404" target="02949141000261">
+      <edge id="71" source="82707146404" target="02949141000261" label="funcionario de">
         <attvalues>
           <attvalue for="tipo de relacao" value="funcionario de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="72" source="93039093487" target="09308966000165">
+      <edge id="72" source="93039093487" target="09308966000165" label="funcionario de">
         <attvalues>
           <attvalue for="tipo de relacao" value="funcionario de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="73" source="82707146404" target="08761140000194">
+      <edge id="73" source="82707146404" target="08761140000194" label="funcionario de">
         <attvalues>
           <attvalue for="tipo de relacao" value="funcionario de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="74" source="67443478453" target="08993917000146">
+      <edge id="74" source="67443478453" target="08993917000146" label="funcionario de">
         <attvalues>
           <attvalue for="tipo de relacao" value="funcionario de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="75" source="46850740415" target="10753366000195">
+      <edge id="75" source="46850740415" target="10753366000195" label="funcionario de">
         <attvalues>
           <attvalue for="tipo de relacao" value="funcionario de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="76" source="67443478453" target="08761140000194">
+      <edge id="76" source="67443478453" target="08761140000194" label="funcionario de">
         <attvalues>
           <attvalue for="tipo de relacao" value="funcionario de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="77" source="82707146404" target="10490987000123">
+      <edge id="77" source="82707146404" target="10490987000123" label="funcionario de">
         <attvalues>
           <attvalue for="tipo de relacao" value="funcionario de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="78" source="40721736491" target="08694222000163">
+      <edge id="78" source="40721736491" target="08694222000163" label="funcionario de">
         <attvalues>
           <attvalue for="tipo de relacao" value="funcionario de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="79" source="10753366000195" target="39583279404">
+      <edge id="79" source="10753366000195" target="39583279404" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="80" source="10714599000189" target="03967198480">
+      <edge id="80" source="10714599000189" target="03967198480" label="empregador de">
         <attvalues>
           <attvalue for="tipo de relacao" value="empregador de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="81" source="10714599000189" target="07127313423">
+      <edge id="81" source="10714599000189" target="07127313423" label="empregador de">
         <attvalues>
           <attvalue for="tipo de relacao" value="empregador de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="82" source="10714599000189" target="72713658420">
+      <edge id="82" source="10714599000189" target="72713658420" label="empregador de">
         <attvalues>
           <attvalue for="tipo de relacao" value="empregador de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="83" source="10714599000189" target="92830293487">
+      <edge id="83" source="10714599000189" target="92830293487" label="empregador de">
         <attvalues>
           <attvalue for="tipo de relacao" value="empregador de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="84" source="10714599000189" target="05008594427">
+      <edge id="84" source="10714599000189" target="05008594427" label="empregador de">
         <attvalues>
           <attvalue for="tipo de relacao" value="empregador de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="85" source="12881013000104" target="08621763443">
+      <edge id="85" source="12881013000104" target="08621763443" label="empregador de">
         <attvalues>
           <attvalue for="tipo de relacao" value="empregador de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="86" source="12881013000104" target="07985544445">
+      <edge id="86" source="12881013000104" target="07985544445" label="empregador de">
         <attvalues>
           <attvalue for="tipo de relacao" value="empregador de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="87" source="12881013000104" target="03364079471">
+      <edge id="87" source="12881013000104" target="03364079471" label="empregador de">
         <attvalues>
           <attvalue for="tipo de relacao" value="empregador de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="88" source="12881013000104" target="07021074417">
+      <edge id="88" source="12881013000104" target="07021074417" label="empregador de">
         <attvalues>
           <attvalue for="tipo de relacao" value="empregador de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="89" source="03967198480" target="06081249000155">
+      <edge id="89" source="03967198480" target="06081249000155" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="90" source="72713658420" target="17952485000116">
+      <edge id="90" source="72713658420" target="17952485000116" label="socio de">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
