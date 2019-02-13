@@ -6,8 +6,8 @@
   </meta>
   <graph defaultedgetype="directed" mode="static">
     <attributes class="node" mode="static">
-      <attribute id="tipo" title="tipo" type="integer"></attribute>
       <attribute id="nome da pessoa" title="nome da pessoa" type="string"></attribute>
+      <attribute id="tipo" title="tipo" type="integer"></attribute>
       <attribute id="isin_bf" title="isin_bf" type="string"></attribute>
       <attribute id="isin_cadu" title="isin_cadu" type="string"></attribute>
       <attribute id="vlr_renda_media_fam" title="vlr_renda_media_fam" type="string"></attribute>
@@ -38,19 +38,10 @@
       <attribute id="tipo de relacao" title="tipo de relacao" type="string"></attribute>
     </attributes>
     <nodes>
-      <node id="O">
-        <attvalues>
-          <attvalue for="tipo" value="1"></attvalue>
-          <attvalue for="tipo de relacao" value="investigados"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-4.2895594" y="6.6502757"></viz:position>
-        <viz:color r="255" g="31" b="71"></viz:color>
-      </node>
       <node id="09391110800">
         <attvalues>
-          <attvalue for="tipo" value="1"></attvalue>
           <attvalue for="nome da pessoa" value="ALEJANDRO JUVENAL HERBAS CAMACHO JUNIOR"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
           <attvalue for="isin_bf" value="False"></attvalue>
           <attvalue for="isin_cadu" value="False"></attvalue>
           <attvalue for="n_vinculos" value="0.0"></attvalue>
@@ -61,13 +52,13 @@
           <attvalue for="tipo de relacao" value="investigados"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-46.092613" y="-93.27758"></viz:position>
-        <viz:color r="255" g="31" b="71"></viz:color>
+        <viz:position x="754.4551" y="-1138.2637"></viz:position>
+        <viz:color r="255" g="23" b="0"></viz:color>
       </node>
       <node id="12726678807">
         <attvalues>
-          <attvalue for="tipo" value="1"></attvalue>
           <attvalue for="nome da pessoa" value="FRANCISCA ALVES DA SILVA"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
           <attvalue for="isin_bf" value="False"></attvalue>
           <attvalue for="isin_cadu" value="False"></attvalue>
           <attvalue for="n_vinculos" value="0.0"></attvalue>
@@ -78,13 +69,13 @@
           <attvalue for="tipo de relacao" value="investigados"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-249.08125" y="-9.985033"></viz:position>
-        <viz:color r="255" g="31" b="71"></viz:color>
+        <viz:position x="588.01526" y="-1168.2891"></viz:position>
+        <viz:color r="255" g="23" b="0"></viz:color>
       </node>
       <node id="07345004325">
         <attvalues>
-          <attvalue for="tipo" value="1"></attvalue>
           <attvalue for="nome da pessoa" value="VITORIA ALVES HERBAS CAMACHO"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
           <attvalue for="isin_bf" value="False"></attvalue>
           <attvalue for="isin_cadu" value="False"></attvalue>
           <attvalue for="n_vinculos" value="0.0"></attvalue>
@@ -95,13 +86,13 @@
           <attvalue for="tipo de relacao" value="investigados"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-45.938293" y="85.94956"></viz:position>
-        <viz:color r="255" g="31" b="71"></viz:color>
+        <viz:position x="717.5672" y="-1059.0774"></viz:position>
+        <viz:color r="255" g="23" b="0"></viz:color>
       </node>
       <node id="36673944897">
         <attvalues>
-          <attvalue for="tipo" value="1"></attvalue>
           <attvalue for="nome da pessoa" value="PALOMA SANCHES HERBAS CAMACHO"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
           <attvalue for="isin_bf" value="False"></attvalue>
           <attvalue for="isin_cadu" value="False"></attvalue>
           <attvalue for="n_vinculos" value="0.0"></attvalue>
@@ -112,13 +103,13 @@
           <attvalue for="tipo de relacao" value="investigados"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-115.13115" y="-133.0099"></viz:position>
-        <viz:color r="255" g="31" b="71"></viz:color>
+        <viz:position x="842.4913" y="-1032.739"></viz:position>
+        <viz:color r="255" g="23" b="0"></viz:color>
       </node>
       <node id="47052256860">
         <attvalues>
-          <attvalue for="tipo" value="1"></attvalue>
           <attvalue for="nome da pessoa" value="LEONARDO ALEXSANDER RIBEIRO HERBAS CAMACHO"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
           <attvalue for="isin_bf" value="False"></attvalue>
           <attvalue for="isin_cadu" value="False"></attvalue>
           <attvalue for="n_vinculos" value="0.0"></attvalue>
@@ -129,13 +120,13 @@
           <attvalue for="tipo de relacao" value="investigados"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="14.9875555" y="-115.602394"></viz:position>
-        <viz:color r="255" g="31" b="71"></viz:color>
+        <viz:position x="856.8066" y="-1170.7861"></viz:position>
+        <viz:color r="255" g="23" b="0"></viz:color>
       </node>
       <node id="07345014398">
         <attvalues>
-          <attvalue for="tipo" value="1"></attvalue>
           <attvalue for="nome da pessoa" value="ALEJANDRO JUVENAL HERBAS CAMACHO NETO"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
           <attvalue for="isin_bf" value="False"></attvalue>
           <attvalue for="isin_cadu" value="False"></attvalue>
           <attvalue for="n_vinculos" value="0.0"></attvalue>
@@ -146,13 +137,13 @@
           <attvalue for="tipo de relacao" value="investigados"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-95.67851" y="-52.18559"></viz:position>
-        <viz:color r="255" g="31" b="71"></viz:color>
+        <viz:position x="759.13434" y="-1236.1744"></viz:position>
+        <viz:color r="255" g="23" b="0"></viz:color>
       </node>
       <node id="37924151869">
         <attvalues>
-          <attvalue for="tipo" value="1"></attvalue>
           <attvalue for="nome da pessoa" value="THAIS CRISTINA OLIVEIRA DA SILVA"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
           <attvalue for="isin_bf" value="False"></attvalue>
           <attvalue for="isin_cadu" value="False"></attvalue>
           <attvalue for="n_vinculos" value="0.0"></attvalue>
@@ -163,13 +154,13 @@
           <attvalue for="tipo de relacao" value="investigados"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="61.538654" y="55.712185"></viz:position>
-        <viz:color r="255" g="31" b="71"></viz:color>
+        <viz:position x="699.1185" y="-1187.6335"></viz:position>
+        <viz:color r="255" g="23" b="0"></viz:color>
       </node>
       <node id="31259730824">
         <attvalues>
-          <attvalue for="tipo" value="1"></attvalue>
           <attvalue for="nome da pessoa" value="EDUARDO OLIVEIRA DA SILVA"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
           <attvalue for="isin_bf" value="False"></attvalue>
           <attvalue for="isin_cadu" value="False"></attvalue>
           <attvalue for="n_vinculos" value="0.0"></attvalue>
@@ -180,13 +171,13 @@
           <attvalue for="tipo de relacao" value="investigados"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="91.64466" y="-64.85526"></viz:position>
-        <viz:color r="255" g="31" b="71"></viz:color>
+        <viz:position x="822.838" y="-1222.4939"></viz:position>
+        <viz:color r="255" g="23" b="0"></viz:color>
       </node>
       <node id="07002433300">
         <attvalues>
-          <attvalue for="tipo" value="1"></attvalue>
           <attvalue for="nome da pessoa" value="BARBARA ALVES MOTA"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
           <attvalue for="isin_bf" value="False"></attvalue>
           <attvalue for="isin_cadu" value="False"></attvalue>
           <attvalue for="n_vinculos" value="0.0"></attvalue>
@@ -197,13 +188,13 @@
           <attvalue for="tipo de relacao" value="investigados"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="34.2994" y="-63.57303"></viz:position>
-        <viz:color r="255" g="31" b="71"></viz:color>
+        <viz:position x="838.733" y="-1106.2764"></viz:position>
+        <viz:color r="255" g="23" b="0"></viz:color>
       </node>
       <node id="18747433818">
         <attvalues>
-          <attvalue for="tipo" value="1"></attvalue>
           <attvalue for="nome da pessoa" value="ANTONIO JOSE MULLER JUNIOR"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
           <attvalue for="isin_bf" value="False"></attvalue>
           <attvalue for="isin_cadu" value="False"></attvalue>
           <attvalue for="n_vinculos" value="0.0"></attvalue>
@@ -214,13 +205,13 @@
           <attvalue for="tipo de relacao" value="investigados"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="56.850998" y="195.331"></viz:position>
-        <viz:color r="255" g="31" b="71"></viz:color>
+        <viz:position x="-384.8898" y="704.81433"></viz:position>
+        <viz:color r="255" g="23" b="0"></viz:color>
       </node>
       <node id="27762086854">
         <attvalues>
-          <attvalue for="tipo" value="1"></attvalue>
           <attvalue for="nome da pessoa" value="CARLA DE PAULA MULLER"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
           <attvalue for="isin_bf" value="False"></attvalue>
           <attvalue for="isin_cadu" value="False"></attvalue>
           <attvalue for="n_vinculos" value="0.0"></attvalue>
@@ -231,13 +222,13 @@
           <attvalue for="tipo de relacao" value="investigados"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="141.41283" y="-244.7629"></viz:position>
-        <viz:color r="255" g="31" b="71"></viz:color>
+        <viz:position x="-604.9713" y="647.6904"></viz:position>
+        <viz:color r="255" g="23" b="0"></viz:color>
       </node>
       <node id="43128442835">
         <attvalues>
-          <attvalue for="tipo" value="1"></attvalue>
           <attvalue for="nome da pessoa" value="MARIA EDUARDA FINUCCI SANTOS"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
           <attvalue for="isin_bf" value="False"></attvalue>
           <attvalue for="isin_cadu" value="False"></attvalue>
           <attvalue for="n_vinculos" value="0.0"></attvalue>
@@ -248,13 +239,13 @@
           <attvalue for="tipo de relacao" value="investigados"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="105.426605" y="-3.332358"></viz:position>
-        <viz:color r="255" g="31" b="71"></viz:color>
+        <viz:position x="-297.72873" y="696.5246"></viz:position>
+        <viz:color r="255" g="23" b="0"></viz:color>
       </node>
       <node id="45010207842">
         <attvalues>
-          <attvalue for="tipo" value="1"></attvalue>
           <attvalue for="nome da pessoa" value="GIOVANNA DE PAULA MULLER"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
           <attvalue for="isin_bf" value="False"></attvalue>
           <attvalue for="isin_cadu" value="False"></attvalue>
           <attvalue for="n_vinculos" value="0.0"></attvalue>
@@ -265,13 +256,13 @@
           <attvalue for="tipo de relacao" value="investigados"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-118.87443" y="1.1620656"></viz:position>
-        <viz:color r="255" g="31" b="71"></viz:color>
+        <viz:position x="-463.30423" y="736.31323"></viz:position>
+        <viz:color r="255" g="23" b="0"></viz:color>
       </node>
       <node id="08350038683">
         <attvalues>
-          <attvalue for="tipo" value="1"></attvalue>
           <attvalue for="nome da pessoa" value="MICHELLE FERNANDA MULLER"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
           <attvalue for="isin_bf" value="False"></attvalue>
           <attvalue for="isin_cadu" value="True"></attvalue>
           <attvalue for="vlr_renda_media_fam" value="0.0"></attvalue>
@@ -283,13 +274,13 @@
           <attvalue for="tipo de relacao" value="investigados"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-16.116581" y="171.99231"></viz:position>
-        <viz:color r="255" g="31" b="71"></viz:color>
+        <viz:position x="-373.3051" y="569.07495"></viz:position>
+        <viz:color r="255" g="23" b="0"></viz:color>
       </node>
       <node id="46860755806">
         <attvalues>
-          <attvalue for="tipo" value="1"></attvalue>
           <attvalue for="nome da pessoa" value="THALIA CONCEIÇÃO MULLER"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
           <attvalue for="isin_bf" value="False"></attvalue>
           <attvalue for="isin_cadu" value="False"></attvalue>
           <attvalue for="n_vinculos" value="0.0"></attvalue>
@@ -300,13 +291,13 @@
           <attvalue for="tipo de relacao" value="investigados"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-90.002" y="47.92534"></viz:position>
-        <viz:color r="255" g="31" b="71"></viz:color>
+        <viz:position x="-408.70425" y="788.5549"></viz:position>
+        <viz:color r="255" g="23" b="0"></viz:color>
       </node>
       <node id="42726787878">
         <attvalues>
-          <attvalue for="tipo" value="1"></attvalue>
           <attvalue for="nome da pessoa" value="TAYNAH CONCEIÇÃO DE WERK MULLER"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
           <attvalue for="isin_bf" value="False"></attvalue>
           <attvalue for="isin_cadu" value="False"></attvalue>
           <attvalue for="n_vinculos" value="0.0"></attvalue>
@@ -317,13 +308,13 @@
           <attvalue for="tipo de relacao" value="investigados"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="101.08707" y="121.76044"></viz:position>
-        <viz:color r="255" g="31" b="71"></viz:color>
+        <viz:position x="-188.41257" y="682.93884"></viz:position>
+        <viz:color r="255" g="23" b="0"></viz:color>
       </node>
       <node id="34440129854">
         <attvalues>
-          <attvalue for="tipo" value="1"></attvalue>
           <attvalue for="nome da pessoa" value="EDER FERNANDO MULLER"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
           <attvalue for="isin_bf" value="False"></attvalue>
           <attvalue for="isin_cadu" value="False"></attvalue>
           <attvalue for="n_vinculos" value="1.0"></attvalue>
@@ -334,13 +325,13 @@
           <attvalue for="tipo de relacao" value="investigados"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-132.21378" y="170.75714"></viz:position>
-        <viz:color r="255" g="31" b="71"></viz:color>
+        <viz:position x="-382.45932" y="873.4945"></viz:position>
+        <viz:color r="255" g="23" b="0"></viz:color>
       </node>
       <node id="35662881871">
         <attvalues>
-          <attvalue for="tipo" value="1"></attvalue>
           <attvalue for="nome da pessoa" value="FELIPE DE WERK MULLER"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
           <attvalue for="isin_bf" value="False"></attvalue>
           <attvalue for="isin_cadu" value="False"></attvalue>
           <attvalue for="n_vinculos" value="0.0"></attvalue>
@@ -351,13 +342,13 @@
           <attvalue for="tipo de relacao" value="investigados"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="198.91415" y="87.145294"></viz:position>
-        <viz:color r="255" g="31" b="71"></viz:color>
+        <viz:position x="43.138622" y="678.1491"></viz:position>
+        <viz:color r="255" g="23" b="0"></viz:color>
       </node>
       <node id="_id_111913549">
         <attvalues>
-          <attvalue for="tipo" value="10"></attvalue>
           <attvalue for="nome da pessoa" value="ANTONIO JOSE MULLER"></attvalue>
+          <attvalue for="tipo" value="10"></attvalue>
           <attvalue for="isin_bf" value="False"></attvalue>
           <attvalue for="isin_cadu" value="False"></attvalue>
           <attvalue for="n_vinculos" value="0.0"></attvalue>
@@ -368,13 +359,13 @@
           <attvalue for="tipo de relacao" value="familiar de investigado"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="125.57997" y="308.23764"></viz:position>
-        <viz:color r="255" g="189" b="76"></viz:color>
+        <viz:position x="-320.33224" y="776.6558"></viz:position>
+        <viz:color r="255" g="132" b="31"></viz:color>
       </node>
       <node id="_id_149894527">
         <attvalues>
-          <attvalue for="tipo" value="10"></attvalue>
           <attvalue for="nome da pessoa" value="DEBORA APARECIDA DE PAULA MACEDO"></attvalue>
+          <attvalue for="tipo" value="10"></attvalue>
           <attvalue for="isin_bf" value="False"></attvalue>
           <attvalue for="isin_cadu" value="False"></attvalue>
           <attvalue for="n_vinculos" value="0.0"></attvalue>
@@ -385,13 +376,13 @@
           <attvalue for="tipo de relacao" value="familiar de investigado"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="120.43286" y="-372.2352"></viz:position>
-        <viz:color r="255" g="189" b="76"></viz:color>
+        <viz:position x="-658.9868" y="728.69714"></viz:position>
+        <viz:color r="255" g="132" b="31"></viz:color>
       </node>
       <node id="_id_147065793">
         <attvalues>
-          <attvalue for="tipo" value="10"></attvalue>
           <attvalue for="nome da pessoa" value="MILTON DE PAULA MACEDO"></attvalue>
+          <attvalue for="tipo" value="10"></attvalue>
           <attvalue for="isin_bf" value="False"></attvalue>
           <attvalue for="isin_cadu" value="False"></attvalue>
           <attvalue for="n_vinculos" value="0.0"></attvalue>
@@ -402,13 +393,13 @@
           <attvalue for="tipo de relacao" value="familiar de investigado"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="264.22482" y="-269.72025"></viz:position>
-        <viz:color r="255" g="189" b="76"></viz:color>
+        <viz:position x="-642.1004" y="542.9046"></viz:position>
+        <viz:color r="255" g="132" b="31"></viz:color>
       </node>
       <node id="_id_123161885">
         <attvalues>
-          <attvalue for="tipo" value="10"></attvalue>
           <attvalue for="nome da pessoa" value="NIVORAL DE PAULA MACEDO"></attvalue>
+          <attvalue for="tipo" value="10"></attvalue>
           <attvalue for="isin_bf" value="False"></attvalue>
           <attvalue for="isin_cadu" value="False"></attvalue>
           <attvalue for="n_vinculos" value="0.0"></attvalue>
@@ -419,13 +410,13 @@
           <attvalue for="tipo de relacao" value="familiar de investigado"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="241.16383" y="-321.97324"></viz:position>
-        <viz:color r="255" g="189" b="76"></viz:color>
+        <viz:position x="-711.99146" y="683.74994"></viz:position>
+        <viz:color r="255" g="132" b="31"></viz:color>
       </node>
       <node id="40573584800">
         <attvalues>
-          <attvalue for="tipo" value="10"></attvalue>
           <attvalue for="nome da pessoa" value="FERNANDO DE WERK MORAES"></attvalue>
+          <attvalue for="tipo" value="10"></attvalue>
           <attvalue for="isin_bf" value="False"></attvalue>
           <attvalue for="isin_cadu" value="False"></attvalue>
           <attvalue for="n_vinculos" value="0.0"></attvalue>
@@ -436,13 +427,13 @@
           <attvalue for="tipo de relacao" value="familiar de investigado"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="328.11386" y="94.594986"></viz:position>
-        <viz:color r="255" g="189" b="76"></viz:color>
+        <viz:position x="129.85829" y="725.9475"></viz:position>
+        <viz:color r="255" g="132" b="31"></viz:color>
       </node>
       <node id="_id_80105612">
         <attvalues>
-          <attvalue for="tipo" value="10"></attvalue>
           <attvalue for="nome da pessoa" value="MARLENE DE WERK MORAES"></attvalue>
+          <attvalue for="tipo" value="10"></attvalue>
           <attvalue for="isin_bf" value="False"></attvalue>
           <attvalue for="isin_cadu" value="False"></attvalue>
           <attvalue for="n_vinculos" value="0.0"></attvalue>
@@ -453,13 +444,13 @@
           <attvalue for="tipo de relacao" value="familiar de investigado"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="311.09146" y="158.67152"></viz:position>
-        <viz:color r="255" g="189" b="76"></viz:color>
+        <viz:position x="136.02713" y="649.4739"></viz:position>
+        <viz:color r="255" g="132" b="31"></viz:color>
       </node>
       <node id="26644679803">
         <attvalues>
-          <attvalue for="tipo" value="10"></attvalue>
           <attvalue for="nome da pessoa" value="TANIA REGINA PEREA SANCHES"></attvalue>
+          <attvalue for="tipo" value="10"></attvalue>
           <attvalue for="isin_bf" value="False"></attvalue>
           <attvalue for="isin_cadu" value="True"></attvalue>
           <attvalue for="vlr_renda_media_fam" value="57.5"></attvalue>
@@ -471,13 +462,13 @@
           <attvalue for="tipo de relacao" value="familiar de investigado"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-190.53596" y="-231.34921"></viz:position>
-        <viz:color r="255" g="189" b="76"></viz:color>
+        <viz:position x="922.78735" y="-974.4416"></viz:position>
+        <viz:color r="255" g="132" b="31"></viz:color>
       </node>
       <node id="07742237822">
         <attvalues>
-          <attvalue for="tipo" value="2"></attvalue>
           <attvalue for="nome da pessoa" value="JOSÉ ORLANDO MOUTINHO"></attvalue>
+          <attvalue for="tipo" value="2"></attvalue>
           <attvalue for="isin_bf" value="False"></attvalue>
           <attvalue for="isin_cadu" value="False"></attvalue>
           <attvalue for="n_vinculos" value="0.0"></attvalue>
@@ -488,13 +479,47 @@
           <attvalue for="tipo de relacao" value="socios de empresas dos investigados"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-293.33548" y="410.09277"></viz:position>
-        <viz:color r="255" g="247" b="46"></viz:color>
+        <viz:position x="-387.9385" y="1112.5682"></viz:position>
+        <viz:color r="255" g="239" b="31"></viz:color>
+      </node>
+      <node id="79243649353">
+        <attvalues>
+          <attvalue for="nome da pessoa" value="EVA MARIA DE OLIVEIRA"></attvalue>
+          <attvalue for="tipo" value="3"></attvalue>
+          <attvalue for="isin_bf" value="False"></attvalue>
+          <attvalue for="isin_cadu" value="False"></attvalue>
+          <attvalue for="n_vinculos" value="1.0"></attvalue>
+          <attvalue for="n_vinculos_publicos" value="0.0"></attvalue>
+          <attvalue for="número de empresas em que é sócio" value="1.0"></attvalue>
+          <attvalue for="número de vezes em que foi eleito" value="0.0"></attvalue>
+          <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
+          <attvalue for="tipo de relacao" value="funcionarios"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="463.58926" y="-1301.6198"></viz:position>
+        <viz:color r="16" g="199" b="0"></viz:color>
+      </node>
+      <node id="32196103829">
+        <attvalues>
+          <attvalue for="nome da pessoa" value="ANTONIA CHAVES DE SOUSA"></attvalue>
+          <attvalue for="tipo" value="3"></attvalue>
+          <attvalue for="isin_bf" value="False"></attvalue>
+          <attvalue for="isin_cadu" value="False"></attvalue>
+          <attvalue for="n_vinculos" value="1.0"></attvalue>
+          <attvalue for="n_vinculos_publicos" value="0.0"></attvalue>
+          <attvalue for="número de empresas em que é sócio" value="1.0"></attvalue>
+          <attvalue for="número de vezes em que foi eleito" value="0.0"></attvalue>
+          <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
+          <attvalue for="tipo de relacao" value="funcionarios"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="402.19904" y="-1263.0428"></viz:position>
+        <viz:color r="16" g="199" b="0"></viz:color>
       </node>
       <node id="04040205855">
         <attvalues>
-          <attvalue for="tipo" value="3"></attvalue>
           <attvalue for="nome da pessoa" value="RENATO DIAS SOUSA"></attvalue>
+          <attvalue for="tipo" value="3"></attvalue>
           <attvalue for="isin_bf" value="False"></attvalue>
           <attvalue for="isin_cadu" value="True"></attvalue>
           <attvalue for="vlr_renda_media_fam" value="362.0"></attvalue>
@@ -506,47 +531,13 @@
           <attvalue for="tipo de relacao" value="funcionarios"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="254.84119" y="-471.33917"></viz:position>
-        <viz:color r="29" g="209" b="0"></viz:color>
-      </node>
-      <node id="32196103829">
-        <attvalues>
-          <attvalue for="tipo" value="3"></attvalue>
-          <attvalue for="nome da pessoa" value="ANTONIA CHAVES DE SOUSA"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="False"></attvalue>
-          <attvalue for="n_vinculos" value="1.0"></attvalue>
-          <attvalue for="n_vinculos_publicos" value="0.0"></attvalue>
-          <attvalue for="número de empresas em que é sócio" value="1.0"></attvalue>
-          <attvalue for="número de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="tipo de relacao" value="funcionarios"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-498.5317" y="-87.55358"></viz:position>
-        <viz:color r="29" g="209" b="0"></viz:color>
-      </node>
-      <node id="79243649353">
-        <attvalues>
-          <attvalue for="tipo" value="3"></attvalue>
-          <attvalue for="nome da pessoa" value="EVA MARIA DE OLIVEIRA"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="False"></attvalue>
-          <attvalue for="n_vinculos" value="1.0"></attvalue>
-          <attvalue for="n_vinculos_publicos" value="0.0"></attvalue>
-          <attvalue for="número de empresas em que é sócio" value="1.0"></attvalue>
-          <attvalue for="número de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="número de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="tipo de relacao" value="funcionarios"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-524.6274" y="-32.020763"></viz:position>
-        <viz:color r="29" g="209" b="0"></viz:color>
+        <viz:position x="-818.7163" y="577.8646"></viz:position>
+        <viz:color r="16" g="199" b="0"></viz:color>
       </node>
       <node id="38527772833">
         <attvalues>
-          <attvalue for="tipo" value="3"></attvalue>
           <attvalue for="nome da pessoa" value="WANDER ALVES DA COSTA"></attvalue>
+          <attvalue for="tipo" value="3"></attvalue>
           <attvalue for="isin_bf" value="False"></attvalue>
           <attvalue for="isin_cadu" value="True"></attvalue>
           <attvalue for="vlr_renda_media_fam" value="66.0"></attvalue>
@@ -558,32 +549,8 @@
           <attvalue for="tipo de relacao" value="funcionarios"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-507.7875" y="26.950865"></viz:position>
-        <viz:color r="29" g="209" b="0"></viz:color>
-      </node>
-      <node id="06259677000125">
-        <attvalues>
-          <attvalue for="tipo" value="4"></attvalue>
-          <attvalue for="nome da empresa" value="FRANCISCA ALVES DA SILVA CONFECCOES"></attvalue>
-          <attvalue for="nome" value="FRANCISCA ALVES DA SILVA CONFECCOES"></attvalue>
-          <attvalue for="número de funcionários" value="3.0"></attvalue>
-          <attvalue for="numero de socios" value="1.0"></attvalue>
-          <attvalue for="capital social" value="2000.0"></attvalue>
-          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
-          <attvalue for="data de constituição" value="2004-04-19"></attvalue>
-          <attvalue for="numero de cnaes" value="1.0"></attvalue>
-          <attvalue for="logradouro" value="RUA HELENA ZERRENER"></attvalue>
-          <attvalue for="número" value="47"></attvalue>
-          <attvalue for="bairro" value="SE"></attvalue>
-          <attvalue for="cep" value="01512020"></attvalue>
-          <attvalue for="uf" value="SP"></attvalue>
-          <attvalue for="município" value="SÃO PAULO"></attvalue>
-          <attvalue for="map_link" value="https://www.google.com/maps/search/01512020,+RUA+HELENA+ZERRENER,+47,+SE"></attvalue>
-          <attvalue for="tipo de relacao" value="empresa onde investigado ou familiar e socio"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-402.425" y="-22.141644"></viz:position>
-        <viz:color r="0" g="30" b="189"></viz:color>
+        <viz:position x="394.19574" y="-1182.4304"></viz:position>
+        <viz:color r="16" g="199" b="0"></viz:color>
       </node>
       <node id="21279234000190">
         <attvalues>
@@ -606,8 +573,8 @@
           <attvalue for="tipo de relacao" value="empresa onde investigado ou familiar e socio"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="144.79027" y="-312.91772"></viz:position>
-        <viz:color r="0" g="30" b="189"></viz:color>
+        <viz:position x="-645.37836" y="606.5913"></viz:position>
+        <viz:color r="0" g="2" b="219"></viz:color>
       </node>
       <node id="22861933000106">
         <attvalues>
@@ -631,8 +598,8 @@
           <attvalue for="tipo de relacao" value="empresa onde investigado ou familiar e socio"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="196.24254" y="-359.49457"></viz:position>
-        <viz:color r="0" g="30" b="189"></viz:color>
+        <viz:position x="-710.81024" y="610.08435"></viz:position>
+        <viz:color r="0" g="2" b="219"></viz:color>
       </node>
       <node id="17005944000154">
         <attvalues>
@@ -655,8 +622,8 @@
           <attvalue for="tipo de relacao" value="empresa onde investigado ou familiar e socio"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="182.30338" y="144.9632"></viz:position>
-        <viz:color r="0" g="30" b="189"></viz:color>
+        <viz:position x="-65.14583" y="675.6569"></viz:position>
+        <viz:color r="0" g="2" b="219"></viz:color>
       </node>
       <node id="22679361000149">
         <attvalues>
@@ -677,8 +644,32 @@
           <attvalue for="tipo de relacao" value="empresa onde investigado ou familiar e socio"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-42.94574" y="257.32498"></viz:position>
-        <viz:color r="0" g="30" b="189"></viz:color>
+        <viz:position x="-364.15848" y="495.20395"></viz:position>
+        <viz:color r="0" g="2" b="219"></viz:color>
+      </node>
+      <node id="06259677000125">
+        <attvalues>
+          <attvalue for="tipo" value="4"></attvalue>
+          <attvalue for="nome da empresa" value="FRANCISCA ALVES DA SILVA CONFECCOES"></attvalue>
+          <attvalue for="nome" value="FRANCISCA ALVES DA SILVA CONFECCOES"></attvalue>
+          <attvalue for="número de funcionários" value="3.0"></attvalue>
+          <attvalue for="numero de socios" value="1.0"></attvalue>
+          <attvalue for="capital social" value="2000.0"></attvalue>
+          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
+          <attvalue for="data de constituição" value="2004-04-19"></attvalue>
+          <attvalue for="numero de cnaes" value="1.0"></attvalue>
+          <attvalue for="logradouro" value="RUA HELENA ZERRENER"></attvalue>
+          <attvalue for="número" value="47"></attvalue>
+          <attvalue for="bairro" value="SE"></attvalue>
+          <attvalue for="cep" value="01512020"></attvalue>
+          <attvalue for="uf" value="SP"></attvalue>
+          <attvalue for="município" value="SÃO PAULO"></attvalue>
+          <attvalue for="map_link" value="https://www.google.com/maps/search/01512020,+RUA+HELENA+ZERRENER,+47,+SE"></attvalue>
+          <attvalue for="tipo de relacao" value="empresa onde investigado ou familiar e socio"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="484.7523" y="-1208.073"></viz:position>
+        <viz:color r="0" g="2" b="219"></viz:color>
       </node>
       <node id="67677203000198">
         <attvalues>
@@ -700,245 +691,220 @@
           <attvalue for="tipo de relacao" value="empresa onde e empregado o investigado ou um dos seus socios"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-227.50473" y="311.21445"></viz:position>
-        <viz:color r="53" g="36" b="255"></viz:color>
+        <viz:position x="-383.1793" y="1009.36206"></viz:position>
+        <viz:color r="66" g="68" b="255"></viz:color>
       </node>
       <node id="_id_149521997">
         <attvalues></attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="65.59046" y="327.9929"></viz:position>
+        <viz:position x="-346.39624" y="639.4409"></viz:position>
         <viz:color r="128" g="107" b="104"></viz:color>
       </node>
     </nodes>
     <edges>
-      <edge id="0" source="O" target="09391110800" label="investigados">
-        <attvalues>
-          <attvalue for="tipo de relacao" value="investigados"></attvalue>
-        </attvalues>
-      </edge>
-      <edge id="1" source="O" target="12726678807" label="investigados">
-        <attvalues>
-          <attvalue for="tipo de relacao" value="investigados"></attvalue>
-        </attvalues>
-      </edge>
-      <edge id="2" source="O" target="07345004325" label="investigados">
-        <attvalues>
-          <attvalue for="tipo de relacao" value="investigados"></attvalue>
-        </attvalues>
-      </edge>
-      <edge id="3" source="O" target="36673944897" label="investigados">
-        <attvalues>
-          <attvalue for="tipo de relacao" value="investigados"></attvalue>
-        </attvalues>
-      </edge>
-      <edge id="4" source="O" target="47052256860" label="investigados">
-        <attvalues>
-          <attvalue for="tipo de relacao" value="investigados"></attvalue>
-        </attvalues>
-      </edge>
-      <edge id="5" source="O" target="07345014398" label="investigados">
-        <attvalues>
-          <attvalue for="tipo de relacao" value="investigados"></attvalue>
-        </attvalues>
-      </edge>
-      <edge id="6" source="O" target="37924151869" label="investigados">
-        <attvalues>
-          <attvalue for="tipo de relacao" value="investigados"></attvalue>
-        </attvalues>
-      </edge>
-      <edge id="7" source="O" target="31259730824" label="investigados">
-        <attvalues>
-          <attvalue for="tipo de relacao" value="investigados"></attvalue>
-        </attvalues>
-      </edge>
-      <edge id="8" source="O" target="07002433300" label="investigados">
-        <attvalues>
-          <attvalue for="tipo de relacao" value="investigados"></attvalue>
-        </attvalues>
-      </edge>
-      <edge id="9" source="O" target="18747433818" label="investigados">
-        <attvalues>
-          <attvalue for="tipo de relacao" value="investigados"></attvalue>
-        </attvalues>
-      </edge>
-      <edge id="10" source="O" target="27762086854" label="investigados">
-        <attvalues>
-          <attvalue for="tipo de relacao" value="investigados"></attvalue>
-        </attvalues>
-      </edge>
-      <edge id="11" source="O" target="43128442835" label="investigados">
-        <attvalues>
-          <attvalue for="tipo de relacao" value="investigados"></attvalue>
-        </attvalues>
-      </edge>
-      <edge id="12" source="O" target="45010207842" label="investigados">
-        <attvalues>
-          <attvalue for="tipo de relacao" value="investigados"></attvalue>
-        </attvalues>
-      </edge>
-      <edge id="13" source="O" target="08350038683" label="investigados">
-        <attvalues>
-          <attvalue for="tipo de relacao" value="investigados"></attvalue>
-        </attvalues>
-      </edge>
-      <edge id="14" source="O" target="46860755806" label="investigados">
-        <attvalues>
-          <attvalue for="tipo de relacao" value="investigados"></attvalue>
-        </attvalues>
-      </edge>
-      <edge id="15" source="O" target="42726787878" label="investigados">
-        <attvalues>
-          <attvalue for="tipo de relacao" value="investigados"></attvalue>
-        </attvalues>
-      </edge>
-      <edge id="16" source="O" target="34440129854" label="investigados">
-        <attvalues>
-          <attvalue for="tipo de relacao" value="investigados"></attvalue>
-        </attvalues>
-      </edge>
-      <edge id="17" source="O" target="35662881871" label="investigados">
-        <attvalues>
-          <attvalue for="tipo de relacao" value="investigados"></attvalue>
-        </attvalues>
-      </edge>
-      <edge id="18" source="12726678807" target="06259677000125" label="socio de">
+      <edge id="0" source="27762086854" target="21279234000190">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="19" source="27762086854" target="21279234000190" label="socio de">
+      <edge id="1" source="27762086854" target="22861933000106">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="20" source="27762086854" target="22861933000106" label="socio de">
+      <edge id="2" source="35662881871" target="17005944000154">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="21" source="35662881871" target="17005944000154" label="socio de">
+      <edge id="3" source="08350038683" target="22679361000149">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="22" source="42726787878" target="17005944000154" label="socio de">
+      <edge id="4" source="12726678807" target="06259677000125">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="23" source="08350038683" target="22679361000149" label="socio de">
+      <edge id="5" source="42726787878" target="17005944000154">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="24" source="06259677000125" target="12726678807" label="socio de">
+      <edge id="6" source="21279234000190" target="27762086854">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="25" source="21279234000190" target="27762086854" label="socio de">
+      <edge id="7" source="22861933000106" target="27762086854">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="26" source="22861933000106" target="27762086854" label="socio de">
+      <edge id="8" source="17005944000154" target="35662881871">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="27" source="17005944000154" target="35662881871" label="socio de">
+      <edge id="9" source="17005944000154" target="42726787878">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="28" source="17005944000154" target="42726787878" label="socio de">
+      <edge id="10" source="22679361000149" target="08350038683">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="31" source="22679361000149" target="08350038683" label="socio de">
+      <edge id="11" source="06259677000125" target="12726678807">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="42" source="34440129854" target="67677203000198" label="funcionario de">
+      <edge id="20" source="34440129854" target="67677203000198">
         <attvalues>
           <attvalue for="tipo de relacao" value="funcionario de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="43" source="67677203000198" target="07742237822" label="socio de">
+      <edge id="21" source="67677203000198" target="07742237822">
         <attvalues>
           <attvalue for="tipo de relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="44" source="22861933000106" target="04040205855" label="empregador de">
+      <edge id="22" source="06259677000125" target="79243649353">
         <attvalues>
           <attvalue for="tipo de relacao" value="empregador de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="45" source="06259677000125" target="32196103829" label="empregador de">
+      <edge id="23" source="06259677000125" target="32196103829">
         <attvalues>
           <attvalue for="tipo de relacao" value="empregador de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="46" source="06259677000125" target="79243649353" label="empregador de">
+      <edge id="24" source="22861933000106" target="04040205855">
         <attvalues>
           <attvalue for="tipo de relacao" value="empregador de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="47" source="06259677000125" target="38527772833" label="empregador de">
+      <edge id="25" source="06259677000125" target="38527772833">
         <attvalues>
           <attvalue for="tipo de relacao" value="empregador de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="48" source="18747433818" target="_id_149521997" label="filho">
+      <edge id="26" source="18747433818" target="_id_149521997">
         <attvalues>
-          <attvalue for="tipo de relacao" value="filho"></attvalue>
+          <attvalue for="tipo de relacao" value="familiar"></attvalue>
         </attvalues>
       </edge>
-      <edge id="49" source="18747433818" target="08350038683" label="filho">
+      <edge id="27" source="18747433818" target="08350038683">
         <attvalues>
-          <attvalue for="tipo de relacao" value="filho"></attvalue>
+          <attvalue for="tipo de relacao" value="familiar"></attvalue>
         </attvalues>
       </edge>
-      <edge id="50" source="18747433818" target="42726787878" label="filho">
+      <edge id="28" source="18747433818" target="42726787878">
         <attvalues>
-          <attvalue for="tipo de relacao" value="filho"></attvalue>
+          <attvalue for="tipo de relacao" value="familiar"></attvalue>
         </attvalues>
       </edge>
-      <edge id="51" source="18747433818" target="_id_111913549" label="pai">
+      <edge id="29" source="18747433818" target="_id_111913549">
         <attvalues>
-          <attvalue for="tipo de relacao" value="pai"></attvalue>
+          <attvalue for="tipo de relacao" value="familiar"></attvalue>
         </attvalues>
       </edge>
-      <edge id="52" source="27762086854" target="_id_149894527" label="irmao">
+      <edge id="30" source="27762086854" target="_id_149894527">
         <attvalues>
-          <attvalue for="tipo de relacao" value="irmao"></attvalue>
+          <attvalue for="tipo de relacao" value="familiar"></attvalue>
         </attvalues>
       </edge>
-      <edge id="53" source="27762086854" target="_id_147065793" label="irmao">
+      <edge id="31" source="27762086854" target="_id_147065793">
         <attvalues>
-          <attvalue for="tipo de relacao" value="irmao"></attvalue>
+          <attvalue for="tipo de relacao" value="familiar"></attvalue>
         </attvalues>
       </edge>
-      <edge id="54" source="27762086854" target="_id_123161885" label="pai">
+      <edge id="32" source="27762086854" target="_id_123161885">
         <attvalues>
-          <attvalue for="tipo de relacao" value="pai"></attvalue>
+          <attvalue for="tipo de relacao" value="familiar"></attvalue>
         </attvalues>
       </edge>
-      <edge id="55" source="35662881871" target="40573584800" label="irmao">
+      <edge id="33" source="35662881871" target="40573584800">
         <attvalues>
-          <attvalue for="tipo de relacao" value="irmao"></attvalue>
+          <attvalue for="tipo de relacao" value="familiar"></attvalue>
         </attvalues>
       </edge>
-      <edge id="56" source="35662881871" target="_id_80105612" label="mae">
+      <edge id="34" source="35662881871" target="_id_80105612">
         <attvalues>
-          <attvalue for="tipo de relacao" value="mae"></attvalue>
+          <attvalue for="tipo de relacao" value="familiar"></attvalue>
         </attvalues>
       </edge>
-      <edge id="57" source="36673944897" target="26644679803" label="mae">
+      <edge id="35" source="36673944897" target="26644679803">
         <attvalues>
-          <attvalue for="tipo de relacao" value="mae"></attvalue>
+          <attvalue for="tipo de relacao" value="familiar"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="43" source="09391110800" target="12726678807">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="COMPANHEIRA"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="44" source="09391110800" target="07345004325">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="FILHA"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="45" source="09391110800" target="36673944897">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="FILHA"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="46" source="09391110800" target="47052256860">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="FILHO"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="47" source="09391110800" target="07345014398">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="FILHO"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="48" source="09391110800" target="37924151869">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="IRMA"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="49" source="09391110800" target="31259730824">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="IRMAO"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="50" source="09391110800" target="07002433300">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="ENTEADA"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="51" source="18747433818" target="27762086854">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="ESPOSA"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="52" source="18747433818" target="43128442835">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="FILHA"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="53" source="18747433818" target="45010207842">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="FILHA"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="55" source="18747433818" target="46860755806">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="FILHA"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="57" source="18747433818" target="34440129854">
+        <attvalues>
+          <attvalue for="tipo de relacao" value="FILHO"></attvalue>
         </attvalues>
       </edge>
     </edges>
