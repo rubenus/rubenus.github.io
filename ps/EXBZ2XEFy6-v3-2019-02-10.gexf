@@ -53,6 +53,7 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="378.2922" y="-863.1193"></viz:position>
+        <viz:color r="245" g="15" b="0"></viz:color>
       </node>
       <node id="12726678807">
         <attvalues>
@@ -69,6 +70,7 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="222.63937" y="-925.9577"></viz:position>
+        <viz:color r="245" g="15" b="0"></viz:color>
       </node>
       <node id="07345004325">
         <attvalues>
@@ -85,6 +87,7 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="314.6185" y="-797.3"></viz:position>
+        <viz:color r="245" g="15" b="0"></viz:color>
       </node>
       <node id="36673944897">
         <attvalues>
@@ -101,6 +104,7 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="503.7434" y="-940.04095"></viz:position>
+        <viz:color r="245" g="15" b="0"></viz:color>
       </node>
       <node id="47052256860">
         <attvalues>
@@ -117,6 +121,7 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="369.31534" y="-744.64923"></viz:position>
+        <viz:color r="245" g="15" b="0"></viz:color>
       </node>
       <node id="07345014398">
         <attvalues>
@@ -133,6 +138,7 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="422.52863" y="-936.8018"></viz:position>
+        <viz:color r="245" g="15" b="0"></viz:color>
       </node>
       <node id="37924151869">
         <attvalues>
@@ -149,6 +155,7 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="439.3424" y="-785.4722"></viz:position>
+        <viz:color r="245" g="15" b="0"></viz:color>
       </node>
       <node id="31259730824">
         <attvalues>
@@ -165,6 +172,7 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="342.77832" y="-935.6712"></viz:position>
+        <viz:color r="245" g="15" b="0"></viz:color>
       </node>
       <node id="07002433300">
         <attvalues>
@@ -181,6 +189,7 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="474.14377" y="-852.76227"></viz:position>
+        <viz:color r="245" g="15" b="0"></viz:color>
       </node>
       <node id="18747433818">
         <attvalues>
@@ -197,6 +206,7 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="-161.59032" y="810.55334"></viz:position>
+        <viz:color r="245" g="15" b="0"></viz:color>
       </node>
       <node id="27762086854">
         <attvalues>
@@ -213,6 +223,7 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="-93.78869" y="613.6856"></viz:position>
+        <viz:color r="245" g="15" b="0"></viz:color>
       </node>
       <node id="43128442835">
         <attvalues>
@@ -229,6 +240,7 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="-93.5641" y="788.4032"></viz:position>
+        <viz:color r="245" g="15" b="0"></viz:color>
       </node>
       <node id="45010207842">
         <attvalues>
@@ -245,6 +257,7 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="-233.36769" y="888.1757"></viz:position>
+        <viz:color r="245" g="15" b="0"></viz:color>
       </node>
       <node id="08350038683">
         <attvalues>
@@ -262,6 +275,7 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="-155.83157" y="963.17126"></viz:position>
+        <viz:color r="245" g="15" b="0"></viz:color>
       </node>
       <node id="46860755806">
         <attvalues>
@@ -278,6 +292,7 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="-88.228" y="874.23785"></viz:position>
+        <viz:color r="245" g="15" b="0"></viz:color>
       </node>
       <node id="42726787878">
         <attvalues>
@@ -294,6 +309,7 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="-353.78873" y="772.5813"></viz:position>
+        <viz:color r="245" g="15" b="0"></viz:color>
       </node>
       <node id="34440129854">
         <attvalues>
@@ -310,6 +326,7 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="6.0017695" y="842.49677"></viz:position>
+        <viz:color r="245" g="15" b="0"></viz:color>
       </node>
       <node id="35662881871">
         <attvalues>
@@ -326,6 +343,7 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="-585.0703" y="733.02637"></viz:position>
+        <viz:color r="245" g="15" b="0"></viz:color>
       </node>
       <node id="_id_111913549">
         <attvalues>
@@ -342,6 +360,7 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="-159.43303" y="891.87085"></viz:position>
+        <viz:color r="255" g="177" b="26"></viz:color>
       </node>
       <node id="_id_149894527">
         <attvalues>
@@ -358,6 +377,7 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="4.904097" y="602.32983"></viz:position>
+        <viz:color r="255" g="177" b="26"></viz:color>
       </node>
       <node id="_id_147065793">
         <attvalues>
@@ -374,6 +394,7 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="-155.45155" y="528.4982"></viz:position>
+        <viz:color r="255" g="177" b="26"></viz:color>
       </node>
       <node id="_id_123161885">
         <attvalues>
@@ -390,6 +411,7 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="-9.267245" y="536.55255"></viz:position>
+        <viz:color r="255" g="177" b="26"></viz:color>
       </node>
       <node id="40573584800">
         <attvalues>
@@ -406,6 +428,7 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="-682.0102" y="765.9268"></viz:position>
+        <viz:color r="255" g="177" b="26"></viz:color>
       </node>
       <node id="_id_80105612">
         <attvalues>
@@ -422,6 +445,7 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="-670.4209" y="678.83997"></viz:position>
+        <viz:color r="255" g="177" b="26"></viz:color>
       </node>
       <node id="26644679803">
         <attvalues>
@@ -439,6 +463,7 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="590.33936" y="-998.0806"></viz:position>
+        <viz:color r="255" g="177" b="26"></viz:color>
       </node>
       <node id="07742237822">
         <attvalues>
@@ -455,6 +480,7 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="236.6456" y="909.3172"></viz:position>
+        <viz:color r="255" g="253" b="5"></viz:color>
       </node>
       <node id="32196103829">
         <attvalues>
@@ -471,6 +497,7 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="30.853893" y="-977.36334"></viz:position>
+        <viz:color r="24" g="219" b="0"></viz:color>
       </node>
       <node id="04040205855">
         <attvalues>
@@ -488,6 +515,7 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="-47.703953" y="408.45404"></viz:position>
+        <viz:color r="24" g="219" b="0"></viz:color>
       </node>
       <node id="38527772833">
         <attvalues>
@@ -505,6 +533,7 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="101.76389" y="-1051.3013"></viz:position>
+        <viz:color r="24" g="219" b="0"></viz:color>
       </node>
       <node id="79243649353">
         <attvalues>
@@ -521,6 +550,7 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="47.42207" y="-1055.2473"></viz:position>
+        <viz:color r="24" g="219" b="0"></viz:color>
       </node>
       <node id="21279234000190">
         <attvalues>
@@ -544,6 +574,7 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="-146.19745" y="593.3829"></viz:position>
+        <viz:color r="4" g="0" b="204"></viz:color>
       </node>
       <node id="22861933000106">
         <attvalues>
@@ -568,6 +599,7 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="-73.096825" y="513.5722"></viz:position>
+        <viz:color r="4" g="0" b="204"></viz:color>
       </node>
       <node id="17005944000154">
         <attvalues>
@@ -591,6 +623,7 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="-475.40643" y="749.20886"></viz:position>
+        <viz:color r="4" g="0" b="204"></viz:color>
       </node>
       <node id="22679361000149">
         <attvalues>
@@ -612,6 +645,7 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="-154.7984" y="1043.9432"></viz:position>
+        <viz:color r="4" g="0" b="204"></viz:color>
       </node>
       <node id="06259677000125">
         <attvalues>
@@ -635,6 +669,7 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="124.69166" y="-979.61383"></viz:position>
+        <viz:color r="4" g="0" b="204"></viz:color>
       </node>
       <node id="67677203000198">
         <attvalues>
@@ -657,11 +692,13 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="139.52652" y="876.04364"></viz:position>
+        <viz:color r="92" g="103" b="255"></viz:color>
       </node>
       <node id="_id_149521997">
         <attvalues></attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="-252.03429" y="816.64233"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
       </node>
     </nodes>
     <edges>
