@@ -1,123 +1,16 @@
-{
-	"name": "02343867461",
-	"relation": "investigado",
-	"parent": "",
-	"children": [{
-			"name": "10419882000188",
-			"relation": "socio de",
-			"parent": "02343867461",
-			"children": [{
-					"name": "19639899453",
-					"relation": "socio de",
-					"parent": "10419882000188"
-				},
-				{
-					"name": "03473904473",
-					"relation": "socio de",
-					"parent": "10419882000188"
-				},
-				{
-					"name": "24675440444",
-					"relation": "socio de",
-					"parent": "10419882000188"
-				},
-				{
-					"name": "02445908426",
-					"relation": "socio de",
-					"parent": "10419882000188"
-				},
-				{
-					"name": "02443247430",
-					"relation": "socio de",
-					"parent": "10419882000188"
-				},
-				{
-					"name": "04707629423",
-					"relation": "socio de",
-					"parent": "10419882000188"
-				},
-				{
-					"name": "08234795449",
-					"relation": "socio de",
-					"parent": "10419882000188"
-				},
-				{
-					"name": "04822970426",
-					"relation": "socio de",
-					"parent": "10419882000188"
-				},
-				{
-					"name": "05404036443",
-					"relation": "socio de",
-					"parent": "10419882000188"
-				},
-				{
-					"name": "02120519463",
-					"relation": "socio de",
-					"parent": "10419882000188"
-				},
-				{
-					"name": "09407537404",
-					"relation": "socio de",
-					"parent": "10419882000188"
-				},
-				{
-					"name": "03378687436",
-					"relation": "socio de",
-					"parent": "10419882000188"
-				},
-				{
-					"name": "19662459472",
-					"relation": "socio de",
-					"parent": "10419882000188"
-				},
-				{
-					"name": "06962068468",
-					"relation": "socio de",
-					"parent": "10419882000188"
-				},
-				{
-					"name": "00759067406",
-					"relation": "socio de",
-					"parent": "10419882000188"
-				},
-				{
-					"name": "00119954400",
-					"relation": "socio de",
-					"parent": "10419882000188"
-				}
-			]
-		},
-		{
-			"name": "19179818000141",
-			"relation": "socio de",
-			"parent": "02343867461",
-			"children": [{
-				"name": "09190732472",
-				"relation": "socio de",
-				"parent": "19179818000141"
-			}]
-		},
-		{
-			"name": "04574638486",
-			"relation": "irmao",
-			"parent": "02343867461",
-			"children": [{
-					"name": "04095869000118",
-					"relation": "socio de",
-					"parent": "04574638486"
-				},
-				{
-					"name": "21854744000143",
-					"relation": "socio de",
-					"parent": "04574638486"
-				}
-			]
-		},
-		{
-			"name": "19804288591",
-			"relation": "mae",
-			"parent": "02343867461"
-		}
-	]
+{"parent": "null", "name": "Ruben Interian", "edge_name": "null", "children":
+  [
+  {"parent": "Ruben Interian", "name": "Familiar1", "edge_name": "Familiar1", "children":
+  [
+    {"parent": "Familiar1", "name": "EmpresaFam1", "edge_name": "EmpresaFam1"},
+	{"parent": "Familiar1", "name": "EmpresaFam2", "edge_name": "EmpresaFam2"}
+  ]},
+  {"parent": "Ruben Interian", "name": "EmpresaRuben1", "edge_name": "Empresa1", "children":
+  [
+    {"parent": "EmpresaRuben1", "name": "Socio1", "edge_name": "Socio1"},
+	{"parent": "EmpresaRuben1", "name": "Socio2", "edge_name": "Socio2"},
+	{"parent": "EmpresaRuben1", "name": "Socio3", "edge_name": "Socio3"}
+  ]},
+  {"parent": "Ruben Interian", "name": "EmpresaRuben2", "edge_name": "Empresa2", "children": []}
+  ]
 }
