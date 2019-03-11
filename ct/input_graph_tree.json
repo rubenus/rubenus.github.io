@@ -1,11 +1,16 @@
-{"parent": "null", "name": "NodeLvl0-0", "edge_name": "null", "children":
+{"parent": "null", "name": "Ruben Interian", "edge_name": "null", "children":
   [
-  {"parent": "NodeLvl0-0", "name": "NodeLvl1-10", "edge_name": "NodeLvl1-11", "children": []},
-  {"parent": "NodeLvl0-0", "name": "NodeLvl1-11", "edge_name": "NodeLvl1-11", "children":
+  {"parent": "Ruben Interian", "name": "Familiar1", "edge_name": "Familiar1", "children":
   [
-    {"parent": "NodeLvl1-11", "name": "NodeLvl1-20", "edge_name": "NodeLvl1-20"},
-	{"parent": "NodeLvl1-11", "name": "NodeLvl1-21", "edge_name": "NodeLvl1-21"}
+    {"parent": "Familiar1", "name": "EmpresaFam1", "edge_name": "EmpresaFam1"},
+	{"parent": "Familiar1", "name": "EmpresaFam2", "edge_name": "EmpresaFam2"}
   ]},
-  {"parent": "NodeLvl0-0", "name": "NodeLvl1-12", "edge_name": "NodeLvl1-11", "children": []}
+  {"parent": "Ruben Interian", "name": "EmpresaRuben1", "edge_name": "Empresa1", "children":
+  [
+    {"parent": "EmpresaRuben1", "name": "Socio1", "edge_name": "Socio1"},
+	{"parent": "EmpresaRuben1", "name": "Socio2", "edge_name": "Socio2"},
+	{"parent": "EmpresaRuben1", "name": "Socio3", "edge_name": "Socio3"}
+  ]},
+  {"parent": "Ruben Interian", "name": "EmpresaRuben2", "edge_name": "Empresa2", "children": []}
   ]
 }
