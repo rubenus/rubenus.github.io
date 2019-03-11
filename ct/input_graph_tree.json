@@ -1,10 +1,11 @@
-{"parent": "null", "name": "NodeLvl0-0 (4312)", "edge_name": "null", "children":
+{"parent": "null", "name": "NodeLvl0-0", "edge_name": "null", "children":
   [
-  {"parent": "NodeLvl0-0 (4312)", "name": "NodeLvl1-10 (4171)", "edge_name": "NodeLvl1-11 (4171)", "children": []},
-  {"parent": "NodeLvl0-0 (4312)", "name": "NodeLvl1-11 (4171)", "edge_name": "NodeLvl1-11 (4171)", "children":
+  {"parent": "NodeLvl0-0", "name": "NodeLvl1-10", "edge_name": "NodeLvl1-11", "children": []},
+  {"parent": "NodeLvl0-0", "name": "NodeLvl1-11", "edge_name": "NodeLvl1-11", "children":
   [
-    {"parent": "NodeLvl1-11 (4312)", "name": "NodeLvl1-20 (4171)", "edge_name": "NodeLvl1-20 (4171)"}
+    {"parent": "NodeLvl1-11", "name": "NodeLvl1-20", "edge_name": "NodeLvl1-20"},
+	{"parent": "NodeLvl1-11", "name": "NodeLvl1-21", "edge_name": "NodeLvl1-21"}
   ]},
-  {"parent": "NodeLvl0-0 (4312)", "name": "NodeLvl1-12 (4171)", "edge_name": "NodeLvl1-11 (4171)", "children": []}
+  {"parent": "NodeLvl0-0", "name": "NodeLvl1-12", "edge_name": "NodeLvl1-11", "children": []}
   ]
 }
