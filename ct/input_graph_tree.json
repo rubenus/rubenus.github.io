@@ -5,12 +5,12 @@
     {"parent": "Familiar1", "name": "EmpresaFam1", "edge_name": "Socio de "},
 	{"parent": "Familiar1", "name": "EmpresaFam2", "edge_name": "Socio de "}
   ]},
-  {"parent": "Ruben Interian", "name": "EmpresaRuben1", "Socio de ": "Empresa1", "children":
+  {"parent": "Ruben Interian", "name": "EmpresaRuben1", "edge_name": "Socio de ", "children":
   [
     {"parent": "EmpresaRuben1", "name": "Socio1", "edge_name": "Tem como socio a "},
 	{"parent": "EmpresaRuben1", "name": "Socio2", "edge_name": "Tem como socio a "},
 	{"parent": "EmpresaRuben1", "name": "Socio3", "edge_name": "Tem como socio a "}
   ]},
-  {"parent": "Ruben Interian", "name": "EmpresaRuben2", "Socio de ": "Empresa2", "children": []}
+  {"parent": "Ruben Interian", "name": "EmpresaRuben2", "edge_name": "Socio de ", "children": []}
   ]
 }
