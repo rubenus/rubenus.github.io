@@ -1,21 +1,22 @@
+[
 {
-	"id": "04337825444",
+	"id_prop": "04337825444",
 	"name": "ANALUISA DE ASSIS RAMALHO ARAÚJO",
 	"relation": "investigado",
 	"parent": "",
 	"children": [{
-			"id": "21840249000185",
+			"id_prop": "21840249000185",
 			"name": "GASTRONOMIA NORDESTE COMERCIO E SERVICOS DE ALIMENTOS LTDA  ME",
 			"relation": "socio de",
 			"parent": "04337825444",
 			"children": [{
-					"id": "07903382462",
+					"id_prop": "07903382462",
 					"name": "MAX MENDONCA MEIRA JUNIOR",
 					"relation": "socio de",
 					"parent": "21840249000185"
 				},
 				{
-					"id": "70708271138",
+					"id_prop": "70708271138",
 					"name": "JOSE MANUEL PEREIRA SIMOES",
 					"relation": "socio de",
 					"parent": "21840249000185"
@@ -23,78 +24,78 @@
 			]
 		},
 		{
-			"id": "03645604448",
+			"id_prop": "03645604448",
 			"name": "ALEX SIDNEY DE ASSIS RAMALHO",
 			"relation": "irmao",
 			"parent": "04337825444"
 		},
 		{
-			"id": "05287628420",
+			"id_prop": "05287628420",
 			"name": "ARTHUR CESAR DE ASSIS RAMALHO",
 			"relation": "irmao",
 			"parent": "04337825444"
 		},
 		{
-			"id": "18160948468",
+			"id_prop": "18160948468",
 			"name": "ANA JUVINA DE ASSIS RAMALHO",
 			"relation": "mae",
 			"parent": "04337825444",
 			"children": [{
-				"id": "08695736000133",
+				"id_prop": "08695736000133",
 				"name": "CIE PB CENTRO INTEGRADO DE EDUCACAO LTDA",
 				"relation": "socio de",
 				"parent": "18160948468"
 			}]
 		},
 		{
-			"id": "07260784415",
+			"id_prop": "07260784415",
 			"name": "SYDNEY DE ALMEIDA RAMALHO",
 			"relation": "pai",
 			"parent": "04337825444",
 			"children": [{
-					"id": "08269623000176",
+					"id_prop": "08269623000176",
 					"name": "BADINA MODAS LTDA ME",
 					"relation": "socio de",
 					"parent": "07260784415"
 				},
 				{
-					"id": "13194585487",
+					"id_prop": "13194585487",
 					"name": "ALINE MARIA DE ALMEIDA RAMALHO",
 					"relation": "irmao",
 					"parent": "07260784415"
 				},
 				{
-					"id": "16144430415",
+					"id_prop": "16144430415",
 					"name": "FRANKLIN DE ALMEIDA RAMALHO",
 					"relation": "irmao",
 					"parent": "07260784415"
 				},
 				{
-					"id": "10930701453",
+					"id_prop": "10930701453",
 					"name": "GILVANE DE ALMEIDA RAMALHO ARAUJO",
 					"relation": "irmao",
 					"parent": "07260784415"
 				},
 				{
-					"id": "28158040420",
+					"id_prop": "28158040420",
 					"name": "GIUSEPE DE ALMEIDA RAMALHO",
 					"relation": "irmao",
 					"parent": "07260784415"
 				},
 				{
-					"id": "18181236491",
+					"id_prop": "18181236491",
 					"name": "NANCI RAMALHO DE ASSIS",
 					"relation": "irmao",
 					"parent": "07260784415"
 				},
 				{
-					"id": "28397681434",
+					"id_prop": "28397681434",
 					"name": "VALMIR DE ALMEIDA RAMALHO",
 					"relation": "irmao",
 					"parent": "07260784415"
 				},
 				{
-					"id": "75382946434",
+					"id_prop": "75382946434",
 					"name": "JOSEFA DE ALMEIDA RAMALHO",
 					"relation": "mae",
 					"parent": "07260784415"
@@ -103,3 +104,4 @@
 		}
 	]
 }
+]
