@@ -1,0 +1,1524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2020-09-14">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="nome" title="nome" type="string"></attribute>
+      <attribute id="tipo" title="tipo" type="integer"></attribute>
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="relation" title="relation" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="01939360200" label="ALBERTINO CARDOSO DA SILVA">
+        <attvalues>
+          <attvalue for="nome" value="ALBERTINO CARDOSO DA SILVA"></attvalue>
+          <attvalue for="tipo" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2080.4653" y="841.14105"></viz:position>
+        <viz:color r="22" g="0" b="204"></viz:color>
+      </node>
+      <node id="66373530000" label="MANOEL CORDEIRO DE ALMEIDA">
+        <attvalues>
+          <attvalue for="nome" value="MANOEL CORDEIRO DE ALMEIDA"></attvalue>
+          <attvalue for="tipo" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="279.9794" y="297.87326"></viz:position>
+        <viz:color r="22" g="0" b="204"></viz:color>
+      </node>
+      <node id="11974958191" label="IVALDO PERDIGAO FREIRE JUNIOR">
+        <attvalues>
+          <attvalue for="nome" value="IVALDO PERDIGAO FREIRE JUNIOR"></attvalue>
+          <attvalue for="tipo" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="231.13498" y="1510.9229"></viz:position>
+        <viz:color r="22" g="0" b="204"></viz:color>
+      </node>
+      <node id="08009350206" label="EDMAR FERREIRA DE SENA">
+        <attvalues>
+          <attvalue for="nome" value="EDMAR FERREIRA DE SENA"></attvalue>
+          <attvalue for="tipo" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1847.4006" y="217.51839"></viz:position>
+        <viz:color r="22" g="0" b="204"></viz:color>
+      </node>
+      <node id="93973055220" label="ROMULO SANTOS DOS SANTOS">
+        <attvalues>
+          <attvalue for="nome" value="ROMULO SANTOS DOS SANTOS"></attvalue>
+          <attvalue for="tipo" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1841.4255" y="-1682.8176"></viz:position>
+        <viz:color r="255" g="198" b="71"></viz:color>
+      </node>
+      <node id="88004945104" label="MARIA CONCEICAO CAVALCANTE">
+        <attvalues>
+          <attvalue for="nome" value="MARIA CONCEICAO CAVALCANTE"></attvalue>
+          <attvalue for="tipo" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-382.59286" y="765.22864"></viz:position>
+        <viz:color r="22" g="0" b="204"></viz:color>
+      </node>
+      <node id="13976522848" label="NILSON JOSE ARRAIS DA SILVA">
+        <attvalues>
+          <attvalue for="nome" value="NILSON JOSE ARRAIS DA SILVA"></attvalue>
+          <attvalue for="tipo" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-582.1792" y="1102.2722"></viz:position>
+        <viz:color r="22" g="0" b="204"></viz:color>
+      </node>
+      <node id="06674135100" label="PETRONIO DAMASCENO CASTELO BRANCO">
+        <attvalues>
+          <attvalue for="nome" value="PETRONIO DAMASCENO CASTELO BRANCO"></attvalue>
+          <attvalue for="tipo" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="478.11353" y="1210.9314"></viz:position>
+        <viz:color r="22" g="0" b="204"></viz:color>
+      </node>
+      <node id="72801689220" label="JOAO BATISTA NETO">
+        <attvalues>
+          <attvalue for="nome" value="JOAO BATISTA NETO"></attvalue>
+          <attvalue for="tipo" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1638.6458" y="-106.56646"></viz:position>
+        <viz:color r="22" g="0" b="204"></viz:color>
+      </node>
+      <node id="00028392108" label="EDNEY SIQUEIRA DE OLIVEIRA">
+        <attvalues>
+          <attvalue for="nome" value="EDNEY SIQUEIRA DE OLIVEIRA"></attvalue>
+          <attvalue for="tipo" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="471.67975" y="177.23872"></viz:position>
+        <viz:color r="22" g="0" b="204"></viz:color>
+      </node>
+      <node id="64127133015" label="DANIEL CORDEIRO DE ALMEIDA">
+        <attvalues>
+          <attvalue for="nome" value="DANIEL CORDEIRO DE ALMEIDA"></attvalue>
+          <attvalue for="tipo" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="259.53198" y="93.30434"></viz:position>
+        <viz:color r="22" g="0" b="204"></viz:color>
+      </node>
+      <node id="49489348104" label="KATIA SILENE URBANO">
+        <attvalues>
+          <attvalue for="nome" value="KATIA SILENE URBANO"></attvalue>
+          <attvalue for="tipo" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="145.75061" y="1119.198"></viz:position>
+        <viz:color r="22" g="0" b="204"></viz:color>
+      </node>
+      <node id="94136602200" label="MAX RONALDO SILVA SANTOS JUNIOR">
+        <attvalues>
+          <attvalue for="nome" value="MAX RONALDO SILVA SANTOS JUNIOR"></attvalue>
+          <attvalue for="tipo" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1955.5614" y="-1789.9235"></viz:position>
+        <viz:color r="255" g="198" b="71"></viz:color>
+      </node>
+      <node id="34431993134" label="ARI VIEIRA GONCALVES">
+        <attvalues>
+          <attvalue for="nome" value="ARI VIEIRA GONCALVES"></attvalue>
+          <attvalue for="tipo" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-174.94765" y="1173.0935"></viz:position>
+        <viz:color r="22" g="0" b="204"></viz:color>
+      </node>
+      <node id="71000879100" label="OZIRES JOSE DE SOUZA">
+        <attvalues>
+          <attvalue for="nome" value="OZIRES JOSE DE SOUZA"></attvalue>
+          <attvalue for="tipo" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2845.491" y="331.58737"></viz:position>
+        <viz:color r="255" g="198" b="71"></viz:color>
+      </node>
+      <node id="18302106100" label="JOSE MARIA VIEIRA GONCALVES">
+        <attvalues>
+          <attvalue for="nome" value="JOSE MARIA VIEIRA GONCALVES"></attvalue>
+          <attvalue for="tipo" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-168.36812" y="1283.4594"></viz:position>
+        <viz:color r="22" g="0" b="204"></viz:color>
+      </node>
+      <node id="51352354349" label="EGBERTO SILVA CORREA">
+        <attvalues>
+          <attvalue for="nome" value="EGBERTO SILVA CORREA"></attvalue>
+          <attvalue for="tipo" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1716.3402" y="-1767.2234"></viz:position>
+        <viz:color r="22" g="0" b="204"></viz:color>
+      </node>
+      <node id="25852272353" label="VIRGINIA LUCIA MACHADO BRAGA MENDES">
+        <attvalues>
+          <attvalue for="nome" value="VIRGINIA LUCIA MACHADO BRAGA MENDES"></attvalue>
+          <attvalue for="tipo" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1780.8018" y="-2034.1354"></viz:position>
+        <viz:color r="22" g="0" b="204"></viz:color>
+      </node>
+      <node id="14447983168" label="CELMA BOTELHO RAMOS DE MELLO">
+        <attvalues>
+          <attvalue for="nome" value="CELMA BOTELHO RAMOS DE MELLO"></attvalue>
+          <attvalue for="tipo" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="227.798" y="1035.13"></viz:position>
+        <viz:color r="22" g="0" b="204"></viz:color>
+      </node>
+      <node id="11698829191" label="DOMINGOS JOSE ARRAIS DA SILVA">
+        <attvalues>
+          <attvalue for="nome" value="DOMINGOS JOSE ARRAIS DA SILVA"></attvalue>
+          <attvalue for="tipo" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-571.7167" y="1166.6947"></viz:position>
+        <viz:color r="22" g="0" b="204"></viz:color>
+      </node>
+      <node id="40191850268" label="MARCIA CRISTINA DE SOUZA">
+        <attvalues>
+          <attvalue for="nome" value="MARCIA CRISTINA DE SOUZA"></attvalue>
+          <attvalue for="tipo" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2079.6685" y="-1763.2954"></viz:position>
+        <viz:color r="255" g="198" b="71"></viz:color>
+      </node>
+      <node id="12091952168" label="LUIZ ROMILDO DE MELLO">
+        <attvalues>
+          <attvalue for="nome" value="LUIZ ROMILDO DE MELLO"></attvalue>
+          <attvalue for="tipo" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="129.28345" y="1073.9174"></viz:position>
+        <viz:color r="22" g="0" b="204"></viz:color>
+      </node>
+      <node id="12770078100" label="HERBERT DAMASCENO CASTELO BRANCO">
+        <attvalues>
+          <attvalue for="nome" value="HERBERT DAMASCENO CASTELO BRANCO"></attvalue>
+          <attvalue for="tipo" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="353.437" y="1256.3771"></viz:position>
+        <viz:color r="22" g="0" b="204"></viz:color>
+      </node>
+      <node id="53909488153" label="ROBERTO TABILE DE MELLO">
+        <attvalues>
+          <attvalue for="nome" value="ROBERTO TABILE DE MELLO"></attvalue>
+          <attvalue for="tipo" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="116.452965" y="1251.7495"></viz:position>
+        <viz:color r="22" g="0" b="204"></viz:color>
+      </node>
+      <node id="11629398349" label="JUDAS TADEU CASTRO DE OLIVEIRA">
+        <attvalues>
+          <attvalue for="nome" value="JUDAS TADEU CASTRO DE OLIVEIRA"></attvalue>
+          <attvalue for="tipo" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1931.965" y="-1897.3494"></viz:position>
+        <viz:color r="22" g="0" b="204"></viz:color>
+      </node>
+      <node id="23595051149" label="LUDUGERO AMORIM CAVALCANTE">
+        <attvalues>
+          <attvalue for="nome" value="LUDUGERO AMORIM CAVALCANTE"></attvalue>
+          <attvalue for="tipo" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-234.21432" y="892.05505"></viz:position>
+        <viz:color r="22" g="0" b="204"></viz:color>
+      </node>
+      <node id="18997481215" label="MAX RONALDO SILVA SANTOS">
+        <attvalues>
+          <attvalue for="nome" value="MAX RONALDO SILVA SANTOS"></attvalue>
+          <attvalue for="tipo" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2034.2346" y="-1656.9297"></viz:position>
+        <viz:color r="255" g="198" b="71"></viz:color>
+      </node>
+      <node id="69669511100" label="LUIZ FILIPE URBANO DE MELLO">
+        <attvalues>
+          <attvalue for="nome" value="LUIZ FILIPE URBANO DE MELLO"></attvalue>
+          <attvalue for="tipo" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="70.0459" y="984.459"></viz:position>
+        <viz:color r="22" g="0" b="204"></viz:color>
+      </node>
+      <node id="14593823153" label="DIVANI CAETANO DE FARIA">
+        <attvalues>
+          <attvalue for="nome" value="DIVANI CAETANO DE FARIA"></attvalue>
+          <attvalue for="tipo" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="381.3127" y="1316.7231"></viz:position>
+        <viz:color r="22" g="0" b="204"></viz:color>
+      </node>
+      <node id="19453329304" label="MANOEL JUAREZ PARENTE MENDES">
+        <attvalues>
+          <attvalue for="nome" value="MANOEL JUAREZ PARENTE MENDES"></attvalue>
+          <attvalue for="tipo" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1754.5052" y="-2100.4785"></viz:position>
+        <viz:color r="22" g="0" b="204"></viz:color>
+      </node>
+      <node id="82577099134" label="CRISTIANE VALERIA SIQUEIRA DE OLIVEIRA">
+        <attvalues>
+          <attvalue for="nome" value="CRISTIANE VALERIA SIQUEIRA DE OLIVEIRA"></attvalue>
+          <attvalue for="tipo" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="528.50885" y="213.5287"></viz:position>
+        <viz:color r="22" g="0" b="204"></viz:color>
+      </node>
+      <node id="02586136101" label="LUIZ HENRIQUE RAMOS DE MELLO">
+        <attvalues>
+          <attvalue for="nome" value="LUIZ HENRIQUE RAMOS DE MELLO"></attvalue>
+          <attvalue for="tipo" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="197.33809" y="891.5634"></viz:position>
+        <viz:color r="22" g="0" b="204"></viz:color>
+      </node>
+      <node id="00744305136" label="ROSILDA JOSE DE SOUSA">
+        <attvalues>
+          <attvalue for="nome" value="ROSILDA JOSE DE SOUSA"></attvalue>
+          <attvalue for="tipo" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2973.8887" y="395.78857"></viz:position>
+        <viz:color r="255" g="198" b="71"></viz:color>
+      </node>
+      <node id="00201142309" label="CICERO EDSON DA SILVA">
+        <attvalues>
+          <attvalue for="nome" value="CICERO EDSON DA SILVA"></attvalue>
+          <attvalue for="tipo" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1594.3137" y="-1964.763"></viz:position>
+        <viz:color r="22" g="0" b="204"></viz:color>
+      </node>
+      <node id="07999704253" label="LUIZ CARLOS PEREIRA DA SILVA">
+        <attvalues>
+          <attvalue for="nome" value="LUIZ CARLOS PEREIRA DA SILVA"></attvalue>
+          <attvalue for="tipo" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2004.8057" y="546.342"></viz:position>
+        <viz:color r="22" g="0" b="204"></viz:color>
+      </node>
+      <node id="02830127226" label="MYLLENA DE SOUZA SANTOS">
+        <attvalues>
+          <attvalue for="nome" value="MYLLENA DE SOUZA SANTOS"></attvalue>
+          <attvalue for="tipo" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1970.6926" y="-1639.5333"></viz:position>
+        <viz:color r="255" g="198" b="71"></viz:color>
+      </node>
+      <node id="85993166134" label="HUMBERTO DE FARIA CASTELO BRANCO">
+        <attvalues>
+          <attvalue for="nome" value="HUMBERTO DE FARIA CASTELO BRANCO"></attvalue>
+          <attvalue for="tipo" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="311.65643" y="1341.9286"></viz:position>
+        <viz:color r="22" g="0" b="204"></viz:color>
+      </node>
+      <node id="24531278372" label="JOSE NILTON ARRAIS DA SILVA">
+        <attvalues>
+          <attvalue for="nome" value="JOSE NILTON ARRAIS DA SILVA"></attvalue>
+          <attvalue for="tipo" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-401.31085" y="1102.2297"></viz:position>
+        <viz:color r="22" g="0" b="204"></viz:color>
+      </node>
+      <node id="91925487172" label="EDIVAN FRANCISCO DE OLIVEIRA">
+        <attvalues>
+          <attvalue for="nome" value="EDIVAN FRANCISCO DE OLIVEIRA"></attvalue>
+          <attvalue for="tipo" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="418.10767" y="326.95264"></viz:position>
+        <viz:color r="22" g="0" b="204"></viz:color>
+      </node>
+      <node id="24497941000140" label="C V S DE OLIVEIRA COMERCIAL E SERVICOS EIRELI - ME">
+        <attvalues>
+          <attvalue for="nome" value="C V S DE OLIVEIRA COMERCIAL E SERVICOS EIRELI - ME"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="559.477" y="105.710915"></viz:position>
+        <viz:color r="255" g="31" b="64"></viz:color>
+      </node>
+      <node id="01649760000197" label="MERIDIONAL ENGENHARIA LTDA  - ME">
+        <attvalues>
+          <attvalue for="nome" value="MERIDIONAL ENGENHARIA LTDA  - ME"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1753.5017" y="-2226.9165"></viz:position>
+        <viz:color r="255" g="31" b="64"></viz:color>
+      </node>
+      <node id="02008084000135" label="GLOBAL COMERCIO DE EQUIPAMENTOS E CONSTRUCOES LTDA - ME">
+        <attvalues>
+          <attvalue for="nome" value="GLOBAL COMERCIO DE EQUIPAMENTOS E CONSTRUCOES LTDA - ME"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-690.7008" y="1154.2789"></viz:position>
+        <viz:color r="255" g="31" b="64"></viz:color>
+      </node>
+      <node id="15188822000115" label="A SETE COMERCIO E SERVICOS EIRELI  - ME">
+        <attvalues>
+          <attvalue for="nome" value="A SETE COMERCIO E SERVICOS EIRELI  - ME"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2703.513" y="311.7199"></viz:position>
+        <viz:color r="255" g="31" b="64"></viz:color>
+      </node>
+      <node id="01590370000199" label="PPK EQUIPAMENTOS LTDA - ME">
+        <attvalues>
+          <attvalue for="nome" value="PPK EQUIPAMENTOS LTDA - ME"></attvalue>
+          <attvalue for="tipo" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-53.13462" y="1046.5597"></viz:position>
+        <viz:color r="255" g="198" b="71"></viz:color>
+      </node>
+      <node id="15833551000103" label="J R MENDES LTDA - ME">
+        <attvalues>
+          <attvalue for="nome" value="J R MENDES LTDA - ME"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1939.4012" y="138.90468"></viz:position>
+        <viz:color r="255" g="31" b="64"></viz:color>
+      </node>
+      <node id="13407975000180" label="ALVES E SILVA COMERCIO E SERVICOS LTDA - EPP">
+        <attvalues>
+          <attvalue for="nome" value="ALVES E SILVA COMERCIO E SERVICOS LTDA - EPP"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1951.0527" y="-1939.7686"></viz:position>
+        <viz:color r="255" g="31" b="64"></viz:color>
+      </node>
+      <node id="13239682000131" label="ARENA PORTO ENGENHARIA EVENTOS E SERVICOS EIRELI - EPP">
+        <attvalues>
+          <attvalue for="nome" value="ARENA PORTO ENGENHARIA EVENTOS E SERVICOS EIRELI - EPP"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1842.0479" y="104.19664"></viz:position>
+        <viz:color r="255" g="31" b="64"></viz:color>
+      </node>
+      <node id="24919086000119" label="LINHA DIRETA COMERCIO DE EQUIPAMENTOS DE SEGURANCA E SERVICOS GERAIS LTDA - EPP">
+        <attvalues>
+          <attvalue for="nome" value="LINHA DIRETA COMERCIO DE EQUIPAMENTOS DE SEGURANCA E SERVICOS GERAIS LTDA - EPP"></attvalue>
+          <attvalue for="tipo" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="336.84064" y="1091.9531"></viz:position>
+        <viz:color r="255" g="198" b="71"></viz:color>
+      </node>
+      <node id="63754048000105" label="RCAMARGO CONSTRUCOES EIRELI - ME">
+        <attvalues>
+          <attvalue for="nome" value="RCAMARGO CONSTRUCOES EIRELI - ME"></attvalue>
+          <attvalue for="tipo" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2014.5907" y="720.6374"></viz:position>
+        <viz:color r="255" g="198" b="71"></viz:color>
+      </node>
+      <node id="34783092000145" label="IMPACTO CONSTRUCOES COMERCIO E SERVICOS LTDA - ME">
+        <attvalues>
+          <attvalue for="nome" value="IMPACTO CONSTRUCOES COMERCIO E SERVICOS LTDA - ME"></attvalue>
+          <attvalue for="tipo" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1924.5721" y="381.34216"></viz:position>
+        <viz:color r="255" g="198" b="71"></viz:color>
+      </node>
+      <node id="08575671000192" label="M C CONSTRUCOES E SERVICOS LTDA - ME">
+        <attvalues>
+          <attvalue for="nome" value="M C CONSTRUCOES E SERVICOS LTDA - ME"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2114.499" y="973.7565"></viz:position>
+        <viz:color r="255" g="31" b="64"></viz:color>
+      </node>
+      <node id="20628902000184" label="CONTHABIL ASSESSORIA EM CONTABILIDADE EIRELI - ME">
+        <attvalues>
+          <attvalue for="nome" value="CONTHABIL ASSESSORIA EM CONTABILIDADE EIRELI - ME"></attvalue>
+          <attvalue for="tipo" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2120.3098" y="-1818.3134"></viz:position>
+        <viz:color r="255" g="198" b="71"></viz:color>
+      </node>
+      <node id="10905759000177" label="J N VIANA FILHO LTDA - ME">
+        <attvalues>
+          <attvalue for="nome" value="J N VIANA FILHO LTDA - ME"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1635.7625" y="-1675.2959"></viz:position>
+        <viz:color r="255" g="31" b="64"></viz:color>
+      </node>
+      <node id="72155948000127" label="TRANSPORTES DE ALUNOS E FUNCIONARIOS SOL NASCENTE LTDA - ME">
+        <attvalues>
+          <attvalue for="nome" value="TRANSPORTES DE ALUNOS E FUNCIONARIOS SOL NASCENTE LTDA - ME"></attvalue>
+          <attvalue for="tipo" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1755.6818" y="-1938.2852"></viz:position>
+        <viz:color r="255" g="198" b="71"></viz:color>
+      </node>
+      <node id="18169729000151" label="CENTAURO COMERCIO DE EQUIPAMENTOS DE SEGURANCA EIRELI  - ME">
+        <attvalues>
+          <attvalue for="nome" value="CENTAURO COMERCIO DE EQUIPAMENTOS DE SEGURANCA EIRELI  - ME"></attvalue>
+          <attvalue for="tipo" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-122.24172" y="1051.9469"></viz:position>
+        <viz:color r="255" g="198" b="71"></viz:color>
+      </node>
+      <node id="14788120000100" label="M E W COMERCIO E SERVICOS EIRELI  - ME">
+        <attvalues>
+          <attvalue for="nome" value="M E W COMERCIO E SERVICOS EIRELI  - ME"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2760.4224" y="452.40298"></viz:position>
+        <viz:color r="255" g="31" b="64"></viz:color>
+      </node>
+      <node id="02708622000102" label="SOLUTIONS INFORMATICA LTDA - ME">
+        <attvalues>
+          <attvalue for="nome" value="SOLUTIONS INFORMATICA LTDA - ME"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="423.07666" y="1397.9349"></viz:position>
+        <viz:color r="255" g="31" b="64"></viz:color>
+      </node>
+      <node id="04289005000137" label="ESCRITORIO CONTABIL CORRESPONDENTE SAO JOSE LTDA">
+        <attvalues>
+          <attvalue for="nome" value="ESCRITORIO CONTABIL CORRESPONDENTE SAO JOSE LTDA"></attvalue>
+          <attvalue for="tipo" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2078.8506" y="706.3877"></viz:position>
+        <viz:color r="255" g="198" b="71"></viz:color>
+      </node>
+      <node id="23387730000192" label="OIKOS COMECIO E SERVICOS EIRELI - ME">
+        <attvalues>
+          <attvalue for="nome" value="OIKOS COMECIO E SERVICOS EIRELI - ME"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2891.711" y="191.81786"></viz:position>
+        <viz:color r="255" g="31" b="64"></viz:color>
+      </node>
+      <node id="30454762000129" label="SOLUCOES BUSINESS EIRELI">
+        <attvalues>
+          <attvalue for="nome" value="SOLUCOES BUSINESS EIRELI"></attvalue>
+          <attvalue for="tipo" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2813.0098" y="186.3229"></viz:position>
+        <viz:color r="255" g="198" b="71"></viz:color>
+      </node>
+      <node id="00339226000111" label="EMBRASE EMPRESA BRASILIENSE DE MANUFATURADOS E SERVICOS LTDA - ME">
+        <attvalues>
+          <attvalue for="nome" value="EMBRASE EMPRESA BRASILIENSE DE MANUFATURADOS E SERVICOS LTDA - ME"></attvalue>
+          <attvalue for="tipo" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="209.76881" y="1183.8079"></viz:position>
+        <viz:color r="255" g="198" b="71"></viz:color>
+      </node>
+      <node id="07631335000157" label="ALVORADA SERVICOS DE ENGENHARIA LTDA - ME">
+        <attvalues>
+          <attvalue for="nome" value="ALVORADA SERVICOS DE ENGENHARIA LTDA - ME"></attvalue>
+          <attvalue for="tipo" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="215.62567" y="1325.8976"></viz:position>
+        <viz:color r="255" g="198" b="71"></viz:color>
+      </node>
+      <node id="09571981000100" label="WETTOR COMERCIO DE EQUIPAMENTOS LTDA - ME">
+        <attvalues>
+          <attvalue for="nome" value="WETTOR COMERCIO DE EQUIPAMENTOS LTDA - ME"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="254.22128" y="748.2252"></viz:position>
+        <viz:color r="255" g="31" b="64"></viz:color>
+      </node>
+      <node id="04131245000109" label="CONSULTE-COMERCIO E REPRESENTAOES LTDA">
+        <attvalues>
+          <attvalue for="nome" value="CONSULTE-COMERCIO E REPRESENTAOES LTDA"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="252.33374" y="-59.10387"></viz:position>
+        <viz:color r="255" g="31" b="64"></viz:color>
+      </node>
+      <node id="20982705000169" label="V O BEGOT - EPP">
+        <attvalues>
+          <attvalue for="nome" value="V O BEGOT - EPP"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1793.4229" y="-1824.0443"></viz:position>
+        <viz:color r="255" g="31" b="64"></viz:color>
+      </node>
+      <node id="20274686000116" label="OZIRES JOSE DE SOUZA 71000879100">
+        <attvalues>
+          <attvalue for="nome" value="OZIRES JOSE DE SOUZA 71000879100"></attvalue>
+          <attvalue for="tipo" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2834.086" y="469.9175"></viz:position>
+        <viz:color r="255" g="198" b="71"></viz:color>
+      </node>
+      <node id="03566923000101" label="S. NOLLI COMERCIO E SERVICOS EIRELI  - ME">
+        <attvalues>
+          <attvalue for="nome" value="S. NOLLI COMERCIO E SERVICOS EIRELI  - ME"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2964.3752" y="252.32379"></viz:position>
+        <viz:color r="255" g="31" b="64"></viz:color>
+      </node>
+      <node id="19715041000192" label="IMPERIAL COMERCIO TRANSPORTE E SERVICOS LTDA - EPP">
+        <attvalues>
+          <attvalue for="nome" value="IMPERIAL COMERCIO TRANSPORTE E SERVICOS LTDA - EPP"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2026.8743" y="-1936.065"></viz:position>
+        <viz:color r="255" g="31" b="64"></viz:color>
+      </node>
+      <node id="10331475000114" label="CGPM - CONSULTORIA E SERVICOS EIRELI">
+        <attvalues>
+          <attvalue for="nome" value="CGPM - CONSULTORIA E SERVICOS EIRELI"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2911.2214" y="463.13266"></viz:position>
+        <viz:color r="255" g="31" b="64"></viz:color>
+      </node>
+      <node id="27926646000150" label="BRAHVA COMERCIO, TRANSPORTE E SERVICOS EIRELI">
+        <attvalues>
+          <attvalue for="nome" value="BRAHVA COMERCIO, TRANSPORTE E SERVICOS EIRELI"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1904.6996" y="-1642.0087"></viz:position>
+        <viz:color r="255" g="31" b="64"></viz:color>
+      </node>
+      <node id="05049198000111" label="CONSTRUTORA RIO ABUNA LTDA - ME">
+        <attvalues>
+          <attvalue for="nome" value="CONSTRUTORA RIO ABUNA LTDA - ME"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2101.026" y="479.9157"></viz:position>
+        <viz:color r="255" g="31" b="64"></viz:color>
+      </node>
+      <node id="06131300000196" label="DIFERENCIAL REPRESENTACAO DE ALIMENTOS LTDA  - ME">
+        <attvalues>
+          <attvalue for="nome" value="DIFERENCIAL REPRESENTACAO DE ALIMENTOS LTDA  - ME"></attvalue>
+          <attvalue for="tipo" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1875.2584" y="-1937.2596"></viz:position>
+        <viz:color r="255" g="198" b="71"></viz:color>
+      </node>
+      <node id="19040164000170" label="GLOBAL SERVICOS E MANUTENCOES LTDA - ME">
+        <attvalues>
+          <attvalue for="nome" value="GLOBAL SERVICOS E MANUTENCOES LTDA - ME"></attvalue>
+          <attvalue for="tipo" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2737.7295" y="235.197"></viz:position>
+        <viz:color r="255" g="198" b="71"></viz:color>
+      </node>
+      <node id="06063075000106" label="JJD COMERCIO DE EQUIPAMENTOS HOSPITALARES LTDA">
+        <attvalues>
+          <attvalue for="nome" value="JJD COMERCIO DE EQUIPAMENTOS HOSPITALARES LTDA"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-35.200695" y="1206.1342"></viz:position>
+        <viz:color r="255" g="31" b="64"></viz:color>
+      </node>
+      <node id="04922803000154" label="INSTALADORA URUPA LTDA - ME">
+        <attvalues>
+          <attvalue for="nome" value="INSTALADORA URUPA LTDA - ME"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1565.8021" y="-217.78203"></viz:position>
+        <viz:color r="255" g="31" b="64"></viz:color>
+      </node>
+      <node id="17498463000128" label="SS E SR COMERCIO LTDA - EPP">
+        <attvalues>
+          <attvalue for="nome" value="SS E SR COMERCIO LTDA - EPP"></attvalue>
+          <attvalue for="tipo" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1841.2604" y="-1874.1997"></viz:position>
+        <viz:color r="255" g="198" b="71"></viz:color>
+      </node>
+      <node id="00587543000157" label="JG COMERCIO DE ALIMENTOS PREPARADOS E SERVICOS GERAIS LTDA - ME">
+        <attvalues>
+          <attvalue for="nome" value="JG COMERCIO DE ALIMENTOS PREPARADOS E SERVICOS GERAIS LTDA - ME"></attvalue>
+          <attvalue for="tipo" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="263.10266" y="1126.7645"></viz:position>
+        <viz:color r="255" g="198" b="71"></viz:color>
+      </node>
+      <node id="04325617000138" label="ARCA CONSTRUTORA LTDA - ME">
+        <attvalues>
+          <attvalue for="nome" value="ARCA CONSTRUTORA LTDA - ME"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2127.8555" y="575.71466"></viz:position>
+        <viz:color r="255" g="31" b="64"></viz:color>
+      </node>
+      <node id="84624105000101" label="LUMEN CONSTRUCOES LTDA - ME">
+        <attvalues>
+          <attvalue for="nome" value="LUMEN CONSTRUCOES LTDA - ME"></attvalue>
+          <attvalue for="tipo" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1732.8873" y="40.75945"></viz:position>
+        <viz:color r="255" g="198" b="71"></viz:color>
+      </node>
+      <node id="34909149000100" label="ENSINA PROFISSOES E IDIOMAS LTDA">
+        <attvalues>
+          <attvalue for="nome" value="ENSINA PROFISSOES E IDIOMAS LTDA"></attvalue>
+          <attvalue for="tipo" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2079.5728" y="-1883.9546"></viz:position>
+        <viz:color r="255" g="198" b="71"></viz:color>
+      </node>
+      <node id="24447135000168" label="ATOS COMERCIO E SERVICOS EIRELI - ME">
+        <attvalues>
+          <attvalue for="nome" value="ATOS COMERCIO E SERVICOS EIRELI - ME"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2993.09" y="324.80377"></viz:position>
+        <viz:color r="255" g="31" b="64"></viz:color>
+      </node>
+      <node id="14051487000146" label="TERRA VEICULOS LTDA - ME">
+        <attvalues>
+          <attvalue for="nome" value="TERRA VEICULOS LTDA - ME"></attvalue>
+          <attvalue for="tipo" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2708.322" y="381.7168"></viz:position>
+        <viz:color r="255" g="198" b="71"></viz:color>
+      </node>
+      <node id="03616571000143" label="COMSERT COMERCIO E SERVICOS EIRELI  - ME">
+        <attvalues>
+          <attvalue for="nome" value="COMSERT COMERCIO E SERVICOS EIRELI  - ME"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1469.6023" y="-1987.6752"></viz:position>
+        <viz:color r="255" g="31" b="64"></viz:color>
+      </node>
+      <node id="09253689000130" label="JR SILVA E M SOUZA SERVICOS LTDA - ME">
+        <attvalues>
+          <attvalue for="nome" value="JR SILVA E M SOUZA SERVICOS LTDA - ME"></attvalue>
+          <attvalue for="tipo" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1800.4368" y="-1748.0558"></viz:position>
+        <viz:color r="255" g="198" b="71"></viz:color>
+      </node>
+      <node id="13042246000178" label="ENGECART TECNOLOGIA CARTOGRAFICA LTDA  - ME">
+        <attvalues>
+          <attvalue for="nome" value="ENGECART TECNOLOGIA CARTOGRAFICA LTDA  - ME"></attvalue>
+          <attvalue for="tipo" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="292.5141" y="538.20685"></viz:position>
+        <viz:color r="255" g="198" b="71"></viz:color>
+      </node>
+      <node id="18044459000152" label="J L COMERCIO LTDA  - ME">
+        <attvalues>
+          <attvalue for="nome" value="J L COMERCIO LTDA  - ME"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2088.9688" y="-1694.3206"></viz:position>
+        <viz:color r="255" g="31" b="64"></viz:color>
+      </node>
+      <node id="03242233000199" label="GOLD DISTRIBUDORA E SERVICOS LTDA - ME">
+        <attvalues>
+          <attvalue for="nome" value="GOLD DISTRIBUDORA E SERVICOS LTDA - ME"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="641.82385" y="1259.0986"></viz:position>
+        <viz:color r="255" g="31" b="64"></viz:color>
+      </node>
+      <node id="03906291000170" label="J L COMERCIAL DE ALIMENTOS LTDA - ME">
+        <attvalues>
+          <attvalue for="nome" value="J L COMERCIAL DE ALIMENTOS LTDA - ME"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1731.3063" y="212.52405"></viz:position>
+        <viz:color r="255" g="31" b="64"></viz:color>
+      </node>
+      <node id="04186653000168" label="RIO AMAZONAS CONSTRUCOES LTDA">
+        <attvalues>
+          <attvalue for="nome" value="RIO AMAZONAS CONSTRUCOES LTDA"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1906.0707" y="600.353"></viz:position>
+        <viz:color r="255" g="31" b="64"></viz:color>
+      </node>
+      <node id="06331479000125" label="GOMES DA SILVA COMERCIO DE PRODUTOS ELETRO-ELETRONICOS LTDA - ME">
+        <attvalues>
+          <attvalue for="nome" value="GOMES DA SILVA COMERCIO DE PRODUTOS ELETRO-ELETRONICOS LTDA - ME"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2045.3892" y="-1932.7693"></viz:position>
+        <viz:color r="255" g="31" b="64"></viz:color>
+      </node>
+      <node id="03985875000188" label="VISAO COMERCIAL E SERVICOS LTDA - ME">
+        <attvalues>
+          <attvalue for="nome" value="VISAO COMERCIAL E SERVICOS LTDA - ME"></attvalue>
+          <attvalue for="tipo" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="268.4179" y="1197.1729"></viz:position>
+        <viz:color r="255" g="198" b="71"></viz:color>
+      </node>
+      <node id="11283498000163" label="J F COMERCIO E SERVICOS LTDA - ME">
+        <attvalues>
+          <attvalue for="nome" value="J F COMERCIO E SERVICOS LTDA - ME"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1748.0502" y="-1647.6201"></viz:position>
+        <viz:color r="255" g="31" b="64"></viz:color>
+      </node>
+      <node id="72630577000198" label="ALIANCA COMERCIAL DE MANUFATURADOS LTDA - ME">
+        <attvalues>
+          <attvalue for="nome" value="ALIANCA COMERCIAL DE MANUFATURADOS LTDA - ME"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="187.36403" y="959.66724"></viz:position>
+        <viz:color r="255" g="31" b="64"></viz:color>
+      </node>
+      <node id="11994509000113" label="CLIMAX - SERVICOS DE LOCACAO DE MAO DE OBRA EQUIPAMENTOS E EMPREENDIMENTOS LTDA - ME">
+        <attvalues>
+          <attvalue for="nome" value="CLIMAX - SERVICOS DE LOCACAO DE MAO DE OBRA EQUIPAMENTOS E EMPREENDIMENTOS LTDA - ME"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2032.6582" y="-1819.3865"></viz:position>
+        <viz:color r="255" g="31" b="64"></viz:color>
+      </node>
+      <node id="10782186000131" label="IMPERIAL SERVICOS DE MAO DE OBRA LTDA - ME">
+        <attvalues>
+          <attvalue for="nome" value="IMPERIAL SERVICOS DE MAO DE OBRA LTDA - ME"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-489.71036" y="667.394"></viz:position>
+        <viz:color r="255" g="31" b="64"></viz:color>
+      </node>
+      <node id="07648378000145" label="ADRM SEGURANCA ELETRONICA LTDA - ME">
+        <attvalues>
+          <attvalue for="nome" value="ADRM SEGURANCA ELETRONICA LTDA - ME"></attvalue>
+          <attvalue for="tipo" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="322.28537" y="1526.8595"></viz:position>
+        <viz:color r="255" g="31" b="64"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="18302106100" target="34431993134">
+        <attvalues>
+          <attvalue for="relation" value="PARENTE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1" source="82577099134" target="91925487172">
+        <attvalues>
+          <attvalue for="relation" value="PARENTE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2" source="94136602200" target="18997481215">
+        <attvalues>
+          <attvalue for="relation" value="PARENTE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="3" source="71000879100" target="14051487000146">
+        <attvalues>
+          <attvalue for="relation" value="CONTADOR; SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4" source="11698829191" target="24531278372">
+        <attvalues>
+          <attvalue for="relation" value="PARENTE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="5" source="20982705000169" target="94136602200">
+        <attvalues>
+          <attvalue for="relation" value="CONTADOR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="6" source="02708622000102" target="12770078100">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_BIO; SOCIO_CNE; SOCIO_REC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="7" source="15833551000103" target="08009350206">
+        <attvalues>
+          <attvalue for="relation" value="CONTADOR; SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="8" source="14447983168" target="02586136101">
+        <attvalues>
+          <attvalue for="relation" value="PARENTE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="9" source="00587543000157" target="12091952168">
+        <attvalues>
+          <attvalue for="relation" value="CONTADOR; SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="10" source="49489348104" target="07631335000157">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="11" source="12091952168" target="03985875000188">
+        <attvalues>
+          <attvalue for="relation" value="CONTADOR; SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="12" source="94136602200" target="93973055220">
+        <attvalues>
+          <attvalue for="relation" value="PARENTE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="13" source="12770078100" target="00587543000157">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="14" source="14447983168" target="24919086000119">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="15" source="01939360200" target="04289005000137">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="16" source="12091952168" target="69669511100">
+        <attvalues>
+          <attvalue for="relation" value="PARENTE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="17" source="08009350206" target="34783092000145">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="18" source="23387730000192" target="71000879100">
+        <attvalues>
+          <attvalue for="relation" value="CONTADOR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="19" source="07999704253" target="04289005000137">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="20" source="14788120000100" target="71000879100">
+        <attvalues>
+          <attvalue for="relation" value="CONTADOR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="21" source="24447135000168" target="71000879100">
+        <attvalues>
+          <attvalue for="relation" value="CONTADOR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="22" source="94136602200" target="09253689000130">
+        <attvalues>
+          <attvalue for="relation" value="CONTADOR; SOCIO_BIO; SOCIO_REC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="23" source="05049198000111" target="07999704253">
+        <attvalues>
+          <attvalue for="relation" value="CONTADOR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="24" source="24497941000140" target="82577099134">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_BIO; SOCIO_CNE; SOCIO_REC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="25" source="12091952168" target="02586136101">
+        <attvalues>
+          <attvalue for="relation" value="PARENTE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="26" source="49489348104" target="00339226000111">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="27" source="02586136101" target="13042246000178">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="28" source="71000879100" target="00744305136">
+        <attvalues>
+          <attvalue for="relation" value="PARENTE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="29" source="94136602200" target="20628902000184">
+        <attvalues>
+          <attvalue for="relation" value="CONTADOR; SOCIO_BIO; SOCIO_CNE; SOCIO_REC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="30" source="04325617000138" target="07999704253">
+        <attvalues>
+          <attvalue for="relation" value="CONTADOR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="31" source="19715041000192" target="94136602200">
+        <attvalues>
+          <attvalue for="relation" value="CONTADOR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="32" source="49489348104" target="03985875000188">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="33" source="10782186000131" target="88004945104">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_BIO; SOCIO_CNE; SOCIO_REC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="34" source="11974958191" target="07631335000157">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_BIO; SOCIO_CNE; SOCIO_REC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="35" source="19453329304" target="72155948000127">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="36" source="64127133015" target="66373530000">
+        <attvalues>
+          <attvalue for="relation" value="PARENTE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="37" source="02008084000135" target="11698829191">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_BIO; SOCIO_CNE; SOCIO_REC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="38" source="08009350206" target="84624105000101">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="39" source="06063075000106" target="12091952168">
+        <attvalues>
+          <attvalue for="relation" value="CONTADOR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="40" source="07648378000145" target="11974958191">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="41" source="25852272353" target="72155948000127">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="42" source="11994509000113" target="11629398349">
+        <attvalues>
+          <attvalue for="relation" value="CONTADOR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="43" source="14447983168" target="00587543000157">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="44" source="02586136101" target="69669511100">
+        <attvalues>
+          <attvalue for="relation" value="PARENTE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="45" source="04186653000168" target="07999704253">
+        <attvalues>
+          <attvalue for="relation" value="CONTADOR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="46" source="12091952168" target="00339226000111">
+        <attvalues>
+          <attvalue for="relation" value="CONTADOR; SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="47" source="71000879100" target="30454762000129">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_BIO"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="48" source="72801689220" target="84624105000101">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="49" source="09571981000100" target="02586136101">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="50" source="71000879100" target="20274686000116">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="51" source="02586136101" target="49489348104">
+        <attvalues>
+          <attvalue for="relation" value="PARENTE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="52" source="19453329304" target="25852272353">
+        <attvalues>
+          <attvalue for="relation" value="PARENTE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="53" source="02008084000135" target="13976522848">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_BIO; SOCIO_CNE; SOCIO_REC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="54" source="34783092000145" target="08009350206">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="55" source="12091952168" target="24919086000119">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="56" source="02708622000102" target="85993166134">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_BIO; SOCIO_REC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="57" source="13239682000131" target="08009350206">
+        <attvalues>
+          <attvalue for="relation" value="CONTADOR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="58" source="08575671000192" target="01939360200">
+        <attvalues>
+          <attvalue for="relation" value="CONTADOR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="59" source="53909488153" target="07631335000157">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="60" source="14593823153" target="03985875000188">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="61" source="85993166134" target="12770078100">
+        <attvalues>
+          <attvalue for="relation" value="PARENTE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="62" source="14447983168" target="69669511100">
+        <attvalues>
+          <attvalue for="relation" value="PARENTE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="63" source="91925487172" target="13042246000178">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="64" source="49489348104" target="01590370000199">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="65" source="06331479000125" target="11629398349">
+        <attvalues>
+          <attvalue for="relation" value="CONTADOR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="66" source="24497941000140" target="00028392108">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_BIO"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="67" source="03566923000101" target="71000879100">
+        <attvalues>
+          <attvalue for="relation" value="CONTADOR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="68" source="10331475000114" target="71000879100">
+        <attvalues>
+          <attvalue for="relation" value="CONTADOR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="69" source="07999704253" target="63754048000105">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="70" source="85993166134" target="00339226000111">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="71" source="00587543000157" target="14447983168">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="72" source="88004945104" target="23595051149">
+        <attvalues>
+          <attvalue for="relation" value="PARENTE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="73" source="18044459000152" target="94136602200">
+        <attvalues>
+          <attvalue for="relation" value="CONTADOR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="74" source="12770078100" target="07631335000157">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="75" source="10905759000177" target="51352354349">
+        <attvalues>
+          <attvalue for="relation" value="CONTADOR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="76" source="27926646000150" target="94136602200">
+        <attvalues>
+          <attvalue for="relation" value="CONTADOR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="77" source="01649760000197" target="19453329304">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="78" source="24531278372" target="18169729000151">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="79" source="06674135100" target="12770078100">
+        <attvalues>
+          <attvalue for="relation" value="PARENTE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="80" source="12091952168" target="49489348104">
+        <attvalues>
+          <attvalue for="relation" value="PARENTE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="81" source="00587543000157" target="12770078100">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="82" source="12091952168" target="53909488153">
+        <attvalues>
+          <attvalue for="relation" value="PARENTE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="83" source="07999704253" target="34783092000145">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE; SOCIO_REC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="84" source="03242233000199" target="06674135100">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="85" source="02586136101" target="12091952168">
+        <attvalues>
+          <attvalue for="relation" value="PARENTE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="86" source="12770078100" target="85993166134">
+        <attvalues>
+          <attvalue for="relation" value="PARENTE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="87" source="94136602200" target="34909149000100">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_BIO"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="88" source="12770078100" target="03985875000188">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_BIO; SOCIO_CNE; SOCIO_REC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="89" source="04922803000154" target="72801689220">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_BIO; SOCIO_CNE; SOCIO_REC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="90" source="11283498000163" target="51352354349">
+        <attvalues>
+          <attvalue for="relation" value="CONTADOR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="91" source="34431993134" target="01590370000199">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="92" source="06674135100" target="24919086000119">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="93" source="11629398349" target="72155948000127">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="94" source="12091952168" target="01590370000199">
+        <attvalues>
+          <attvalue for="relation" value="CONTADOR; SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="95" source="94136602200" target="06131300000196">
+        <attvalues>
+          <attvalue for="relation" value="CONTADOR; SOCIO_BIO; SOCIO_CNE; SOCIO_REC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="96" source="06063075000106" target="18302106100">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_BIO; SOCIO_CNE; SOCIO_REC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="97" source="03616571000143" target="00201142309">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="98" source="72630577000198" target="12091952168">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="99" source="01939360200" target="63754048000105">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="100" source="85993166134" target="07631335000157">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_BIO; SOCIO_CNE; SOCIO_REC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="101" source="03906291000170" target="08009350206">
+        <attvalues>
+          <attvalue for="relation" value="CONTADOR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="102" source="69669511100" target="18169729000151">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="103" source="14447983168" target="00339226000111">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="104" source="00028392108" target="91925487172">
+        <attvalues>
+          <attvalue for="relation" value="PARENTE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="105" source="13976522848" target="24531278372">
+        <attvalues>
+          <attvalue for="relation" value="PARENTE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="106" source="94136602200" target="02830127226">
+        <attvalues>
+          <attvalue for="relation" value="PARENTE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="107" source="71000879100" target="19040164000170">
+        <attvalues>
+          <attvalue for="relation" value="CONTADOR; SOCIO_BIO; SOCIO_CNE; SOCIO_REC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="108" source="66373530000" target="13042246000178">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_BIO; SOCIO_CNE; SOCIO_REC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="109" source="04131245000109" target="64127133015">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_BIO; SOCIO_CNE; SOCIO_REC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="110" source="94136602200" target="40191850268">
+        <attvalues>
+          <attvalue for="relation" value="PARENTE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="111" source="14447983168" target="03985875000188">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="112" source="12091952168" target="00587543000157">
+        <attvalues>
+          <attvalue for="relation" value="CONTADOR; SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="113" source="51352354349" target="72155948000127">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="114" source="85993166134" target="03985875000188">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_BIO; SOCIO_CNE; SOCIO_REC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="115" source="85993166134" target="14593823153">
+        <attvalues>
+          <attvalue for="relation" value="PARENTE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="116" source="13407975000180" target="94136602200">
+        <attvalues>
+          <attvalue for="relation" value="CONTADOR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="117" source="12770078100" target="14593823153">
+        <attvalues>
+          <attvalue for="relation" value="PARENTE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="118" source="15188822000115" target="71000879100">
+        <attvalues>
+          <attvalue for="relation" value="CONTADOR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="119" source="72630577000198" target="14447983168">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="120" source="00201142309" target="72155948000127">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_BIO; SOCIO_CNE; SOCIO_REC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="121" source="12770078100" target="06674135100">
+        <attvalues>
+          <attvalue for="relation" value="PARENTE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="122" source="12091952168" target="18169729000151">
+        <attvalues>
+          <attvalue for="relation" value="CONTADOR; SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="123" source="07648378000145" target="85993166134">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="124" source="34783092000145" target="07999704253">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_CNE; SOCIO_REC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="125" source="23595051149" target="01590370000199">
+        <attvalues>
+          <attvalue for="relation" value="SOCIO_BIO; SOCIO_REC"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="126" source="02586136101" target="14447983168">
+        <attvalues>
+          <attvalue for="relation" value="PARENTE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="127" source="94136602200" target="17498463000128">
+        <attvalues>
+          <attvalue for="relation" value="CONTADOR; SOCIO_BIO; SOCIO_CNE; SOCIO_REC"></attvalue>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
