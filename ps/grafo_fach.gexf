@@ -879,642 +879,642 @@
       </node>
     </nodes>
     <edges>
-      <edge id="0" source="18302106100" target="34431993134">
+      <edge id="0" source="18302106100" target="34431993134" label="PARENTE">
         <attvalues>
           <attvalue for="relation" value="PARENTE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="1" source="82577099134" target="91925487172">
+      <edge id="1" source="82577099134" target="91925487172" label="PARENTE">
         <attvalues>
           <attvalue for="relation" value="PARENTE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="2" source="94136602200" target="18997481215">
+      <edge id="2" source="94136602200" target="18997481215" label="PARENTE">
         <attvalues>
           <attvalue for="relation" value="PARENTE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="3" source="71000879100" target="14051487000146">
+      <edge id="3" source="71000879100" target="14051487000146" label="CONTADOR; SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="CONTADOR; SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="4" source="11698829191" target="24531278372">
+      <edge id="4" source="11698829191" target="24531278372" label="PARENTE">
         <attvalues>
           <attvalue for="relation" value="PARENTE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="5" source="20982705000169" target="94136602200">
+      <edge id="5" source="20982705000169" target="94136602200" label="CONTADOR">
         <attvalues>
           <attvalue for="relation" value="CONTADOR"></attvalue>
         </attvalues>
       </edge>
-      <edge id="6" source="02708622000102" target="12770078100">
+      <edge id="6" source="02708622000102" target="12770078100" label="SOCIO_BIO; SOCIO_CNE; SOCIO_REC">
         <attvalues>
           <attvalue for="relation" value="SOCIO_BIO; SOCIO_CNE; SOCIO_REC"></attvalue>
         </attvalues>
       </edge>
-      <edge id="7" source="15833551000103" target="08009350206">
+      <edge id="7" source="15833551000103" target="08009350206" label="CONTADOR; SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="CONTADOR; SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="8" source="14447983168" target="02586136101">
+      <edge id="8" source="14447983168" target="02586136101" label="PARENTE">
         <attvalues>
           <attvalue for="relation" value="PARENTE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="9" source="00587543000157" target="12091952168">
+      <edge id="9" source="00587543000157" target="12091952168" label="CONTADOR; SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="CONTADOR; SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="10" source="49489348104" target="07631335000157">
+      <edge id="10" source="49489348104" target="07631335000157" label="SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="11" source="12091952168" target="03985875000188">
+      <edge id="11" source="12091952168" target="03985875000188" label="CONTADOR; SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="CONTADOR; SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="12" source="94136602200" target="93973055220">
+      <edge id="12" source="94136602200" target="93973055220" label="PARENTE">
         <attvalues>
           <attvalue for="relation" value="PARENTE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="13" source="12770078100" target="00587543000157">
+      <edge id="13" source="12770078100" target="00587543000157" label="SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="14" source="14447983168" target="24919086000119">
+      <edge id="14" source="14447983168" target="24919086000119" label="SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="15" source="01939360200" target="04289005000137">
+      <edge id="15" source="01939360200" target="04289005000137" label="SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="16" source="12091952168" target="69669511100">
+      <edge id="16" source="12091952168" target="69669511100" label="PARENTE">
         <attvalues>
           <attvalue for="relation" value="PARENTE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="17" source="08009350206" target="34783092000145">
+      <edge id="17" source="08009350206" target="34783092000145" label="SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="18" source="23387730000192" target="71000879100">
+      <edge id="18" source="23387730000192" target="71000879100" label="CONTADOR">
         <attvalues>
           <attvalue for="relation" value="CONTADOR"></attvalue>
         </attvalues>
       </edge>
-      <edge id="19" source="07999704253" target="04289005000137">
+      <edge id="19" source="07999704253" target="04289005000137" label="SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="20" source="14788120000100" target="71000879100">
+      <edge id="20" source="14788120000100" target="71000879100" label="CONTADOR">
         <attvalues>
           <attvalue for="relation" value="CONTADOR"></attvalue>
         </attvalues>
       </edge>
-      <edge id="21" source="24447135000168" target="71000879100">
+      <edge id="21" source="24447135000168" target="71000879100" label="CONTADOR">
         <attvalues>
           <attvalue for="relation" value="CONTADOR"></attvalue>
         </attvalues>
       </edge>
-      <edge id="22" source="94136602200" target="09253689000130">
+      <edge id="22" source="94136602200" target="09253689000130" label="CONTADOR; SOCIO_BIO; SOCIO_REC">
         <attvalues>
           <attvalue for="relation" value="CONTADOR; SOCIO_BIO; SOCIO_REC"></attvalue>
         </attvalues>
       </edge>
-      <edge id="23" source="05049198000111" target="07999704253">
+      <edge id="23" source="05049198000111" target="07999704253" label="CONTADOR">
         <attvalues>
           <attvalue for="relation" value="CONTADOR"></attvalue>
         </attvalues>
       </edge>
-      <edge id="24" source="24497941000140" target="82577099134">
+      <edge id="24" source="24497941000140" target="82577099134" label="SOCIO_BIO; SOCIO_CNE; SOCIO_REC">
         <attvalues>
           <attvalue for="relation" value="SOCIO_BIO; SOCIO_CNE; SOCIO_REC"></attvalue>
         </attvalues>
       </edge>
-      <edge id="25" source="12091952168" target="02586136101">
+      <edge id="25" source="12091952168" target="02586136101" label="PARENTE">
         <attvalues>
           <attvalue for="relation" value="PARENTE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="26" source="49489348104" target="00339226000111">
+      <edge id="26" source="49489348104" target="00339226000111" label="SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="27" source="02586136101" target="13042246000178">
+      <edge id="27" source="02586136101" target="13042246000178" label="SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="28" source="71000879100" target="00744305136">
+      <edge id="28" source="71000879100" target="00744305136" label="PARENTE">
         <attvalues>
           <attvalue for="relation" value="PARENTE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="29" source="94136602200" target="20628902000184">
+      <edge id="29" source="94136602200" target="20628902000184" label="CONTADOR; SOCIO_BIO; SOCIO_CNE; SOCIO_REC">
         <attvalues>
           <attvalue for="relation" value="CONTADOR; SOCIO_BIO; SOCIO_CNE; SOCIO_REC"></attvalue>
         </attvalues>
       </edge>
-      <edge id="30" source="04325617000138" target="07999704253">
+      <edge id="30" source="04325617000138" target="07999704253" label="CONTADOR">
         <attvalues>
           <attvalue for="relation" value="CONTADOR"></attvalue>
         </attvalues>
       </edge>
-      <edge id="31" source="19715041000192" target="94136602200">
+      <edge id="31" source="19715041000192" target="94136602200" label="CONTADOR">
         <attvalues>
           <attvalue for="relation" value="CONTADOR"></attvalue>
         </attvalues>
       </edge>
-      <edge id="32" source="49489348104" target="03985875000188">
+      <edge id="32" source="49489348104" target="03985875000188" label="SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="33" source="10782186000131" target="88004945104">
+      <edge id="33" source="10782186000131" target="88004945104" label="SOCIO_BIO; SOCIO_CNE; SOCIO_REC">
         <attvalues>
           <attvalue for="relation" value="SOCIO_BIO; SOCIO_CNE; SOCIO_REC"></attvalue>
         </attvalues>
       </edge>
-      <edge id="34" source="11974958191" target="07631335000157">
+      <edge id="34" source="11974958191" target="07631335000157" label="SOCIO_BIO; SOCIO_CNE; SOCIO_REC">
         <attvalues>
           <attvalue for="relation" value="SOCIO_BIO; SOCIO_CNE; SOCIO_REC"></attvalue>
         </attvalues>
       </edge>
-      <edge id="35" source="19453329304" target="72155948000127">
+      <edge id="35" source="19453329304" target="72155948000127" label="SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="36" source="64127133015" target="66373530000">
+      <edge id="36" source="64127133015" target="66373530000" label="PARENTE">
         <attvalues>
           <attvalue for="relation" value="PARENTE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="37" source="02008084000135" target="11698829191">
+      <edge id="37" source="02008084000135" target="11698829191" label="SOCIO_BIO; SOCIO_CNE; SOCIO_REC">
         <attvalues>
           <attvalue for="relation" value="SOCIO_BIO; SOCIO_CNE; SOCIO_REC"></attvalue>
         </attvalues>
       </edge>
-      <edge id="38" source="08009350206" target="84624105000101">
+      <edge id="38" source="08009350206" target="84624105000101" label="SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="39" source="06063075000106" target="12091952168">
+      <edge id="39" source="06063075000106" target="12091952168" label="CONTADOR">
         <attvalues>
           <attvalue for="relation" value="CONTADOR"></attvalue>
         </attvalues>
       </edge>
-      <edge id="40" source="07648378000145" target="11974958191">
+      <edge id="40" source="07648378000145" target="11974958191" label="SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="41" source="25852272353" target="72155948000127">
+      <edge id="41" source="25852272353" target="72155948000127" label="SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="42" source="11994509000113" target="11629398349">
+      <edge id="42" source="11994509000113" target="11629398349" label="CONTADOR">
         <attvalues>
           <attvalue for="relation" value="CONTADOR"></attvalue>
         </attvalues>
       </edge>
-      <edge id="43" source="14447983168" target="00587543000157">
+      <edge id="43" source="14447983168" target="00587543000157" label="SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="44" source="02586136101" target="69669511100">
+      <edge id="44" source="02586136101" target="69669511100" label="PARENTE">
         <attvalues>
           <attvalue for="relation" value="PARENTE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="45" source="04186653000168" target="07999704253">
+      <edge id="45" source="04186653000168" target="07999704253" label="CONTADOR">
         <attvalues>
           <attvalue for="relation" value="CONTADOR"></attvalue>
         </attvalues>
       </edge>
-      <edge id="46" source="12091952168" target="00339226000111">
+      <edge id="46" source="12091952168" target="00339226000111" label="CONTADOR; SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="CONTADOR; SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="47" source="71000879100" target="30454762000129">
+      <edge id="47" source="71000879100" target="30454762000129" label="SOCIO_BIO">
         <attvalues>
           <attvalue for="relation" value="SOCIO_BIO"></attvalue>
         </attvalues>
       </edge>
-      <edge id="48" source="72801689220" target="84624105000101">
+      <edge id="48" source="72801689220" target="84624105000101" label="SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="49" source="09571981000100" target="02586136101">
+      <edge id="49" source="09571981000100" target="02586136101" label="SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="50" source="71000879100" target="20274686000116">
+      <edge id="50" source="71000879100" target="20274686000116" label="SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="51" source="02586136101" target="49489348104">
+      <edge id="51" source="02586136101" target="49489348104" label="PARENTE">
         <attvalues>
           <attvalue for="relation" value="PARENTE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="52" source="19453329304" target="25852272353">
+      <edge id="52" source="19453329304" target="25852272353" label="PARENTE">
         <attvalues>
           <attvalue for="relation" value="PARENTE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="53" source="02008084000135" target="13976522848">
+      <edge id="53" source="02008084000135" target="13976522848" label="SOCIO_BIO; SOCIO_CNE; SOCIO_REC">
         <attvalues>
           <attvalue for="relation" value="SOCIO_BIO; SOCIO_CNE; SOCIO_REC"></attvalue>
         </attvalues>
       </edge>
-      <edge id="54" source="34783092000145" target="08009350206">
+      <edge id="54" source="34783092000145" target="08009350206" label="SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="55" source="12091952168" target="24919086000119">
+      <edge id="55" source="12091952168" target="24919086000119" label="SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="56" source="02708622000102" target="85993166134">
+      <edge id="56" source="02708622000102" target="85993166134" label="SOCIO_BIO; SOCIO_REC">
         <attvalues>
           <attvalue for="relation" value="SOCIO_BIO; SOCIO_REC"></attvalue>
         </attvalues>
       </edge>
-      <edge id="57" source="13239682000131" target="08009350206">
+      <edge id="57" source="13239682000131" target="08009350206" label="CONTADOR">
         <attvalues>
           <attvalue for="relation" value="CONTADOR"></attvalue>
         </attvalues>
       </edge>
-      <edge id="58" source="08575671000192" target="01939360200">
+      <edge id="58" source="08575671000192" target="01939360200" label="CONTADOR">
         <attvalues>
           <attvalue for="relation" value="CONTADOR"></attvalue>
         </attvalues>
       </edge>
-      <edge id="59" source="53909488153" target="07631335000157">
+      <edge id="59" source="53909488153" target="07631335000157" label="SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="60" source="14593823153" target="03985875000188">
+      <edge id="60" source="14593823153" target="03985875000188" label="SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="61" source="85993166134" target="12770078100">
+      <edge id="61" source="85993166134" target="12770078100" label="PARENTE">
         <attvalues>
           <attvalue for="relation" value="PARENTE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="62" source="14447983168" target="69669511100">
+      <edge id="62" source="14447983168" target="69669511100" label="PARENTE">
         <attvalues>
           <attvalue for="relation" value="PARENTE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="63" source="91925487172" target="13042246000178">
+      <edge id="63" source="91925487172" target="13042246000178" label="SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="64" source="49489348104" target="01590370000199">
+      <edge id="64" source="49489348104" target="01590370000199" label="SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="65" source="06331479000125" target="11629398349">
+      <edge id="65" source="06331479000125" target="11629398349" label="CONTADOR">
         <attvalues>
           <attvalue for="relation" value="CONTADOR"></attvalue>
         </attvalues>
       </edge>
-      <edge id="66" source="24497941000140" target="00028392108">
+      <edge id="66" source="24497941000140" target="00028392108" label="SOCIO_BIO">
         <attvalues>
           <attvalue for="relation" value="SOCIO_BIO"></attvalue>
         </attvalues>
       </edge>
-      <edge id="67" source="03566923000101" target="71000879100">
+      <edge id="67" source="03566923000101" target="71000879100" label="CONTADOR">
         <attvalues>
           <attvalue for="relation" value="CONTADOR"></attvalue>
         </attvalues>
       </edge>
-      <edge id="68" source="10331475000114" target="71000879100">
+      <edge id="68" source="10331475000114" target="71000879100" label="CONTADOR">
         <attvalues>
           <attvalue for="relation" value="CONTADOR"></attvalue>
         </attvalues>
       </edge>
-      <edge id="69" source="07999704253" target="63754048000105">
+      <edge id="69" source="07999704253" target="63754048000105" label="SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="70" source="85993166134" target="00339226000111">
+      <edge id="70" source="85993166134" target="00339226000111" label="SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="71" source="00587543000157" target="14447983168">
+      <edge id="71" source="00587543000157" target="14447983168" label="SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="72" source="88004945104" target="23595051149">
+      <edge id="72" source="88004945104" target="23595051149" label="PARENTE">
         <attvalues>
           <attvalue for="relation" value="PARENTE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="73" source="18044459000152" target="94136602200">
+      <edge id="73" source="18044459000152" target="94136602200" label="CONTADOR">
         <attvalues>
           <attvalue for="relation" value="CONTADOR"></attvalue>
         </attvalues>
       </edge>
-      <edge id="74" source="12770078100" target="07631335000157">
+      <edge id="74" source="12770078100" target="07631335000157" label="SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="75" source="10905759000177" target="51352354349">
+      <edge id="75" source="10905759000177" target="51352354349" label="CONTADOR">
         <attvalues>
           <attvalue for="relation" value="CONTADOR"></attvalue>
         </attvalues>
       </edge>
-      <edge id="76" source="27926646000150" target="94136602200">
+      <edge id="76" source="27926646000150" target="94136602200" label="CONTADOR">
         <attvalues>
           <attvalue for="relation" value="CONTADOR"></attvalue>
         </attvalues>
       </edge>
-      <edge id="77" source="01649760000197" target="19453329304">
+      <edge id="77" source="01649760000197" target="19453329304" label="SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="78" source="24531278372" target="18169729000151">
+      <edge id="78" source="24531278372" target="18169729000151" label="SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="79" source="06674135100" target="12770078100">
+      <edge id="79" source="06674135100" target="12770078100" label="PARENTE">
         <attvalues>
           <attvalue for="relation" value="PARENTE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="80" source="12091952168" target="49489348104">
+      <edge id="80" source="12091952168" target="49489348104" label="PARENTE">
         <attvalues>
           <attvalue for="relation" value="PARENTE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="81" source="00587543000157" target="12770078100">
+      <edge id="81" source="00587543000157" target="12770078100" label="SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="82" source="12091952168" target="53909488153">
+      <edge id="82" source="12091952168" target="53909488153" label="PARENTE">
         <attvalues>
           <attvalue for="relation" value="PARENTE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="83" source="07999704253" target="34783092000145">
+      <edge id="83" source="07999704253" target="34783092000145" label="SOCIO_CNE; SOCIO_REC">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE; SOCIO_REC"></attvalue>
         </attvalues>
       </edge>
-      <edge id="84" source="03242233000199" target="06674135100">
+      <edge id="84" source="03242233000199" target="06674135100" label="SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="85" source="02586136101" target="12091952168">
+      <edge id="85" source="02586136101" target="12091952168" label="PARENTE">
         <attvalues>
           <attvalue for="relation" value="PARENTE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="86" source="12770078100" target="85993166134">
+      <edge id="86" source="12770078100" target="85993166134" label="PARENTE">
         <attvalues>
           <attvalue for="relation" value="PARENTE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="87" source="94136602200" target="34909149000100">
+      <edge id="87" source="94136602200" target="34909149000100" label="SOCIO_BIO">
         <attvalues>
           <attvalue for="relation" value="SOCIO_BIO"></attvalue>
         </attvalues>
       </edge>
-      <edge id="88" source="12770078100" target="03985875000188">
+      <edge id="88" source="12770078100" target="03985875000188" label="SOCIO_BIO; SOCIO_CNE; SOCIO_REC">
         <attvalues>
           <attvalue for="relation" value="SOCIO_BIO; SOCIO_CNE; SOCIO_REC"></attvalue>
         </attvalues>
       </edge>
-      <edge id="89" source="04922803000154" target="72801689220">
+      <edge id="89" source="04922803000154" target="72801689220" label="SOCIO_BIO; SOCIO_CNE; SOCIO_REC">
         <attvalues>
           <attvalue for="relation" value="SOCIO_BIO; SOCIO_CNE; SOCIO_REC"></attvalue>
         </attvalues>
       </edge>
-      <edge id="90" source="11283498000163" target="51352354349">
+      <edge id="90" source="11283498000163" target="51352354349" label="CONTADOR">
         <attvalues>
           <attvalue for="relation" value="CONTADOR"></attvalue>
         </attvalues>
       </edge>
-      <edge id="91" source="34431993134" target="01590370000199">
+      <edge id="91" source="34431993134" target="01590370000199" label="SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="92" source="06674135100" target="24919086000119">
+      <edge id="92" source="06674135100" target="24919086000119" label="SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="93" source="11629398349" target="72155948000127">
+      <edge id="93" source="11629398349" target="72155948000127" label="SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="94" source="12091952168" target="01590370000199">
+      <edge id="94" source="12091952168" target="01590370000199" label="CONTADOR; SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="CONTADOR; SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="95" source="94136602200" target="06131300000196">
+      <edge id="95" source="94136602200" target="06131300000196" label="CONTADOR; SOCIO_BIO; SOCIO_CNE; SOCIO_REC">
         <attvalues>
           <attvalue for="relation" value="CONTADOR; SOCIO_BIO; SOCIO_CNE; SOCIO_REC"></attvalue>
         </attvalues>
       </edge>
-      <edge id="96" source="06063075000106" target="18302106100">
+      <edge id="96" source="06063075000106" target="18302106100" label="SOCIO_BIO; SOCIO_CNE; SOCIO_REC">
         <attvalues>
           <attvalue for="relation" value="SOCIO_BIO; SOCIO_CNE; SOCIO_REC"></attvalue>
         </attvalues>
       </edge>
-      <edge id="97" source="03616571000143" target="00201142309">
+      <edge id="97" source="03616571000143" target="00201142309" label="SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="98" source="72630577000198" target="12091952168">
+      <edge id="98" source="72630577000198" target="12091952168" label="SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="99" source="01939360200" target="63754048000105">
+      <edge id="99" source="01939360200" target="63754048000105" label="SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="100" source="85993166134" target="07631335000157">
+      <edge id="100" source="85993166134" target="07631335000157" label="SOCIO_BIO; SOCIO_CNE; SOCIO_REC">
         <attvalues>
           <attvalue for="relation" value="SOCIO_BIO; SOCIO_CNE; SOCIO_REC"></attvalue>
         </attvalues>
       </edge>
-      <edge id="101" source="03906291000170" target="08009350206">
+      <edge id="101" source="03906291000170" target="08009350206" label="CONTADOR">
         <attvalues>
           <attvalue for="relation" value="CONTADOR"></attvalue>
         </attvalues>
       </edge>
-      <edge id="102" source="69669511100" target="18169729000151">
+      <edge id="102" source="69669511100" target="18169729000151" label="SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="103" source="14447983168" target="00339226000111">
+      <edge id="103" source="14447983168" target="00339226000111" label="SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="104" source="00028392108" target="91925487172">
+      <edge id="104" source="00028392108" target="91925487172" label="PARENTE">
         <attvalues>
           <attvalue for="relation" value="PARENTE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="105" source="13976522848" target="24531278372">
+      <edge id="105" source="13976522848" target="24531278372" label="PARENTE">
         <attvalues>
           <attvalue for="relation" value="PARENTE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="106" source="94136602200" target="02830127226">
+      <edge id="106" source="94136602200" target="02830127226" label="PARENTE">
         <attvalues>
           <attvalue for="relation" value="PARENTE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="107" source="71000879100" target="19040164000170">
+      <edge id="107" source="71000879100" target="19040164000170" label="CONTADOR; SOCIO_BIO; SOCIO_CNE; SOCIO_REC">
         <attvalues>
           <attvalue for="relation" value="CONTADOR; SOCIO_BIO; SOCIO_CNE; SOCIO_REC"></attvalue>
         </attvalues>
       </edge>
-      <edge id="108" source="66373530000" target="13042246000178">
+      <edge id="108" source="66373530000" target="13042246000178" label="SOCIO_BIO; SOCIO_CNE; SOCIO_REC">
         <attvalues>
           <attvalue for="relation" value="SOCIO_BIO; SOCIO_CNE; SOCIO_REC"></attvalue>
         </attvalues>
       </edge>
-      <edge id="109" source="04131245000109" target="64127133015">
+      <edge id="109" source="04131245000109" target="64127133015" label="SOCIO_BIO; SOCIO_CNE; SOCIO_REC">
         <attvalues>
           <attvalue for="relation" value="SOCIO_BIO; SOCIO_CNE; SOCIO_REC"></attvalue>
         </attvalues>
       </edge>
-      <edge id="110" source="94136602200" target="40191850268">
+      <edge id="110" source="94136602200" target="40191850268" label="PARENTE">
         <attvalues>
           <attvalue for="relation" value="PARENTE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="111" source="14447983168" target="03985875000188">
+      <edge id="111" source="14447983168" target="03985875000188" label="SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="112" source="12091952168" target="00587543000157">
+      <edge id="112" source="12091952168" target="00587543000157" label="CONTADOR; SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="CONTADOR; SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="113" source="51352354349" target="72155948000127">
+      <edge id="113" source="51352354349" target="72155948000127" label="SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="114" source="85993166134" target="03985875000188">
+      <edge id="114" source="85993166134" target="03985875000188" label="SOCIO_BIO; SOCIO_CNE; SOCIO_REC">
         <attvalues>
           <attvalue for="relation" value="SOCIO_BIO; SOCIO_CNE; SOCIO_REC"></attvalue>
         </attvalues>
       </edge>
-      <edge id="115" source="85993166134" target="14593823153">
+      <edge id="115" source="85993166134" target="14593823153" label="PARENTE">
         <attvalues>
           <attvalue for="relation" value="PARENTE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="116" source="13407975000180" target="94136602200">
+      <edge id="116" source="13407975000180" target="94136602200" label="CONTADOR">
         <attvalues>
           <attvalue for="relation" value="CONTADOR"></attvalue>
         </attvalues>
       </edge>
-      <edge id="117" source="12770078100" target="14593823153">
+      <edge id="117" source="12770078100" target="14593823153" label="PARENTE">
         <attvalues>
           <attvalue for="relation" value="PARENTE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="118" source="15188822000115" target="71000879100">
+      <edge id="118" source="15188822000115" target="71000879100" label="CONTADOR">
         <attvalues>
           <attvalue for="relation" value="CONTADOR"></attvalue>
         </attvalues>
       </edge>
-      <edge id="119" source="72630577000198" target="14447983168">
+      <edge id="119" source="72630577000198" target="14447983168" label="SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="120" source="00201142309" target="72155948000127">
+      <edge id="120" source="00201142309" target="72155948000127" label="SOCIO_BIO; SOCIO_CNE; SOCIO_REC">
         <attvalues>
           <attvalue for="relation" value="SOCIO_BIO; SOCIO_CNE; SOCIO_REC"></attvalue>
         </attvalues>
       </edge>
-      <edge id="121" source="12770078100" target="06674135100">
+      <edge id="121" source="12770078100" target="06674135100" label="PARENTE">
         <attvalues>
           <attvalue for="relation" value="PARENTE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="122" source="12091952168" target="18169729000151">
+      <edge id="122" source="12091952168" target="18169729000151" label="CONTADOR; SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="CONTADOR; SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="123" source="07648378000145" target="85993166134">
+      <edge id="123" source="07648378000145" target="85993166134" label="SOCIO_CNE">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="124" source="34783092000145" target="07999704253">
+      <edge id="124" source="34783092000145" target="07999704253" label="SOCIO_CNE; SOCIO_REC">
         <attvalues>
           <attvalue for="relation" value="SOCIO_CNE; SOCIO_REC"></attvalue>
         </attvalues>
       </edge>
-      <edge id="125" source="23595051149" target="01590370000199">
+      <edge id="125" source="23595051149" target="01590370000199" label="SOCIO_BIO; SOCIO_REC">
         <attvalues>
           <attvalue for="relation" value="SOCIO_BIO; SOCIO_REC"></attvalue>
         </attvalues>
       </edge>
-      <edge id="126" source="02586136101" target="14447983168">
+      <edge id="126" source="02586136101" target="14447983168" label="PARENTE">
         <attvalues>
           <attvalue for="relation" value="PARENTE"></attvalue>
         </attvalues>
       </edge>
-      <edge id="127" source="94136602200" target="17498463000128">
+      <edge id="127" source="94136602200" target="17498463000128" label="CONTADOR; SOCIO_BIO; SOCIO_CNE; SOCIO_REC">
         <attvalues>
           <attvalue for="relation" value="CONTADOR; SOCIO_BIO; SOCIO_CNE; SOCIO_REC"></attvalue>
         </attvalues>
