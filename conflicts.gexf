@@ -1,0 +1,340 @@
+<gexf xmlns="http://www.gephi.org/gexf/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns0="xsi" version="1.1" ns0:schemaLocation="http://www.gephi.org/gexf/1.1draft http://gephi.org/gexf/1.1draft.xsd">
+  <meta lastmodified="2020-10-29T17:23:47.990802">
+    <creator>Analiytics 29</creator>
+    <description>A graph with conflict of interests</description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" label="Graph with conflicts">
+    <attributes class="node" mode="dynamic"/>
+    <attributes class="node" mode="static"/>
+    <attributes class="edge" mode="dynamic"/>
+    <attributes class="edge" mode="static"/>
+    <nodes>
+      <node id="0" label="['POLITICO', '36984787068', 'ROGERIO LEMOS CRUZ', 'VEREADOR']">
+        <attvalues/>
+      </node>
+      <node id="1" label="['LOCALIDADE', 'JAGUARAO', 'RS']">
+        <attvalues/>
+      </node>
+      <node id="2" label="['EMPRESA', '88413661000190', 'SANTA CASA DE CARIDADE DE JAGUARAO']">
+        <attvalues/>
+      </node>
+      <node id="3" label="['POLITICO', '04332238630', 'SANDROMAR EVANDRO VIEIRA', 'VEREADOR']">
+        <attvalues/>
+      </node>
+      <node id="4" label="['LOCALIDADE', 'FORMIGA', 'MG']">
+        <attvalues/>
+      </node>
+      <node id="5" label="['EMPRESA', '13237931000150', 'SOLUCOES LOOPING LTDA  - ME']">
+        <attvalues/>
+      </node>
+      <node id="6" label="['POLITICO', '21613796153', 'VALDECI JOSE DE LIMA', 'VEREADOR']">
+        <attvalues/>
+      </node>
+      <node id="7" label="['LOCALIDADE', 'IPORA', 'GO']">
+        <attvalues/>
+      </node>
+      <node id="8" label="['EMPRESA', '11185178000170', 'COOPERATIVA MISTA DOS AGRICULTORES FAMILIARES DE IPORA E REGIAO - COOMAFIR']">
+        <attvalues/>
+      </node>
+      <node id="9" label="['POLITICO', '24701610534', 'ORLANDO PEREIRA', 'VEREADOR']">
+        <attvalues/>
+      </node>
+      <node id="10" label="['LOCALIDADE', 'SALVADOR', 'BA']">
+        <attvalues/>
+      </node>
+      <node id="11" label="['EMPRESA', '12095751000118', 'GTS SERVICOS GERAIS DO BRASIL LTDA. - EPP']">
+        <attvalues/>
+      </node>
+      <node id="12" label="['POLITICO', '16206690563', 'TARCIZIO SUZART PIMENTA JUNIOR', 'PREFEITO']">
+        <attvalues/>
+      </node>
+      <node id="13" label="['LOCALIDADE', 'FEIRA DE SANTANA', 'BA']">
+        <attvalues/>
+      </node>
+      <node id="14" label="['EMPRESA', '14074546000100', 'EMEC EMPREENDIMENTOS MEDICO CIRURGICOS LTDA']">
+        <attvalues/>
+      </node>
+      <node id="15" label="['POLITICO', '40608131091', 'WERNER REMPEL', 'VEREADOR']">
+        <attvalues/>
+      </node>
+      <node id="16" label="['LOCALIDADE', 'SANTA MARIA', 'RS']">
+        <attvalues/>
+      </node>
+      <node id="17" label="['EMPRESA', '87683041000108', 'CLINICA RENAL DE SANTA MARIA LTDA']">
+        <attvalues/>
+      </node>
+      <node id="18" label="['POLITICO', '49069780372', 'EUNICE OLIVEIRA BARROS SOARES', 'VEREADOR']">
+        <attvalues/>
+      </node>
+      <node id="19" label="['LOCALIDADE', 'PIRIPIRI', 'PI']">
+        <attvalues/>
+      </node>
+      <node id="20" label="['EMPRESA', '14372311000196', 'COOPERATIVA AGROFAMILIAR DOS FRUTOS DA TERRA']">
+        <attvalues/>
+      </node>
+      <node id="21" label="['POLITICO', '55342493315', 'LAZARO ROGERIO CARVALHO SOARES', 'VEREADOR']">
+        <attvalues/>
+      </node>
+      <node id="22" label="['LOCALIDADE', 'TERESINA', 'PI']">
+        <attvalues/>
+      </node>
+      <node id="23" label="['EMPRESA', '07087550000139', 'CLINICA DE UROLOGIA E GINECOLOGIA - SOCIEDADE SIMPLES - EPP']">
+        <attvalues/>
+      </node>
+      <node id="24" label="['POLITICO', '22759379353', 'CARLOS ALVES DE ARAUJO FILHO', 'VEREADOR']">
+        <attvalues/>
+      </node>
+      <node id="25" label="['EMPRESA', '07481906000114', 'CLINICA SANTA FE LTDA']">
+        <attvalues/>
+      </node>
+      <node id="26" label="['POLITICO', '33378320672', 'ANTONIO SANTOS DE AGUIAR', 'VEREADOR']">
+        <attvalues/>
+      </node>
+      <node id="27" label="['LOCALIDADE', 'JUIZ DE FORA', 'MG']">
+        <attvalues/>
+      </node>
+      <node id="28" label="['EMPRESA', '17268871000193', 'HOSPITAL ALBERT SABIN LTDA']">
+        <attvalues/>
+      </node>
+      <node id="29" label="['POLITICO', '06159567268', 'LUIZ JOSE DOS SANTOS MONTEIRO', 'VEREADOR']">
+        <attvalues/>
+      </node>
+      <node id="30" label="['LOCALIDADE', 'MACAPA', 'AP']">
+        <attvalues/>
+      </node>
+      <node id="31" label="['EMPRESA', '05976311000104', 'COMPANHIA DE AGUA E ESGOTOS DO AMAPA']">
+        <attvalues/>
+      </node>
+      <node id="32" label="['POLITICO', '18286585291', 'ABEL SALVADOR MESQUITA JUNIOR', 'VEREADOR']">
+        <attvalues/>
+      </node>
+      <node id="33" label="['LOCALIDADE', 'BOA VISTA', 'RR']">
+        <attvalues/>
+      </node>
+      <node id="34" label="['EMPRESA', '00376437000124', 'AUTO POSTO ABEL GALINHA LIMITADA']">
+        <attvalues/>
+      </node>
+      <node id="35" label="['EMPRESA', '00376437000639', 'AUTO POSTO ABEL GALINHA LIMITADA']">
+        <attvalues/>
+      </node>
+      <node id="36" label="['POLITICO', '61816981915', 'MARCIA DE SOUZA SOARES', 'VEREADOR']">
+        <attvalues/>
+      </node>
+      <node id="37" label="['LOCALIDADE', 'CORNELIO PROCOPIO', 'PR']">
+        <attvalues/>
+      </node>
+      <node id="38" label="['EMPRESA', '07084096000162', 'IMPACTO - EVENTOS E SERVICOS TERCEIRIZADOS SS LTDA - EPP']">
+        <attvalues/>
+      </node>
+      <node id="39" label="['POLITICO', '13590383615', 'EDSON REZENDE MORAIS', 'VEREADOR']">
+        <attvalues/>
+      </node>
+      <node id="40" label="['LOCALIDADE', 'BARBACENA', 'MG']">
+        <attvalues/>
+      </node>
+      <node id="41" label="['EMPRESA', '01664888000120', 'MEDCENTER IMAGEM LTDA']">
+        <attvalues/>
+      </node>
+      <node id="42" label="['POLITICO', '20840071604', 'MARIO RAIMUNDO DE MELO', 'VICE-PREFEITO']">
+        <attvalues/>
+      </node>
+      <node id="43" label="['EMPRESA', '17082892000110', 'SANTA CASA DE MISERICORDIA DE BARBACENA']">
+        <attvalues/>
+      </node>
+      <node id="44" label="['POLITICO', '23246766304', 'ANTENOR MOREIRA PAZ', 'PREFEITO']">
+        <attvalues/>
+      </node>
+      <node id="45" label="['LOCALIDADE', 'TEFE', 'AM']">
+        <attvalues/>
+      </node>
+      <node id="46" label="['EMPRESA', '02361352000106', 'CHIBATAO COMERCIO VAREJISTA DE COMBUSTIVEIS E LUBRIFICANTES LTDA - EPP']">
+        <attvalues/>
+      </node>
+      <node id="47" label="['EMPRESA', '10720755000114', 'TEFE COMERCIO DE MATERIAL DE CONSTRUCAO LTDA  - ME']">
+        <attvalues/>
+      </node>
+      <node id="48" label="['POLITICO', '57472114200', 'ALDENIZIA SOUZA CORDOVIL', 'VEREADOR']">
+        <attvalues/>
+      </node>
+      <node id="49" label="['LOCALIDADE', 'TABATINGA', 'AM']">
+        <attvalues/>
+      </node>
+      <node id="50" label="['EMPRESA', '02460332000184', 'ALDENIZIA SOUZA CORDOVIL GURGEL - EPP']">
+        <attvalues/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="['2008']">
+        <attvalues/>
+      </edge>
+      <edge id="1" source="0" target="2" weight="['36984787068', '2019-02-19']">
+        <attvalues/>
+      </edge>
+      <edge id="2" source="1" target="2" weight="['400000.0', '20170712', '12 REGIMENTO DE CAVALARIA MECANIZADO/RS']">
+        <attvalues/>
+      </edge>
+      <edge id="3" source="3" target="4" weight="['2016']">
+        <attvalues/>
+      </edge>
+      <edge id="4" source="3" target="5" weight="['04332238630', '2011-02-11']">
+        <attvalues/>
+      </edge>
+      <edge id="5" source="4" target="5" weight="['432769.0', '20170601', 'INST FED.MINAS GERAIS /CAMPUS FORMIGA']">
+        <attvalues/>
+      </edge>
+      <edge id="6" source="6" target="7" weight="['2008']">
+        <attvalues/>
+      </edge>
+      <edge id="7" source="6" target="8" weight="['21613796153', '2015-05-06']">
+        <attvalues/>
+      </edge>
+      <edge id="8" source="7" target="8" weight="['158958.51', '20181128, 20170905', 'INSTITUTO FEDERAL GOIANO/CAMPOS IPORÁ']">
+        <attvalues/>
+      </edge>
+      <edge id="9" source="9" target="10" weight="['2008, 2012, 2016']">
+        <attvalues/>
+      </edge>
+      <edge id="10" source="9" target="11" weight="['24701610534', '2017-03-23']">
+        <attvalues/>
+      </edge>
+      <edge id="11" source="10" target="11" weight="['2748345.88', '20180801, 20170102, 20170701, 20171017, 20180703, 20170502', 'DELEG.REG. DO TRAB/BAHIA, SUPERINT.FEDERAL DE AGRIC.PECUARIA E ABASTEC., SUPERINTENDÊNCIA DE ADMINISTRAÇÃO DO MF - BA']">
+        <attvalues/>
+      </edge>
+      <edge id="12" source="12" target="13" weight="['2008']">
+        <attvalues/>
+      </edge>
+      <edge id="13" source="12" target="14" weight="['16206690563', '1991-06-20']">
+        <attvalues/>
+      </edge>
+      <edge id="14" source="13" target="14" weight="['400000.0', '20170301', '35 BATALHAO DE INFANTARIA']">
+        <attvalues/>
+      </edge>
+      <edge id="15" source="15" target="16" weight="['2008, 2012']">
+        <attvalues/>
+      </edge>
+      <edge id="16" source="15" target="17" weight="['40608131091', '1990-10-01']">
+        <attvalues/>
+      </edge>
+      <edge id="17" source="16" target="17" weight="['5800000.0', '20170204, 20170605', 'HOSPITAL DE GUARNICAO DE SANTA MARIA/RS, GRUPAMENTO DE SANTA MARIA']">
+        <attvalues/>
+      </edge>
+      <edge id="18" source="18" target="19" weight="['2012']">
+        <attvalues/>
+      </edge>
+      <edge id="19" source="18" target="20" weight="['49069780372', '2019-07-04']">
+        <attvalues/>
+      </edge>
+      <edge id="20" source="19" target="20" weight="['26975.8', '20181120, 20171129', 'INST.FED.DE ED.,CIENC.E TEC.DO PIAUÍ']">
+        <attvalues/>
+      </edge>
+      <edge id="21" source="21" target="22" weight="['2016']">
+        <attvalues/>
+      </edge>
+      <edge id="22" source="21" target="23" weight="['55342493315', '2004-11-19']">
+        <attvalues/>
+      </edge>
+      <edge id="23" source="22" target="23" weight="['9000.0', '20170401, 20180401', '2 BATALHAO DE ENGENHARIA DE CONSTRUCAO']">
+        <attvalues/>
+      </edge>
+      <edge id="24" source="24" target="22" weight="['2012']">
+        <attvalues/>
+      </edge>
+      <edge id="25" source="24" target="25" weight="['22759379353', '2002-04-25']">
+        <attvalues/>
+      </edge>
+      <edge id="26" source="22" target="25" weight="['620238.15', '20180401, 20170401', '2 BATALHAO DE ENGENHARIA DE CONSTRUCAO']">
+        <attvalues/>
+      </edge>
+      <edge id="27" source="26" target="27" weight="['2012, 2016']">
+        <attvalues/>
+      </edge>
+      <edge id="28" source="26" target="28" weight="['33378320672', '1991-10-22']">
+        <attvalues/>
+      </edge>
+      <edge id="29" source="27" target="28" weight="['9396505.7', '20170110', 'HOSPITAL GERAL DE JUIZ DE FORA']">
+        <attvalues/>
+      </edge>
+      <edge id="30" source="29" target="30" weight="['2008']">
+        <attvalues/>
+      </edge>
+      <edge id="31" source="29" target="31" weight="['06159567268', '2016-09-02']">
+        <attvalues/>
+      </edge>
+      <edge id="32" source="30" target="31" weight="['35537.86', '20171229, 20170203, 20170220, 20171213', 'SUPERINTENDÊNCIA DE ADMINIATRAÇÃO DO MP, SUPERINTENDENCIA REG.NO ESTADO DO AMAPA/DNIT, SUPERINTENDÊNCIA REG. DO TRABALHO E EMPREGO, COORDENAÇÃO REGIONAL AMAPÁ E NORTE DO PARÁ']">
+        <attvalues/>
+      </edge>
+      <edge id="33" source="32" target="33" weight="['2012']">
+        <attvalues/>
+      </edge>
+      <edge id="34" source="32" target="34" weight="['18286585291', '1999-02-13']">
+        <attvalues/>
+      </edge>
+      <edge id="35" source="33" target="34" weight="['3961028.04', '20170404, 20180329, 20180912, 20180301, 20170330, 20180402, 20180406, 20170406, 20181017, 20170203, 20180524, 20170323', 'SUPERINT.REGIONAL DE P.FEDERAL NO EST.DE RR, SUPERINTENDENCIA DE ADMINISTRACAO DO MP RR, SUPERINTEND.ESTADUAL-INCRA/SR-25/RR, SUPERINT.FEDERAL DE AGRIC.PECUARIA E ABASTEC., SUPERINTENDÊNCIA DO DNPM-RR, IBAMA - SUPERINTENDENCIA ESTADUAL/RR, SUPERINTENDÊNCIA REG. DO TRABALHO E EMPREGO, COORDENAÇÃO REGIONAL RORAIMA']">
+        <attvalues/>
+      </edge>
+      <edge id="36" source="32" target="33" weight="['2012']">
+        <attvalues/>
+      </edge>
+      <edge id="37" source="32" target="35" weight="['18286585291', '1999-02-13']">
+        <attvalues/>
+      </edge>
+      <edge id="38" source="33" target="35" weight="['245008.0', '20170807', 'SUPERINTEND.ESTADUAL-INCRA/SR-25/RR']">
+        <attvalues/>
+      </edge>
+      <edge id="39" source="36" target="37" weight="['2012']">
+        <attvalues/>
+      </edge>
+      <edge id="40" source="36" target="38" weight="['61816981915', '2007-04-03']">
+        <attvalues/>
+      </edge>
+      <edge id="41" source="37" target="38" weight="['1311796.56', '20181001', 'UTFPR - CAMPUS CORNÉLIO PROCÓPIO']">
+        <attvalues/>
+      </edge>
+      <edge id="42" source="39" target="40" weight="['2016']">
+        <attvalues/>
+      </edge>
+      <edge id="43" source="39" target="41" weight="['13590383615', '1997-04-09']">
+        <attvalues/>
+      </edge>
+      <edge id="44" source="40" target="41" weight="['200000.0', '20180517', 'GRUPAMENTO DE APOIO DE BARBACENA']">
+        <attvalues/>
+      </edge>
+      <edge id="45" source="42" target="40" weight="['2012']">
+        <attvalues/>
+      </edge>
+      <edge id="46" source="42" target="43" weight="['20840071604', '2018-09-05']">
+        <attvalues/>
+      </edge>
+      <edge id="47" source="40" target="43" weight="['500000.0', '20180504', 'GRUPAMENTO DE APOIO DE BARBACENA']">
+        <attvalues/>
+      </edge>
+      <edge id="48" source="44" target="45" weight="['2012']">
+        <attvalues/>
+      </edge>
+      <edge id="49" source="44" target="46" weight="['23246766304', '2016-05-12']">
+        <attvalues/>
+      </edge>
+      <edge id="50" source="45" target="46" weight="['5452.8', '20170210', 'CAMPUS TEFé IFECT DO AMAZONAS']">
+        <attvalues/>
+      </edge>
+      <edge id="51" source="44" target="45" weight="['2012']">
+        <attvalues/>
+      </edge>
+      <edge id="52" source="44" target="47" weight="['23246766304', '2016-05-18']">
+        <attvalues/>
+      </edge>
+      <edge id="53" source="45" target="47" weight="['7747.0', '20180525', 'DISTRITO SANIT.ESP.INDÍGENA - MÉDIO SOLIMÕES']">
+        <attvalues/>
+      </edge>
+      <edge id="54" source="48" target="49" weight="['2008, 2012']">
+        <attvalues/>
+      </edge>
+      <edge id="55" source="48" target="50" weight="['57472114200', '2018-03-23']">
+        <attvalues/>
+      </edge>
+      <edge id="56" source="49" target="50" weight="['200570.0', '20180918, 20170712', 'INST.FED.DE EDUC.DO AMAZONAS/CAMPUS TABATINGA']">
+        <attvalues/>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
