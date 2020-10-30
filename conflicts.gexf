@@ -1,339 +1,814 @@
 <gexf xmlns="http://www.gephi.org/gexf/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns0="xsi" version="1.1" ns0:schemaLocation="http://www.gephi.org/gexf/1.1draft http://gephi.org/gexf/1.1draft.xsd">
-  <meta lastmodified="2020-10-29T17:23:47.990802">
+  <meta lastmodified="2020-10-30T11:11:31.585813">
     <creator>Analiytics 29</creator>
     <description>A graph with conflict of interests</description>
   </meta>
   <graph defaultedgetype="undirected" mode="static" label="Graph with conflicts">
     <attributes class="node" mode="dynamic"/>
-    <attributes class="node" mode="static"/>
+    <attributes class="node" mode="static">
+      <attribute id="nome" title="nome" type="string">
+        <default></default>
+      </attribute>
+      <attribute id="cargos" title="cargos" type="string">
+        <default></default>
+      </attribute>
+      <attribute id="uf" title="uf" type="string">
+        <default></default>
+      </attribute>
+      <attribute id="nome_fornecedor" title="nome_fornecedor" type="string">
+        <default></default>
+      </attribute>
+    </attributes>
     <attributes class="edge" mode="dynamic"/>
-    <attributes class="edge" mode="static"/>
+    <attributes class="edge" mode="static">
+      <attribute id="ano_eleito" title="ano_eleito" type="string">
+        <default></default>
+      </attribute>
+      <attribute id="socio" title="socio" type="string">
+        <default></default>
+      </attribute>
+      <attribute id="entrada" title="entrada" type="string">
+        <default></default>
+      </attribute>
+      <attribute id="valor" title="valor" type="string">
+        <default></default>
+      </attribute>
+      <attribute id="data_contrato" title="data_contrato" type="string">
+        <default></default>
+      </attribute>
+      <attribute id="nome_entidade" title="nome_entidade" type="string">
+        <default></default>
+      </attribute>
+    </attributes>
     <nodes>
-      <node id="0" label="['POLITICO', '36984787068', 'ROGERIO LEMOS CRUZ', 'VEREADOR']">
-        <attvalues/>
+      <node id="0" label="36984787068">
+        <attvalues>
+          <attvalue for="nome" value="ROGERIO LEMOS CRUZ"/>
+          <attvalue for="cargos" value="VEREADOR"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="138" y="208"/>
       </node>
-      <node id="1" label="['LOCALIDADE', 'JAGUARAO', 'RS']">
-        <attvalues/>
+      <node id="1" label="JAGUARAO">
+        <attvalues>
+          <attvalue for="uf" value="RS"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="172" y="161"/>
       </node>
-      <node id="2" label="['EMPRESA', '88413661000190', 'SANTA CASA DE CARIDADE DE JAGUARAO']">
-        <attvalues/>
+      <node id="2" label="88413661000190">
+        <attvalues>
+          <attvalue for="nome_fornecedor" value="SANTA CASA DE CARIDADE DE JAGUARAO"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="4" y="47"/>
       </node>
-      <node id="3" label="['POLITICO', '04332238630', 'SANDROMAR EVANDRO VIEIRA', 'VEREADOR']">
-        <attvalues/>
+      <node id="3" label="04332238630">
+        <attvalues>
+          <attvalue for="nome" value="SANDROMAR EVANDRO VIEIRA"/>
+          <attvalue for="cargos" value="VEREADOR"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="200" y="21"/>
       </node>
-      <node id="4" label="['LOCALIDADE', 'FORMIGA', 'MG']">
-        <attvalues/>
+      <node id="4" label="FORMIGA">
+        <attvalues>
+          <attvalue for="uf" value="MG"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="129" y="147"/>
       </node>
-      <node id="5" label="['EMPRESA', '13237931000150', 'SOLUCOES LOOPING LTDA  - ME']">
-        <attvalues/>
+      <node id="5" label="13237931000150">
+        <attvalues>
+          <attvalue for="nome_fornecedor" value="SOLUCOES LOOPING LTDA  - ME"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="131" y="56"/>
       </node>
-      <node id="6" label="['POLITICO', '21613796153', 'VALDECI JOSE DE LIMA', 'VEREADOR']">
-        <attvalues/>
+      <node id="6" label="21613796153">
+        <attvalues>
+          <attvalue for="nome" value="VALDECI JOSE DE LIMA"/>
+          <attvalue for="cargos" value="VEREADOR"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="0" y="76"/>
       </node>
-      <node id="7" label="['LOCALIDADE', 'IPORA', 'GO']">
-        <attvalues/>
+      <node id="7" label="IPORA">
+        <attvalues>
+          <attvalue for="uf" value="GO"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="99" y="185"/>
       </node>
-      <node id="8" label="['EMPRESA', '11185178000170', 'COOPERATIVA MISTA DOS AGRICULTORES FAMILIARES DE IPORA E REGIAO - COOMAFIR']">
-        <attvalues/>
+      <node id="8" label="11185178000170">
+        <attvalues>
+          <attvalue for="nome_fornecedor" value="COOPERATIVA MISTA DOS AGRICULTORES FAMILIARES DE IPORA E REGIAO - COOMAFIR"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="105" y="73"/>
       </node>
-      <node id="9" label="['POLITICO', '24701610534', 'ORLANDO PEREIRA', 'VEREADOR']">
-        <attvalues/>
+      <node id="9" label="24701610534">
+        <attvalues>
+          <attvalue for="nome" value="ORLANDO PEREIRA"/>
+          <attvalue for="cargos" value="VEREADOR"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="191" y="138"/>
       </node>
-      <node id="10" label="['LOCALIDADE', 'SALVADOR', 'BA']">
-        <attvalues/>
+      <node id="10" label="SALVADOR">
+        <attvalues>
+          <attvalue for="uf" value="BA"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="73" y="74"/>
       </node>
-      <node id="11" label="['EMPRESA', '12095751000118', 'GTS SERVICOS GERAIS DO BRASIL LTDA. - EPP']">
-        <attvalues/>
+      <node id="11" label="12095751000118">
+        <attvalues>
+          <attvalue for="nome_fornecedor" value="GTS SERVICOS GERAIS DO BRASIL LTDA. - EPP"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="42" y="110"/>
       </node>
-      <node id="12" label="['POLITICO', '16206690563', 'TARCIZIO SUZART PIMENTA JUNIOR', 'PREFEITO']">
-        <attvalues/>
+      <node id="12" label="16206690563">
+        <attvalues>
+          <attvalue for="nome" value="TARCIZIO SUZART PIMENTA JUNIOR"/>
+          <attvalue for="cargos" value="PREFEITO"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="149" y="67"/>
       </node>
-      <node id="13" label="['LOCALIDADE', 'FEIRA DE SANTANA', 'BA']">
-        <attvalues/>
+      <node id="13" label="FEIRA DE SANTANA">
+        <attvalues>
+          <attvalue for="uf" value="BA"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="106" y="92"/>
       </node>
-      <node id="14" label="['EMPRESA', '14074546000100', 'EMEC EMPREENDIMENTOS MEDICO CIRURGICOS LTDA']">
-        <attvalues/>
+      <node id="14" label="14074546000100">
+        <attvalues>
+          <attvalue for="nome_fornecedor" value="EMEC EMPREENDIMENTOS MEDICO CIRURGICOS LTDA"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="93" y="169"/>
       </node>
-      <node id="15" label="['POLITICO', '40608131091', 'WERNER REMPEL', 'VEREADOR']">
-        <attvalues/>
+      <node id="15" label="40608131091">
+        <attvalues>
+          <attvalue for="nome" value="WERNER REMPEL"/>
+          <attvalue for="cargos" value="VEREADOR"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="47" y="54"/>
       </node>
-      <node id="16" label="['LOCALIDADE', 'SANTA MARIA', 'RS']">
-        <attvalues/>
+      <node id="16" label="SANTA MARIA">
+        <attvalues>
+          <attvalue for="uf" value="RS"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="103" y="12"/>
       </node>
-      <node id="17" label="['EMPRESA', '87683041000108', 'CLINICA RENAL DE SANTA MARIA LTDA']">
-        <attvalues/>
+      <node id="17" label="87683041000108">
+        <attvalues>
+          <attvalue for="nome_fornecedor" value="CLINICA RENAL DE SANTA MARIA LTDA"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="35" y="23"/>
       </node>
-      <node id="18" label="['POLITICO', '49069780372', 'EUNICE OLIVEIRA BARROS SOARES', 'VEREADOR']">
-        <attvalues/>
+      <node id="18" label="49069780372">
+        <attvalues>
+          <attvalue for="nome" value="EUNICE OLIVEIRA BARROS SOARES"/>
+          <attvalue for="cargos" value="VEREADOR"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="14" y="230"/>
       </node>
-      <node id="19" label="['LOCALIDADE', 'PIRIPIRI', 'PI']">
-        <attvalues/>
+      <node id="19" label="PIRIPIRI">
+        <attvalues>
+          <attvalue for="uf" value="PI"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="137" y="80"/>
       </node>
-      <node id="20" label="['EMPRESA', '14372311000196', 'COOPERATIVA AGROFAMILIAR DOS FRUTOS DA TERRA']">
-        <attvalues/>
+      <node id="20" label="14372311000196">
+        <attvalues>
+          <attvalue for="nome_fornecedor" value="COOPERATIVA AGROFAMILIAR DOS FRUTOS DA TERRA"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="146" y="56"/>
       </node>
-      <node id="21" label="['POLITICO', '55342493315', 'LAZARO ROGERIO CARVALHO SOARES', 'VEREADOR']">
-        <attvalues/>
+      <node id="21" label="55342493315">
+        <attvalues>
+          <attvalue for="nome" value="LAZARO ROGERIO CARVALHO SOARES"/>
+          <attvalue for="cargos" value="VEREADOR"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="143" y="190"/>
       </node>
-      <node id="22" label="['LOCALIDADE', 'TERESINA', 'PI']">
-        <attvalues/>
+      <node id="22" label="TERESINA">
+        <attvalues>
+          <attvalue for="uf" value="PI"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="250" y="222"/>
       </node>
-      <node id="23" label="['EMPRESA', '07087550000139', 'CLINICA DE UROLOGIA E GINECOLOGIA - SOCIEDADE SIMPLES - EPP']">
-        <attvalues/>
+      <node id="23" label="07087550000139">
+        <attvalues>
+          <attvalue for="nome_fornecedor" value="CLINICA DE UROLOGIA E GINECOLOGIA - SOCIEDADE SIMPLES - EPP"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="62" y="208"/>
       </node>
-      <node id="24" label="['POLITICO', '22759379353', 'CARLOS ALVES DE ARAUJO FILHO', 'VEREADOR']">
-        <attvalues/>
+      <node id="24" label="22759379353">
+        <attvalues>
+          <attvalue for="nome" value="CARLOS ALVES DE ARAUJO FILHO"/>
+          <attvalue for="cargos" value="VEREADOR"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="46" y="157"/>
       </node>
-      <node id="25" label="['EMPRESA', '07481906000114', 'CLINICA SANTA FE LTDA']">
-        <attvalues/>
+      <node id="25" label="07481906000114">
+        <attvalues>
+          <attvalue for="nome_fornecedor" value="CLINICA SANTA FE LTDA"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="16" y="166"/>
       </node>
-      <node id="26" label="['POLITICO', '33378320672', 'ANTONIO SANTOS DE AGUIAR', 'VEREADOR']">
-        <attvalues/>
+      <node id="26" label="33378320672">
+        <attvalues>
+          <attvalue for="nome" value="ANTONIO SANTOS DE AGUIAR"/>
+          <attvalue for="cargos" value="VEREADOR"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="56" y="118"/>
       </node>
-      <node id="27" label="['LOCALIDADE', 'JUIZ DE FORA', 'MG']">
-        <attvalues/>
+      <node id="27" label="JUIZ DE FORA">
+        <attvalues>
+          <attvalue for="uf" value="MG"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="201" y="228"/>
       </node>
-      <node id="28" label="['EMPRESA', '17268871000193', 'HOSPITAL ALBERT SABIN LTDA']">
-        <attvalues/>
+      <node id="28" label="17268871000193">
+        <attvalues>
+          <attvalue for="nome_fornecedor" value="HOSPITAL ALBERT SABIN LTDA"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="7" y="98"/>
       </node>
-      <node id="29" label="['POLITICO', '06159567268', 'LUIZ JOSE DOS SANTOS MONTEIRO', 'VEREADOR']">
-        <attvalues/>
+      <node id="29" label="06159567268">
+        <attvalues>
+          <attvalue for="nome" value="LUIZ JOSE DOS SANTOS MONTEIRO"/>
+          <attvalue for="cargos" value="VEREADOR"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="80" y="130"/>
       </node>
-      <node id="30" label="['LOCALIDADE', 'MACAPA', 'AP']">
-        <attvalues/>
+      <node id="30" label="MACAPA">
+        <attvalues>
+          <attvalue for="uf" value="AP"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="222" y="135"/>
       </node>
-      <node id="31" label="['EMPRESA', '05976311000104', 'COMPANHIA DE AGUA E ESGOTOS DO AMAPA']">
-        <attvalues/>
+      <node id="31" label="05976311000104">
+        <attvalues>
+          <attvalue for="nome_fornecedor" value="COMPANHIA DE AGUA E ESGOTOS DO AMAPA"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="150" y="81"/>
       </node>
-      <node id="32" label="['POLITICO', '18286585291', 'ABEL SALVADOR MESQUITA JUNIOR', 'VEREADOR']">
-        <attvalues/>
+      <node id="32" label="18286585291">
+        <attvalues>
+          <attvalue for="nome" value="ABEL SALVADOR MESQUITA JUNIOR"/>
+          <attvalue for="cargos" value="VEREADOR"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="129" y="243"/>
       </node>
-      <node id="33" label="['LOCALIDADE', 'BOA VISTA', 'RR']">
-        <attvalues/>
+      <node id="33" label="BOA VISTA">
+        <attvalues>
+          <attvalue for="uf" value="RR"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="203" y="33"/>
       </node>
-      <node id="34" label="['EMPRESA', '00376437000124', 'AUTO POSTO ABEL GALINHA LIMITADA']">
-        <attvalues/>
+      <node id="34" label="00376437000124">
+        <attvalues>
+          <attvalue for="nome_fornecedor" value="AUTO POSTO ABEL GALINHA LIMITADA"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="123" y="65"/>
       </node>
-      <node id="35" label="['EMPRESA', '00376437000639', 'AUTO POSTO ABEL GALINHA LIMITADA']">
-        <attvalues/>
+      <node id="35" label="00376437000639">
+        <attvalues>
+          <attvalue for="nome_fornecedor" value="AUTO POSTO ABEL GALINHA LIMITADA"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="26" y="69"/>
       </node>
-      <node id="36" label="['POLITICO', '61816981915', 'MARCIA DE SOUZA SOARES', 'VEREADOR']">
-        <attvalues/>
+      <node id="36" label="61816981915">
+        <attvalues>
+          <attvalue for="nome" value="MARCIA DE SOUZA SOARES"/>
+          <attvalue for="cargos" value="VEREADOR"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="12" y="87"/>
       </node>
-      <node id="37" label="['LOCALIDADE', 'CORNELIO PROCOPIO', 'PR']">
-        <attvalues/>
+      <node id="37" label="CORNELIO PROCOPIO">
+        <attvalues>
+          <attvalue for="uf" value="PR"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="62" y="190"/>
       </node>
-      <node id="38" label="['EMPRESA', '07084096000162', 'IMPACTO - EVENTOS E SERVICOS TERCEIRIZADOS SS LTDA - EPP']">
-        <attvalues/>
+      <node id="38" label="07084096000162">
+        <attvalues>
+          <attvalue for="nome_fornecedor" value="IMPACTO - EVENTOS E SERVICOS TERCEIRIZADOS SS LTDA - EPP"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="189" y="65"/>
       </node>
-      <node id="39" label="['POLITICO', '13590383615', 'EDSON REZENDE MORAIS', 'VEREADOR']">
-        <attvalues/>
+      <node id="39" label="13590383615">
+        <attvalues>
+          <attvalue for="nome" value="EDSON REZENDE MORAIS"/>
+          <attvalue for="cargos" value="VEREADOR"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="172" y="117"/>
       </node>
-      <node id="40" label="['LOCALIDADE', 'BARBACENA', 'MG']">
-        <attvalues/>
+      <node id="40" label="BARBACENA">
+        <attvalues>
+          <attvalue for="uf" value="MG"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="179" y="93"/>
       </node>
-      <node id="41" label="['EMPRESA', '01664888000120', 'MEDCENTER IMAGEM LTDA']">
-        <attvalues/>
+      <node id="41" label="01664888000120">
+        <attvalues>
+          <attvalue for="nome_fornecedor" value="MEDCENTER IMAGEM LTDA"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="162" y="74"/>
       </node>
-      <node id="42" label="['POLITICO', '20840071604', 'MARIO RAIMUNDO DE MELO', 'VICE-PREFEITO']">
-        <attvalues/>
+      <node id="42" label="20840071604">
+        <attvalues>
+          <attvalue for="nome" value="MARIO RAIMUNDO DE MELO"/>
+          <attvalue for="cargos" value="VICE-PREFEITO"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="25" y="108"/>
       </node>
-      <node id="43" label="['EMPRESA', '17082892000110', 'SANTA CASA DE MISERICORDIA DE BARBACENA']">
-        <attvalues/>
+      <node id="43" label="17082892000110">
+        <attvalues>
+          <attvalue for="nome_fornecedor" value="SANTA CASA DE MISERICORDIA DE BARBACENA"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="10" y="9"/>
       </node>
-      <node id="44" label="['POLITICO', '23246766304', 'ANTENOR MOREIRA PAZ', 'PREFEITO']">
-        <attvalues/>
+      <node id="44" label="23246766304">
+        <attvalues>
+          <attvalue for="nome" value="ANTENOR MOREIRA PAZ"/>
+          <attvalue for="cargos" value="PREFEITO"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="30" y="193"/>
       </node>
-      <node id="45" label="['LOCALIDADE', 'TEFE', 'AM']">
-        <attvalues/>
+      <node id="45" label="TEFE">
+        <attvalues>
+          <attvalue for="uf" value="AM"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="67" y="239"/>
       </node>
-      <node id="46" label="['EMPRESA', '02361352000106', 'CHIBATAO COMERCIO VAREJISTA DE COMBUSTIVEIS E LUBRIFICANTES LTDA - EPP']">
-        <attvalues/>
+      <node id="46" label="02361352000106">
+        <attvalues>
+          <attvalue for="nome_fornecedor" value="CHIBATAO COMERCIO VAREJISTA DE COMBUSTIVEIS E LUBRIFICANTES LTDA - EPP"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="44" y="96"/>
       </node>
-      <node id="47" label="['EMPRESA', '10720755000114', 'TEFE COMERCIO DE MATERIAL DE CONSTRUCAO LTDA  - ME']">
-        <attvalues/>
+      <node id="47" label="10720755000114">
+        <attvalues>
+          <attvalue for="nome_fornecedor" value="TEFE COMERCIO DE MATERIAL DE CONSTRUCAO LTDA  - ME"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="59" y="63"/>
       </node>
-      <node id="48" label="['POLITICO', '57472114200', 'ALDENIZIA SOUZA CORDOVIL', 'VEREADOR']">
-        <attvalues/>
+      <node id="48" label="57472114200">
+        <attvalues>
+          <attvalue for="nome" value="ALDENIZIA SOUZA CORDOVIL"/>
+          <attvalue for="cargos" value="VEREADOR"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="236" y="52"/>
       </node>
-      <node id="49" label="['LOCALIDADE', 'TABATINGA', 'AM']">
-        <attvalues/>
+      <node id="49" label="TABATINGA">
+        <attvalues>
+          <attvalue for="uf" value="AM"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="172" y="49"/>
       </node>
-      <node id="50" label="['EMPRESA', '02460332000184', 'ALDENIZIA SOUZA CORDOVIL GURGEL - EPP']">
-        <attvalues/>
+      <node id="50" label="02460332000184">
+        <attvalues>
+          <attvalue for="nome_fornecedor" value="ALDENIZIA SOUZA CORDOVIL GURGEL - EPP"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="21" y="215"/>
       </node>
     </nodes>
     <edges>
-      <edge id="0" source="0" target="1" weight="['2008']">
-        <attvalues/>
+      <edge id="0" source="0" target="1" weight="1" label="Anos: 2008">
+        <attvalues>
+          <attvalue for="ano_eleito" value="2008"/>
+        </attvalues>
       </edge>
-      <edge id="1" source="0" target="2" weight="['36984787068', '2019-02-19']">
-        <attvalues/>
+      <edge id="1" source="0" target="2" weight="1" label="Socio: 36984787068(2019-02-19)">
+        <attvalues>
+          <attvalue for="socio" value="36984787068"/>
+          <attvalue for="entrada" value="2019-02-19"/>
+        </attvalues>
       </edge>
-      <edge id="2" source="1" target="2" weight="['400000.0', '20170712', '12 REGIMENTO DE CAVALARIA MECANIZADO/RS']">
-        <attvalues/>
+      <edge id="2" source="1" target="2" weight="1" label="Valor: 400000.0(20170712) - Empresa 12 REGIMENTO DE CAVALARIA MECANIZADO/RS">
+        <attvalues>
+          <attvalue for="valor" value="400000.0"/>
+          <attvalue for="data_contrato" value="20170712"/>
+          <attvalue for="nome_entidade" value="12 REGIMENTO DE CAVALARIA MECANIZADO/RS"/>
+        </attvalues>
       </edge>
-      <edge id="3" source="3" target="4" weight="['2016']">
-        <attvalues/>
+      <edge id="3" source="3" target="4" weight="1" label="Anos: 2016">
+        <attvalues>
+          <attvalue for="ano_eleito" value="2016"/>
+        </attvalues>
       </edge>
-      <edge id="4" source="3" target="5" weight="['04332238630', '2011-02-11']">
-        <attvalues/>
+      <edge id="4" source="3" target="5" weight="1" label="Socio: 04332238630(2011-02-11)">
+        <attvalues>
+          <attvalue for="socio" value="04332238630"/>
+          <attvalue for="entrada" value="2011-02-11"/>
+        </attvalues>
       </edge>
-      <edge id="5" source="4" target="5" weight="['432769.0', '20170601', 'INST FED.MINAS GERAIS /CAMPUS FORMIGA']">
-        <attvalues/>
+      <edge id="5" source="4" target="5" weight="1" label="Valor: 432769.0(20170601) - Empresa INST FED.MINAS GERAIS /CAMPUS FORMIGA">
+        <attvalues>
+          <attvalue for="valor" value="432769.0"/>
+          <attvalue for="data_contrato" value="20170601"/>
+          <attvalue for="nome_entidade" value="INST FED.MINAS GERAIS /CAMPUS FORMIGA"/>
+        </attvalues>
       </edge>
-      <edge id="6" source="6" target="7" weight="['2008']">
-        <attvalues/>
+      <edge id="6" source="6" target="7" weight="1" label="Anos: 2008">
+        <attvalues>
+          <attvalue for="ano_eleito" value="2008"/>
+        </attvalues>
       </edge>
-      <edge id="7" source="6" target="8" weight="['21613796153', '2015-05-06']">
-        <attvalues/>
+      <edge id="7" source="6" target="8" weight="1" label="Socio: 21613796153(2015-05-06)">
+        <attvalues>
+          <attvalue for="socio" value="21613796153"/>
+          <attvalue for="entrada" value="2015-05-06"/>
+        </attvalues>
       </edge>
-      <edge id="8" source="7" target="8" weight="['158958.51', '20181128, 20170905', 'INSTITUTO FEDERAL GOIANO/CAMPOS IPORÁ']">
-        <attvalues/>
+      <edge id="8" source="7" target="8" weight="1" label="Valor: 158958.51(20181128, 20170905) - Empresa INSTITUTO FEDERAL GOIANO/CAMPOS IPORÁ">
+        <attvalues>
+          <attvalue for="valor" value="158958.51"/>
+          <attvalue for="data_contrato" value="20181128, 20170905"/>
+          <attvalue for="nome_entidade" value="INSTITUTO FEDERAL GOIANO/CAMPOS IPORÁ"/>
+        </attvalues>
       </edge>
-      <edge id="9" source="9" target="10" weight="['2008, 2012, 2016']">
-        <attvalues/>
+      <edge id="9" source="9" target="10" weight="1" label="Anos: 2008, 2012, 2016">
+        <attvalues>
+          <attvalue for="ano_eleito" value="2008, 2012, 2016"/>
+        </attvalues>
       </edge>
-      <edge id="10" source="9" target="11" weight="['24701610534', '2017-03-23']">
-        <attvalues/>
+      <edge id="10" source="9" target="11" weight="1" label="Socio: 24701610534(2017-03-23)">
+        <attvalues>
+          <attvalue for="socio" value="24701610534"/>
+          <attvalue for="entrada" value="2017-03-23"/>
+        </attvalues>
       </edge>
-      <edge id="11" source="10" target="11" weight="['2748345.88', '20180801, 20170102, 20170701, 20171017, 20180703, 20170502', 'DELEG.REG. DO TRAB/BAHIA, SUPERINT.FEDERAL DE AGRIC.PECUARIA E ABASTEC., SUPERINTENDÊNCIA DE ADMINISTRAÇÃO DO MF - BA']">
-        <attvalues/>
+      <edge id="11" source="10" target="11" weight="1" label="Valor: 2748345.88(20180801, 20171017, 20170701, 20170102, 20180703, 20170502) - Empresa DELEG.REG. DO TRAB/BAHIA, SUPERINT.FEDERAL DE AGRIC.PECUARIA E ABASTEC., SUPERINTENDÊNCIA DE ADMINISTRAÇÃO DO MF - BA">
+        <attvalues>
+          <attvalue for="valor" value="2748345.88"/>
+          <attvalue for="data_contrato" value="20180801, 20171017, 20170701, 20170102, 20180703, 20170502"/>
+          <attvalue for="nome_entidade" value="DELEG.REG. DO TRAB/BAHIA, SUPERINT.FEDERAL DE AGRIC.PECUARIA E ABASTEC., SUPERINTENDÊNCIA DE ADMINISTRAÇÃO DO MF - BA"/>
+        </attvalues>
       </edge>
-      <edge id="12" source="12" target="13" weight="['2008']">
-        <attvalues/>
+      <edge id="12" source="12" target="13" weight="1" label="Anos: 2008">
+        <attvalues>
+          <attvalue for="ano_eleito" value="2008"/>
+        </attvalues>
       </edge>
-      <edge id="13" source="12" target="14" weight="['16206690563', '1991-06-20']">
-        <attvalues/>
+      <edge id="13" source="12" target="14" weight="1" label="Socio: 16206690563(1991-06-20)">
+        <attvalues>
+          <attvalue for="socio" value="16206690563"/>
+          <attvalue for="entrada" value="1991-06-20"/>
+        </attvalues>
       </edge>
-      <edge id="14" source="13" target="14" weight="['400000.0', '20170301', '35 BATALHAO DE INFANTARIA']">
-        <attvalues/>
+      <edge id="14" source="13" target="14" weight="1" label="Valor: 400000.0(20170301) - Empresa 35 BATALHAO DE INFANTARIA">
+        <attvalues>
+          <attvalue for="valor" value="400000.0"/>
+          <attvalue for="data_contrato" value="20170301"/>
+          <attvalue for="nome_entidade" value="35 BATALHAO DE INFANTARIA"/>
+        </attvalues>
       </edge>
-      <edge id="15" source="15" target="16" weight="['2008, 2012']">
-        <attvalues/>
+      <edge id="15" source="15" target="16" weight="1" label="Anos: 2008, 2012">
+        <attvalues>
+          <attvalue for="ano_eleito" value="2008, 2012"/>
+        </attvalues>
       </edge>
-      <edge id="16" source="15" target="17" weight="['40608131091', '1990-10-01']">
-        <attvalues/>
+      <edge id="16" source="15" target="17" weight="1" label="Socio: 40608131091(1990-10-01)">
+        <attvalues>
+          <attvalue for="socio" value="40608131091"/>
+          <attvalue for="entrada" value="1990-10-01"/>
+        </attvalues>
       </edge>
-      <edge id="17" source="16" target="17" weight="['5800000.0', '20170204, 20170605', 'HOSPITAL DE GUARNICAO DE SANTA MARIA/RS, GRUPAMENTO DE SANTA MARIA']">
-        <attvalues/>
+      <edge id="17" source="16" target="17" weight="1" label="Valor: 5800000.0(20170204, 20170605) - Empresa HOSPITAL DE GUARNICAO DE SANTA MARIA/RS, GRUPAMENTO DE SANTA MARIA">
+        <attvalues>
+          <attvalue for="valor" value="5800000.0"/>
+          <attvalue for="data_contrato" value="20170204, 20170605"/>
+          <attvalue for="nome_entidade" value="HOSPITAL DE GUARNICAO DE SANTA MARIA/RS, GRUPAMENTO DE SANTA MARIA"/>
+        </attvalues>
       </edge>
-      <edge id="18" source="18" target="19" weight="['2012']">
-        <attvalues/>
+      <edge id="18" source="18" target="19" weight="1" label="Anos: 2012">
+        <attvalues>
+          <attvalue for="ano_eleito" value="2012"/>
+        </attvalues>
       </edge>
-      <edge id="19" source="18" target="20" weight="['49069780372', '2019-07-04']">
-        <attvalues/>
+      <edge id="19" source="18" target="20" weight="1" label="Socio: 49069780372(2019-07-04)">
+        <attvalues>
+          <attvalue for="socio" value="49069780372"/>
+          <attvalue for="entrada" value="2019-07-04"/>
+        </attvalues>
       </edge>
-      <edge id="20" source="19" target="20" weight="['26975.8', '20181120, 20171129', 'INST.FED.DE ED.,CIENC.E TEC.DO PIAUÍ']">
-        <attvalues/>
+      <edge id="20" source="19" target="20" weight="1" label="Valor: 26975.8(20171129, 20181120) - Empresa INST.FED.DE ED.,CIENC.E TEC.DO PIAUÍ">
+        <attvalues>
+          <attvalue for="valor" value="26975.8"/>
+          <attvalue for="data_contrato" value="20171129, 20181120"/>
+          <attvalue for="nome_entidade" value="INST.FED.DE ED.,CIENC.E TEC.DO PIAUÍ"/>
+        </attvalues>
       </edge>
-      <edge id="21" source="21" target="22" weight="['2016']">
-        <attvalues/>
+      <edge id="21" source="21" target="22" weight="1" label="Anos: 2016">
+        <attvalues>
+          <attvalue for="ano_eleito" value="2016"/>
+        </attvalues>
       </edge>
-      <edge id="22" source="21" target="23" weight="['55342493315', '2004-11-19']">
-        <attvalues/>
+      <edge id="22" source="21" target="23" weight="1" label="Socio: 55342493315(2004-11-19)">
+        <attvalues>
+          <attvalue for="socio" value="55342493315"/>
+          <attvalue for="entrada" value="2004-11-19"/>
+        </attvalues>
       </edge>
-      <edge id="23" source="22" target="23" weight="['9000.0', '20170401, 20180401', '2 BATALHAO DE ENGENHARIA DE CONSTRUCAO']">
-        <attvalues/>
+      <edge id="23" source="22" target="23" weight="1" label="Valor: 9000.0(20170401, 20180401) - Empresa 2 BATALHAO DE ENGENHARIA DE CONSTRUCAO">
+        <attvalues>
+          <attvalue for="valor" value="9000.0"/>
+          <attvalue for="data_contrato" value="20170401, 20180401"/>
+          <attvalue for="nome_entidade" value="2 BATALHAO DE ENGENHARIA DE CONSTRUCAO"/>
+        </attvalues>
       </edge>
-      <edge id="24" source="24" target="22" weight="['2012']">
-        <attvalues/>
+      <edge id="24" source="24" target="22" weight="1" label="Anos: 2012">
+        <attvalues>
+          <attvalue for="ano_eleito" value="2012"/>
+        </attvalues>
       </edge>
-      <edge id="25" source="24" target="25" weight="['22759379353', '2002-04-25']">
-        <attvalues/>
+      <edge id="25" source="24" target="25" weight="1" label="Socio: 22759379353(2002-04-25)">
+        <attvalues>
+          <attvalue for="socio" value="22759379353"/>
+          <attvalue for="entrada" value="2002-04-25"/>
+        </attvalues>
       </edge>
-      <edge id="26" source="22" target="25" weight="['620238.15', '20180401, 20170401', '2 BATALHAO DE ENGENHARIA DE CONSTRUCAO']">
-        <attvalues/>
+      <edge id="26" source="22" target="25" weight="1" label="Valor: 620238.15(20180401, 20170401) - Empresa 2 BATALHAO DE ENGENHARIA DE CONSTRUCAO">
+        <attvalues>
+          <attvalue for="valor" value="620238.15"/>
+          <attvalue for="data_contrato" value="20180401, 20170401"/>
+          <attvalue for="nome_entidade" value="2 BATALHAO DE ENGENHARIA DE CONSTRUCAO"/>
+        </attvalues>
       </edge>
-      <edge id="27" source="26" target="27" weight="['2012, 2016']">
-        <attvalues/>
+      <edge id="27" source="26" target="27" weight="1" label="Anos: 2012, 2016">
+        <attvalues>
+          <attvalue for="ano_eleito" value="2012, 2016"/>
+        </attvalues>
       </edge>
-      <edge id="28" source="26" target="28" weight="['33378320672', '1991-10-22']">
-        <attvalues/>
+      <edge id="28" source="26" target="28" weight="1" label="Socio: 33378320672(1991-10-22)">
+        <attvalues>
+          <attvalue for="socio" value="33378320672"/>
+          <attvalue for="entrada" value="1991-10-22"/>
+        </attvalues>
       </edge>
-      <edge id="29" source="27" target="28" weight="['9396505.7', '20170110', 'HOSPITAL GERAL DE JUIZ DE FORA']">
-        <attvalues/>
+      <edge id="29" source="27" target="28" weight="1" label="Valor: 9396505.7(20170110) - Empresa HOSPITAL GERAL DE JUIZ DE FORA">
+        <attvalues>
+          <attvalue for="valor" value="9396505.7"/>
+          <attvalue for="data_contrato" value="20170110"/>
+          <attvalue for="nome_entidade" value="HOSPITAL GERAL DE JUIZ DE FORA"/>
+        </attvalues>
       </edge>
-      <edge id="30" source="29" target="30" weight="['2008']">
-        <attvalues/>
+      <edge id="30" source="29" target="30" weight="1" label="Anos: 2008">
+        <attvalues>
+          <attvalue for="ano_eleito" value="2008"/>
+        </attvalues>
       </edge>
-      <edge id="31" source="29" target="31" weight="['06159567268', '2016-09-02']">
-        <attvalues/>
+      <edge id="31" source="29" target="31" weight="1" label="Socio: 06159567268(2016-09-02)">
+        <attvalues>
+          <attvalue for="socio" value="06159567268"/>
+          <attvalue for="entrada" value="2016-09-02"/>
+        </attvalues>
       </edge>
-      <edge id="32" source="30" target="31" weight="['35537.86', '20171229, 20170203, 20170220, 20171213', 'SUPERINTENDÊNCIA DE ADMINIATRAÇÃO DO MP, SUPERINTENDENCIA REG.NO ESTADO DO AMAPA/DNIT, SUPERINTENDÊNCIA REG. DO TRABALHO E EMPREGO, COORDENAÇÃO REGIONAL AMAPÁ E NORTE DO PARÁ']">
-        <attvalues/>
+      <edge id="32" source="30" target="31" weight="1" label="Valor: 35537.86(20171229, 20170203, 20170220, 20171213) - Empresa SUPERINTENDÊNCIA DE ADMINIATRAÇÃO DO MP, SUPERINTENDENCIA REG.NO ESTADO DO AMAPA/DNIT, SUPERINTENDÊNCIA REG. DO TRABALHO E EMPREGO, COORDENAÇÃO REGIONAL AMAPÁ E NORTE DO PARÁ">
+        <attvalues>
+          <attvalue for="valor" value="35537.86"/>
+          <attvalue for="data_contrato" value="20171229, 20170203, 20170220, 20171213"/>
+          <attvalue for="nome_entidade" value="SUPERINTENDÊNCIA DE ADMINIATRAÇÃO DO MP, SUPERINTENDENCIA REG.NO ESTADO DO AMAPA/DNIT, SUPERINTENDÊNCIA REG. DO TRABALHO E EMPREGO, COORDENAÇÃO REGIONAL AMAPÁ E NORTE DO PARÁ"/>
+        </attvalues>
       </edge>
-      <edge id="33" source="32" target="33" weight="['2012']">
-        <attvalues/>
+      <edge id="33" source="32" target="33" weight="1" label="Anos: 2012">
+        <attvalues>
+          <attvalue for="ano_eleito" value="2012"/>
+        </attvalues>
       </edge>
-      <edge id="34" source="32" target="34" weight="['18286585291', '1999-02-13']">
-        <attvalues/>
+      <edge id="34" source="32" target="34" weight="1" label="Socio: 18286585291(1999-02-13)">
+        <attvalues>
+          <attvalue for="socio" value="18286585291"/>
+          <attvalue for="entrada" value="1999-02-13"/>
+        </attvalues>
       </edge>
-      <edge id="35" source="33" target="34" weight="['3961028.04', '20170404, 20180329, 20180912, 20180301, 20170330, 20180402, 20180406, 20170406, 20181017, 20170203, 20180524, 20170323', 'SUPERINT.REGIONAL DE P.FEDERAL NO EST.DE RR, SUPERINTENDENCIA DE ADMINISTRACAO DO MP RR, SUPERINTEND.ESTADUAL-INCRA/SR-25/RR, SUPERINT.FEDERAL DE AGRIC.PECUARIA E ABASTEC., SUPERINTENDÊNCIA DO DNPM-RR, IBAMA - SUPERINTENDENCIA ESTADUAL/RR, SUPERINTENDÊNCIA REG. DO TRABALHO E EMPREGO, COORDENAÇÃO REGIONAL RORAIMA']">
-        <attvalues/>
+      <edge id="35" source="33" target="34" weight="1" label="Valor: 3961028.04(20180329, 20170404, 20180912, 20180301, 20170330, 20180402, 20170406, 20180406, 20170203, 20181017, 20180524, 20170323) - Empresa SUPERINT.REGIONAL DE P.FEDERAL NO EST.DE RR, SUPERINTEND.ESTADUAL-INCRA/SR-25/RR, SUPERINTENDENCIA DE ADMINISTRACAO DO MP RR, SUPERINT.FEDERAL DE AGRIC.PECUARIA E ABASTEC., SUPERINTENDÊNCIA DO DNPM-RR, IBAMA - SUPERINTENDENCIA ESTADUAL/RR, SUPERINTENDÊNCIA REG. DO TRABALHO E EMPREGO, COORDENAÇÃO REGIONAL RORAIMA">
+        <attvalues>
+          <attvalue for="valor" value="3961028.04"/>
+          <attvalue for="data_contrato" value="20180329, 20170404, 20180912, 20180301, 20170330, 20180402, 20170406, 20180406, 20170203, 20181017, 20180524, 20170323"/>
+          <attvalue for="nome_entidade" value="SUPERINT.REGIONAL DE P.FEDERAL NO EST.DE RR, SUPERINTEND.ESTADUAL-INCRA/SR-25/RR, SUPERINTENDENCIA DE ADMINISTRACAO DO MP RR, SUPERINT.FEDERAL DE AGRIC.PECUARIA E ABASTEC., SUPERINTENDÊNCIA DO DNPM-RR, IBAMA - SUPERINTENDENCIA ESTADUAL/RR, SUPERINTENDÊNCIA REG. DO TRABALHO E EMPREGO, COORDENAÇÃO REGIONAL RORAIMA"/>
+        </attvalues>
       </edge>
-      <edge id="36" source="32" target="33" weight="['2012']">
-        <attvalues/>
+      <edge id="36" source="32" target="33" weight="1" label="Anos: 2012">
+        <attvalues>
+          <attvalue for="ano_eleito" value="2012"/>
+        </attvalues>
       </edge>
-      <edge id="37" source="32" target="35" weight="['18286585291', '1999-02-13']">
-        <attvalues/>
+      <edge id="37" source="32" target="35" weight="1" label="Socio: 18286585291(1999-02-13)">
+        <attvalues>
+          <attvalue for="socio" value="18286585291"/>
+          <attvalue for="entrada" value="1999-02-13"/>
+        </attvalues>
       </edge>
-      <edge id="38" source="33" target="35" weight="['245008.0', '20170807', 'SUPERINTEND.ESTADUAL-INCRA/SR-25/RR']">
-        <attvalues/>
+      <edge id="38" source="33" target="35" weight="1" label="Valor: 245008.0(20170807) - Empresa SUPERINTEND.ESTADUAL-INCRA/SR-25/RR">
+        <attvalues>
+          <attvalue for="valor" value="245008.0"/>
+          <attvalue for="data_contrato" value="20170807"/>
+          <attvalue for="nome_entidade" value="SUPERINTEND.ESTADUAL-INCRA/SR-25/RR"/>
+        </attvalues>
       </edge>
-      <edge id="39" source="36" target="37" weight="['2012']">
-        <attvalues/>
+      <edge id="39" source="36" target="37" weight="1" label="Anos: 2012">
+        <attvalues>
+          <attvalue for="ano_eleito" value="2012"/>
+        </attvalues>
       </edge>
-      <edge id="40" source="36" target="38" weight="['61816981915', '2007-04-03']">
-        <attvalues/>
+      <edge id="40" source="36" target="38" weight="1" label="Socio: 61816981915(2007-04-03)">
+        <attvalues>
+          <attvalue for="socio" value="61816981915"/>
+          <attvalue for="entrada" value="2007-04-03"/>
+        </attvalues>
       </edge>
-      <edge id="41" source="37" target="38" weight="['1311796.56', '20181001', 'UTFPR - CAMPUS CORNÉLIO PROCÓPIO']">
-        <attvalues/>
+      <edge id="41" source="37" target="38" weight="1" label="Valor: 1311796.56(20181001) - Empresa UTFPR - CAMPUS CORNÉLIO PROCÓPIO">
+        <attvalues>
+          <attvalue for="valor" value="1311796.56"/>
+          <attvalue for="data_contrato" value="20181001"/>
+          <attvalue for="nome_entidade" value="UTFPR - CAMPUS CORNÉLIO PROCÓPIO"/>
+        </attvalues>
       </edge>
-      <edge id="42" source="39" target="40" weight="['2016']">
-        <attvalues/>
+      <edge id="42" source="39" target="40" weight="1" label="Anos: 2016">
+        <attvalues>
+          <attvalue for="ano_eleito" value="2016"/>
+        </attvalues>
       </edge>
-      <edge id="43" source="39" target="41" weight="['13590383615', '1997-04-09']">
-        <attvalues/>
+      <edge id="43" source="39" target="41" weight="1" label="Socio: 13590383615(1997-04-09)">
+        <attvalues>
+          <attvalue for="socio" value="13590383615"/>
+          <attvalue for="entrada" value="1997-04-09"/>
+        </attvalues>
       </edge>
-      <edge id="44" source="40" target="41" weight="['200000.0', '20180517', 'GRUPAMENTO DE APOIO DE BARBACENA']">
-        <attvalues/>
+      <edge id="44" source="40" target="41" weight="1" label="Valor: 200000.0(20180517) - Empresa GRUPAMENTO DE APOIO DE BARBACENA">
+        <attvalues>
+          <attvalue for="valor" value="200000.0"/>
+          <attvalue for="data_contrato" value="20180517"/>
+          <attvalue for="nome_entidade" value="GRUPAMENTO DE APOIO DE BARBACENA"/>
+        </attvalues>
       </edge>
-      <edge id="45" source="42" target="40" weight="['2012']">
-        <attvalues/>
+      <edge id="45" source="42" target="40" weight="1" label="Anos: 2012">
+        <attvalues>
+          <attvalue for="ano_eleito" value="2012"/>
+        </attvalues>
       </edge>
-      <edge id="46" source="42" target="43" weight="['20840071604', '2018-09-05']">
-        <attvalues/>
+      <edge id="46" source="42" target="43" weight="1" label="Socio: 20840071604(2018-09-05)">
+        <attvalues>
+          <attvalue for="socio" value="20840071604"/>
+          <attvalue for="entrada" value="2018-09-05"/>
+        </attvalues>
       </edge>
-      <edge id="47" source="40" target="43" weight="['500000.0', '20180504', 'GRUPAMENTO DE APOIO DE BARBACENA']">
-        <attvalues/>
+      <edge id="47" source="40" target="43" weight="1" label="Valor: 500000.0(20180504) - Empresa GRUPAMENTO DE APOIO DE BARBACENA">
+        <attvalues>
+          <attvalue for="valor" value="500000.0"/>
+          <attvalue for="data_contrato" value="20180504"/>
+          <attvalue for="nome_entidade" value="GRUPAMENTO DE APOIO DE BARBACENA"/>
+        </attvalues>
       </edge>
-      <edge id="48" source="44" target="45" weight="['2012']">
-        <attvalues/>
+      <edge id="48" source="44" target="45" weight="1" label="Anos: 2012">
+        <attvalues>
+          <attvalue for="ano_eleito" value="2012"/>
+        </attvalues>
       </edge>
-      <edge id="49" source="44" target="46" weight="['23246766304', '2016-05-12']">
-        <attvalues/>
+      <edge id="49" source="44" target="46" weight="1" label="Socio: 23246766304(2016-05-12)">
+        <attvalues>
+          <attvalue for="socio" value="23246766304"/>
+          <attvalue for="entrada" value="2016-05-12"/>
+        </attvalues>
       </edge>
-      <edge id="50" source="45" target="46" weight="['5452.8', '20170210', 'CAMPUS TEFé IFECT DO AMAZONAS']">
-        <attvalues/>
+      <edge id="50" source="45" target="46" weight="1" label="Valor: 5452.8(20170210) - Empresa CAMPUS TEFé IFECT DO AMAZONAS">
+        <attvalues>
+          <attvalue for="valor" value="5452.8"/>
+          <attvalue for="data_contrato" value="20170210"/>
+          <attvalue for="nome_entidade" value="CAMPUS TEFé IFECT DO AMAZONAS"/>
+        </attvalues>
       </edge>
-      <edge id="51" source="44" target="45" weight="['2012']">
-        <attvalues/>
+      <edge id="51" source="44" target="45" weight="1" label="Anos: 2012">
+        <attvalues>
+          <attvalue for="ano_eleito" value="2012"/>
+        </attvalues>
       </edge>
-      <edge id="52" source="44" target="47" weight="['23246766304', '2016-05-18']">
-        <attvalues/>
+      <edge id="52" source="44" target="47" weight="1" label="Socio: 23246766304(2016-05-18)">
+        <attvalues>
+          <attvalue for="socio" value="23246766304"/>
+          <attvalue for="entrada" value="2016-05-18"/>
+        </attvalues>
       </edge>
-      <edge id="53" source="45" target="47" weight="['7747.0', '20180525', 'DISTRITO SANIT.ESP.INDÍGENA - MÉDIO SOLIMÕES']">
-        <attvalues/>
+      <edge id="53" source="45" target="47" weight="1" label="Valor: 7747.0(20180525) - Empresa DISTRITO SANIT.ESP.INDÍGENA - MÉDIO SOLIMÕES">
+        <attvalues>
+          <attvalue for="valor" value="7747.0"/>
+          <attvalue for="data_contrato" value="20180525"/>
+          <attvalue for="nome_entidade" value="DISTRITO SANIT.ESP.INDÍGENA - MÉDIO SOLIMÕES"/>
+        </attvalues>
       </edge>
-      <edge id="54" source="48" target="49" weight="['2008, 2012']">
-        <attvalues/>
+      <edge id="54" source="48" target="49" weight="1" label="Anos: 2008, 2012">
+        <attvalues>
+          <attvalue for="ano_eleito" value="2008, 2012"/>
+        </attvalues>
       </edge>
-      <edge id="55" source="48" target="50" weight="['57472114200', '2018-03-23']">
-        <attvalues/>
+      <edge id="55" source="48" target="50" weight="1" label="Socio: 57472114200(2018-03-23)">
+        <attvalues>
+          <attvalue for="socio" value="57472114200"/>
+          <attvalue for="entrada" value="2018-03-23"/>
+        </attvalues>
       </edge>
-      <edge id="56" source="49" target="50" weight="['200570.0', '20180918, 20170712', 'INST.FED.DE EDUC.DO AMAZONAS/CAMPUS TABATINGA']">
-        <attvalues/>
+      <edge id="56" source="49" target="50" weight="1" label="Valor: 200570.0(20170712, 20180918) - Empresa INST.FED.DE EDUC.DO AMAZONAS/CAMPUS TABATINGA">
+        <attvalues>
+          <attvalue for="valor" value="200570.0"/>
+          <attvalue for="data_contrato" value="20170712, 20180918"/>
+          <attvalue for="nome_entidade" value="INST.FED.DE EDUC.DO AMAZONAS/CAMPUS TABATINGA"/>
+        </attvalues>
       </edge>
     </edges>
   </graph>
