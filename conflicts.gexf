@@ -1,1006 +1,2026 @@
 <gexf xmlns="http://www.gephi.org/gexf/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns0="xsi" version="1.1" ns0:schemaLocation="http://www.gephi.org/gexf/1.1draft http://gephi.org/gexf/1.1draft.xsd">
-  <meta lastmodified="2020-10-30T18:44:15.785458">
+  <meta lastmodified="2020-11-02T10:06:25.552273">
     <creator>Analiytics 29</creator>
-    <description>A graph with conflict of interests</description>
+    <description>Graph</description>
   </meta>
-  <graph defaultedgetype="undirected" mode="static" label="Graph with conflicts">
+  <graph defaultedgetype="undirected" mode="static" label="Graph">
     <attributes class="node" mode="dynamic"/>
     <attributes class="node" mode="static">
-      <attribute id="type" title="type" type="string">
+      <attribute id="fornecedor" title="fornecedor" type="string">
         <default></default>
       </attribute>
       <attribute id="nome" title="nome" type="string">
         <default></default>
       </attribute>
-      <attribute id="doc_polit" title="doc_polit" type="string">
-        <default></default>
-      </attribute>
-      <attribute id="cargos" title="cargos" type="string">
-        <default></default>
-      </attribute>
-      <attribute id="uf" title="uf" type="string">
+      <attribute id="tipo" title="tipo" type="string">
         <default></default>
       </attribute>
       <attribute id="municipio" title="municipio" type="string">
         <default></default>
       </attribute>
-      <attribute id="fornecedor" title="fornecedor" type="string">
+      <attribute id="doc_polit" title="doc_polit" type="string">
         <default></default>
       </attribute>
       <attribute id="nome_fornecedor" title="nome_fornecedor" type="string">
         <default></default>
       </attribute>
+      <attribute id="uf" title="uf" type="string">
+        <default></default>
+      </attribute>
+      <attribute id="cargos" title="cargos" type="string">
+        <default></default>
+      </attribute>
     </attributes>
     <attributes class="edge" mode="dynamic"/>
     <attributes class="edge" mode="static">
-      <attribute id="type" title="type" type="string">
-        <default></default>
-      </attribute>
-      <attribute id="ano_eleito" title="ano_eleito" type="string">
-        <default></default>
-      </attribute>
-      <attribute id="socio" title="socio" type="string">
-        <default></default>
-      </attribute>
-      <attribute id="entrada" title="entrada" type="string">
+      <attribute id="nome_entidade" title="nome_entidade" type="string">
         <default></default>
       </attribute>
       <attribute id="valor" title="valor" type="string">
         <default></default>
       </attribute>
-      <attribute id="data_contrato" title="data_contrato" type="string">
+      <attribute id="tipo" title="tipo" type="string">
         <default></default>
       </attribute>
-      <attribute id="nome_entidade" title="nome_entidade" type="string">
+      <attribute id="data_entrada_sociedade" title="data_entrada_sociedade" type="string">
+        <default></default>
+      </attribute>
+      <attribute id="doc_socio" title="doc_socio" type="string">
+        <default></default>
+      </attribute>
+      <attribute id="anos_eleito" title="anos_eleito" type="string">
+        <default></default>
+      </attribute>
+      <attribute id="source" title="source" type="string">
+        <default></default>
+      </attribute>
+      <attribute id="target" title="target" type="string">
+        <default></default>
+      </attribute>
+      <attribute id="data_contrato" title="data_contrato" type="string">
         <default></default>
       </attribute>
     </attributes>
     <nodes>
-      <node id="0" label="0">
+      <node id="0" label="MARIO RAIMUNDO DE MELO">
         <attvalues>
-          <attvalue for="type" value="POLITICO"/>
-          <attvalue for="nome" value="ROGERIO LEMOS CRUZ"/>
-          <attvalue for="doc_polit" value="36984787068"/>
-          <attvalue for="cargos" value="VEREADOR"/>
+          <attvalue for="tipo" value="POLITICO"/>
+          <attvalue for="doc_polit" value="20840071604"/>
+          <attvalue for="nome" value="MARIO RAIMUNDO DE MELO"/>
+          <attvalue for="cargos" value="VICE-PREFEITO"/>
         </attvalues>
         <viz:color r="255" g="0" b="0"/>
-        <viz:size value="1"/>
-        <viz:position x="-9.17536698142448" y="-11.498199445039381"/>
+        <viz:size value="4"/>
+        <viz:position x="-63.58033505490639" y="-24.20937483925649"/>
       </node>
-      <node id="1" label="1">
+      <node id="1" label="MG">
         <attvalues>
-          <attvalue for="type" value="LOCALIDADE"/>
-          <attvalue for="municipio" value="JAGUARAO"/>
-          <attvalue for="uf" value="RS"/>
-        </attvalues>
-        <viz:color r="0" g="255" b="0"/>
-        <viz:size value="1"/>
-        <viz:position x="-12.549255125217467" y="-9.310574277149442"/>
-      </node>
-      <node id="2" label="2">
-        <attvalues>
-          <attvalue for="type" value="EMPRESA"/>
-          <attvalue for="nome" value="EMPRESA"/>
-          <attvalue for="fornecedor" value="88413661000190"/>
-          <attvalue for="nome_fornecedor" value="SANTA CASA DE CARIDADE DE JAGUARAO"/>
-        </attvalues>
-        <viz:color r="0" g="0" b="255"/>
-        <viz:size value="1"/>
-        <viz:position x="-12.655159126066208" y="-13.360564379937816"/>
-      </node>
-      <node id="3" label="3">
-        <attvalues>
-          <attvalue for="type" value="POLITICO"/>
-          <attvalue for="nome" value="SANDROMAR EVANDRO VIEIRA"/>
-          <attvalue for="doc_polit" value="04332238630"/>
-          <attvalue for="cargos" value="VEREADOR"/>
-        </attvalues>
-        <viz:color r="255" g="0" b="0"/>
-        <viz:size value="1"/>
-        <viz:position x="-18.723913659398928" y="20.67314665222019"/>
-      </node>
-      <node id="4" label="4">
-        <attvalues>
-          <attvalue for="type" value="LOCALIDADE"/>
-          <attvalue for="municipio" value="FORMIGA"/>
+          <attvalue for="tipo" value="LOCALIDADE"/>
+          <attvalue for="municipio" value=""/>
           <attvalue for="uf" value="MG"/>
         </attvalues>
-        <viz:color r="0" g="255" b="0"/>
-        <viz:size value="1"/>
-        <viz:position x="-20.849241880070707" y="24.407878723103146"/>
+        <viz:color r="80" g="180" b="80"/>
+        <viz:size value="8"/>
+        <viz:position x="-126.30950780189538" y="-98.54510118793961"/>
       </node>
-      <node id="5" label="5">
+      <node id="2" label="BARBACENA">
         <attvalues>
-          <attvalue for="type" value="EMPRESA"/>
-          <attvalue for="nome" value="EMPRESA"/>
-          <attvalue for="fornecedor" value="13237931000150"/>
-          <attvalue for="nome_fornecedor" value="SOLUCOES LOOPING LTDA  - ME"/>
-        </attvalues>
-        <viz:color r="0" g="0" b="255"/>
-        <viz:size value="1"/>
-        <viz:position x="-16.744669847209373" y="24.10995047434664"/>
-      </node>
-      <node id="6" label="6">
-        <attvalues>
-          <attvalue for="type" value="POLITICO"/>
-          <attvalue for="nome" value="VALDECI JOSE DE LIMA"/>
-          <attvalue for="doc_polit" value="21613796153"/>
-          <attvalue for="cargos" value="VEREADOR"/>
-        </attvalues>
-        <viz:color r="255" g="0" b="0"/>
-        <viz:size value="1"/>
-        <viz:position x="44.03151265644897" y="-16.863366247731616"/>
-      </node>
-      <node id="7" label="7">
-        <attvalues>
-          <attvalue for="type" value="LOCALIDADE"/>
-          <attvalue for="municipio" value="IPORA"/>
-          <attvalue for="uf" value="GO"/>
-        </attvalues>
-        <viz:color r="0" g="255" b="0"/>
-        <viz:size value="1"/>
-        <viz:position x="47.418639347296526" y="-14.51281778301476"/>
-      </node>
-      <node id="8" label="8">
-        <attvalues>
-          <attvalue for="type" value="EMPRESA"/>
-          <attvalue for="nome" value="EMPRESA"/>
-          <attvalue for="fornecedor" value="11185178000170"/>
-          <attvalue for="nome_fornecedor" value="COOPERATIVA MISTA DOS AGRICULTORES FAMILIARES DE IPORA E REGIAO - COOMAFIR"/>
-        </attvalues>
-        <viz:color r="0" g="0" b="255"/>
-        <viz:size value="1"/>
-        <viz:position x="47.85331338635162" y="-18.63176862055016"/>
-      </node>
-      <node id="9" label="9">
-        <attvalues>
-          <attvalue for="type" value="POLITICO"/>
-          <attvalue for="nome" value="ORLANDO PEREIRA"/>
-          <attvalue for="doc_polit" value="24701610534"/>
-          <attvalue for="cargos" value="VEREADOR"/>
-        </attvalues>
-        <viz:color r="255" g="0" b="0"/>
-        <viz:size value="1"/>
-        <viz:position x="-4.985614229406152" y="8.006135892617129"/>
-      </node>
-      <node id="10" label="10">
-        <attvalues>
-          <attvalue for="type" value="LOCALIDADE"/>
-          <attvalue for="municipio" value="SALVADOR"/>
-          <attvalue for="uf" value="BA"/>
-        </attvalues>
-        <viz:color r="0" g="255" b="0"/>
-        <viz:size value="1"/>
-        <viz:position x="-1.0325408903586397" y="8.722641489363529"/>
-      </node>
-      <node id="11" label="11">
-        <attvalues>
-          <attvalue for="type" value="EMPRESA"/>
-          <attvalue for="nome" value="EMPRESA"/>
-          <attvalue for="fornecedor" value="12095751000118"/>
-          <attvalue for="nome_fornecedor" value="GTS SERVICOS GERAIS DO BRASIL LTDA. - EPP"/>
-        </attvalues>
-        <viz:color r="0" g="0" b="255"/>
-        <viz:size value="1"/>
-        <viz:position x="-2.5309608391124776" y="5.353137206715213"/>
-      </node>
-      <node id="12" label="12">
-        <attvalues>
-          <attvalue for="type" value="POLITICO"/>
-          <attvalue for="nome" value="TARCIZIO SUZART PIMENTA JUNIOR"/>
-          <attvalue for="doc_polit" value="16206690563"/>
-          <attvalue for="cargos" value="PREFEITO"/>
-        </attvalues>
-        <viz:color r="255" g="0" b="0"/>
-        <viz:size value="1"/>
-        <viz:position x="-31.933888861253333" y="-35.817188220513714"/>
-      </node>
-      <node id="13" label="13">
-        <attvalues>
-          <attvalue for="type" value="LOCALIDADE"/>
-          <attvalue for="municipio" value="FEIRA DE SANTANA"/>
-          <attvalue for="uf" value="BA"/>
-        </attvalues>
-        <viz:color r="0" g="255" b="0"/>
-        <viz:size value="1"/>
-        <viz:position x="-30.48108677063933" y="-39.662780621021625"/>
-      </node>
-      <node id="14" label="14">
-        <attvalues>
-          <attvalue for="type" value="EMPRESA"/>
-          <attvalue for="nome" value="EMPRESA"/>
-          <attvalue for="fornecedor" value="14074546000100"/>
-          <attvalue for="nome_fornecedor" value="EMEC EMPREENDIMENTOS MEDICO CIRURGICOS LTDA"/>
-        </attvalues>
-        <viz:color r="0" g="0" b="255"/>
-        <viz:size value="1"/>
-        <viz:position x="-34.55849582510627" y="-39.184024832831206"/>
-      </node>
-      <node id="15" label="15">
-        <attvalues>
-          <attvalue for="type" value="POLITICO"/>
-          <attvalue for="nome" value="WERNER REMPEL"/>
-          <attvalue for="doc_polit" value="40608131091"/>
-          <attvalue for="cargos" value="VEREADOR"/>
-        </attvalues>
-        <viz:color r="255" g="0" b="0"/>
-        <viz:size value="1"/>
-        <viz:position x="58.93720169535506" y="15.891266202973721"/>
-      </node>
-      <node id="16" label="16">
-        <attvalues>
-          <attvalue for="type" value="LOCALIDADE"/>
-          <attvalue for="municipio" value="SANTA MARIA"/>
-          <attvalue for="uf" value="RS"/>
-        </attvalues>
-        <viz:color r="0" g="255" b="0"/>
-        <viz:size value="1"/>
-        <viz:position x="54.81223742935667" y="15.767041341024497"/>
-      </node>
-      <node id="17" label="17">
-        <attvalues>
-          <attvalue for="type" value="EMPRESA"/>
-          <attvalue for="nome" value="EMPRESA"/>
-          <attvalue for="fornecedor" value="87683041000108"/>
-          <attvalue for="nome_fornecedor" value="CLINICA RENAL DE SANTA MARIA LTDA"/>
-        </attvalues>
-        <viz:color r="0" g="0" b="255"/>
-        <viz:size value="1"/>
-        <viz:position x="56.76694591250583" y="19.48700516710006"/>
-      </node>
-      <node id="18" label="18">
-        <attvalues>
-          <attvalue for="type" value="POLITICO"/>
-          <attvalue for="nome" value="EUNICE OLIVEIRA BARROS SOARES"/>
-          <attvalue for="doc_polit" value="49069780372"/>
-          <attvalue for="cargos" value="VEREADOR"/>
-        </attvalues>
-        <viz:color r="255" g="0" b="0"/>
-        <viz:size value="1"/>
-        <viz:position x="0.007266899994169768" y="0.02540015507092932"/>
-      </node>
-      <node id="19" label="19">
-        <attvalues>
-          <attvalue for="type" value="LOCALIDADE"/>
-          <attvalue for="municipio" value="PIRIPIRI"/>
-          <attvalue for="uf" value="PI"/>
-        </attvalues>
-        <viz:color r="0" g="255" b="0"/>
-        <viz:size value="1"/>
-        <viz:position x="-1.3386466332601163" y="-2.589397166398366"/>
-      </node>
-      <node id="20" label="20">
-        <attvalues>
-          <attvalue for="type" value="EMPRESA"/>
-          <attvalue for="nome" value="EMPRESA"/>
-          <attvalue for="fornecedor" value="14372311000196"/>
-          <attvalue for="nome_fornecedor" value="COOPERATIVA AGROFAMILIAR DOS FRUTOS DA TERRA"/>
-        </attvalues>
-        <viz:color r="0" g="0" b="255"/>
-        <viz:size value="1"/>
-        <viz:position x="-2.353081622870781" y="-0.11072208859424472"/>
-      </node>
-      <node id="21" label="21">
-        <attvalues>
-          <attvalue for="type" value="POLITICO"/>
-          <attvalue for="nome" value="LAZARO ROGERIO CARVALHO SOARES"/>
-          <attvalue for="doc_polit" value="55342493315"/>
-          <attvalue for="cargos" value="VEREADOR"/>
-        </attvalues>
-        <viz:color r="255" g="0" b="0"/>
-        <viz:size value="1"/>
-        <viz:position x="-4.0675994772237685" y="47.77206859704638"/>
-      </node>
-      <node id="22" label="22">
-        <attvalues>
-          <attvalue for="type" value="LOCALIDADE"/>
-          <attvalue for="municipio" value="TERESINA"/>
-          <attvalue for="uf" value="PI"/>
-        </attvalues>
-        <viz:color r="0" g="255" b="0"/>
-        <viz:size value="1"/>
-        <viz:position x="-6.550017490989516" y="53.8766087901394"/>
-      </node>
-      <node id="23" label="23">
-        <attvalues>
-          <attvalue for="type" value="EMPRESA"/>
-          <attvalue for="nome" value="EMPRESA"/>
-          <attvalue for="fornecedor" value="07087550000139"/>
-          <attvalue for="nome_fornecedor" value="CLINICA DE UROLOGIA E GINECOLOGIA - SOCIEDADE SIMPLES - EPP"/>
-        </attvalues>
-        <viz:color r="0" g="0" b="255"/>
-        <viz:size value="1"/>
-        <viz:position x="-8.101816943011801" y="47.49146464817579"/>
-      </node>
-      <node id="24" label="24">
-        <attvalues>
-          <attvalue for="type" value="POLITICO"/>
-          <attvalue for="nome" value="CARLOS ALVES DE ARAUJO FILHO"/>
-          <attvalue for="doc_polit" value="22759379353"/>
-          <attvalue for="cargos" value="VEREADOR"/>
-        </attvalues>
-        <viz:color r="255" g="0" b="0"/>
-        <viz:size value="1"/>
-        <viz:position x="-8.982527430046883" y="59.89801105761586"/>
-      </node>
-      <node id="25" label="25">
-        <attvalues>
-          <attvalue for="type" value="EMPRESA"/>
-          <attvalue for="nome" value="EMPRESA"/>
-          <attvalue for="fornecedor" value="07481906000114"/>
-          <attvalue for="nome_fornecedor" value="CLINICA SANTA FE LTDA"/>
-        </attvalues>
-        <viz:color r="0" g="0" b="255"/>
-        <viz:size value="1"/>
-        <viz:position x="-4.8941816118195645" y="60.17481704912019"/>
-      </node>
-      <node id="26" label="26">
-        <attvalues>
-          <attvalue for="type" value="POLITICO"/>
-          <attvalue for="nome" value="ANTONIO SANTOS DE AGUIAR"/>
-          <attvalue for="doc_polit" value="33378320672"/>
-          <attvalue for="cargos" value="VEREADOR"/>
-        </attvalues>
-        <viz:color r="255" g="0" b="0"/>
-        <viz:size value="1"/>
-        <viz:position x="-4.826329762790189" y="-53.78322676094064"/>
-      </node>
-      <node id="27" label="27">
-        <attvalues>
-          <attvalue for="type" value="LOCALIDADE"/>
-          <attvalue for="municipio" value="JUIZ DE FORA"/>
-          <attvalue for="uf" value="MG"/>
-        </attvalues>
-        <viz:color r="0" g="255" b="0"/>
-        <viz:size value="1"/>
-        <viz:position x="-4.861931718111801" y="-49.54765768277567"/>
-      </node>
-      <node id="28" label="28">
-        <attvalues>
-          <attvalue for="type" value="EMPRESA"/>
-          <attvalue for="nome" value="EMPRESA"/>
-          <attvalue for="fornecedor" value="17268871000193"/>
-          <attvalue for="nome_fornecedor" value="HOSPITAL ALBERT SABIN LTDA"/>
-        </attvalues>
-        <viz:color r="0" g="0" b="255"/>
-        <viz:size value="1"/>
-        <viz:position x="-8.38791964941525" y="-51.73640951436774"/>
-      </node>
-      <node id="29" label="29">
-        <attvalues>
-          <attvalue for="type" value="POLITICO"/>
-          <attvalue for="nome" value="LUIZ JOSE DOS SANTOS MONTEIRO"/>
-          <attvalue for="doc_polit" value="06159567268"/>
-          <attvalue for="cargos" value="VEREADOR"/>
-        </attvalues>
-        <viz:color r="255" g="0" b="0"/>
-        <viz:size value="1"/>
-        <viz:position x="14.459489309544944" y="-23.468247807080477"/>
-      </node>
-      <node id="30" label="30">
-        <attvalues>
-          <attvalue for="type" value="LOCALIDADE"/>
-          <attvalue for="municipio" value="MACAPA"/>
-          <attvalue for="uf" value="AP"/>
-        </attvalues>
-        <viz:color r="0" g="255" b="0"/>
-        <viz:size value="1"/>
-        <viz:position x="10.603897921026604" y="-25.116660567781814"/>
-      </node>
-      <node id="31" label="31">
-        <attvalues>
-          <attvalue for="type" value="EMPRESA"/>
-          <attvalue for="nome" value="EMPRESA"/>
-          <attvalue for="fornecedor" value="05976311000104"/>
-          <attvalue for="nome_fornecedor" value="COMPANHIA DE AGUA E ESGOTOS DO AMAPA"/>
-        </attvalues>
-        <viz:color r="0" g="0" b="255"/>
-        <viz:size value="1"/>
-        <viz:position x="11.09433995434495" y="-21.15758961612745"/>
-      </node>
-      <node id="32" label="32">
-        <attvalues>
-          <attvalue for="type" value="POLITICO"/>
-          <attvalue for="nome" value="ABEL SALVADOR MESQUITA JUNIOR"/>
-          <attvalue for="doc_polit" value="18286585291"/>
-          <attvalue for="cargos" value="VEREADOR"/>
-        </attvalues>
-        <viz:color r="255" g="0" b="0"/>
-        <viz:size value="1"/>
-        <viz:position x="-38.44022715924198" y="11.593037449126145"/>
-      </node>
-      <node id="33" label="33">
-        <attvalues>
-          <attvalue for="type" value="LOCALIDADE"/>
-          <attvalue for="municipio" value="BOA VISTA"/>
-          <attvalue for="uf" value="RR"/>
-        </attvalues>
-        <viz:color r="0" g="255" b="0"/>
-        <viz:size value="1"/>
-        <viz:position x="-41.18616807492848" y="7.586370295707559"/>
-      </node>
-      <node id="34" label="34">
-        <attvalues>
-          <attvalue for="type" value="EMPRESA"/>
-          <attvalue for="nome" value="EMPRESA"/>
-          <attvalue for="fornecedor" value="00376437000124"/>
-          <attvalue for="nome_fornecedor" value="AUTO POSTO ABEL GALINHA LIMITADA"/>
-        </attvalues>
-        <viz:color r="0" g="0" b="255"/>
-        <viz:size value="1"/>
-        <viz:position x="-35.864728336613005" y="6.752128349572635"/>
-      </node>
-      <node id="35" label="35">
-        <attvalues>
-          <attvalue for="type" value="EMPRESA"/>
-          <attvalue for="nome" value="EMPRESA"/>
-          <attvalue for="fornecedor" value="00376437000639"/>
-          <attvalue for="nome_fornecedor" value="AUTO POSTO ABEL GALINHA LIMITADA"/>
-        </attvalues>
-        <viz:color r="0" g="0" b="255"/>
-        <viz:size value="1"/>
-        <viz:position x="-43.690098630411015" y="12.413776719747586"/>
-      </node>
-      <node id="36" label="36">
-        <attvalues>
-          <attvalue for="type" value="POLITICO"/>
-          <attvalue for="nome" value="MARCIA DE SOUZA SOARES"/>
-          <attvalue for="doc_polit" value="61816981915"/>
-          <attvalue for="cargos" value="VEREADOR"/>
-        </attvalues>
-        <viz:color r="255" g="0" b="0"/>
-        <viz:size value="1"/>
-        <viz:position x="-57.33387799215592" y="-18.10317154310479"/>
-      </node>
-      <node id="37" label="37">
-        <attvalues>
-          <attvalue for="type" value="LOCALIDADE"/>
-          <attvalue for="municipio" value="CORNELIO PROCOPIO"/>
-          <attvalue for="uf" value="PR"/>
-        </attvalues>
-        <viz:color r="0" g="255" b="0"/>
-        <viz:size value="1"/>
-        <viz:position x="-53.30042170166725" y="-17.002813223444736"/>
-      </node>
-      <node id="38" label="38">
-        <attvalues>
-          <attvalue for="type" value="EMPRESA"/>
-          <attvalue for="nome" value="EMPRESA"/>
-          <attvalue for="fornecedor" value="07084096000162"/>
-          <attvalue for="nome_fornecedor" value="IMPACTO - EVENTOS E SERVICOS TERCEIRIZADOS SS LTDA - EPP"/>
-        </attvalues>
-        <viz:color r="0" g="0" b="255"/>
-        <viz:size value="1"/>
-        <viz:position x="-56.35142740891827" y="-14.093222002560651"/>
-      </node>
-      <node id="39" label="39">
-        <attvalues>
-          <attvalue for="type" value="POLITICO"/>
-          <attvalue for="nome" value="EDSON REZENDE MORAIS"/>
-          <attvalue for="doc_polit" value="13590383615"/>
-          <attvalue for="cargos" value="VEREADOR"/>
-        </attvalues>
-        <viz:color r="255" g="0" b="0"/>
-        <viz:size value="1"/>
-        <viz:position x="26.393604667342693" y="19.932205306683223"/>
-      </node>
-      <node id="40" label="40">
-        <attvalues>
-          <attvalue for="type" value="LOCALIDADE"/>
+          <attvalue for="tipo" value="LOCALIDADE"/>
           <attvalue for="municipio" value="BARBACENA"/>
           <attvalue for="uf" value="MG"/>
         </attvalues>
         <viz:color r="0" g="255" b="0"/>
-        <viz:size value="1"/>
-        <viz:position x="21.920880103780373" y="24.355238974413993"/>
+        <viz:size value="6"/>
+        <viz:position x="-46.023085811923806" y="-40.495555609801485"/>
       </node>
-      <node id="41" label="41">
+      <node id="3" label="SANTA CASA DE MISERICORDIA DE BARBACENA">
         <attvalues>
-          <attvalue for="type" value="EMPRESA"/>
-          <attvalue for="nome" value="EMPRESA"/>
-          <attvalue for="fornecedor" value="01664888000120"/>
-          <attvalue for="nome_fornecedor" value="MEDCENTER IMAGEM LTDA"/>
-        </attvalues>
-        <viz:color r="0" g="0" b="255"/>
-        <viz:size value="1"/>
-        <viz:position x="22.8675104051511" y="18.019122033057666"/>
-      </node>
-      <node id="42" label="42">
-        <attvalues>
-          <attvalue for="type" value="POLITICO"/>
-          <attvalue for="nome" value="MARIO RAIMUNDO DE MELO"/>
-          <attvalue for="doc_polit" value="20840071604"/>
-          <attvalue for="cargos" value="VICE-PREFEITO"/>
-        </attvalues>
-        <viz:color r="255" g="0" b="0"/>
-        <viz:size value="1"/>
-        <viz:position x="20.89393727729691" y="30.795375998324324"/>
-      </node>
-      <node id="43" label="43">
-        <attvalues>
-          <attvalue for="type" value="EMPRESA"/>
-          <attvalue for="nome" value="EMPRESA"/>
+          <attvalue for="tipo" value="EMPRESA"/>
           <attvalue for="fornecedor" value="17082892000110"/>
           <attvalue for="nome_fornecedor" value="SANTA CASA DE MISERICORDIA DE BARBACENA"/>
         </attvalues>
         <viz:color r="0" g="0" b="255"/>
-        <viz:size value="1"/>
-        <viz:position x="17.392030940504522" y="28.723682718659013"/>
+        <viz:size value="4"/>
+        <viz:position x="-81.32490519992706" y="-53.42587711568186"/>
       </node>
-      <node id="44" label="44">
+      <node id="4" label="SANDROMAR EVANDRO VIEIRA">
         <attvalues>
-          <attvalue for="type" value="POLITICO"/>
-          <attvalue for="nome" value="ANTENOR MOREIRA PAZ"/>
-          <attvalue for="doc_polit" value="23246766304"/>
+          <attvalue for="tipo" value="POLITICO"/>
+          <attvalue for="doc_polit" value="04332238630"/>
+          <attvalue for="nome" value="SANDROMAR EVANDRO VIEIRA"/>
+          <attvalue for="cargos" value="VEREADOR"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="-88.50940182589349" y="-219.08842373504595"/>
+      </node>
+      <node id="5" label="FORMIGA">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE"/>
+          <attvalue for="municipio" value="FORMIGA"/>
+          <attvalue for="uf" value="MG"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="0"/>
+        <viz:size value="6"/>
+        <viz:position x="-102.97623157684556" y="-188.22083416245812"/>
+      </node>
+      <node id="6" label="SOLUCOES LOOPING LTDA  - ME">
+        <attvalues>
+          <attvalue for="tipo" value="EMPRESA"/>
+          <attvalue for="fornecedor" value="13237931000150"/>
+          <attvalue for="nome_fornecedor" value="SOLUCOES LOOPING LTDA  - ME"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="-101.60520718713644" y="-222.8102129097884"/>
+      </node>
+      <node id="7" label="LUIZ JOSE DOS SANTOS MONTEIRO">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO"/>
+          <attvalue for="doc_polit" value="06159567268"/>
+          <attvalue for="nome" value="LUIZ JOSE DOS SANTOS MONTEIRO"/>
+          <attvalue for="cargos" value="VEREADOR"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="-663.3305603764996" y="865.2248237213659"/>
+      </node>
+      <node id="8" label="AP">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE"/>
+          <attvalue for="municipio" value=""/>
+          <attvalue for="uf" value="AP"/>
+        </attvalues>
+        <viz:color r="80" g="180" b="80"/>
+        <viz:size value="8"/>
+        <viz:position x="-634.6740542924057" y="893.0473028501722"/>
+      </node>
+      <node id="9" label="MACAPA">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE"/>
+          <attvalue for="municipio" value="MACAPA"/>
+          <attvalue for="uf" value="AP"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="0"/>
+        <viz:size value="6"/>
+        <viz:position x="-648.892312299802" y="877.7585055369331"/>
+      </node>
+      <node id="10" label="COMPANHIA DE AGUA E ESGOTOS DO AMAPA">
+        <attvalues>
+          <attvalue for="tipo" value="EMPRESA"/>
+          <attvalue for="fornecedor" value="05976311000104"/>
+          <attvalue for="nome_fornecedor" value="COMPANHIA DE AGUA E ESGOTOS DO AMAPA"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="-650.302155782337" y="856.8111389411816"/>
+      </node>
+      <node id="11" label="EDSON REZENDE MORAIS">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO"/>
+          <attvalue for="doc_polit" value="13590383615"/>
+          <attvalue for="nome" value="EDSON REZENDE MORAIS"/>
+          <attvalue for="cargos" value="VEREADOR"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="-10.447070502093428" y="-25.297871293979867"/>
+      </node>
+      <node id="12" label="MEDCENTER IMAGEM LTDA">
+        <attvalues>
+          <attvalue for="tipo" value="EMPRESA"/>
+          <attvalue for="fornecedor" value="01664888000120"/>
+          <attvalue for="nome_fornecedor" value="MEDCENTER IMAGEM LTDA"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="-14.154118394312576" y="-13.000784303306464"/>
+      </node>
+      <node id="13" label="TARCIZIO SUZART PIMENTA JUNIOR">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO"/>
+          <attvalue for="doc_polit" value="16206690563"/>
+          <attvalue for="nome" value="TARCIZIO SUZART PIMENTA JUNIOR"/>
           <attvalue for="cargos" value="PREFEITO"/>
         </attvalues>
         <viz:color r="255" g="0" b="0"/>
-        <viz:size value="1"/>
-        <viz:position x="7.692467970737454" y="0.20170078418249604"/>
+        <viz:size value="4"/>
+        <viz:position x="85.18209972810439" y="96.80321410821729"/>
       </node>
-      <node id="45" label="45">
+      <node id="14" label="BA">
         <attvalues>
-          <attvalue for="type" value="LOCALIDADE"/>
+          <attvalue for="tipo" value="LOCALIDADE"/>
+          <attvalue for="municipio" value=""/>
+          <attvalue for="uf" value="BA"/>
+        </attvalues>
+        <viz:color r="80" g="180" b="80"/>
+        <viz:size value="8"/>
+        <viz:position x="105.33079575015537" y="163.7613663436311"/>
+      </node>
+      <node id="15" label="FEIRA DE SANTANA">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE"/>
+          <attvalue for="municipio" value="FEIRA DE SANTANA"/>
+          <attvalue for="uf" value="BA"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="0"/>
+        <viz:size value="6"/>
+        <viz:position x="101.21858269532794" y="116.74894666486044"/>
+      </node>
+      <node id="16" label="EMEC EMPREENDIMENTOS MEDICO CIRURGICOS LTDA">
+        <attvalues>
+          <attvalue for="tipo" value="EMPRESA"/>
+          <attvalue for="fornecedor" value="14074546000100"/>
+          <attvalue for="nome_fornecedor" value="EMEC EMPREENDIMENTOS MEDICO CIRURGICOS LTDA"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="80.41432099248411" y="126.24252955128658"/>
+      </node>
+      <node id="17" label="ANTONIO SANTOS DE AGUIAR">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO"/>
+          <attvalue for="doc_polit" value="33378320672"/>
+          <attvalue for="nome" value="ANTONIO SANTOS DE AGUIAR"/>
+          <attvalue for="cargos" value="VEREADOR"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="-257.8063758676009" y="-119.34519596178062"/>
+      </node>
+      <node id="18" label="JUIZ DE FORA">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE"/>
+          <attvalue for="municipio" value="JUIZ DE FORA"/>
+          <attvalue for="uf" value="MG"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="0"/>
+        <viz:size value="6"/>
+        <viz:position x="-222.0648379003653" y="-118.7282601888854"/>
+      </node>
+      <node id="19" label="HOSPITAL ALBERT SABIN LTDA">
+        <attvalues>
+          <attvalue for="tipo" value="EMPRESA"/>
+          <attvalue for="fornecedor" value="17268871000193"/>
+          <attvalue for="nome_fornecedor" value="HOSPITAL ALBERT SABIN LTDA"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="-255.13965981678953" y="-132.61728748372678"/>
+      </node>
+      <node id="20" label="ABEL SALVADOR MESQUITA JUNIOR">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO"/>
+          <attvalue for="doc_polit" value="18286585291"/>
+          <attvalue for="nome" value="ABEL SALVADOR MESQUITA JUNIOR"/>
+          <attvalue for="cargos" value="VEREADOR"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="-425.65326231673976" y="-746.5955607227692"/>
+      </node>
+      <node id="21" label="RR">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE"/>
+          <attvalue for="municipio" value=""/>
+          <attvalue for="uf" value="RR"/>
+        </attvalues>
+        <viz:color r="80" g="180" b="80"/>
+        <viz:size value="8"/>
+        <viz:position x="-382.7647752329773" y="-728.6377147439302"/>
+      </node>
+      <node id="22" label="BOA VISTA">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE"/>
+          <attvalue for="municipio" value="BOA VISTA"/>
+          <attvalue for="uf" value="RR"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="0"/>
+        <viz:size value="6"/>
+        <viz:position x="-416.9921812345899" y="-731.029953494573"/>
+      </node>
+      <node id="23" label="AUTO POSTO ABEL GALINHA LIMITADA">
+        <attvalues>
+          <attvalue for="tipo" value="EMPRESA"/>
+          <attvalue for="fornecedor" value="00376437000124"/>
+          <attvalue for="nome_fornecedor" value="AUTO POSTO ABEL GALINHA LIMITADA"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="-395.8173820661742" y="-755.6917984233272"/>
+      </node>
+      <node id="24" label="AUTO POSTO ABEL GALINHA LIMITADA">
+        <attvalues>
+          <attvalue for="tipo" value="EMPRESA"/>
+          <attvalue for="fornecedor" value="00376437000639"/>
+          <attvalue for="nome_fornecedor" value="AUTO POSTO ABEL GALINHA LIMITADA"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="-400.85589081068366" y="-716.4767280718526"/>
+      </node>
+      <node id="25" label="VALDECI JOSE DE LIMA">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO"/>
+          <attvalue for="doc_polit" value="21613796153"/>
+          <attvalue for="nome" value="VALDECI JOSE DE LIMA"/>
+          <attvalue for="cargos" value="VEREADOR"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="-218.3802578800485" y="548.4035154587161"/>
+      </node>
+      <node id="26" label="GO">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE"/>
+          <attvalue for="municipio" value=""/>
+          <attvalue for="uf" value="GO"/>
+        </attvalues>
+        <viz:color r="80" g="180" b="80"/>
+        <viz:size value="8"/>
+        <viz:position x="-222.88832061741846" y="510.78353630453154"/>
+      </node>
+      <node id="27" label="IPORA">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE"/>
+          <attvalue for="municipio" value="IPORA"/>
+          <attvalue for="uf" value="GO"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="0"/>
+        <viz:size value="6"/>
+        <viz:position x="-224.21924258231562" y="527.2859960416123"/>
+      </node>
+      <node id="28" label="COOPERATIVA MISTA DOS AGRICULTORES FAMILIARES DE IPORA E REGIAO - COOMAFIR">
+        <attvalues>
+          <attvalue for="tipo" value="EMPRESA"/>
+          <attvalue for="fornecedor" value="11185178000170"/>
+          <attvalue for="nome_fornecedor" value="COOPERATIVA MISTA DOS AGRICULTORES FAMILIARES DE IPORA E REGIAO - COOMAFIR"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="-234.6415829779751" y="546.3806417844842"/>
+      </node>
+      <node id="29" label="CARLOS ALVES DE ARAUJO FILHO">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO"/>
+          <attvalue for="doc_polit" value="22759379353"/>
+          <attvalue for="nome" value="CARLOS ALVES DE ARAUJO FILHO"/>
+          <attvalue for="cargos" value="VEREADOR"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="693.6241685223303" y="751.1965227702659"/>
+      </node>
+      <node id="30" label="PI">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE"/>
+          <attvalue for="municipio" value=""/>
+          <attvalue for="uf" value="PI"/>
+        </attvalues>
+        <viz:color r="80" g="180" b="80"/>
+        <viz:size value="8"/>
+        <viz:position x="603.1052108910368" y="750.364843382001"/>
+      </node>
+      <node id="31" label="TERESINA">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE"/>
+          <attvalue for="municipio" value="TERESINA"/>
+          <attvalue for="uf" value="PI"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="0"/>
+        <viz:size value="6"/>
+        <viz:position x="662.1967168354196" y="734.4441558184448"/>
+      </node>
+      <node id="32" label="CLINICA SANTA FE LTDA">
+        <attvalues>
+          <attvalue for="tipo" value="EMPRESA"/>
+          <attvalue for="fornecedor" value="07481906000114"/>
+          <attvalue for="nome_fornecedor" value="CLINICA SANTA FE LTDA"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="683.4566253911947" y="759.6978574934848"/>
+      </node>
+      <node id="33" label="ANTENOR MOREIRA PAZ">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO"/>
+          <attvalue for="doc_polit" value="23246766304"/>
+          <attvalue for="nome" value="ANTENOR MOREIRA PAZ"/>
+          <attvalue for="cargos" value="PREFEITO"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="513.2748256039193" y="285.96128275759287"/>
+      </node>
+      <node id="34" label="AM">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE"/>
+          <attvalue for="municipio" value=""/>
+          <attvalue for="uf" value="AM"/>
+        </attvalues>
+        <viz:color r="80" g="180" b="80"/>
+        <viz:size value="8"/>
+        <viz:position x="582.7476344863708" y="202.23152223875735"/>
+      </node>
+      <node id="35" label="TEFE">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE"/>
           <attvalue for="municipio" value="TEFE"/>
           <attvalue for="uf" value="AM"/>
         </attvalues>
         <viz:color r="0" g="255" b="0"/>
-        <viz:size value="1"/>
-        <viz:position x="9.05009148985392" y="-4.309732615047762"/>
+        <viz:size value="6"/>
+        <viz:position x="535.8555056362962" y="258.7280366730639"/>
       </node>
-      <node id="46" label="46">
+      <node id="36" label="TEFE COMERCIO DE MATERIAL DE CONSTRUCAO LTDA  - ME">
         <attvalues>
-          <attvalue for="type" value="EMPRESA"/>
-          <attvalue for="nome" value="EMPRESA"/>
-          <attvalue for="fornecedor" value="02361352000106"/>
-          <attvalue for="nome_fornecedor" value="CHIBATAO COMERCIO VAREJISTA DE COMBUSTIVEIS E LUBRIFICANTES LTDA - EPP"/>
-        </attvalues>
-        <viz:color r="0" g="0" b="255"/>
-        <viz:size value="1"/>
-        <viz:position x="4.597130527445986" y="-3.1766364153038955"/>
-      </node>
-      <node id="47" label="47">
-        <attvalues>
-          <attvalue for="type" value="EMPRESA"/>
-          <attvalue for="nome" value="EMPRESA"/>
+          <attvalue for="tipo" value="EMPRESA"/>
           <attvalue for="fornecedor" value="10720755000114"/>
           <attvalue for="nome_fornecedor" value="TEFE COMERCIO DE MATERIAL DE CONSTRUCAO LTDA  - ME"/>
         </attvalues>
         <viz:color r="0" g="0" b="255"/>
-        <viz:size value="1"/>
-        <viz:position x="12.522343038690018" y="-1.022875275036053"/>
+        <viz:size value="4"/>
+        <viz:position x="506.5321966918834" y="267.1489580656402"/>
       </node>
-      <node id="48" label="48">
+      <node id="37" label="CHIBATAO COMERCIO VAREJISTA DE COMBUSTIVEIS E LUBRIFICANTES LTDA - EPP">
         <attvalues>
-          <attvalue for="type" value="POLITICO"/>
-          <attvalue for="nome" value="ALDENIZIA SOUZA CORDOVIL"/>
-          <attvalue for="doc_polit" value="57472114200"/>
+          <attvalue for="tipo" value="EMPRESA"/>
+          <attvalue for="fornecedor" value="02361352000106"/>
+          <attvalue for="nome_fornecedor" value="CHIBATAO COMERCIO VAREJISTA DE COMBUSTIVEIS E LUBRIFICANTES LTDA - EPP"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="531.1314864688218" y="290.2351531465507"/>
+      </node>
+      <node id="38" label="ORLANDO PEREIRA">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO"/>
+          <attvalue for="doc_polit" value="24701610534"/>
+          <attvalue for="nome" value="ORLANDO PEREIRA"/>
           <attvalue for="cargos" value="VEREADOR"/>
         </attvalues>
         <viz:color r="255" g="0" b="0"/>
-        <viz:size value="1"/>
-        <viz:position x="28.161715950625194" y="-48.12986395252334"/>
+        <viz:size value="4"/>
+        <viz:position x="195.63994840283942" y="192.20929022635175"/>
       </node>
-      <node id="49" label="49">
+      <node id="39" label="SALVADOR">
         <attvalues>
-          <attvalue for="type" value="LOCALIDADE"/>
+          <attvalue for="tipo" value="LOCALIDADE"/>
+          <attvalue for="municipio" value="SALVADOR"/>
+          <attvalue for="uf" value="BA"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="0"/>
+        <viz:size value="6"/>
+        <viz:position x="170.072312499914" y="179.42714395498956"/>
+      </node>
+      <node id="40" label="GTS SERVICOS GERAIS DO BRASIL LTDA. - EPP">
+        <attvalues>
+          <attvalue for="tipo" value="EMPRESA"/>
+          <attvalue for="fornecedor" value="12095751000118"/>
+          <attvalue for="nome_fornecedor" value="GTS SERVICOS GERAIS DO BRASIL LTDA. - EPP"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="198.77753787757018" y="178.42193773522803"/>
+      </node>
+      <node id="41" label="ROGERIO LEMOS CRUZ">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO"/>
+          <attvalue for="doc_polit" value="36984787068"/>
+          <attvalue for="nome" value="ROGERIO LEMOS CRUZ"/>
+          <attvalue for="cargos" value="VEREADOR"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="-802.2575314897095" y="476.29722098196856"/>
+      </node>
+      <node id="42" label="RS">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE"/>
+          <attvalue for="municipio" value=""/>
+          <attvalue for="uf" value="RS"/>
+        </attvalues>
+        <viz:color r="80" g="180" b="80"/>
+        <viz:size value="8"/>
+        <viz:position x="-741.7605231027512" y="505.7318829460632"/>
+      </node>
+      <node id="43" label="JAGUARAO">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE"/>
+          <attvalue for="municipio" value="JAGUARAO"/>
+          <attvalue for="uf" value="RS"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="0"/>
+        <viz:size value="6"/>
+        <viz:position x="-779.9805605051446" y="484.11595835957456"/>
+      </node>
+      <node id="44" label="SANTA CASA DE CARIDADE DE JAGUARAO">
+        <attvalues>
+          <attvalue for="tipo" value="EMPRESA"/>
+          <attvalue for="fornecedor" value="88413661000190"/>
+          <attvalue for="nome_fornecedor" value="SANTA CASA DE CARIDADE DE JAGUARAO"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="-794.5018029561128" y="463.86887190356026"/>
+      </node>
+      <node id="45" label="WERNER REMPEL">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO"/>
+          <attvalue for="doc_polit" value="40608131091"/>
+          <attvalue for="nome" value="WERNER REMPEL"/>
+          <attvalue for="cargos" value="VEREADOR"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="-685.53154580448" y="546.2716731456744"/>
+      </node>
+      <node id="46" label="SANTA MARIA">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE"/>
+          <attvalue for="municipio" value="SANTA MARIA"/>
+          <attvalue for="uf" value="RS"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="0"/>
+        <viz:size value="6"/>
+        <viz:position x="-703.7289126720029" y="526.5132263171178"/>
+      </node>
+      <node id="47" label="CLINICA RENAL DE SANTA MARIA LTDA">
+        <attvalues>
+          <attvalue for="tipo" value="EMPRESA"/>
+          <attvalue for="fornecedor" value="87683041000108"/>
+          <attvalue for="nome_fornecedor" value="CLINICA RENAL DE SANTA MARIA LTDA"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="-677.2934924113774" y="532.3223211344978"/>
+      </node>
+      <node id="48" label="EUNICE OLIVEIRA BARROS SOARES">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO"/>
+          <attvalue for="doc_polit" value="49069780372"/>
+          <attvalue for="nome" value="EUNICE OLIVEIRA BARROS SOARES"/>
+          <attvalue for="cargos" value="VEREADOR"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="523.2300074562764" y="761.4754059225925"/>
+      </node>
+      <node id="49" label="PIRIPIRI">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE"/>
+          <attvalue for="municipio" value="PIRIPIRI"/>
+          <attvalue for="uf" value="PI"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="0"/>
+        <viz:size value="6"/>
+        <viz:position x="551.2342127087007" y="763.8882018744507"/>
+      </node>
+      <node id="50" label="COOPERATIVA AGROFAMILIAR DOS FRUTOS DA TERRA">
+        <attvalues>
+          <attvalue for="tipo" value="EMPRESA"/>
+          <attvalue for="fornecedor" value="14372311000196"/>
+          <attvalue for="nome_fornecedor" value="COOPERATIVA AGROFAMILIAR DOS FRUTOS DA TERRA"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="526.7805916054024" y="775.8407985418118"/>
+      </node>
+      <node id="51" label="LAZARO ROGERIO CARVALHO SOARES">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO"/>
+          <attvalue for="doc_polit" value="55342493315"/>
+          <attvalue for="nome" value="LAZARO ROGERIO CARVALHO SOARES"/>
+          <attvalue for="cargos" value="VEREADOR"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="678.8610069079118" y="705.0007081356238"/>
+      </node>
+      <node id="52" label="CLINICA DE UROLOGIA E GINECOLOGIA - SOCIEDADE SIMPLES - EPP">
+        <attvalues>
+          <attvalue for="tipo" value="EMPRESA"/>
+          <attvalue for="fornecedor" value="07087550000139"/>
+          <attvalue for="nome_fornecedor" value="CLINICA DE UROLOGIA E GINECOLOGIA - SOCIEDADE SIMPLES - EPP"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="664.0966205069994" y="701.8994358910218"/>
+      </node>
+      <node id="53" label="ALDENIZIA SOUZA CORDOVIL">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO"/>
+          <attvalue for="doc_polit" value="57472114200"/>
+          <attvalue for="nome" value="ALDENIZIA SOUZA CORDOVIL"/>
+          <attvalue for="cargos" value="VEREADOR"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="618.4169680162402" y="116.05636440283148"/>
+      </node>
+      <node id="54" label="TABATINGA">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE"/>
           <attvalue for="municipio" value="TABATINGA"/>
           <attvalue for="uf" value="AM"/>
         </attvalues>
         <viz:color r="0" g="255" b="0"/>
-        <viz:size value="1"/>
-        <viz:position x="25.157855314088923" y="-51.05248128270129"/>
+        <viz:size value="6"/>
+        <viz:position x="603.3160640949001" y="141.52343385699797"/>
       </node>
-      <node id="50" label="50">
+      <node id="55" label="ALDENIZIA SOUZA CORDOVIL GURGEL - EPP">
         <attvalues>
-          <attvalue for="type" value="EMPRESA"/>
-          <attvalue for="nome" value="EMPRESA"/>
+          <attvalue for="tipo" value="EMPRESA"/>
           <attvalue for="fornecedor" value="02460332000184"/>
           <attvalue for="nome_fornecedor" value="ALDENIZIA SOUZA CORDOVIL GURGEL - EPP"/>
         </attvalues>
         <viz:color r="0" g="0" b="255"/>
-        <viz:size value="1"/>
-        <viz:position x="29.158427973670467" y="-52.171819319289405"/>
+        <viz:size value="4"/>
+        <viz:position x="603.537129321898" y="111.36424534777046"/>
+      </node>
+      <node id="56" label="MARCIA DE SOUZA SOARES">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO"/>
+          <attvalue for="doc_polit" value="61816981915"/>
+          <attvalue for="nome" value="MARCIA DE SOUZA SOARES"/>
+          <attvalue for="cargos" value="VEREADOR"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="928.06887349929" y="-396.55242763459194"/>
+      </node>
+      <node id="57" label="PR">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE"/>
+          <attvalue for="municipio" value=""/>
+          <attvalue for="uf" value="PR"/>
+        </attvalues>
+        <viz:color r="80" g="180" b="80"/>
+        <viz:size value="8"/>
+        <viz:position x="936.3750338596584" y="-330.1818348303211"/>
+      </node>
+      <node id="58" label="CORNELIO PROCOPIO">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE"/>
+          <attvalue for="municipio" value="CORNELIO PROCOPIO"/>
+          <attvalue for="uf" value="PR"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="0"/>
+        <viz:size value="6"/>
+        <viz:position x="928.2073361322953" y="-372.58323794923444"/>
+      </node>
+      <node id="59" label="IMPACTO - EVENTOS E SERVICOS TERCEIRIZADOS SS LTDA - EPP">
+        <attvalues>
+          <attvalue for="tipo" value="EMPRESA"/>
+          <attvalue for="fornecedor" value="07084096000162"/>
+          <attvalue for="nome_fornecedor" value="IMPACTO - EVENTOS E SERVICOS TERCEIRIZADOS SS LTDA - EPP"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="912.7241581826116" y="-393.7031433234417"/>
+      </node>
+      <node id="60" label="BONIFACIO JOSE TAMM DE ANDRADA">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO"/>
+          <attvalue for="doc_polit" value="00352748672"/>
+          <attvalue for="nome" value="BONIFACIO JOSE TAMM DE ANDRADA"/>
+          <attvalue for="cargos" value="DEPUTADO FEDERAL"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="-98.94706606708554" y="-71.684283123201"/>
+      </node>
+      <node id="61" label="IGOR TARCIANO TIMO">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO"/>
+          <attvalue for="doc_polit" value="01374904619"/>
+          <attvalue for="nome" value="IGOR TARCIANO TIMO"/>
+          <attvalue for="cargos" value="DEPUTADO FEDERAL"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="-146.24001810992291" y="-131.36526827367908"/>
+      </node>
+      <node id="62" label="TBI SEGURANCA EIRELI">
+        <attvalues>
+          <attvalue for="tipo" value="EMPRESA"/>
+          <attvalue for="fornecedor" value="07534224000122"/>
+          <attvalue for="nome_fornecedor" value="TBI SEGURANCA EIRELI"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="-130.56318515997762" y="-134.95620484320884"/>
+      </node>
+      <node id="63" label="SCHARIFF MOYSES">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO"/>
+          <attvalue for="doc_polit" value="01469355787"/>
+          <attvalue for="nome" value="SCHARIFF MOYSES"/>
+          <attvalue for="cargos" value="2º SUPLENTE"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="-577.1806955051875" y="245.17567421147547"/>
+      </node>
+      <node id="64" label="ES">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE"/>
+          <attvalue for="municipio" value=""/>
+          <attvalue for="uf" value="ES"/>
+        </attvalues>
+        <viz:color r="80" g="180" b="80"/>
+        <viz:size value="8"/>
+        <viz:position x="-564.7202465180626" y="233.08427895286155"/>
+      </node>
+      <node id="65" label="CIRURGIOES CARDIOVASCULARES ASSOCIADOS LTDA">
+        <attvalues>
+          <attvalue for="tipo" value="EMPRESA"/>
+          <attvalue for="fornecedor" value="16957263000123"/>
+          <attvalue for="nome_fornecedor" value="CIRURGIOES CARDIOVASCULARES ASSOCIADOS LTDA"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="-581.5671469451887" y="228.29860845145564"/>
+      </node>
+      <node id="66" label="RODRIGO CAVALCANTI NOVAES">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO"/>
+          <attvalue for="doc_polit" value="03547355435"/>
+          <attvalue for="nome" value="RODRIGO CAVALCANTI NOVAES"/>
+          <attvalue for="cargos" value="DEPUTADO ESTADUAL"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="176.08342650935083" y="-716.0878479321308"/>
+      </node>
+      <node id="67" label="PE">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE"/>
+          <attvalue for="municipio" value=""/>
+          <attvalue for="uf" value="PE"/>
+        </attvalues>
+        <viz:color r="80" g="180" b="80"/>
+        <viz:size value="8"/>
+        <viz:position x="202.04601517500558" y="-714.9266424702233"/>
+      </node>
+      <node id="68" label="EMPRESA DE TURISMO DE PERNAMBUCO GOVERNADOR EDUARDO CAMPOS - EMPETUR">
+        <attvalues>
+          <attvalue for="tipo" value="EMPRESA"/>
+          <attvalue for="fornecedor" value="10931533000140"/>
+          <attvalue for="nome_fornecedor" value="EMPRESA DE TURISMO DE PERNAMBUCO GOVERNADOR EDUARDO CAMPOS - EMPETUR"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="180.88614892123337" y="-730.1132360702434"/>
+      </node>
+      <node id="69" label="EVANDRO BUQUERA DE FREITAS OLIVEIRA JUNIOR">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO"/>
+          <attvalue for="doc_polit" value="04810363937"/>
+          <attvalue for="nome" value="EVANDRO BUQUERA DE FREITAS OLIVEIRA JUNIOR"/>
+          <attvalue for="cargos" value="DEPUTADO ESTADUAL"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="930.0877286375631" y="-303.82883015176463"/>
+      </node>
+      <node id="70" label="UNIFAMMA - UNIAO DE FACULDADES METROPOLITANAS DE MARINGA LTDA">
+        <attvalues>
+          <attvalue for="tipo" value="EMPRESA"/>
+          <attvalue for="fornecedor" value="03125509000159"/>
+          <attvalue for="nome_fornecedor" value="UNIFAMMA - UNIAO DE FACULDADES METROPOLITANAS DE MARINGA LTDA"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="945.5002500080549" y="-306.18656741311565"/>
+      </node>
+      <node id="71" label="ROBERTO PEREIRA DE BRITTO">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO"/>
+          <attvalue for="doc_polit" value="11257741500"/>
+          <attvalue for="nome" value="ROBERTO PEREIRA DE BRITTO"/>
+          <attvalue for="cargos" value="DEPUTADO FEDERAL"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="101.71237191726978" y="200.46082377428746"/>
+      </node>
+      <node id="72" label="EMPRESA GRAFICA DA BAHIA">
+        <attvalues>
+          <attvalue for="tipo" value="EMPRESA"/>
+          <attvalue for="fornecedor" value="15257819000106"/>
+          <attvalue for="nome_fornecedor" value="EMPRESA GRAFICA DA BAHIA"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="86.41496057916765" y="197.52346432327073"/>
+      </node>
+      <node id="73" label="PARSIFAL DE JESUS PONTES">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO"/>
+          <attvalue for="doc_polit" value="12439444200"/>
+          <attvalue for="nome" value="PARSIFAL DE JESUS PONTES"/>
+          <attvalue for="cargos" value="DEPUTADO ESTADUAL"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="-836.5834003405756" y="-113.19458839283445"/>
+      </node>
+      <node id="74" label="PA">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE"/>
+          <attvalue for="municipio" value=""/>
+          <attvalue for="uf" value="PA"/>
+        </attvalues>
+        <viz:color r="80" g="180" b="80"/>
+        <viz:size value="8"/>
+        <viz:position x="-824.6363867986464" y="-88.41574429785405"/>
+      </node>
+      <node id="75" label="COMPANHIA DOCAS DO PARA">
+        <attvalues>
+          <attvalue for="tipo" value="EMPRESA"/>
+          <attvalue for="fornecedor" value="04933552000103"/>
+          <attvalue for="nome_fornecedor" value="COMPANHIA DOCAS DO PARA"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="-847.4219265645465" y="-102.38698437258752"/>
+      </node>
+      <node id="76" label="RENATO COZZOLINO HARB">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO"/>
+          <attvalue for="doc_polit" value="14617603727"/>
+          <attvalue for="nome" value="RENATO COZZOLINO HARB"/>
+          <attvalue for="cargos" value="DEPUTADO ESTADUAL"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="575.8024307456615" y="-644.0490554705184"/>
+      </node>
+      <node id="77" label="RJ">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE"/>
+          <attvalue for="municipio" value=""/>
+          <attvalue for="uf" value="RJ"/>
+        </attvalues>
+        <viz:color r="80" g="180" b="80"/>
+        <viz:size value="8"/>
+        <viz:position x="571.3245731878203" y="-627.0770295035175"/>
+      </node>
+      <node id="78" label="POSTO FRAGOSO LTDA">
+        <attvalues>
+          <attvalue for="tipo" value="EMPRESA"/>
+          <attvalue for="fornecedor" value="28838167000145"/>
+          <attvalue for="nome_fornecedor" value="POSTO FRAGOSO LTDA"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="588.1157254914694" y="-631.7698151876801"/>
+      </node>
+      <node id="79" label="TARCIZIO SUZART PIMENTA JUNIOR">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO"/>
+          <attvalue for="doc_polit" value="16206690563"/>
+          <attvalue for="nome" value="TARCIZIO SUZART PIMENTA JUNIOR"/>
+          <attvalue for="cargos" value="DEPUTADO ESTADUAL"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="75.30122176483233" y="150.05740338076833"/>
+      </node>
+      <node id="80" label="LAERCIO JOSE DE OLIVEIRA">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO"/>
+          <attvalue for="doc_polit" value="16853881400"/>
+          <attvalue for="nome" value="LAERCIO JOSE DE OLIVEIRA"/>
+          <attvalue for="cargos" value="DEPUTADO FEDERAL"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="-861.714956813671" y="-596.251259282548"/>
+      </node>
+      <node id="81" label="SE">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE"/>
+          <attvalue for="municipio" value=""/>
+          <attvalue for="uf" value="SE"/>
+        </attvalues>
+        <viz:color r="80" g="180" b="80"/>
+        <viz:size value="8"/>
+        <viz:position x="-845.0743367521018" y="-601.517531765633"/>
+      </node>
+      <node id="82" label="FRANCA - SERVICOS DE VIGILANCIA E SEGURANCA PATRIMONIAL LTDA.">
+        <attvalues>
+          <attvalue for="tipo" value="EMPRESA"/>
+          <attvalue for="fornecedor" value="32834491000162"/>
+          <attvalue for="nome_fornecedor" value="FRANCA - SERVICOS DE VIGILANCIA E SEGURANCA PATRIMONIAL LTDA."/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="-857.9575284280993" y="-613.2532242706143"/>
+      </node>
+      <node id="83" label="HELIO GOMES ALVES">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO"/>
+          <attvalue for="doc_polit" value="16928970634"/>
+          <attvalue for="nome" value="HELIO GOMES ALVES"/>
+          <attvalue for="cargos" value="DEPUTADO ESTADUAL"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="-162.63226737067941" y="-80.60387496304041"/>
+      </node>
+      <node id="84" label="BIGCARD ADMINISTRADORA DE CONVENIOS E SERVICOS LTDA">
+        <attvalues>
+          <attvalue for="tipo" value="EMPRESA"/>
+          <attvalue for="fornecedor" value="04627085000193"/>
+          <attvalue for="nome_fornecedor" value="BIGCARD ADMINISTRADORA DE CONVENIOS E SERVICOS LTDA"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="-154.38281295404022" y="-67.49351142938998"/>
+      </node>
+      <node id="85" label="ABEL SALVADOR MESQUITA JUNIOR">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO"/>
+          <attvalue for="doc_polit" value="18286585291"/>
+          <attvalue for="nome" value="ABEL SALVADOR MESQUITA JUNIOR"/>
+          <attvalue for="cargos" value="DEPUTADO FEDERAL"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="-369.1310071975958" y="-740.197639154329"/>
+      </node>
+      <node id="86" label="FAGNER CALEGARIO DO NASCIMENTO">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO"/>
+          <attvalue for="doc_polit" value="51639556249"/>
+          <attvalue for="nome" value="FAGNER CALEGARIO DO NASCIMENTO"/>
+          <attvalue for="cargos" value="DEPUTADO ESTADUAL"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="286.5616461045369" y="-1022.7619196730277"/>
+      </node>
+      <node id="87" label="AC">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE"/>
+          <attvalue for="municipio" value=""/>
+          <attvalue for="uf" value="AC"/>
+        </attvalues>
+        <viz:color r="80" g="180" b="80"/>
+        <viz:size value="8"/>
+        <viz:position x="271.3108406301325" y="-1013.9712187589164"/>
+      </node>
+      <node id="88" label="CALEGARIOX SERVICOS E CORRETAGEM DE SEGUROS LTDA - EPP">
+        <attvalues>
+          <attvalue for="tipo" value="EMPRESA"/>
+          <attvalue for="fornecedor" value="06232568000114"/>
+          <attvalue for="nome_fornecedor" value="CALEGARIOX SERVICOS E CORRETAGEM DE SEGUROS LTDA - EPP"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="271.35647453434586" y="-1031.1681696267717"/>
+      </node>
+      <node id="89" label="EDUARDO HENRIQUE DA FONTE DE ALBUQUERQUE SILVA">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO"/>
+          <attvalue for="doc_polit" value="53467108415"/>
+          <attvalue for="nome" value="EDUARDO HENRIQUE DA FONTE DE ALBUQUERQUE SILVA"/>
+          <attvalue for="cargos" value="DEPUTADO FEDERAL"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="224.88318365226831" y="-698.7335871970711"/>
+      </node>
+      <node id="90" label="ADPL MOTORS LTDA.">
+        <attvalues>
+          <attvalue for="tipo" value="EMPRESA"/>
+          <attvalue for="fornecedor" value="04845177000140"/>
+          <attvalue for="nome_fornecedor" value="ADPL MOTORS LTDA."/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="230.0161553439693" y="-714.4024060050916"/>
+      </node>
+      <node id="91" label="JOSE GOMES FERREIRA FILHO">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO"/>
+          <attvalue for="doc_polit" value="71824693168"/>
+          <attvalue for="nome" value="JOSE GOMES FERREIRA FILHO"/>
+          <attvalue for="cargos" value="DEPUTADO DISTRITAL"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="279.55291674063193" y="-291.3358610965571"/>
+      </node>
+      <node id="92" label="DF">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE"/>
+          <attvalue for="municipio" value=""/>
+          <attvalue for="uf" value="DF"/>
+        </attvalues>
+        <viz:color r="80" g="180" b="80"/>
+        <viz:size value="8"/>
+        <viz:position x="294.12152171617026" y="-281.690137435472"/>
+      </node>
+      <node id="93" label="REAL JG SERVICOS GERAIS EIRELI">
+        <attvalues>
+          <attvalue for="tipo" value="EMPRESA"/>
+          <attvalue for="fornecedor" value="08247960000162"/>
+          <attvalue for="nome_fornecedor" value="REAL JG SERVICOS GERAIS EIRELI"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="278.52773653016834" y="-273.9102190496444"/>
+      </node>
+      <node id="94" label="ROBERTO MAIA CIDADE FILHO">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO"/>
+          <attvalue for="doc_polit" value="83912495220"/>
+          <attvalue for="nome" value="ROBERTO MAIA CIDADE FILHO"/>
+          <attvalue for="cargos" value="DEPUTADO ESTADUAL"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="608.7702567614376" y="201.6505951466676"/>
+      </node>
+      <node id="95" label="NAVEGACAO CIDADE LTDA">
+        <attvalues>
+          <attvalue for="tipo" value="EMPRESA"/>
+          <attvalue for="fornecedor" value="63698724000170"/>
+          <attvalue for="nome_fornecedor" value="NAVEGACAO CIDADE LTDA"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="605.9106926203726" y="216.70666463598005"/>
+      </node>
+      <node id="96" label="JOAO JOSE DE MATOS">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO"/>
+          <attvalue for="doc_polit" value="88843726820"/>
+          <attvalue for="nome" value="JOAO JOSE DE MATOS"/>
+          <attvalue for="cargos" value="DEPUTADO ESTADUAL"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="189.21975189911913" y="985.97689270368"/>
+      </node>
+      <node id="97" label="MT">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE"/>
+          <attvalue for="municipio" value=""/>
+          <attvalue for="uf" value="MT"/>
+        </attvalues>
+        <viz:color r="80" g="180" b="80"/>
+        <viz:size value="8"/>
+        <viz:position x="196.24948356698013" y="971.9319525851803"/>
+      </node>
+      <node id="98" label="IMPORTADORA E EXPORTADORA JARDIM CUIABA LTDA - ME">
+        <attvalues>
+          <attvalue for="tipo" value="EMPRESA"/>
+          <attvalue for="fornecedor" value="01757351000104"/>
+          <attvalue for="nome_fornecedor" value="IMPORTADORA E EXPORTADORA JARDIM CUIABA LTDA - ME"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="204.55251028371265" y="985.3041318732226"/>
+      </node>
+      <node id="99" label="DANIEL BARBOSA SANTOS">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO"/>
+          <attvalue for="doc_polit" value="92046436253"/>
+          <attvalue for="nome" value="DANIEL BARBOSA SANTOS"/>
+          <attvalue for="cargos" value="DEPUTADO ESTADUAL"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0"/>
+        <viz:size value="4"/>
+        <viz:position x="-802.450537132874" y="-73.65851363763676"/>
+      </node>
+      <node id="100" label="HOSPITAL SANTA MARIA DE ANANINDEUA LTDA">
+        <attvalues>
+          <attvalue for="tipo" value="EMPRESA"/>
+          <attvalue for="fornecedor" value="17454167000125"/>
+          <attvalue for="nome_fornecedor" value="HOSPITAL SANTA MARIA DE ANANINDEUA LTDA"/>
+        </attvalues>
+        <viz:color r="0" g="0" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="-815.3157429908015" y="-63.61961810429542"/>
       </node>
     </nodes>
     <edges>
-      <edge id="0" source="0" target="1" weight="1" label="Anos: 2008">
+      <edge id="0" source="0" target="2" weight="1" label="Ano(s) eleito(s): (2012)">
         <attvalues>
-          <attvalue for="ano_eleito" value="2008"/>
-          <attvalue for="nome_entidade" value="POLITICO_LOCALIDADE"/>
+          <attvalue for="tipo" value="POLITICO_LOCALIDADE"/>
+          <attvalue for="anos_eleito" value="2012"/>
         </attvalues>
       </edge>
-      <edge id="1" source="0" target="2" weight="1" label="Socio: 36984787068(2019-02-19)">
+      <edge id="1" source="0" target="3" weight="1" label="Socio: 20840071604, desde: 2018-09-05">
         <attvalues>
-          <attvalue for="socio" value="36984787068"/>
-          <attvalue for="entrada" value="2019-02-19"/>
-          <attvalue for="nome_entidade" value="POLITICO_EMPRESA"/>
+          <attvalue for="tipo" value="POLITICO_EMPRESA"/>
+          <attvalue for="doc_socio" value="20840071604"/>
+          <attvalue for="data_entrada_sociedade" value="2018-09-05"/>
         </attvalues>
       </edge>
-      <edge id="2" source="1" target="2" weight="1" label="Valor: 400000.0(20170712) - Empresa 12 REGIMENTO DE CAVALARIA MECANIZADO/RS">
+      <edge id="2" source="2" target="3" weight="1" label="Entidade(s): (GRUPAMENTO DE APOIO DE BARBACENA), contrada(s) em: (20180504) por 500000.0">
         <attvalues>
-          <attvalue for="valor" value="400000.0"/>
-          <attvalue for="data_contrato" value="20170712"/>
-          <attvalue for="nome_entidade" value="12 REGIMENTO DE CAVALARIA MECANIZADO/RS"/>
-          <attvalue for="nome_entidade" value="LOCALIDADE_EMPRESA"/>
-        </attvalues>
-      </edge>
-      <edge id="3" source="3" target="4" weight="1" label="Anos: 2016">
-        <attvalues>
-          <attvalue for="ano_eleito" value="2016"/>
-          <attvalue for="nome_entidade" value="POLITICO_LOCALIDADE"/>
-        </attvalues>
-      </edge>
-      <edge id="4" source="3" target="5" weight="1" label="Socio: 04332238630(2011-02-11)">
-        <attvalues>
-          <attvalue for="socio" value="04332238630"/>
-          <attvalue for="entrada" value="2011-02-11"/>
-          <attvalue for="nome_entidade" value="POLITICO_EMPRESA"/>
-        </attvalues>
-      </edge>
-      <edge id="5" source="4" target="5" weight="1" label="Valor: 432769.0(20170601) - Empresa INST FED.MINAS GERAIS /CAMPUS FORMIGA">
-        <attvalues>
-          <attvalue for="valor" value="432769.0"/>
-          <attvalue for="data_contrato" value="20170601"/>
-          <attvalue for="nome_entidade" value="INST FED.MINAS GERAIS /CAMPUS FORMIGA"/>
-          <attvalue for="nome_entidade" value="LOCALIDADE_EMPRESA"/>
-        </attvalues>
-      </edge>
-      <edge id="6" source="6" target="7" weight="1" label="Anos: 2008">
-        <attvalues>
-          <attvalue for="ano_eleito" value="2008"/>
-          <attvalue for="nome_entidade" value="POLITICO_LOCALIDADE"/>
-        </attvalues>
-      </edge>
-      <edge id="7" source="6" target="8" weight="1" label="Socio: 21613796153(2015-05-06)">
-        <attvalues>
-          <attvalue for="socio" value="21613796153"/>
-          <attvalue for="entrada" value="2015-05-06"/>
-          <attvalue for="nome_entidade" value="POLITICO_EMPRESA"/>
-        </attvalues>
-      </edge>
-      <edge id="8" source="7" target="8" weight="1" label="Valor: 158958.51(20181128, 20170905) - Empresa INSTITUTO FEDERAL GOIANO/CAMPOS IPORÁ">
-        <attvalues>
-          <attvalue for="valor" value="158958.51"/>
-          <attvalue for="data_contrato" value="20181128, 20170905"/>
-          <attvalue for="nome_entidade" value="INSTITUTO FEDERAL GOIANO/CAMPOS IPORÁ"/>
-          <attvalue for="nome_entidade" value="LOCALIDADE_EMPRESA"/>
-        </attvalues>
-      </edge>
-      <edge id="9" source="9" target="10" weight="1" label="Anos: 2008, 2012, 2016">
-        <attvalues>
-          <attvalue for="ano_eleito" value="2008, 2012, 2016"/>
-          <attvalue for="nome_entidade" value="POLITICO_LOCALIDADE"/>
-        </attvalues>
-      </edge>
-      <edge id="10" source="9" target="11" weight="1" label="Socio: 24701610534(2017-03-23)">
-        <attvalues>
-          <attvalue for="socio" value="24701610534"/>
-          <attvalue for="entrada" value="2017-03-23"/>
-          <attvalue for="nome_entidade" value="POLITICO_EMPRESA"/>
-        </attvalues>
-      </edge>
-      <edge id="11" source="10" target="11" weight="1" label="Valor: 2748345.88(20180801, 20170102, 20170701, 20171017, 20180703, 20170502) - Empresa DELEG.REG. DO TRAB/BAHIA, SUPERINT.FEDERAL DE AGRIC.PECUARIA E ABASTEC., SUPERINTENDÊNCIA DE ADMINISTRAÇÃO DO MF - BA">
-        <attvalues>
-          <attvalue for="valor" value="2748345.88"/>
-          <attvalue for="data_contrato" value="20180801, 20170102, 20170701, 20171017, 20180703, 20170502"/>
-          <attvalue for="nome_entidade" value="DELEG.REG. DO TRAB/BAHIA, SUPERINT.FEDERAL DE AGRIC.PECUARIA E ABASTEC., SUPERINTENDÊNCIA DE ADMINISTRAÇÃO DO MF - BA"/>
-          <attvalue for="nome_entidade" value="LOCALIDADE_EMPRESA"/>
-        </attvalues>
-      </edge>
-      <edge id="12" source="12" target="13" weight="1" label="Anos: 2008">
-        <attvalues>
-          <attvalue for="ano_eleito" value="2008"/>
-          <attvalue for="nome_entidade" value="POLITICO_LOCALIDADE"/>
-        </attvalues>
-      </edge>
-      <edge id="13" source="12" target="14" weight="1" label="Socio: 16206690563(1991-06-20)">
-        <attvalues>
-          <attvalue for="socio" value="16206690563"/>
-          <attvalue for="entrada" value="1991-06-20"/>
-          <attvalue for="nome_entidade" value="POLITICO_EMPRESA"/>
-        </attvalues>
-      </edge>
-      <edge id="14" source="13" target="14" weight="1" label="Valor: 400000.0(20170301) - Empresa 35 BATALHAO DE INFANTARIA">
-        <attvalues>
-          <attvalue for="valor" value="400000.0"/>
-          <attvalue for="data_contrato" value="20170301"/>
-          <attvalue for="nome_entidade" value="35 BATALHAO DE INFANTARIA"/>
-          <attvalue for="nome_entidade" value="LOCALIDADE_EMPRESA"/>
-        </attvalues>
-      </edge>
-      <edge id="15" source="15" target="16" weight="1" label="Anos: 2008, 2012">
-        <attvalues>
-          <attvalue for="ano_eleito" value="2008, 2012"/>
-          <attvalue for="nome_entidade" value="POLITICO_LOCALIDADE"/>
-        </attvalues>
-      </edge>
-      <edge id="16" source="15" target="17" weight="1" label="Socio: 40608131091(1990-10-01)">
-        <attvalues>
-          <attvalue for="socio" value="40608131091"/>
-          <attvalue for="entrada" value="1990-10-01"/>
-          <attvalue for="nome_entidade" value="POLITICO_EMPRESA"/>
-        </attvalues>
-      </edge>
-      <edge id="17" source="16" target="17" weight="1" label="Valor: 5800000.0(20170204, 20170605) - Empresa HOSPITAL DE GUARNICAO DE SANTA MARIA/RS, GRUPAMENTO DE SANTA MARIA">
-        <attvalues>
-          <attvalue for="valor" value="5800000.0"/>
-          <attvalue for="data_contrato" value="20170204, 20170605"/>
-          <attvalue for="nome_entidade" value="HOSPITAL DE GUARNICAO DE SANTA MARIA/RS, GRUPAMENTO DE SANTA MARIA"/>
-          <attvalue for="nome_entidade" value="LOCALIDADE_EMPRESA"/>
-        </attvalues>
-      </edge>
-      <edge id="18" source="18" target="19" weight="1" label="Anos: 2012">
-        <attvalues>
-          <attvalue for="ano_eleito" value="2012"/>
-          <attvalue for="nome_entidade" value="POLITICO_LOCALIDADE"/>
-        </attvalues>
-      </edge>
-      <edge id="19" source="18" target="20" weight="1" label="Socio: 49069780372(2019-07-04)">
-        <attvalues>
-          <attvalue for="socio" value="49069780372"/>
-          <attvalue for="entrada" value="2019-07-04"/>
-          <attvalue for="nome_entidade" value="POLITICO_EMPRESA"/>
-        </attvalues>
-      </edge>
-      <edge id="20" source="19" target="20" weight="1" label="Valor: 26975.8(20181120, 20171129) - Empresa INST.FED.DE ED.,CIENC.E TEC.DO PIAUÍ">
-        <attvalues>
-          <attvalue for="valor" value="26975.8"/>
-          <attvalue for="data_contrato" value="20181120, 20171129"/>
-          <attvalue for="nome_entidade" value="INST.FED.DE ED.,CIENC.E TEC.DO PIAUÍ"/>
-          <attvalue for="nome_entidade" value="LOCALIDADE_EMPRESA"/>
-        </attvalues>
-      </edge>
-      <edge id="21" source="21" target="22" weight="1" label="Anos: 2016">
-        <attvalues>
-          <attvalue for="ano_eleito" value="2016"/>
-          <attvalue for="nome_entidade" value="POLITICO_LOCALIDADE"/>
-        </attvalues>
-      </edge>
-      <edge id="22" source="21" target="23" weight="1" label="Socio: 55342493315(2004-11-19)">
-        <attvalues>
-          <attvalue for="socio" value="55342493315"/>
-          <attvalue for="entrada" value="2004-11-19"/>
-          <attvalue for="nome_entidade" value="POLITICO_EMPRESA"/>
-        </attvalues>
-      </edge>
-      <edge id="23" source="22" target="23" weight="1" label="Valor: 9000.0(20170401, 20180401) - Empresa 2 BATALHAO DE ENGENHARIA DE CONSTRUCAO">
-        <attvalues>
-          <attvalue for="valor" value="9000.0"/>
-          <attvalue for="data_contrato" value="20170401, 20180401"/>
-          <attvalue for="nome_entidade" value="2 BATALHAO DE ENGENHARIA DE CONSTRUCAO"/>
-          <attvalue for="nome_entidade" value="LOCALIDADE_EMPRESA"/>
-        </attvalues>
-      </edge>
-      <edge id="24" source="24" target="22" weight="1" label="Anos: 2012">
-        <attvalues>
-          <attvalue for="ano_eleito" value="2012"/>
-          <attvalue for="nome_entidade" value="POLITICO_LOCALIDADE"/>
-        </attvalues>
-      </edge>
-      <edge id="25" source="24" target="25" weight="1" label="Socio: 22759379353(2002-04-25)">
-        <attvalues>
-          <attvalue for="socio" value="22759379353"/>
-          <attvalue for="entrada" value="2002-04-25"/>
-          <attvalue for="nome_entidade" value="POLITICO_EMPRESA"/>
-        </attvalues>
-      </edge>
-      <edge id="26" source="22" target="25" weight="1" label="Valor: 620238.15(20180401, 20170401) - Empresa 2 BATALHAO DE ENGENHARIA DE CONSTRUCAO">
-        <attvalues>
-          <attvalue for="valor" value="620238.15"/>
-          <attvalue for="data_contrato" value="20180401, 20170401"/>
-          <attvalue for="nome_entidade" value="2 BATALHAO DE ENGENHARIA DE CONSTRUCAO"/>
-          <attvalue for="nome_entidade" value="LOCALIDADE_EMPRESA"/>
-        </attvalues>
-      </edge>
-      <edge id="27" source="26" target="27" weight="1" label="Anos: 2012, 2016">
-        <attvalues>
-          <attvalue for="ano_eleito" value="2012, 2016"/>
-          <attvalue for="nome_entidade" value="POLITICO_LOCALIDADE"/>
-        </attvalues>
-      </edge>
-      <edge id="28" source="26" target="28" weight="1" label="Socio: 33378320672(1991-10-22)">
-        <attvalues>
-          <attvalue for="socio" value="33378320672"/>
-          <attvalue for="entrada" value="1991-10-22"/>
-          <attvalue for="nome_entidade" value="POLITICO_EMPRESA"/>
-        </attvalues>
-      </edge>
-      <edge id="29" source="27" target="28" weight="1" label="Valor: 9396505.7(20170110) - Empresa HOSPITAL GERAL DE JUIZ DE FORA">
-        <attvalues>
-          <attvalue for="valor" value="9396505.7"/>
-          <attvalue for="data_contrato" value="20170110"/>
-          <attvalue for="nome_entidade" value="HOSPITAL GERAL DE JUIZ DE FORA"/>
-          <attvalue for="nome_entidade" value="LOCALIDADE_EMPRESA"/>
-        </attvalues>
-      </edge>
-      <edge id="30" source="29" target="30" weight="1" label="Anos: 2008">
-        <attvalues>
-          <attvalue for="ano_eleito" value="2008"/>
-          <attvalue for="nome_entidade" value="POLITICO_LOCALIDADE"/>
-        </attvalues>
-      </edge>
-      <edge id="31" source="29" target="31" weight="1" label="Socio: 06159567268(2016-09-02)">
-        <attvalues>
-          <attvalue for="socio" value="06159567268"/>
-          <attvalue for="entrada" value="2016-09-02"/>
-          <attvalue for="nome_entidade" value="POLITICO_EMPRESA"/>
-        </attvalues>
-      </edge>
-      <edge id="32" source="30" target="31" weight="1" label="Valor: 35537.86(20171229, 20170203, 20170220, 20171213) - Empresa SUPERINTENDÊNCIA DE ADMINIATRAÇÃO DO MP, SUPERINTENDENCIA REG.NO ESTADO DO AMAPA/DNIT, SUPERINTENDÊNCIA REG. DO TRABALHO E EMPREGO, COORDENAÇÃO REGIONAL AMAPÁ E NORTE DO PARÁ">
-        <attvalues>
-          <attvalue for="valor" value="35537.86"/>
-          <attvalue for="data_contrato" value="20171229, 20170203, 20170220, 20171213"/>
-          <attvalue for="nome_entidade" value="SUPERINTENDÊNCIA DE ADMINIATRAÇÃO DO MP, SUPERINTENDENCIA REG.NO ESTADO DO AMAPA/DNIT, SUPERINTENDÊNCIA REG. DO TRABALHO E EMPREGO, COORDENAÇÃO REGIONAL AMAPÁ E NORTE DO PARÁ"/>
-          <attvalue for="nome_entidade" value="LOCALIDADE_EMPRESA"/>
-        </attvalues>
-      </edge>
-      <edge id="33" source="32" target="33" weight="1" label="Anos: 2012">
-        <attvalues>
-          <attvalue for="ano_eleito" value="2012"/>
-          <attvalue for="nome_entidade" value="POLITICO_LOCALIDADE"/>
-        </attvalues>
-      </edge>
-      <edge id="34" source="32" target="34" weight="1" label="Socio: 18286585291(1999-02-13)">
-        <attvalues>
-          <attvalue for="socio" value="18286585291"/>
-          <attvalue for="entrada" value="1999-02-13"/>
-          <attvalue for="nome_entidade" value="POLITICO_EMPRESA"/>
-        </attvalues>
-      </edge>
-      <edge id="35" source="33" target="34" weight="1" label="Valor: 3961028.04(20170404, 20180329, 20180301, 20180912, 20170330, 20180402, 20170406, 20180406, 20181017, 20170203, 20180524, 20170323) - Empresa SUPERINT.REGIONAL DE P.FEDERAL NO EST.DE RR, SUPERINTEND.ESTADUAL-INCRA/SR-25/RR, SUPERINTENDENCIA DE ADMINISTRACAO DO MP RR, SUPERINT.FEDERAL DE AGRIC.PECUARIA E ABASTEC., SUPERINTENDÊNCIA DO DNPM-RR, IBAMA - SUPERINTENDENCIA ESTADUAL/RR, SUPERINTENDÊNCIA REG. DO TRABALHO E EMPREGO, COORDENAÇÃO REGIONAL RORAIMA">
-        <attvalues>
-          <attvalue for="valor" value="3961028.04"/>
-          <attvalue for="data_contrato" value="20170404, 20180329, 20180301, 20180912, 20170330, 20180402, 20170406, 20180406, 20181017, 20170203, 20180524, 20170323"/>
-          <attvalue for="nome_entidade" value="SUPERINT.REGIONAL DE P.FEDERAL NO EST.DE RR, SUPERINTEND.ESTADUAL-INCRA/SR-25/RR, SUPERINTENDENCIA DE ADMINISTRACAO DO MP RR, SUPERINT.FEDERAL DE AGRIC.PECUARIA E ABASTEC., SUPERINTENDÊNCIA DO DNPM-RR, IBAMA - SUPERINTENDENCIA ESTADUAL/RR, SUPERINTENDÊNCIA REG. DO TRABALHO E EMPREGO, COORDENAÇÃO REGIONAL RORAIMA"/>
-          <attvalue for="nome_entidade" value="LOCALIDADE_EMPRESA"/>
-        </attvalues>
-      </edge>
-      <edge id="36" source="32" target="33" weight="1" label="Anos: 2012">
-        <attvalues>
-          <attvalue for="ano_eleito" value="2012"/>
-          <attvalue for="nome_entidade" value="POLITICO_LOCALIDADE"/>
-        </attvalues>
-      </edge>
-      <edge id="37" source="32" target="35" weight="1" label="Socio: 18286585291(1999-02-13)">
-        <attvalues>
-          <attvalue for="socio" value="18286585291"/>
-          <attvalue for="entrada" value="1999-02-13"/>
-          <attvalue for="nome_entidade" value="POLITICO_EMPRESA"/>
-        </attvalues>
-      </edge>
-      <edge id="38" source="33" target="35" weight="1" label="Valor: 245008.0(20170807) - Empresa SUPERINTEND.ESTADUAL-INCRA/SR-25/RR">
-        <attvalues>
-          <attvalue for="valor" value="245008.0"/>
-          <attvalue for="data_contrato" value="20170807"/>
-          <attvalue for="nome_entidade" value="SUPERINTEND.ESTADUAL-INCRA/SR-25/RR"/>
-          <attvalue for="nome_entidade" value="LOCALIDADE_EMPRESA"/>
-        </attvalues>
-      </edge>
-      <edge id="39" source="36" target="37" weight="1" label="Anos: 2012">
-        <attvalues>
-          <attvalue for="ano_eleito" value="2012"/>
-          <attvalue for="nome_entidade" value="POLITICO_LOCALIDADE"/>
-        </attvalues>
-      </edge>
-      <edge id="40" source="36" target="38" weight="1" label="Socio: 61816981915(2007-04-03)">
-        <attvalues>
-          <attvalue for="socio" value="61816981915"/>
-          <attvalue for="entrada" value="2007-04-03"/>
-          <attvalue for="nome_entidade" value="POLITICO_EMPRESA"/>
-        </attvalues>
-      </edge>
-      <edge id="41" source="37" target="38" weight="1" label="Valor: 1311796.56(20181001) - Empresa UTFPR - CAMPUS CORNÉLIO PROCÓPIO">
-        <attvalues>
-          <attvalue for="valor" value="1311796.56"/>
-          <attvalue for="data_contrato" value="20181001"/>
-          <attvalue for="nome_entidade" value="UTFPR - CAMPUS CORNÉLIO PROCÓPIO"/>
-          <attvalue for="nome_entidade" value="LOCALIDADE_EMPRESA"/>
-        </attvalues>
-      </edge>
-      <edge id="42" source="39" target="40" weight="1" label="Anos: 2016">
-        <attvalues>
-          <attvalue for="ano_eleito" value="2016"/>
-          <attvalue for="nome_entidade" value="POLITICO_LOCALIDADE"/>
-        </attvalues>
-      </edge>
-      <edge id="43" source="39" target="41" weight="1" label="Socio: 13590383615(1997-04-09)">
-        <attvalues>
-          <attvalue for="socio" value="13590383615"/>
-          <attvalue for="entrada" value="1997-04-09"/>
-          <attvalue for="nome_entidade" value="POLITICO_EMPRESA"/>
-        </attvalues>
-      </edge>
-      <edge id="44" source="40" target="41" weight="1" label="Valor: 200000.0(20180517) - Empresa GRUPAMENTO DE APOIO DE BARBACENA">
-        <attvalues>
-          <attvalue for="valor" value="200000.0"/>
-          <attvalue for="data_contrato" value="20180517"/>
-          <attvalue for="nome_entidade" value="GRUPAMENTO DE APOIO DE BARBACENA"/>
-          <attvalue for="nome_entidade" value="LOCALIDADE_EMPRESA"/>
-        </attvalues>
-      </edge>
-      <edge id="45" source="42" target="40" weight="1" label="Anos: 2012">
-        <attvalues>
-          <attvalue for="ano_eleito" value="2012"/>
-          <attvalue for="nome_entidade" value="POLITICO_LOCALIDADE"/>
-        </attvalues>
-      </edge>
-      <edge id="46" source="42" target="43" weight="1" label="Socio: 20840071604(2018-09-05)">
-        <attvalues>
-          <attvalue for="socio" value="20840071604"/>
-          <attvalue for="entrada" value="2018-09-05"/>
-          <attvalue for="nome_entidade" value="POLITICO_EMPRESA"/>
-        </attvalues>
-      </edge>
-      <edge id="47" source="40" target="43" weight="1" label="Valor: 500000.0(20180504) - Empresa GRUPAMENTO DE APOIO DE BARBACENA">
-        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE_EMPRESA"/>
           <attvalue for="valor" value="500000.0"/>
           <attvalue for="data_contrato" value="20180504"/>
           <attvalue for="nome_entidade" value="GRUPAMENTO DE APOIO DE BARBACENA"/>
-          <attvalue for="nome_entidade" value="LOCALIDADE_EMPRESA"/>
         </attvalues>
       </edge>
-      <edge id="48" source="44" target="45" weight="1" label="Anos: 2012">
+      <edge id="3" source="2" target="1" weight="1" label="municipio">
         <attvalues>
-          <attvalue for="ano_eleito" value="2012"/>
-          <attvalue for="nome_entidade" value="POLITICO_LOCALIDADE"/>
+          <attvalue for="tipo" value="MUNICIPIO_UF"/>
         </attvalues>
       </edge>
-      <edge id="49" source="44" target="46" weight="1" label="Socio: 23246766304(2016-05-12)">
+      <edge id="4" source="4" target="5" weight="1" label="Ano(s) eleito(s): (2016)">
         <attvalues>
-          <attvalue for="socio" value="23246766304"/>
-          <attvalue for="entrada" value="2016-05-12"/>
-          <attvalue for="nome_entidade" value="POLITICO_EMPRESA"/>
+          <attvalue for="tipo" value="POLITICO_LOCALIDADE"/>
+          <attvalue for="anos_eleito" value="2016"/>
         </attvalues>
       </edge>
-      <edge id="50" source="45" target="46" weight="1" label="Valor: 5452.8(20170210) - Empresa CAMPUS TEFé IFECT DO AMAZONAS">
+      <edge id="5" source="4" target="6" weight="1" label="Socio: 04332238630, desde: 2011-02-11">
         <attvalues>
-          <attvalue for="valor" value="5452.8"/>
-          <attvalue for="data_contrato" value="20170210"/>
-          <attvalue for="nome_entidade" value="CAMPUS TEFé IFECT DO AMAZONAS"/>
-          <attvalue for="nome_entidade" value="LOCALIDADE_EMPRESA"/>
+          <attvalue for="tipo" value="POLITICO_EMPRESA"/>
+          <attvalue for="doc_socio" value="04332238630"/>
+          <attvalue for="data_entrada_sociedade" value="2011-02-11"/>
         </attvalues>
       </edge>
-      <edge id="51" source="44" target="45" weight="1" label="Anos: 2012">
+      <edge id="6" source="5" target="6" weight="1" label="Entidade(s): (INST FED.MINAS GERAIS /CAMPUS FORMIGA), contrada(s) em: (20170601) por 432769.0">
         <attvalues>
-          <attvalue for="ano_eleito" value="2012"/>
-          <attvalue for="nome_entidade" value="POLITICO_LOCALIDADE"/>
+          <attvalue for="tipo" value="LOCALIDADE_EMPRESA"/>
+          <attvalue for="valor" value="432769.0"/>
+          <attvalue for="data_contrato" value="20170601"/>
+          <attvalue for="nome_entidade" value="INST FED.MINAS GERAIS /CAMPUS FORMIGA"/>
         </attvalues>
       </edge>
-      <edge id="52" source="44" target="47" weight="1" label="Socio: 23246766304(2016-05-18)">
+      <edge id="7" source="5" target="1" weight="1" label="municipio">
         <attvalues>
-          <attvalue for="socio" value="23246766304"/>
-          <attvalue for="entrada" value="2016-05-18"/>
-          <attvalue for="nome_entidade" value="POLITICO_EMPRESA"/>
+          <attvalue for="tipo" value="MUNICIPIO_UF"/>
         </attvalues>
       </edge>
-      <edge id="53" source="45" target="47" weight="1" label="Valor: 7747.0(20180525) - Empresa DISTRITO SANIT.ESP.INDÍGENA - MÉDIO SOLIMÕES">
+      <edge id="8" source="7" target="9" weight="1" label="Ano(s) eleito(s): (2008)">
         <attvalues>
+          <attvalue for="tipo" value="POLITICO_LOCALIDADE"/>
+          <attvalue for="anos_eleito" value="2008"/>
+        </attvalues>
+      </edge>
+      <edge id="9" source="7" target="10" weight="1" label="Socio: 06159567268, desde: 2016-09-02">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_EMPRESA"/>
+          <attvalue for="doc_socio" value="06159567268"/>
+          <attvalue for="data_entrada_sociedade" value="2016-09-02"/>
+        </attvalues>
+      </edge>
+      <edge id="10" source="9" target="10" weight="1" label="Entidade(s): (SUPERINTENDÊNCIA DE ADMINIATRAÇÃO DO MP, SUPERINTENDENCIA REG.NO ESTADO DO AMAPA/DNIT, SUPERINTENDÊNCIA REG. DO TRABALHO E EMPREGO, COORDENAÇÃO REGIONAL AMAPÁ E NORTE DO PARÁ), contrada(s) em: (20171229, 20170203, 20170220, 20171213) por 35537.86">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE_EMPRESA"/>
+          <attvalue for="valor" value="35537.86"/>
+          <attvalue for="data_contrato" value="20171229, 20170203, 20170220, 20171213"/>
+          <attvalue for="nome_entidade" value="SUPERINTENDÊNCIA DE ADMINIATRAÇÃO DO MP, SUPERINTENDENCIA REG.NO ESTADO DO AMAPA/DNIT, SUPERINTENDÊNCIA REG. DO TRABALHO E EMPREGO, COORDENAÇÃO REGIONAL AMAPÁ E NORTE DO PARÁ"/>
+        </attvalues>
+      </edge>
+      <edge id="11" source="9" target="8" weight="1" label="municipio">
+        <attvalues>
+          <attvalue for="tipo" value="MUNICIPIO_UF"/>
+        </attvalues>
+      </edge>
+      <edge id="12" source="11" target="2" weight="1" label="Ano(s) eleito(s): (2016)">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_LOCALIDADE"/>
+          <attvalue for="anos_eleito" value="2016"/>
+        </attvalues>
+      </edge>
+      <edge id="13" source="11" target="12" weight="1" label="Socio: 13590383615, desde: 1997-04-09">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_EMPRESA"/>
+          <attvalue for="doc_socio" value="13590383615"/>
+          <attvalue for="data_entrada_sociedade" value="1997-04-09"/>
+        </attvalues>
+      </edge>
+      <edge id="14" source="2" target="12" weight="1" label="Entidade(s): (GRUPAMENTO DE APOIO DE BARBACENA), contrada(s) em: (20180517) por 200000.0">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE_EMPRESA"/>
+          <attvalue for="valor" value="200000.0"/>
+          <attvalue for="data_contrato" value="20180517"/>
+          <attvalue for="nome_entidade" value="GRUPAMENTO DE APOIO DE BARBACENA"/>
+        </attvalues>
+      </edge>
+      <edge id="15" source="2" target="1" weight="1" label="municipio">
+        <attvalues>
+          <attvalue for="tipo" value="MUNICIPIO_UF"/>
+        </attvalues>
+      </edge>
+      <edge id="16" source="13" target="15" weight="1" label="Ano(s) eleito(s): (2008)">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_LOCALIDADE"/>
+          <attvalue for="anos_eleito" value="2008"/>
+        </attvalues>
+      </edge>
+      <edge id="17" source="13" target="16" weight="1" label="Socio: 16206690563, desde: 1991-06-20">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_EMPRESA"/>
+          <attvalue for="doc_socio" value="16206690563"/>
+          <attvalue for="data_entrada_sociedade" value="1991-06-20"/>
+        </attvalues>
+      </edge>
+      <edge id="18" source="15" target="16" weight="1" label="Entidade(s): (35 BATALHAO DE INFANTARIA), contrada(s) em: (20170301) por 400000.0">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE_EMPRESA"/>
+          <attvalue for="valor" value="400000.0"/>
+          <attvalue for="data_contrato" value="20170301"/>
+          <attvalue for="nome_entidade" value="35 BATALHAO DE INFANTARIA"/>
+        </attvalues>
+      </edge>
+      <edge id="19" source="15" target="14" weight="1" label="municipio">
+        <attvalues>
+          <attvalue for="tipo" value="MUNICIPIO_UF"/>
+        </attvalues>
+      </edge>
+      <edge id="20" source="17" target="18" weight="1" label="Ano(s) eleito(s): (2012, 2016)">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_LOCALIDADE"/>
+          <attvalue for="anos_eleito" value="2012, 2016"/>
+        </attvalues>
+      </edge>
+      <edge id="21" source="17" target="19" weight="1" label="Socio: 33378320672, desde: 1991-10-22">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_EMPRESA"/>
+          <attvalue for="doc_socio" value="33378320672"/>
+          <attvalue for="data_entrada_sociedade" value="1991-10-22"/>
+        </attvalues>
+      </edge>
+      <edge id="22" source="18" target="19" weight="1" label="Entidade(s): (HOSPITAL GERAL DE JUIZ DE FORA), contrada(s) em: (20170110) por 9396505.7">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE_EMPRESA"/>
+          <attvalue for="valor" value="9396505.7"/>
+          <attvalue for="data_contrato" value="20170110"/>
+          <attvalue for="nome_entidade" value="HOSPITAL GERAL DE JUIZ DE FORA"/>
+        </attvalues>
+      </edge>
+      <edge id="23" source="18" target="1" weight="1" label="municipio">
+        <attvalues>
+          <attvalue for="tipo" value="MUNICIPIO_UF"/>
+        </attvalues>
+      </edge>
+      <edge id="24" source="20" target="22" weight="1" label="Ano(s) eleito(s): (2012)">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_LOCALIDADE"/>
+          <attvalue for="anos_eleito" value="2012"/>
+        </attvalues>
+      </edge>
+      <edge id="25" source="20" target="23" weight="1" label="Socio: 18286585291, desde: 1999-02-13">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_EMPRESA"/>
+          <attvalue for="doc_socio" value="18286585291"/>
+          <attvalue for="data_entrada_sociedade" value="1999-02-13"/>
+        </attvalues>
+      </edge>
+      <edge id="26" source="22" target="23" weight="1" label="Entidade(s): (SUPERINT.REGIONAL DE P.FEDERAL NO EST.DE RR, SUPERINTENDENCIA DE ADMINISTRACAO DO MP RR, SUPERINTEND.ESTADUAL-INCRA/SR-25/RR, SUPERINT.FEDERAL DE AGRIC.PECUARIA E ABASTEC., SUPERINTENDÊNCIA DO DNPM-RR, IBAMA - SUPERINTENDENCIA ESTADUAL/RR, SUPERINTENDÊNCIA REG. DO TRABALHO E EMPREGO, COORDENAÇÃO REGIONAL RORAIMA), contrada(s) em: (20170404, 20180329, 20180912, 20180301, 20180402, 20170330, 20180406, 20170406, 20170203, 20181017, 20180524, 20170323) por 3961028.04">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE_EMPRESA"/>
+          <attvalue for="valor" value="3961028.04"/>
+          <attvalue for="data_contrato" value="20170404, 20180329, 20180912, 20180301, 20180402, 20170330, 20180406, 20170406, 20170203, 20181017, 20180524, 20170323"/>
+          <attvalue for="nome_entidade" value="SUPERINT.REGIONAL DE P.FEDERAL NO EST.DE RR, SUPERINTENDENCIA DE ADMINISTRACAO DO MP RR, SUPERINTEND.ESTADUAL-INCRA/SR-25/RR, SUPERINT.FEDERAL DE AGRIC.PECUARIA E ABASTEC., SUPERINTENDÊNCIA DO DNPM-RR, IBAMA - SUPERINTENDENCIA ESTADUAL/RR, SUPERINTENDÊNCIA REG. DO TRABALHO E EMPREGO, COORDENAÇÃO REGIONAL RORAIMA"/>
+        </attvalues>
+      </edge>
+      <edge id="27" source="22" target="21" weight="1" label="municipio">
+        <attvalues>
+          <attvalue for="tipo" value="MUNICIPIO_UF"/>
+        </attvalues>
+      </edge>
+      <edge id="28" source="20" target="22" weight="1" label="Ano(s) eleito(s): (2012)">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_LOCALIDADE"/>
+          <attvalue for="anos_eleito" value="2012"/>
+        </attvalues>
+      </edge>
+      <edge id="29" source="20" target="24" weight="1" label="Socio: 18286585291, desde: 1999-02-13">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_EMPRESA"/>
+          <attvalue for="doc_socio" value="18286585291"/>
+          <attvalue for="data_entrada_sociedade" value="1999-02-13"/>
+        </attvalues>
+      </edge>
+      <edge id="30" source="22" target="24" weight="1" label="Entidade(s): (SUPERINTEND.ESTADUAL-INCRA/SR-25/RR), contrada(s) em: (20170807) por 245008.0">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE_EMPRESA"/>
+          <attvalue for="valor" value="245008.0"/>
+          <attvalue for="data_contrato" value="20170807"/>
+          <attvalue for="nome_entidade" value="SUPERINTEND.ESTADUAL-INCRA/SR-25/RR"/>
+        </attvalues>
+      </edge>
+      <edge id="31" source="22" target="21" weight="1" label="municipio">
+        <attvalues>
+          <attvalue for="tipo" value="MUNICIPIO_UF"/>
+        </attvalues>
+      </edge>
+      <edge id="32" source="25" target="27" weight="1" label="Ano(s) eleito(s): (2008)">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_LOCALIDADE"/>
+          <attvalue for="anos_eleito" value="2008"/>
+        </attvalues>
+      </edge>
+      <edge id="33" source="25" target="28" weight="1" label="Socio: 21613796153, desde: 2015-05-06">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_EMPRESA"/>
+          <attvalue for="doc_socio" value="21613796153"/>
+          <attvalue for="data_entrada_sociedade" value="2015-05-06"/>
+        </attvalues>
+      </edge>
+      <edge id="34" source="27" target="28" weight="1" label="Entidade(s): (INSTITUTO FEDERAL GOIANO/CAMPOS IPORÁ), contrada(s) em: (20181128, 20170905) por 158958.51">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE_EMPRESA"/>
+          <attvalue for="valor" value="158958.51"/>
+          <attvalue for="data_contrato" value="20181128, 20170905"/>
+          <attvalue for="nome_entidade" value="INSTITUTO FEDERAL GOIANO/CAMPOS IPORÁ"/>
+        </attvalues>
+      </edge>
+      <edge id="35" source="27" target="26" weight="1" label="municipio">
+        <attvalues>
+          <attvalue for="tipo" value="MUNICIPIO_UF"/>
+        </attvalues>
+      </edge>
+      <edge id="36" source="29" target="31" weight="1" label="Ano(s) eleito(s): (2012)">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_LOCALIDADE"/>
+          <attvalue for="anos_eleito" value="2012"/>
+        </attvalues>
+      </edge>
+      <edge id="37" source="29" target="32" weight="1" label="Socio: 22759379353, desde: 2002-04-25">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_EMPRESA"/>
+          <attvalue for="doc_socio" value="22759379353"/>
+          <attvalue for="data_entrada_sociedade" value="2002-04-25"/>
+        </attvalues>
+      </edge>
+      <edge id="38" source="31" target="32" weight="1" label="Entidade(s): (2 BATALHAO DE ENGENHARIA DE CONSTRUCAO), contrada(s) em: (20180401, 20170401) por 620238.15">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE_EMPRESA"/>
+          <attvalue for="valor" value="620238.15"/>
+          <attvalue for="data_contrato" value="20180401, 20170401"/>
+          <attvalue for="nome_entidade" value="2 BATALHAO DE ENGENHARIA DE CONSTRUCAO"/>
+        </attvalues>
+      </edge>
+      <edge id="39" source="31" target="30" weight="1" label="municipio">
+        <attvalues>
+          <attvalue for="tipo" value="MUNICIPIO_UF"/>
+        </attvalues>
+      </edge>
+      <edge id="40" source="33" target="35" weight="1" label="Ano(s) eleito(s): (2012)">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_LOCALIDADE"/>
+          <attvalue for="anos_eleito" value="2012"/>
+        </attvalues>
+      </edge>
+      <edge id="41" source="33" target="36" weight="1" label="Socio: 23246766304, desde: 2016-05-18">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_EMPRESA"/>
+          <attvalue for="doc_socio" value="23246766304"/>
+          <attvalue for="data_entrada_sociedade" value="2016-05-18"/>
+        </attvalues>
+      </edge>
+      <edge id="42" source="35" target="36" weight="1" label="Entidade(s): (DISTRITO SANIT.ESP.INDÍGENA - MÉDIO SOLIMÕES), contrada(s) em: (20180525) por 7747.0">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE_EMPRESA"/>
           <attvalue for="valor" value="7747.0"/>
           <attvalue for="data_contrato" value="20180525"/>
           <attvalue for="nome_entidade" value="DISTRITO SANIT.ESP.INDÍGENA - MÉDIO SOLIMÕES"/>
-          <attvalue for="nome_entidade" value="LOCALIDADE_EMPRESA"/>
         </attvalues>
       </edge>
-      <edge id="54" source="48" target="49" weight="1" label="Anos: 2008, 2012">
+      <edge id="43" source="35" target="34" weight="1" label="municipio">
         <attvalues>
-          <attvalue for="ano_eleito" value="2008, 2012"/>
-          <attvalue for="nome_entidade" value="POLITICO_LOCALIDADE"/>
+          <attvalue for="tipo" value="MUNICIPIO_UF"/>
         </attvalues>
       </edge>
-      <edge id="55" source="48" target="50" weight="1" label="Socio: 57472114200(2018-03-23)">
+      <edge id="44" source="33" target="35" weight="1" label="Ano(s) eleito(s): (2012)">
         <attvalues>
-          <attvalue for="socio" value="57472114200"/>
-          <attvalue for="entrada" value="2018-03-23"/>
-          <attvalue for="nome_entidade" value="POLITICO_EMPRESA"/>
+          <attvalue for="tipo" value="POLITICO_LOCALIDADE"/>
+          <attvalue for="anos_eleito" value="2012"/>
         </attvalues>
       </edge>
-      <edge id="56" source="49" target="50" weight="1" label="Valor: 200570.0(20170712, 20180918) - Empresa INST.FED.DE EDUC.DO AMAZONAS/CAMPUS TABATINGA">
+      <edge id="45" source="33" target="37" weight="1" label="Socio: 23246766304, desde: 2016-05-12">
         <attvalues>
+          <attvalue for="tipo" value="POLITICO_EMPRESA"/>
+          <attvalue for="doc_socio" value="23246766304"/>
+          <attvalue for="data_entrada_sociedade" value="2016-05-12"/>
+        </attvalues>
+      </edge>
+      <edge id="46" source="35" target="37" weight="1" label="Entidade(s): (CAMPUS TEFé IFECT DO AMAZONAS), contrada(s) em: (20170210) por 5452.8">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE_EMPRESA"/>
+          <attvalue for="valor" value="5452.8"/>
+          <attvalue for="data_contrato" value="20170210"/>
+          <attvalue for="nome_entidade" value="CAMPUS TEFé IFECT DO AMAZONAS"/>
+        </attvalues>
+      </edge>
+      <edge id="47" source="35" target="34" weight="1" label="municipio">
+        <attvalues>
+          <attvalue for="tipo" value="MUNICIPIO_UF"/>
+        </attvalues>
+      </edge>
+      <edge id="48" source="38" target="39" weight="1" label="Ano(s) eleito(s): (2008, 2012, 2016)">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_LOCALIDADE"/>
+          <attvalue for="anos_eleito" value="2008, 2012, 2016"/>
+        </attvalues>
+      </edge>
+      <edge id="49" source="38" target="40" weight="1" label="Socio: 24701610534, desde: 2017-03-23">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_EMPRESA"/>
+          <attvalue for="doc_socio" value="24701610534"/>
+          <attvalue for="data_entrada_sociedade" value="2017-03-23"/>
+        </attvalues>
+      </edge>
+      <edge id="50" source="39" target="40" weight="1" label="Entidade(s): (DELEG.REG. DO TRAB/BAHIA, SUPERINT.FEDERAL DE AGRIC.PECUARIA E ABASTEC., SUPERINTENDÊNCIA DE ADMINISTRAÇÃO DO MF - BA), contrada(s) em: (20180801, 20170701, 20171017, 20170102, 20170502, 20180703) por 2748345.88">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE_EMPRESA"/>
+          <attvalue for="valor" value="2748345.88"/>
+          <attvalue for="data_contrato" value="20180801, 20170701, 20171017, 20170102, 20170502, 20180703"/>
+          <attvalue for="nome_entidade" value="DELEG.REG. DO TRAB/BAHIA, SUPERINT.FEDERAL DE AGRIC.PECUARIA E ABASTEC., SUPERINTENDÊNCIA DE ADMINISTRAÇÃO DO MF - BA"/>
+        </attvalues>
+      </edge>
+      <edge id="51" source="39" target="14" weight="1" label="municipio">
+        <attvalues>
+          <attvalue for="tipo" value="MUNICIPIO_UF"/>
+        </attvalues>
+      </edge>
+      <edge id="52" source="41" target="43" weight="1" label="Ano(s) eleito(s): (2008)">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_LOCALIDADE"/>
+          <attvalue for="anos_eleito" value="2008"/>
+        </attvalues>
+      </edge>
+      <edge id="53" source="41" target="44" weight="1" label="Socio: 36984787068, desde: 2019-02-19">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_EMPRESA"/>
+          <attvalue for="doc_socio" value="36984787068"/>
+          <attvalue for="data_entrada_sociedade" value="2019-02-19"/>
+        </attvalues>
+      </edge>
+      <edge id="54" source="43" target="44" weight="1" label="Entidade(s): (12 REGIMENTO DE CAVALARIA MECANIZADO/RS), contrada(s) em: (20170712) por 400000.0">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE_EMPRESA"/>
+          <attvalue for="valor" value="400000.0"/>
+          <attvalue for="data_contrato" value="20170712"/>
+          <attvalue for="nome_entidade" value="12 REGIMENTO DE CAVALARIA MECANIZADO/RS"/>
+        </attvalues>
+      </edge>
+      <edge id="55" source="43" target="42" weight="1" label="municipio">
+        <attvalues>
+          <attvalue for="tipo" value="MUNICIPIO_UF"/>
+        </attvalues>
+      </edge>
+      <edge id="56" source="45" target="46" weight="1" label="Ano(s) eleito(s): (2008, 2012)">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_LOCALIDADE"/>
+          <attvalue for="anos_eleito" value="2008, 2012"/>
+        </attvalues>
+      </edge>
+      <edge id="57" source="45" target="47" weight="1" label="Socio: 40608131091, desde: 1990-10-01">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_EMPRESA"/>
+          <attvalue for="doc_socio" value="40608131091"/>
+          <attvalue for="data_entrada_sociedade" value="1990-10-01"/>
+        </attvalues>
+      </edge>
+      <edge id="58" source="46" target="47" weight="1" label="Entidade(s): (HOSPITAL DE GUARNICAO DE SANTA MARIA/RS, GRUPAMENTO DE SANTA MARIA), contrada(s) em: (20170204, 20170605) por 5800000.0">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE_EMPRESA"/>
+          <attvalue for="valor" value="5800000.0"/>
+          <attvalue for="data_contrato" value="20170204, 20170605"/>
+          <attvalue for="nome_entidade" value="HOSPITAL DE GUARNICAO DE SANTA MARIA/RS, GRUPAMENTO DE SANTA MARIA"/>
+        </attvalues>
+      </edge>
+      <edge id="59" source="46" target="42" weight="1" label="municipio">
+        <attvalues>
+          <attvalue for="tipo" value="MUNICIPIO_UF"/>
+        </attvalues>
+      </edge>
+      <edge id="60" source="48" target="49" weight="1" label="Ano(s) eleito(s): (2012)">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_LOCALIDADE"/>
+          <attvalue for="anos_eleito" value="2012"/>
+        </attvalues>
+      </edge>
+      <edge id="61" source="48" target="50" weight="1" label="Socio: 49069780372, desde: 2019-07-04">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_EMPRESA"/>
+          <attvalue for="doc_socio" value="49069780372"/>
+          <attvalue for="data_entrada_sociedade" value="2019-07-04"/>
+        </attvalues>
+      </edge>
+      <edge id="62" source="49" target="50" weight="1" label="Entidade(s): (INST.FED.DE ED.,CIENC.E TEC.DO PIAUÍ), contrada(s) em: (20171129, 20181120) por 26975.8">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE_EMPRESA"/>
+          <attvalue for="valor" value="26975.8"/>
+          <attvalue for="data_contrato" value="20171129, 20181120"/>
+          <attvalue for="nome_entidade" value="INST.FED.DE ED.,CIENC.E TEC.DO PIAUÍ"/>
+        </attvalues>
+      </edge>
+      <edge id="63" source="49" target="30" weight="1" label="municipio">
+        <attvalues>
+          <attvalue for="tipo" value="MUNICIPIO_UF"/>
+        </attvalues>
+      </edge>
+      <edge id="64" source="51" target="31" weight="1" label="Ano(s) eleito(s): (2016)">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_LOCALIDADE"/>
+          <attvalue for="anos_eleito" value="2016"/>
+        </attvalues>
+      </edge>
+      <edge id="65" source="51" target="52" weight="1" label="Socio: 55342493315, desde: 2004-11-19">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_EMPRESA"/>
+          <attvalue for="doc_socio" value="55342493315"/>
+          <attvalue for="data_entrada_sociedade" value="2004-11-19"/>
+        </attvalues>
+      </edge>
+      <edge id="66" source="31" target="52" weight="1" label="Entidade(s): (2 BATALHAO DE ENGENHARIA DE CONSTRUCAO), contrada(s) em: (20170401, 20180401) por 9000.0">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE_EMPRESA"/>
+          <attvalue for="valor" value="9000.0"/>
+          <attvalue for="data_contrato" value="20170401, 20180401"/>
+          <attvalue for="nome_entidade" value="2 BATALHAO DE ENGENHARIA DE CONSTRUCAO"/>
+        </attvalues>
+      </edge>
+      <edge id="67" source="31" target="30" weight="1" label="municipio">
+        <attvalues>
+          <attvalue for="tipo" value="MUNICIPIO_UF"/>
+        </attvalues>
+      </edge>
+      <edge id="68" source="53" target="54" weight="1" label="Ano(s) eleito(s): (2008, 2012)">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_LOCALIDADE"/>
+          <attvalue for="anos_eleito" value="2008, 2012"/>
+        </attvalues>
+      </edge>
+      <edge id="69" source="53" target="55" weight="1" label="Socio: 57472114200, desde: 2018-03-23">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_EMPRESA"/>
+          <attvalue for="doc_socio" value="57472114200"/>
+          <attvalue for="data_entrada_sociedade" value="2018-03-23"/>
+        </attvalues>
+      </edge>
+      <edge id="70" source="54" target="55" weight="1" label="Entidade(s): (INST.FED.DE EDUC.DO AMAZONAS/CAMPUS TABATINGA), contrada(s) em: (20170712, 20180918) por 200570.0">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE_EMPRESA"/>
           <attvalue for="valor" value="200570.0"/>
           <attvalue for="data_contrato" value="20170712, 20180918"/>
           <attvalue for="nome_entidade" value="INST.FED.DE EDUC.DO AMAZONAS/CAMPUS TABATINGA"/>
-          <attvalue for="nome_entidade" value="LOCALIDADE_EMPRESA"/>
+        </attvalues>
+      </edge>
+      <edge id="71" source="54" target="34" weight="1" label="municipio">
+        <attvalues>
+          <attvalue for="tipo" value="MUNICIPIO_UF"/>
+        </attvalues>
+      </edge>
+      <edge id="72" source="56" target="58" weight="1" label="Ano(s) eleito(s): (2012)">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_LOCALIDADE"/>
+          <attvalue for="anos_eleito" value="2012"/>
+        </attvalues>
+      </edge>
+      <edge id="73" source="56" target="59" weight="1" label="Socio: 61816981915, desde: 2007-04-03">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_EMPRESA"/>
+          <attvalue for="doc_socio" value="61816981915"/>
+          <attvalue for="data_entrada_sociedade" value="2007-04-03"/>
+        </attvalues>
+      </edge>
+      <edge id="74" source="58" target="59" weight="1" label="Entidade(s): (UTFPR - CAMPUS CORNÉLIO PROCÓPIO), contrada(s) em: (20181001) por 1311796.56">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE_EMPRESA"/>
+          <attvalue for="valor" value="1311796.56"/>
+          <attvalue for="data_contrato" value="20181001"/>
+          <attvalue for="nome_entidade" value="UTFPR - CAMPUS CORNÉLIO PROCÓPIO"/>
+        </attvalues>
+      </edge>
+      <edge id="75" source="58" target="57" weight="1" label="municipio">
+        <attvalues>
+          <attvalue for="tipo" value="MUNICIPIO_UF"/>
+        </attvalues>
+      </edge>
+      <edge id="76" source="60" target="1" weight="1" label="Ano(s) eleito(s): (2006, 2014)">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_LOCALIDADE"/>
+          <attvalue for="anos_eleito" value="2006, 2014"/>
+        </attvalues>
+      </edge>
+      <edge id="77" source="60" target="3" weight="1" label="Socio: 00352748672, desde: 2015-07-02">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_EMPRESA"/>
+          <attvalue for="doc_socio" value="00352748672"/>
+          <attvalue for="data_entrada_sociedade" value="2015-07-02"/>
+        </attvalues>
+      </edge>
+      <edge id="78" source="1" target="3" weight="1" label="Entidade(s): (GRUPAMENTO DE APOIO DE BARBACENA), contrada(s) em: (20180504) por 500000.0">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE_EMPRESA"/>
+          <attvalue for="valor" value="500000.0"/>
+          <attvalue for="data_contrato" value="20180504"/>
+          <attvalue for="nome_entidade" value="GRUPAMENTO DE APOIO DE BARBACENA"/>
+        </attvalues>
+      </edge>
+      <edge id="79" source="61" target="1" weight="1" label="Ano(s) eleito(s): (2018)">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_LOCALIDADE"/>
+          <attvalue for="anos_eleito" value="2018"/>
+        </attvalues>
+      </edge>
+      <edge id="80" source="61" target="62" weight="1" label="Socio: 01374904619, desde: 2005-08-12">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_EMPRESA"/>
+          <attvalue for="doc_socio" value="01374904619"/>
+          <attvalue for="data_entrada_sociedade" value="2005-08-12"/>
+        </attvalues>
+      </edge>
+      <edge id="81" source="1" target="62" weight="1" label="Entidade(s): (SUPERINTEND.ESTADUAL DE M.GERAIS - INCRA, DELEG.REG.DO TRAB/MINAS GERAIS, ADMINISTRACAO GERAL/UFMG, SUPERINTENDÊNCIA DE ADMINISTRAÇÃO DO MF - MG), contrada(s) em: (20170417, 20170615, 20170626, 20171213) por 6106237.100000001">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE_EMPRESA"/>
+          <attvalue for="valor" value="6106237.100000001"/>
+          <attvalue for="data_contrato" value="20170417, 20170615, 20170626, 20171213"/>
+          <attvalue for="nome_entidade" value="SUPERINTEND.ESTADUAL DE M.GERAIS - INCRA, DELEG.REG.DO TRAB/MINAS GERAIS, ADMINISTRACAO GERAL/UFMG, SUPERINTENDÊNCIA DE ADMINISTRAÇÃO DO MF - MG"/>
+        </attvalues>
+      </edge>
+      <edge id="82" source="63" target="64" weight="1" label="Ano(s) eleito(s): (2014)">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_LOCALIDADE"/>
+          <attvalue for="anos_eleito" value="2014"/>
+        </attvalues>
+      </edge>
+      <edge id="83" source="63" target="65" weight="1" label="Socio: 01469355787, desde: 2012-09-20">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_EMPRESA"/>
+          <attvalue for="doc_socio" value="01469355787"/>
+          <attvalue for="data_entrada_sociedade" value="2012-09-20"/>
+        </attvalues>
+      </edge>
+      <edge id="84" source="64" target="65" weight="1" label="Entidade(s): (HOSPITAL UNIVERSITARIO C. ANTONIO MORAIS/UFES), contrada(s) em: (20181107) por 3052860.0">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE_EMPRESA"/>
+          <attvalue for="valor" value="3052860.0"/>
+          <attvalue for="data_contrato" value="20181107"/>
+          <attvalue for="nome_entidade" value="HOSPITAL UNIVERSITARIO C. ANTONIO MORAIS/UFES"/>
+        </attvalues>
+      </edge>
+      <edge id="85" source="66" target="67" weight="1" label="Ano(s) eleito(s): (2010, 2014, 2018)">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_LOCALIDADE"/>
+          <attvalue for="anos_eleito" value="2010, 2014, 2018"/>
+        </attvalues>
+      </edge>
+      <edge id="86" source="66" target="68" weight="1" label="Socio: 03547355435, desde: 2019-04-01">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_EMPRESA"/>
+          <attvalue for="doc_socio" value="03547355435"/>
+          <attvalue for="data_entrada_sociedade" value="2019-04-01"/>
+        </attvalues>
+      </edge>
+      <edge id="87" source="67" target="68" weight="1" label="Entidade(s): (UNIVERSIDADE FEDERAL DE PERNAMBUCO, UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO, INST.FED.DE EDUC.,CIENC.E TEC.DE PERNAMBUCO), contrada(s) em: (20180618, 20170612, 20170206, 20180123, 20170116, 20180305, 20170309, 20181125) por 377244.5">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE_EMPRESA"/>
+          <attvalue for="valor" value="377244.5"/>
+          <attvalue for="data_contrato" value="20180618, 20170612, 20170206, 20180123, 20170116, 20180305, 20170309, 20181125"/>
+          <attvalue for="nome_entidade" value="UNIVERSIDADE FEDERAL DE PERNAMBUCO, UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO, INST.FED.DE EDUC.,CIENC.E TEC.DE PERNAMBUCO"/>
+        </attvalues>
+      </edge>
+      <edge id="88" source="69" target="57" weight="1" label="Ano(s) eleito(s): (2010, 2014)">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_LOCALIDADE"/>
+          <attvalue for="anos_eleito" value="2010, 2014"/>
+        </attvalues>
+      </edge>
+      <edge id="89" source="69" target="70" weight="1" label="Socio: 04810363937, desde: 2007-05-07">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_EMPRESA"/>
+          <attvalue for="doc_socio" value="04810363937"/>
+          <attvalue for="data_entrada_sociedade" value="2007-05-07"/>
+        </attvalues>
+      </edge>
+      <edge id="90" source="57" target="70" weight="1" label="Entidade(s): (GERÊNCIA EXECUTIVA MARINGÁ/PR), contrada(s) em: (20170609, 20170328) por 12177.0">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE_EMPRESA"/>
+          <attvalue for="valor" value="12177.0"/>
+          <attvalue for="data_contrato" value="20170609, 20170328"/>
+          <attvalue for="nome_entidade" value="GERÊNCIA EXECUTIVA MARINGÁ/PR"/>
+        </attvalues>
+      </edge>
+      <edge id="91" source="71" target="14" weight="1" label="Ano(s) eleito(s): (2006, 2010, 2014)">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_LOCALIDADE"/>
+          <attvalue for="anos_eleito" value="2006, 2010, 2014"/>
+        </attvalues>
+      </edge>
+      <edge id="92" source="71" target="72" weight="1" label="Socio: 11257741500, desde: 2019-05-20">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_EMPRESA"/>
+          <attvalue for="doc_socio" value="11257741500"/>
+          <attvalue for="data_entrada_sociedade" value="2019-05-20"/>
+        </attvalues>
+      </edge>
+      <edge id="93" source="14" target="72" weight="1" label="Entidade(s): (UNIVERSIDADE FEDERAL DA BAHIA-UF/BA, INST.FED.DE EDUC.,CIENC.E TEC.DA BAHIA), contrada(s) em: (20180927, 20181004) por 73407.5">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE_EMPRESA"/>
+          <attvalue for="valor" value="73407.5"/>
+          <attvalue for="data_contrato" value="20180927, 20181004"/>
+          <attvalue for="nome_entidade" value="UNIVERSIDADE FEDERAL DA BAHIA-UF/BA, INST.FED.DE EDUC.,CIENC.E TEC.DA BAHIA"/>
+        </attvalues>
+      </edge>
+      <edge id="94" source="73" target="74" weight="1" label="Ano(s) eleito(s): (2010)">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_LOCALIDADE"/>
+          <attvalue for="anos_eleito" value="2010"/>
+        </attvalues>
+      </edge>
+      <edge id="95" source="73" target="75" weight="1" label="Socio: 12439444200, desde: 2015-09-24">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_EMPRESA"/>
+          <attvalue for="doc_socio" value="12439444200"/>
+          <attvalue for="data_entrada_sociedade" value="2015-09-24"/>
+        </attvalues>
+      </edge>
+      <edge id="96" source="74" target="75" weight="1" label="Entidade(s): (SUPERINTENDENCIA REG.DEP.POLICIA FEDERAL- PA), contrada(s) em: (20180402) por 17100.0">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE_EMPRESA"/>
+          <attvalue for="valor" value="17100.0"/>
+          <attvalue for="data_contrato" value="20180402"/>
+          <attvalue for="nome_entidade" value="SUPERINTENDENCIA REG.DEP.POLICIA FEDERAL- PA"/>
+        </attvalues>
+      </edge>
+      <edge id="97" source="76" target="77" weight="1" label="Ano(s) eleito(s): (2014, 2018)">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_LOCALIDADE"/>
+          <attvalue for="anos_eleito" value="2014, 2018"/>
+        </attvalues>
+      </edge>
+      <edge id="98" source="76" target="78" weight="1" label="Socio: 14617603727, desde: 2012-08-23">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_EMPRESA"/>
+          <attvalue for="doc_socio" value="14617603727"/>
+          <attvalue for="data_entrada_sociedade" value="2012-08-23"/>
+        </attvalues>
+      </edge>
+      <edge id="99" source="77" target="78" weight="1" label="Entidade(s): (INDUSTRIA DE MATERIAL BELICO DO BRASIL/FE), contrada(s) em: (20170317) por 120030.0">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE_EMPRESA"/>
+          <attvalue for="valor" value="120030.0"/>
+          <attvalue for="data_contrato" value="20170317"/>
+          <attvalue for="nome_entidade" value="INDUSTRIA DE MATERIAL BELICO DO BRASIL/FE"/>
+        </attvalues>
+      </edge>
+      <edge id="100" source="79" target="14" weight="1" label="Ano(s) eleito(s): (2006)">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_LOCALIDADE"/>
+          <attvalue for="anos_eleito" value="2006"/>
+        </attvalues>
+      </edge>
+      <edge id="101" source="79" target="16" weight="1" label="Socio: 16206690563, desde: 1991-06-20">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_EMPRESA"/>
+          <attvalue for="doc_socio" value="16206690563"/>
+          <attvalue for="data_entrada_sociedade" value="1991-06-20"/>
+        </attvalues>
+      </edge>
+      <edge id="102" source="14" target="16" weight="1" label="Entidade(s): (35 BATALHAO DE INFANTARIA), contrada(s) em: (20170301) por 400000.0">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE_EMPRESA"/>
+          <attvalue for="valor" value="400000.0"/>
+          <attvalue for="data_contrato" value="20170301"/>
+          <attvalue for="nome_entidade" value="35 BATALHAO DE INFANTARIA"/>
+        </attvalues>
+      </edge>
+      <edge id="103" source="80" target="81" weight="1" label="Ano(s) eleito(s): (2010, 2014, 2018)">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_LOCALIDADE"/>
+          <attvalue for="anos_eleito" value="2010, 2014, 2018"/>
+        </attvalues>
+      </edge>
+      <edge id="104" source="80" target="82" weight="1" label="Socio: 16853881400, desde: 2016-03-31">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_EMPRESA"/>
+          <attvalue for="doc_socio" value="16853881400"/>
+          <attvalue for="data_entrada_sociedade" value="2016-03-31"/>
+        </attvalues>
+      </edge>
+      <edge id="105" source="81" target="82" weight="1" label="Entidade(s): (SUPERINTENDÊNCIA DE ADMINISTRAÇÃO DO MF - SE, SUP. REG. DO DNIT NO ESTADO DE SERGIPE), contrada(s) em: (20180313, 20170518, 20171004) por 1726455.8399999999">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE_EMPRESA"/>
+          <attvalue for="valor" value="1726455.8399999999"/>
+          <attvalue for="data_contrato" value="20180313, 20170518, 20171004"/>
+          <attvalue for="nome_entidade" value="SUPERINTENDÊNCIA DE ADMINISTRAÇÃO DO MF - SE, SUP. REG. DO DNIT NO ESTADO DE SERGIPE"/>
+        </attvalues>
+      </edge>
+      <edge id="106" source="83" target="1" weight="1" label="Ano(s) eleito(s): (2010)">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_LOCALIDADE"/>
+          <attvalue for="anos_eleito" value="2010"/>
+        </attvalues>
+      </edge>
+      <edge id="107" source="83" target="84" weight="1" label="Socio: 16928970634, desde: 2003-09-01">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_EMPRESA"/>
+          <attvalue for="doc_socio" value="16928970634"/>
+          <attvalue for="data_entrada_sociedade" value="2003-09-01"/>
+        </attvalues>
+      </edge>
+      <edge id="108" source="1" target="84" weight="1" label="Entidade(s): (MEC/UNIVERSIDADE FEDERAL DE JUIZ DE FORA), contrada(s) em: (20170717) por 20020.0">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE_EMPRESA"/>
+          <attvalue for="valor" value="20020.0"/>
+          <attvalue for="data_contrato" value="20170717"/>
+          <attvalue for="nome_entidade" value="MEC/UNIVERSIDADE FEDERAL DE JUIZ DE FORA"/>
+        </attvalues>
+      </edge>
+      <edge id="109" source="85" target="21" weight="1" label="Ano(s) eleito(s): (2014)">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_LOCALIDADE"/>
+          <attvalue for="anos_eleito" value="2014"/>
+        </attvalues>
+      </edge>
+      <edge id="110" source="85" target="23" weight="1" label="Socio: 18286585291, desde: 1999-02-13">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_EMPRESA"/>
+          <attvalue for="doc_socio" value="18286585291"/>
+          <attvalue for="data_entrada_sociedade" value="1999-02-13"/>
+        </attvalues>
+      </edge>
+      <edge id="111" source="21" target="23" weight="1" label="Entidade(s): (SUPERINT.REGIONAL DE P.FEDERAL NO EST.DE RR, SUPERINTENDENCIA DE ADMINISTRACAO DO MP RR, SUPERINTEND.ESTADUAL-INCRA/SR-25/RR, SUPERINT.FEDERAL DE AGRIC.PECUARIA E ABASTEC., SUPERINTENDÊNCIA DO DNPM-RR, IBAMA - SUPERINTENDENCIA ESTADUAL/RR, SUPERINTENDÊNCIA REG. DO TRABALHO E EMPREGO, COORDENAÇÃO REGIONAL RORAIMA), contrada(s) em: (20170404, 20180329, 20180912, 20180301, 20180402, 20170330, 20180406, 20170406, 20170203, 20181017, 20180524, 20170323) por 3961028.04">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE_EMPRESA"/>
+          <attvalue for="valor" value="3961028.04"/>
+          <attvalue for="data_contrato" value="20170404, 20180329, 20180912, 20180301, 20180402, 20170330, 20180406, 20170406, 20170203, 20181017, 20180524, 20170323"/>
+          <attvalue for="nome_entidade" value="SUPERINT.REGIONAL DE P.FEDERAL NO EST.DE RR, SUPERINTENDENCIA DE ADMINISTRACAO DO MP RR, SUPERINTEND.ESTADUAL-INCRA/SR-25/RR, SUPERINT.FEDERAL DE AGRIC.PECUARIA E ABASTEC., SUPERINTENDÊNCIA DO DNPM-RR, IBAMA - SUPERINTENDENCIA ESTADUAL/RR, SUPERINTENDÊNCIA REG. DO TRABALHO E EMPREGO, COORDENAÇÃO REGIONAL RORAIMA"/>
+        </attvalues>
+      </edge>
+      <edge id="112" source="85" target="21" weight="1" label="Ano(s) eleito(s): (2014)">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_LOCALIDADE"/>
+          <attvalue for="anos_eleito" value="2014"/>
+        </attvalues>
+      </edge>
+      <edge id="113" source="85" target="24" weight="1" label="Socio: 18286585291, desde: 1999-02-13">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_EMPRESA"/>
+          <attvalue for="doc_socio" value="18286585291"/>
+          <attvalue for="data_entrada_sociedade" value="1999-02-13"/>
+        </attvalues>
+      </edge>
+      <edge id="114" source="21" target="24" weight="1" label="Entidade(s): (SUPERINTEND.ESTADUAL-INCRA/SR-25/RR), contrada(s) em: (20170807) por 245008.0">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE_EMPRESA"/>
+          <attvalue for="valor" value="245008.0"/>
+          <attvalue for="data_contrato" value="20170807"/>
+          <attvalue for="nome_entidade" value="SUPERINTEND.ESTADUAL-INCRA/SR-25/RR"/>
+        </attvalues>
+      </edge>
+      <edge id="115" source="86" target="87" weight="1" label="Ano(s) eleito(s): (2018)">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_LOCALIDADE"/>
+          <attvalue for="anos_eleito" value="2018"/>
+        </attvalues>
+      </edge>
+      <edge id="116" source="86" target="88" weight="1" label="Socio: 51639556249, desde: 2004-05-07">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_EMPRESA"/>
+          <attvalue for="doc_socio" value="51639556249"/>
+          <attvalue for="data_entrada_sociedade" value="2004-05-07"/>
+        </attvalues>
+      </edge>
+      <edge id="117" source="87" target="88" weight="1" label="Entidade(s): (COORDENAÇÃO REGIONAL DO JURUÁ), contrada(s) em: (20170113) por 24929.4">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE_EMPRESA"/>
+          <attvalue for="valor" value="24929.4"/>
+          <attvalue for="data_contrato" value="20170113"/>
+          <attvalue for="nome_entidade" value="COORDENAÇÃO REGIONAL DO JURUÁ"/>
+        </attvalues>
+      </edge>
+      <edge id="118" source="89" target="67" weight="1" label="Ano(s) eleito(s): (2006, 2010, 2014, 2018)">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_LOCALIDADE"/>
+          <attvalue for="anos_eleito" value="2006, 2010, 2014, 2018"/>
+        </attvalues>
+      </edge>
+      <edge id="119" source="89" target="90" weight="1" label="Socio: 53467108415, desde: 2002-01-11">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_EMPRESA"/>
+          <attvalue for="doc_socio" value="53467108415"/>
+          <attvalue for="data_entrada_sociedade" value="2002-01-11"/>
+        </attvalues>
+      </edge>
+      <edge id="120" source="67" target="90" weight="1" label="Entidade(s): (DISTRITO SANIT.ESP.INDÍGENA - PERNAMBUCO), contrada(s) em: (20180801) por 46908.0">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE_EMPRESA"/>
+          <attvalue for="valor" value="46908.0"/>
+          <attvalue for="data_contrato" value="20180801"/>
+          <attvalue for="nome_entidade" value="DISTRITO SANIT.ESP.INDÍGENA - PERNAMBUCO"/>
+        </attvalues>
+      </edge>
+      <edge id="121" source="91" target="92" weight="1" label="Ano(s) eleito(s): (2018)">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_LOCALIDADE"/>
+          <attvalue for="anos_eleito" value="2018"/>
+        </attvalues>
+      </edge>
+      <edge id="122" source="91" target="93" weight="1" label="Socio: 71824693168, desde: 2009-01-20">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_EMPRESA"/>
+          <attvalue for="doc_socio" value="71824693168"/>
+          <attvalue for="data_entrada_sociedade" value="2009-01-20"/>
+        </attvalues>
+      </edge>
+      <edge id="123" source="92" target="93" weight="1" label="Entidade(s): (AGENCIA NACIONAL DE AVIACAO CIVIL - ANAC, IPEA-INSTIT.DE PESQUISA ECONOMICA APLICADA/DF, MP-COORDENAÇÃO GERAL DE AQUISIÇÕES, CENTRO GESTOR OP. SISTEMA PROTECAO AMAZONIA, SUPER. DE ADMINISTRACAO NO DISTRITO FEDERAL, HOSPITAL DAS FORCAS ARMADAS, GRUPAMENTO DE APOIO DO DF, CONSELHO ADMINISTRATIVO DE DEFESA ECONOMICA, MINISTERIO DO DESENV.INDUSTRIA E COM.EXTERIOR, COORD.-GERAL DE EXECUCAO ORç.E FIN./DA/MAPA, COORDENAÇÃO GERAL DE MATERIAL E PATRIMÔNIO, DEPARTAMENTO DE GESTãO INTERNA, SENADO FEDERAL, MMA-IBAMA-SUPERINTENDENCIA ESTADUAL/DF, COORDENAçãO GERAL DE RECURSOS LOGISTICOS MCID, EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES, HOSPITAL NAVAL DE BRASILIA, MCT-COORD. GERAL DE RECURSOS LOGÍSTICOS/DF, MJ-DPRF-DEPART.DE POL.RODOVIARIA FEDERAL/DF, GABINETE DO MINISTRO DO EXERCITO-MEX-DF, CERIMONIAL, AGENCIA NACIONAL DE AGUAS - ANA, BASE DE ADMINISTRAçãO DO QGEX), contrada(s) em: (20170502, 20180125, 20170214, 20170102, 20180423, 20170515, 20170201, 20180424, 20170306, 20180801, 20170301, 20180802, 20170220, 20181101, 20171124, 20180102, 20170731, 20170530, 20171009, 20170619, 20170119, 20180222, 20170719, 20171201, 20170801) por 76253174.45">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE_EMPRESA"/>
+          <attvalue for="valor" value="76253174.45"/>
+          <attvalue for="data_contrato" value="20170502, 20180125, 20170214, 20170102, 20180423, 20170515, 20170201, 20180424, 20170306, 20180801, 20170301, 20180802, 20170220, 20181101, 20171124, 20180102, 20170731, 20170530, 20171009, 20170619, 20170119, 20180222, 20170719, 20171201, 20170801"/>
+          <attvalue for="nome_entidade" value="AGENCIA NACIONAL DE AVIACAO CIVIL - ANAC, IPEA-INSTIT.DE PESQUISA ECONOMICA APLICADA/DF, MP-COORDENAÇÃO GERAL DE AQUISIÇÕES, CENTRO GESTOR OP. SISTEMA PROTECAO AMAZONIA, SUPER. DE ADMINISTRACAO NO DISTRITO FEDERAL, HOSPITAL DAS FORCAS ARMADAS, GRUPAMENTO DE APOIO DO DF, CONSELHO ADMINISTRATIVO DE DEFESA ECONOMICA, MINISTERIO DO DESENV.INDUSTRIA E COM.EXTERIOR, COORD.-GERAL DE EXECUCAO ORç.E FIN./DA/MAPA, COORDENAÇÃO GERAL DE MATERIAL E PATRIMÔNIO, DEPARTAMENTO DE GESTãO INTERNA, SENADO FEDERAL, MMA-IBAMA-SUPERINTENDENCIA ESTADUAL/DF, COORDENAçãO GERAL DE RECURSOS LOGISTICOS MCID, EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES, HOSPITAL NAVAL DE BRASILIA, MCT-COORD. GERAL DE RECURSOS LOGÍSTICOS/DF, MJ-DPRF-DEPART.DE POL.RODOVIARIA FEDERAL/DF, GABINETE DO MINISTRO DO EXERCITO-MEX-DF, CERIMONIAL, AGENCIA NACIONAL DE AGUAS - ANA, BASE DE ADMINISTRAçãO DO QGEX"/>
+        </attvalues>
+      </edge>
+      <edge id="124" source="94" target="34" weight="1" label="Ano(s) eleito(s): (2018)">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_LOCALIDADE"/>
+          <attvalue for="anos_eleito" value="2018"/>
+        </attvalues>
+      </edge>
+      <edge id="125" source="94" target="95" weight="1" label="Socio: 83912495220, desde: 2011-05-31">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_EMPRESA"/>
+          <attvalue for="doc_socio" value="83912495220"/>
+          <attvalue for="data_entrada_sociedade" value="2011-05-31"/>
+        </attvalues>
+      </edge>
+      <edge id="126" source="34" target="95" weight="1" label="Entidade(s): (GERÊNCIA EXECUTIVA MANAUS/AM, CENTRO DE INTENDENCIA DA MARINHA EM MANAUS), contrada(s) em: (20170517, 20170822) por 9213998.1">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE_EMPRESA"/>
+          <attvalue for="valor" value="9213998.1"/>
+          <attvalue for="data_contrato" value="20170517, 20170822"/>
+          <attvalue for="nome_entidade" value="GERÊNCIA EXECUTIVA MANAUS/AM, CENTRO DE INTENDENCIA DA MARINHA EM MANAUS"/>
+        </attvalues>
+      </edge>
+      <edge id="127" source="94" target="34" weight="1" label="Ano(s) eleito(s): (2018)">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_LOCALIDADE"/>
+          <attvalue for="anos_eleito" value="2018"/>
+        </attvalues>
+      </edge>
+      <edge id="128" source="94" target="95" weight="1" label="Socio: 83912495220, desde: 2011-05-31">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_EMPRESA"/>
+          <attvalue for="doc_socio" value="83912495220"/>
+          <attvalue for="data_entrada_sociedade" value="2011-05-31"/>
+        </attvalues>
+      </edge>
+      <edge id="129" source="34" target="95" weight="1" label="Entidade(s): (DIST. SANIT. ESP. INDIGENA PARINTINS), contrada(s) em: (20180713) por 241490.0">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE_EMPRESA"/>
+          <attvalue for="valor" value="241490.0"/>
+          <attvalue for="data_contrato" value="20180713"/>
+          <attvalue for="nome_entidade" value="DIST. SANIT. ESP. INDIGENA PARINTINS"/>
+        </attvalues>
+      </edge>
+      <edge id="130" source="96" target="97" weight="1" label="Ano(s) eleito(s): (2018)">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_LOCALIDADE"/>
+          <attvalue for="anos_eleito" value="2018"/>
+        </attvalues>
+      </edge>
+      <edge id="131" source="96" target="98" weight="1" label="Socio: 88843726820, desde: 2003-08-27">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_EMPRESA"/>
+          <attvalue for="doc_socio" value="88843726820"/>
+          <attvalue for="data_entrada_sociedade" value="2003-08-27"/>
+        </attvalues>
+      </edge>
+      <edge id="132" source="97" target="98" weight="1" label="Entidade(s): (COMANDO 13 BDA DE INFANTARIA MOTORIZADA-ME/MT), contrada(s) em: (20180703) por 400000.0">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE_EMPRESA"/>
+          <attvalue for="valor" value="400000.0"/>
+          <attvalue for="data_contrato" value="20180703"/>
+          <attvalue for="nome_entidade" value="COMANDO 13 BDA DE INFANTARIA MOTORIZADA-ME/MT"/>
+        </attvalues>
+      </edge>
+      <edge id="133" source="99" target="74" weight="1" label="Ano(s) eleito(s): (2018)">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_LOCALIDADE"/>
+          <attvalue for="anos_eleito" value="2018"/>
+        </attvalues>
+      </edge>
+      <edge id="134" source="99" target="100" weight="1" label="Socio: 92046436253, desde: 2014-08-20">
+        <attvalues>
+          <attvalue for="tipo" value="POLITICO_EMPRESA"/>
+          <attvalue for="doc_socio" value="92046436253"/>
+          <attvalue for="data_entrada_sociedade" value="2014-08-20"/>
+        </attvalues>
+      </edge>
+      <edge id="135" source="74" target="100" weight="1" label="Entidade(s): (GRUPAMENTO DE APOIO DE BELÉM), contrada(s) em: (20181212) por 50000.0">
+        <attvalues>
+          <attvalue for="tipo" value="LOCALIDADE_EMPRESA"/>
+          <attvalue for="valor" value="50000.0"/>
+          <attvalue for="data_contrato" value="20181212"/>
+          <attvalue for="nome_entidade" value="GRUPAMENTO DE APOIO DE BELÉM"/>
         </attvalues>
       </edge>
     </edges>
