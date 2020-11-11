@@ -1,36 +1,42 @@
 <gexf xmlns="http://www.gephi.org/gexf/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns0="xsi" version="1.1" ns0:schemaLocation="http://www.gephi.org/gexf/1.1draft http://gephi.org/gexf/1.1draft.xsd">
-  <meta lastmodified="2020-11-09T17:04:16.116492">
+  <meta lastmodified="2020-11-11T20:05:32.666302">
     <creator>29 Analytics</creator>
     <description>Graph</description>
   </meta>
   <graph defaultedgetype="directed" mode="static" label="Graph">
     <attributes class="node" mode="dynamic"/>
     <attributes class="node" mode="static">
-      <attribute id="nome" title="nome" type="string">
-        <default></default>
-      </attribute>
       <attribute id="tipo" title="tipo" type="string">
-        <default></default>
-      </attribute>
-      <attribute id="origem" title="origem" type="string">
-        <default></default>
-      </attribute>
-      <attribute id="documento_empresa" title="documento_empresa" type="string">
-        <default></default>
-      </attribute>
-      <attribute id="label" title="label" type="string">
         <default></default>
       </attribute>
       <attribute id="documento_socio" title="documento_socio" type="string">
         <default></default>
       </attribute>
+      <attribute id="nome" title="nome" type="string">
+        <default></default>
+      </attribute>
       <attribute id="todos_nome_socio" title="todos_nome_socio" type="string">
+        <default></default>
+      </attribute>
+      <attribute id="numero_de_socios" title="numero_de_socios" type="string">
+        <default></default>
+      </attribute>
+      <attribute id="label" title="label" type="string">
+        <default></default>
+      </attribute>
+      <attribute id="documento_empresa" title="documento_empresa" type="string">
         <default></default>
       </attribute>
     </attributes>
     <attributes class="edge" mode="dynamic"/>
     <attributes class="edge" mode="static">
       <attribute id="tipo" title="tipo" type="string">
+        <default></default>
+      </attribute>
+      <attribute id="target" title="target" type="string">
+        <default></default>
+      </attribute>
+      <attribute id="source" title="source" type="string">
         <default></default>
       </attribute>
       <attribute id="data_entrada" title="data_entrada" type="string">
@@ -42,23 +48,18 @@
       <attribute id="data_saida" title="data_saida" type="string">
         <default></default>
       </attribute>
-      <attribute id="source" title="source" type="string">
-        <default></default>
-      </attribute>
-      <attribute id="target" title="target" type="string">
-        <default></default>
-      </attribute>
     </attributes>
     <nodes>
-      <node id="0" label="09370441000150">
+      <node id="0" label="YESHUA SEGURANCA PATRIMONIAL LTDA - EPP">
         <attvalues>
           <attvalue for="tipo" value="EMPRESA_PRINCIPAL"/>
-          <attvalue for="label" value="09370441000150"/>
+          <attvalue for="label" value="YESHUA SEGURANCA PATRIMONIAL LTDA - EPP"/>
           <attvalue for="documento_empresa" value="09370441000150"/>
+          <attvalue for="numero_de_socios" value="6"/>
         </attvalues>
         <viz:color r="255" g="0" b="0"/>
         <viz:size value="8"/>
-        <viz:position x="-23.091426884053632" y="17.944406310510477"/>
+        <viz:position x="-59.379255955453246" y="-40.7259255248322"/>
       </node>
       <node id="1" label="JESSE CANTUARIA LEITE">
         <attvalues>
@@ -67,11 +68,10 @@
           <attvalue for="documento_socio" value="***909552**"/>
           <attvalue for="nome" value="JESSE CANTUARIA LEITE"/>
           <attvalue for="todos_nome_socio" value="JESSE CANTUARIA LEITE"/>
-          <attvalue for="origem" value="Receita (2017); Brasilio"/>
         </attvalues>
         <viz:color r="0" g="0" b="255"/>
         <viz:size value="4"/>
-        <viz:position x="-73.24774547543704" y="-5.655503485038326"/>
+        <viz:position x="-4.4912033498610455" y="-66.99616719269758"/>
       </node>
       <node id="2" label="DERIQUE MARTINS NASCIMENTO">
         <attvalues>
@@ -80,11 +80,10 @@
           <attvalue for="documento_socio" value="***295142**"/>
           <attvalue for="nome" value="DERIQUE MARTINS NASCIMENTO"/>
           <attvalue for="todos_nome_socio" value="DERIQUE MARTINS NASCIMENTO"/>
-          <attvalue for="origem" value="CNE"/>
         </attvalues>
         <viz:color r="0" g="0" b="255"/>
         <viz:size value="4"/>
-        <viz:position x="31.0668828201137" y="-10.219028119832041"/>
+        <viz:position x="-85.66968196035869" y="-84.89676759291072"/>
       </node>
       <node id="3" label="MARTA SORIANA SANTANA">
         <attvalues>
@@ -93,11 +92,10 @@
           <attvalue for="documento_socio" value="***571032**"/>
           <attvalue for="nome" value="MARTA SORIANA SANTANA"/>
           <attvalue for="todos_nome_socio" value="MARTA SORIANA SANTANA"/>
-          <attvalue for="origem" value="CNE"/>
         </attvalues>
         <viz:color r="0" g="0" b="255"/>
         <viz:size value="4"/>
-        <viz:position x="27.339743131668676" y="-35.85938355596318"/>
+        <viz:position x="-109.69598404179602" y="-51.1253248005026"/>
       </node>
       <node id="4" label="ANTÔNIO ALAÉRCIO GONÇALVES LIMA">
         <attvalues>
@@ -106,11 +104,10 @@
           <attvalue for="documento_socio" value="***876402**"/>
           <attvalue for="nome" value="ANTÔNIO ALAÉRCIO GONÇALVES LIMA"/>
           <attvalue for="todos_nome_socio" value="ANTONIO ALAERCIO GONCALVES LIMA; ANTÔNIO ALAÉRCIO GONÇALVES LIMA"/>
-          <attvalue for="origem" value="Receita (2017); Brasilio; CNE"/>
         </attvalues>
         <viz:color r="0" g="0" b="255"/>
         <viz:size value="4"/>
-        <viz:position x="0.20047180326451608" y="0.8752369742438736"/>
+        <viz:position x="0.1771863107723693" y="0.09619960540289184"/>
       </node>
       <node id="5" label="ANTONIO SIVAL FERREIRA MARTINS">
         <attvalues>
@@ -119,11 +116,10 @@
           <attvalue for="documento_socio" value="***957792**"/>
           <attvalue for="nome" value="ANTONIO SIVAL FERREIRA MARTINS"/>
           <attvalue for="todos_nome_socio" value="ANTONIO SIVAL FERREIRA MARTINS"/>
-          <attvalue for="origem" value="CNE"/>
         </attvalues>
         <viz:color r="0" g="0" b="255"/>
         <viz:size value="4"/>
-        <viz:position x="-2.6558499264365736" y="71.44730221873363"/>
+        <viz:position x="-65.08479746236875" y="20.32869434753636"/>
       </node>
       <node id="6" label="ROSIMARY GUEDES DOS SANTOS">
         <attvalues>
@@ -132,31 +128,32 @@
           <attvalue for="documento_socio" value="***344432**"/>
           <attvalue for="nome" value="ROSIMARY GUEDES DOS SANTOS"/>
           <attvalue for="todos_nome_socio" value="ROSIMARY GUEDES DOS SANTOS"/>
-          <attvalue for="origem" value="CNE"/>
         </attvalues>
         <viz:color r="0" g="0" b="255"/>
         <viz:size value="4"/>
-        <viz:position x="-0.18135700728665433" y="-20.029353545990457"/>
+        <viz:position x="-14.612575231465343" y="-8.225504554322976"/>
       </node>
-      <node id="7" label="11608368000153">
+      <node id="7" label="LIRIO DOS VALES ENGENHARIA LTDA - ME">
         <attvalues>
           <attvalue for="tipo" value="EMPRESA"/>
-          <attvalue for="label" value="11608368000153"/>
+          <attvalue for="label" value="LIRIO DOS VALES ENGENHARIA LTDA - ME"/>
           <attvalue for="documento_empresa" value="11608368000153"/>
+          <attvalue for="numero_de_socios" value="8"/>
         </attvalues>
         <viz:color r="0" g="255" b="0"/>
         <viz:size value="6"/>
-        <viz:position x="58.82132603074867" y="53.221382066822684"/>
+        <viz:position x="-14.62434143154423" y="65.6560349383112"/>
       </node>
-      <node id="8" label="15001655000151">
+      <node id="8" label="EFATA SOLUCOES TECNICAS LTDA - EPP">
         <attvalues>
           <attvalue for="tipo" value="EMPRESA"/>
-          <attvalue for="label" value="15001655000151"/>
+          <attvalue for="label" value="EFATA SOLUCOES TECNICAS LTDA - EPP"/>
           <attvalue for="documento_empresa" value="15001655000151"/>
+          <attvalue for="numero_de_socios" value="8"/>
         </attvalues>
         <viz:color r="0" g="255" b="0"/>
         <viz:size value="6"/>
-        <viz:position x="-42.8597480582056" y="-61.95913173947397"/>
+        <viz:position x="55.25647335360586" y="-36.39710705561109"/>
       </node>
       <node id="9" label="LEONARDO LIMA DA COSTA">
         <attvalues>
@@ -165,11 +162,10 @@
           <attvalue for="documento_socio" value="***555902**"/>
           <attvalue for="nome" value="LEONARDO LIMA DA COSTA"/>
           <attvalue for="todos_nome_socio" value="LEONARDO LIMA DA COSTA"/>
-          <attvalue for="origem" value="CNE"/>
         </attvalues>
         <viz:color r="0" g="0" b="255"/>
         <viz:size value="4"/>
-        <viz:position x="-100.45594734371683" y="-68.64190170661085"/>
+        <viz:position x="110.62655102635281" y="-48.05340466329298"/>
       </node>
       <node id="10" label="BENEDITA FERREIRA MARTINS">
         <attvalues>
@@ -178,11 +174,10 @@
           <attvalue for="documento_socio" value="***312922**"/>
           <attvalue for="nome" value="BENEDITA FERREIRA MARTINS"/>
           <attvalue for="todos_nome_socio" value="BENEDITA FERREIRA MARTINS"/>
-          <attvalue for="origem" value="Receita (2017); Brasilio; CNE"/>
         </attvalues>
         <viz:color r="0" g="0" b="255"/>
         <viz:size value="4"/>
-        <viz:position x="109.55353772606645" y="27.757401006919903"/>
+        <viz:position x="25.66550611936666" y="103.45778183693437"/>
       </node>
       <node id="11" label="DESSICA MARTINS NASCIMENTO">
         <attvalues>
@@ -191,11 +186,10 @@
           <attvalue for="documento_socio" value="***398872**"/>
           <attvalue for="nome" value="DESSICA MARTINS NASCIMENTO"/>
           <attvalue for="todos_nome_socio" value="DESSICA MARTINS NASCIMENTO"/>
-          <attvalue for="origem" value="Brasilio"/>
         </attvalues>
         <viz:color r="0" g="0" b="255"/>
         <viz:size value="4"/>
-        <viz:position x="114.8323311845096" y="65.88566387277744"/>
+        <viz:position x="-39.708380845155716" y="116.28215193412481"/>
       </node>
       <node id="12" label="PAULO HENRIQUE LEAL DO AMARAL">
         <attvalues>
@@ -204,11 +198,10 @@
           <attvalue for="documento_socio" value="***553382**"/>
           <attvalue for="nome" value="PAULO HENRIQUE LEAL DO AMARAL"/>
           <attvalue for="todos_nome_socio" value="PAULO HENRIQUE LEAL DO AMARAL"/>
-          <attvalue for="origem" value="CNE"/>
         </attvalues>
         <viz:color r="0" g="0" b="255"/>
         <viz:size value="4"/>
-        <viz:position x="24.497613616559462" y="8.891723200135658"/>
+        <viz:position x="41.14475262572507" y="28.738518703330595"/>
       </node>
       <node id="13" label="ALCINEI DOS SANTOS FARIAS">
         <attvalues>
@@ -217,11 +210,10 @@
           <attvalue for="documento_socio" value="***010712**"/>
           <attvalue for="nome" value="ALCINEI DOS SANTOS FARIAS"/>
           <attvalue for="todos_nome_socio" value="ALCINEI DOS SANTOS FARIAS"/>
-          <attvalue for="origem" value="CNE"/>
         </attvalues>
         <viz:color r="0" g="0" b="255"/>
         <viz:size value="4"/>
-        <viz:position x="94.01726225742426" y="98.31873427744664"/>
+        <viz:position x="-63.20693890739351" y="90.39216445688183"/>
       </node>
       <node id="14" label="JOSÉ WILLIANS VIDEIRA">
         <attvalues>
@@ -230,11 +222,10 @@
           <attvalue for="documento_socio" value="***839702**"/>
           <attvalue for="nome" value="JOSÉ WILLIANS VIDEIRA"/>
           <attvalue for="todos_nome_socio" value="JOSÉ WILLIANS VIDEIRA"/>
-          <attvalue for="origem" value="CNE"/>
         </attvalues>
         <viz:color r="0" g="0" b="255"/>
         <viz:size value="4"/>
-        <viz:position x="57.28800123546235" y="110.68949827522155"/>
+        <viz:position x="-5.109627188448807" y="121.48477601374192"/>
       </node>
       <node id="15" label="DENIS MARTINS NASCIMENTO">
         <attvalues>
@@ -243,11 +234,10 @@
           <attvalue for="documento_socio" value="***391392**"/>
           <attvalue for="nome" value="DENIS MARTINS NASCIMENTO"/>
           <attvalue for="todos_nome_socio" value="DENIS MARTINS NASCIMENTO"/>
-          <attvalue for="origem" value="CNE"/>
         </attvalues>
         <viz:color r="0" g="0" b="255"/>
         <viz:size value="4"/>
-        <viz:position x="-48.61522998440701" y="-118.36378668986568"/>
+        <viz:position x="60.78100817681332" y="-90.56035976388866"/>
       </node>
       <node id="16" label="GEANE SANTIAGO">
         <attvalues>
@@ -256,11 +246,10 @@
           <attvalue for="documento_socio" value="***996102**"/>
           <attvalue for="nome" value="GEANE SANTIAGO"/>
           <attvalue for="todos_nome_socio" value="GEANE SANTIAGO"/>
-          <attvalue for="origem" value="CNE"/>
         </attvalues>
         <viz:color r="0" g="0" b="255"/>
         <viz:size value="4"/>
-        <viz:position x="-82.25836461094246" y="-101.40830487170874"/>
+        <viz:position x="105.17714673387214" y="-12.91388790320063"/>
       </node>
       <node id="17" label="GILSON CANTUARIA LEITE">
         <attvalues>
@@ -269,188 +258,187 @@
           <attvalue for="documento_socio" value="***965312**"/>
           <attvalue for="nome" value="GILSON CANTUARIA LEITE"/>
           <attvalue for="todos_nome_socio" value="GILSON CANTUARIA LEITE"/>
-          <attvalue for="origem" value="Receita (2017); Brasilio; CNE"/>
         </attvalues>
         <viz:color r="0" g="0" b="255"/>
         <viz:size value="4"/>
-        <viz:position x="-12.175373703125375" y="-109.26774901936385"/>
+        <viz:position x="93.24626815696503" y="-78.1995796931017"/>
       </node>
     </nodes>
     <edges>
-      <edge id="0" source="0" target="1" weight="1" label="Datas: 2017-02-03 - ">
+      <edge id="0" source="0" target="1" weight="1" label="Entrada: 2017-02-03 - Saida: ">
         <attvalues>
           <attvalue for="tipo" value="EMPRESA_SOCIO"/>
           <attvalue for="data_entrada" value="2017-02-03"/>
           <attvalue for="data_saida" value=""/>
-          <attvalue for="label" value="Datas: 2017-02-03 - "/>
+          <attvalue for="label" value="Entrada: 2017-02-03 - Saida: "/>
         </attvalues>
       </edge>
-      <edge id="1" source="0" target="2" weight="1" label="Datas: 2011-01-24 - 2011-12-30">
+      <edge id="1" source="0" target="2" weight="1" label="Entrada: 2011-01-24 - Saida: 2011-12-30">
         <attvalues>
           <attvalue for="tipo" value="EMPRESA_SOCIO"/>
           <attvalue for="data_entrada" value="2011-01-24"/>
           <attvalue for="data_saida" value="2011-12-30"/>
-          <attvalue for="label" value="Datas: 2011-01-24 - 2011-12-30"/>
+          <attvalue for="label" value="Entrada: 2011-01-24 - Saida: 2011-12-30"/>
         </attvalues>
       </edge>
-      <edge id="2" source="0" target="3" weight="1" label="Datas: 2008-02-15 - 2010-07-20">
+      <edge id="2" source="0" target="3" weight="1" label="Entrada: 2008-02-15 - Saida: 2010-07-20">
         <attvalues>
           <attvalue for="tipo" value="EMPRESA_SOCIO"/>
           <attvalue for="data_entrada" value="2008-02-15"/>
           <attvalue for="data_saida" value="2010-07-20"/>
-          <attvalue for="label" value="Datas: 2008-02-15 - 2010-07-20"/>
+          <attvalue for="label" value="Entrada: 2008-02-15 - Saida: 2010-07-20"/>
         </attvalues>
       </edge>
-      <edge id="3" source="0" target="4" weight="1" label="Datas: 2008-02-15; 2008-02-19 - ">
+      <edge id="3" source="0" target="4" weight="1" label="Entrada: 2008-02-15; 2008-02-19 - Saida: ">
         <attvalues>
           <attvalue for="tipo" value="EMPRESA_SOCIO"/>
           <attvalue for="data_entrada" value="2008-02-15; 2008-02-19"/>
           <attvalue for="data_saida" value=""/>
-          <attvalue for="label" value="Datas: 2008-02-15; 2008-02-19 - "/>
+          <attvalue for="label" value="Entrada: 2008-02-15; 2008-02-19 - Saida: "/>
         </attvalues>
       </edge>
-      <edge id="4" source="0" target="5" weight="1" label="Datas: 2011-12-30 - ">
+      <edge id="4" source="0" target="5" weight="1" label="Entrada: 2011-12-30 - Saida: ">
         <attvalues>
           <attvalue for="tipo" value="EMPRESA_SOCIO"/>
           <attvalue for="data_entrada" value="2011-12-30"/>
           <attvalue for="data_saida" value=""/>
-          <attvalue for="label" value="Datas: 2011-12-30 - "/>
+          <attvalue for="label" value="Entrada: 2011-12-30 - Saida: "/>
         </attvalues>
       </edge>
-      <edge id="5" source="0" target="6" weight="1" label="Datas: 2010-07-20 - 2011-01-24">
+      <edge id="5" source="0" target="6" weight="1" label="Entrada: 2010-07-20 - Saida: 2011-01-24">
         <attvalues>
           <attvalue for="tipo" value="EMPRESA_SOCIO"/>
           <attvalue for="data_entrada" value="2010-07-20"/>
           <attvalue for="data_saida" value="2011-01-24"/>
-          <attvalue for="label" value="Datas: 2010-07-20 - 2011-01-24"/>
+          <attvalue for="label" value="Entrada: 2010-07-20 - Saida: 2011-01-24"/>
         </attvalues>
       </edge>
-      <edge id="6" source="7" target="5" weight="1" label="Datas: 2014-11-12 - 2016-04-26">
+      <edge id="6" source="7" target="5" weight="1" label="Entrada: 2014-11-12 - Saida: 2016-04-26">
         <attvalues>
           <attvalue for="tipo" value="EMPRESA_SOCIO"/>
           <attvalue for="data_entrada" value="2014-11-12"/>
           <attvalue for="data_saida" value="2016-04-26"/>
-          <attvalue for="label" value="Datas: 2014-11-12 - 2016-04-26"/>
+          <attvalue for="label" value="Entrada: 2014-11-12 - Saida: 2016-04-26"/>
         </attvalues>
       </edge>
-      <edge id="7" source="7" target="4" weight="1" label="Datas: 2019-11-28 - ">
+      <edge id="7" source="7" target="4" weight="1" label="Entrada: 2019-11-28 - Saida: ">
         <attvalues>
           <attvalue for="tipo" value="EMPRESA_SOCIO"/>
           <attvalue for="data_entrada" value="2019-11-28"/>
           <attvalue for="data_saida" value=""/>
-          <attvalue for="label" value="Datas: 2019-11-28 - "/>
+          <attvalue for="label" value="Entrada: 2019-11-28 - Saida: "/>
         </attvalues>
       </edge>
-      <edge id="8" source="8" target="6" weight="1" label="Datas: 2014-11-20 - 2015-12-22">
+      <edge id="8" source="8" target="6" weight="1" label="Entrada: 2014-11-20 - Saida: 2015-12-22">
         <attvalues>
           <attvalue for="tipo" value="EMPRESA_SOCIO"/>
           <attvalue for="data_entrada" value="2014-11-20"/>
           <attvalue for="data_saida" value="2015-12-22"/>
-          <attvalue for="label" value="Datas: 2014-11-20 - 2015-12-22"/>
+          <attvalue for="label" value="Entrada: 2014-11-20 - Saida: 2015-12-22"/>
         </attvalues>
       </edge>
-      <edge id="9" source="7" target="6" weight="1" label="Datas: 2015-02-01 - 2016-04-26">
+      <edge id="9" source="7" target="6" weight="1" label="Entrada: 2015-02-01 - Saida: 2016-04-26">
         <attvalues>
           <attvalue for="tipo" value="EMPRESA_SOCIO"/>
           <attvalue for="data_entrada" value="2015-02-01"/>
           <attvalue for="data_saida" value="2016-04-26"/>
-          <attvalue for="label" value="Datas: 2015-02-01 - 2016-04-26"/>
+          <attvalue for="label" value="Entrada: 2015-02-01 - Saida: 2016-04-26"/>
         </attvalues>
       </edge>
-      <edge id="10" source="8" target="4" weight="1" label="Datas: 2012-08-13 - ">
+      <edge id="10" source="8" target="4" weight="1" label="Entrada: 2012-08-13 - Saida: ">
         <attvalues>
           <attvalue for="tipo" value="EMPRESA_SOCIO"/>
           <attvalue for="data_entrada" value="2012-08-13"/>
           <attvalue for="data_saida" value=""/>
-          <attvalue for="label" value="Datas: 2012-08-13 - "/>
+          <attvalue for="label" value="Entrada: 2012-08-13 - Saida: "/>
         </attvalues>
       </edge>
-      <edge id="11" source="8" target="1" weight="1" label="Datas:  - ">
+      <edge id="11" source="8" target="1" weight="1" label="Entrada:  - Saida: ">
         <attvalues>
           <attvalue for="tipo" value="EMPRESA_SOCIO"/>
           <attvalue for="data_entrada" value=""/>
           <attvalue for="data_saida" value=""/>
-          <attvalue for="label" value="Datas:  - "/>
+          <attvalue for="label" value="Entrada:  - Saida: "/>
         </attvalues>
       </edge>
-      <edge id="12" source="8" target="9" weight="1" label="Datas: 2012-08-04 - 2014-04-10">
+      <edge id="12" source="8" target="9" weight="1" label="Entrada: 2012-08-04 - Saida: 2014-04-10">
         <attvalues>
           <attvalue for="tipo" value="EMPRESA_SOCIO"/>
           <attvalue for="data_entrada" value="2012-08-04"/>
           <attvalue for="data_saida" value="2014-04-10"/>
-          <attvalue for="label" value="Datas: 2012-08-04 - 2014-04-10"/>
+          <attvalue for="label" value="Entrada: 2012-08-04 - Saida: 2014-04-10"/>
         </attvalues>
       </edge>
-      <edge id="13" source="7" target="10" weight="1" label="Datas: 2016-04-26; 2016-05-04 - ">
+      <edge id="13" source="7" target="10" weight="1" label="Entrada: 2016-04-26; 2016-05-04 - Saida: ">
         <attvalues>
           <attvalue for="tipo" value="EMPRESA_SOCIO"/>
           <attvalue for="data_entrada" value="2016-04-26; 2016-05-04"/>
           <attvalue for="data_saida" value=""/>
-          <attvalue for="label" value="Datas: 2016-04-26; 2016-05-04 - "/>
+          <attvalue for="label" value="Entrada: 2016-04-26; 2016-05-04 - Saida: "/>
         </attvalues>
       </edge>
-      <edge id="14" source="7" target="11" weight="1" label="Datas: 2018-06-07 - ">
+      <edge id="14" source="7" target="11" weight="1" label="Entrada: 2018-06-07 - Saida: ">
         <attvalues>
           <attvalue for="tipo" value="EMPRESA_SOCIO"/>
           <attvalue for="data_entrada" value="2018-06-07"/>
           <attvalue for="data_saida" value=""/>
-          <attvalue for="label" value="Datas: 2018-06-07 - "/>
+          <attvalue for="label" value="Entrada: 2018-06-07 - Saida: "/>
         </attvalues>
       </edge>
-      <edge id="15" source="8" target="12" weight="1" label="Datas: 2015-12-22 - ">
+      <edge id="15" source="8" target="12" weight="1" label="Entrada: 2015-12-22 - Saida: ">
         <attvalues>
           <attvalue for="tipo" value="EMPRESA_SOCIO"/>
           <attvalue for="data_entrada" value="2015-12-22"/>
           <attvalue for="data_saida" value=""/>
-          <attvalue for="label" value="Datas: 2015-12-22 - "/>
+          <attvalue for="label" value="Entrada: 2015-12-22 - Saida: "/>
         </attvalues>
       </edge>
-      <edge id="16" source="7" target="13" weight="1" label="Datas: 2014-11-12 - 2014-12-10">
+      <edge id="16" source="7" target="13" weight="1" label="Entrada: 2014-11-12 - Saida: 2014-12-10">
         <attvalues>
           <attvalue for="tipo" value="EMPRESA_SOCIO"/>
           <attvalue for="data_entrada" value="2014-11-12"/>
           <attvalue for="data_saida" value="2014-12-10"/>
-          <attvalue for="label" value="Datas: 2014-11-12 - 2014-12-10"/>
+          <attvalue for="label" value="Entrada: 2014-11-12 - Saida: 2014-12-10"/>
         </attvalues>
       </edge>
-      <edge id="17" source="7" target="14" weight="1" label="Datas: 2014-11-12 - 2015-02-01">
+      <edge id="17" source="7" target="14" weight="1" label="Entrada: 2014-11-12 - Saida: 2015-02-01">
         <attvalues>
           <attvalue for="tipo" value="EMPRESA_SOCIO"/>
           <attvalue for="data_entrada" value="2014-11-12"/>
           <attvalue for="data_saida" value="2015-02-01"/>
-          <attvalue for="label" value="Datas: 2014-11-12 - 2015-02-01"/>
+          <attvalue for="label" value="Entrada: 2014-11-12 - Saida: 2015-02-01"/>
         </attvalues>
       </edge>
-      <edge id="18" source="8" target="15" weight="1" label="Datas: 2014-04-10 - 2014-11-20">
+      <edge id="18" source="8" target="15" weight="1" label="Entrada: 2014-04-10 - Saida: 2014-11-20">
         <attvalues>
           <attvalue for="tipo" value="EMPRESA_SOCIO"/>
           <attvalue for="data_entrada" value="2014-04-10"/>
           <attvalue for="data_saida" value="2014-11-20"/>
-          <attvalue for="label" value="Datas: 2014-04-10 - 2014-11-20"/>
+          <attvalue for="label" value="Entrada: 2014-04-10 - Saida: 2014-11-20"/>
         </attvalues>
       </edge>
-      <edge id="19" source="7" target="12" weight="1" label="Datas: 2016-04-26 - ">
+      <edge id="19" source="7" target="12" weight="1" label="Entrada: 2016-04-26 - Saida: ">
         <attvalues>
           <attvalue for="tipo" value="EMPRESA_SOCIO"/>
           <attvalue for="data_entrada" value="2016-04-26"/>
           <attvalue for="data_saida" value=""/>
-          <attvalue for="label" value="Datas: 2016-04-26 - "/>
+          <attvalue for="label" value="Entrada: 2016-04-26 - Saida: "/>
         </attvalues>
       </edge>
-      <edge id="20" source="8" target="16" weight="1" label="Datas: 2012-02-01 - 2012-08-04">
+      <edge id="20" source="8" target="16" weight="1" label="Entrada: 2012-02-01 - Saida: 2012-08-04">
         <attvalues>
           <attvalue for="tipo" value="EMPRESA_SOCIO"/>
           <attvalue for="data_entrada" value="2012-02-01"/>
           <attvalue for="data_saida" value="2012-08-04"/>
-          <attvalue for="label" value="Datas: 2012-02-01 - 2012-08-04"/>
+          <attvalue for="label" value="Entrada: 2012-02-01 - Saida: 2012-08-04"/>
         </attvalues>
       </edge>
-      <edge id="21" source="8" target="17" weight="1" label="Datas: 2012-02-01; 2012-02-06 - ">
+      <edge id="21" source="8" target="17" weight="1" label="Entrada: 2012-02-01; 2012-02-06 - Saida: ">
         <attvalues>
           <attvalue for="tipo" value="EMPRESA_SOCIO"/>
           <attvalue for="data_entrada" value="2012-02-01; 2012-02-06"/>
           <attvalue for="data_saida" value=""/>
-          <attvalue for="label" value="Datas: 2012-02-01; 2012-02-06 - "/>
+          <attvalue for="label" value="Entrada: 2012-02-01; 2012-02-06 - Saida: "/>
         </attvalues>
       </edge>
     </edges>
